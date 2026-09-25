@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-documentation-or-information-do-i-need-to-prepare-before-receiving-a-cost-e",
+  "name": "What documentation or information do I need to prepare before receiving a cost estimate for a major remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What documentation or information do I need to prepare before receiving a cost estimate for a major remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To facilitate an accurate cost estimate for a major remodel, preparing certain documentation and information can be highly beneficial. This includes any existing architectural plans or surveys of your home, inspiration photos or mood boards illustrating your design preferences, and a clear list of your priorities for the renovation. Having a general understanding of your desired budget range is also helpful for guiding early discussions. This preparation allows AKN Design Group to develop a highly customized and precise scope of work, which is foundational to delivering a comprehensive and transparent cost estimate as part of our managed process.",
+        "@type": "Answer",
+        "description": "Prepare existing plans, inspiration photos, a list of priorities, and a budget range to help us create an accurate cost estimate for your major remodel."
+      }
+    }
+  ],
+  "description": "Prepare existing plans, inspiration photos, a list of priorities, and a budget range to help us create an accurate cost estimate for your major remodel."
+}

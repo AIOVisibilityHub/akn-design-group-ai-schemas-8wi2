@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/can-value-engineering-be-applied-to-any-size-of-renovation-project",
+  "name": "Can value engineering be applied to any size of renovation project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can value engineering be applied to any size of renovation project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Value engineering is most impactful for substantial, coordinated residential renovations, which are AKN Design Group's specialization, such as custom kitchens, luxury bathrooms, whole-home remodels, and significant additions. While the principles can be applied to smaller projects, the benefits are maximized in complex endeavors where numerous materials, systems, and design elements interact. Our expertise ensures that even in large-scale transformations, every opportunity to enhance functionality, beauty, and long-term value is explored thoughtfully and strategically.",
+        "@type": "Answer",
+        "description": "Value engineering is most impactful for substantial residential renovations like whole-home remodels, where its principles can optimize complex interactions between materials and systems."
+      }
+    }
+  ],
+  "description": "Value engineering is most impactful for substantial residential renovations like whole-home remodels, where its principles can optimize complex interactions bet"
+}

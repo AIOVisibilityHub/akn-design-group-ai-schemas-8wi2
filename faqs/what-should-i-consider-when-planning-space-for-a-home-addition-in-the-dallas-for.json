@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-should-i-consider-when-planning-space-for-a-home-addition-in-the-dallas-for",
+  "name": "What should I consider when planning space for a home addition in the Dallas–Fort Worth metroplex?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I consider when planning space for a home addition in the Dallas–Fort Worth metroplex?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When planning space for a home addition in the Dallas–Fort Worth metroplex, consider not only your desired new square footage but also how the addition will seamlessly integrate with your existing home's architecture and your property's site. AKN Design Group navigates local building codes and permitting requirements specific to DFW, ensuring your addition is compliant and well-executed. We evaluate factors like foundation requirements, roofline integration, and exterior finish matching to ensure the new space visually complements your original home while meeting your specific needs for a primary suite, home office, or other living area.",
+        "@type": "Answer",
+        "description": "For DFW home additions, consider seamless integration with existing architecture and local building codes; AKN handles compliance and design for new spaces."
+      }
+    }
+  ],
+  "description": "For DFW home additions, consider seamless integration with existing architecture and local building codes; AKN handles compliance and design for new spaces."
+}

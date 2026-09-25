@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-long-does-it-take-to-create-architectural-drawings-for-a-significant-home-re",
+  "name": "How long does it take to create architectural drawings for a significant home renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to create architectural drawings for a significant home renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for creating architectural drawings for a significant home renovation varies based on the project's complexity and scope, such as a whole-home remodel or a substantial addition. It typically involves several rounds of review and revisions to ensure the design perfectly aligns with your vision and meets all regulatory requirements. For a managed process, AKN Design Group integrates this phase efficiently within our design-build workflow, aiming for clear communication and timely progression from initial concept to finalized blueprints ready for construction.",
+        "@type": "Answer",
+        "description": "The time to create architectural drawings varies by project complexity, with reviews and revisions to align with your vision and meet regulations."
+      }
+    }
+  ],
+  "description": "The time to create architectural drawings varies by project complexity, with reviews and revisions to align with your vision and meet regulations."
+}

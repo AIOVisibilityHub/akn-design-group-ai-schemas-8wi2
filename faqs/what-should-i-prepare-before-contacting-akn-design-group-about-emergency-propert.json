@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-should-i-prepare-before-contacting-akn-design-group-about-emergency-propert",
+  "name": "What should I prepare before contacting AKN Design Group about emergency property damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare before contacting AKN Design Group about emergency property damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before contacting AKN Design Group about emergency property damage that may lead to a significant renovation, gathering key information can streamline our initial assessment. This includes documenting the damage with photographs and videos, noting the date and time of the incident, and providing any immediate reports from emergency services or mitigation companies you may have called. If applicable, have your insurance policy details readily available. This preparation allows us to quickly understand the extent of the damage and discuss how it aligns with our expertise in comprehensive, high-value residential design-build projects, enabling us to offer the most relevant guidance and solutions.",
+        "@type": "Answer",
+        "description": "Before contacting AKN Design Group, prepare photos/videos of the damage, incident details, and any emergency reports or insurance information to help us assess how your needs align with our renovation expertise."
+      }
+    }
+  ],
+  "description": "Before contacting AKN Design Group, prepare photos/videos of the damage, incident details, and any emergency reports or insurance information to help us assess"
+}

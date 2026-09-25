@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-the-difference-between-an-estimate-and-a-fixed-price-contract-for-a-home",
+  "name": "What is the difference between an estimate and a fixed-price contract for a home addition project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between an estimate and a fixed-price contract for a home addition project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An estimate provides a projected cost for a home addition project based on the current understanding of the scope, materials, and labor. It is a good faith approximation that can fluctuate if project details change. A fixed-price contract, conversely, locks in the total cost for a clearly defined scope of work. AKN Design Group primarily operates with fixed-price contracts for our complex renovations once the design and material selections are finalized. This ensures cost certainty for our clients, allowing for better financial planning and a seamless, managed process from design to completion without unexpected budget shifts.",
+        "@type": "Answer",
+        "description": "An estimate is a projected cost, while a fixed-price contract locks in the total cost for a defined scope, offering cost certainty for home addition projects."
+      }
+    }
+  ],
+  "description": "An estimate is a projected cost, while a fixed-price contract locks in the total cost for a defined scope, offering cost certainty for home addition projects."
+}

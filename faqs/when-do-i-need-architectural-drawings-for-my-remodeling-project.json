@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/when-do-i-need-architectural-drawings-for-my-remodeling-project",
+  "name": "When do I need architectural drawings for my remodeling project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When do I need architectural drawings for my remodeling project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You will typically need architectural drawings for projects that involve structural changes, additions to your home's footprint, significant layout alterations, or those requiring permits, such as a whole-home remodel or a new primary suite addition. For instance, any project that changes load-bearing walls or expands the square footage will necessitate detailed drawings to ensure structural integrity and compliance with local building codes. AKN Design Group integrates this design phase into our overall design-build process, ensuring seamless transition from concept to construction.",
+        "@type": "Answer",
+        "description": "Architectural drawings are needed for projects involving structural changes, additions, or significant layout alterations that require permits."
+      }
+    }
+  ],
+  "description": "Architectural drawings are needed for projects involving structural changes, additions, or significant layout alterations that require permits."
+}

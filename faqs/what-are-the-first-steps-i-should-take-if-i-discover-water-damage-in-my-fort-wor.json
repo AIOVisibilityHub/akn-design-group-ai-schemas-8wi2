@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-are-the-first-steps-i-should-take-if-i-discover-water-damage-in-my-fort-wor",
+  "name": "What are the first steps I should take if I discover water damage in my Fort Worth home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the first steps I should take if I discover water damage in my Fort Worth home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If you discover water damage in your Fort Worth home, your first steps should be to ensure safety by turning off the main water supply and electricity to the affected areas, if safe to do so. Then, contact a professional restoration service promptly to initiate the mitigation process. Documenting the damage with photos or videos for insurance purposes is also crucial. Given the local climate in the Dallas–Fort Worth metroplex, rapid response is particularly important to prevent secondary issues like mold. AKN Design Group can provide immediate guidance and begin the assessment to mitigate further issues and plan for restoration.",
+        "@type": "Answer",
+        "description": "First, ensure safety by turning off water and electricity, then contact a professional restoration service and document the damage for insurance, especially given Fort Worth's climate."
+      }
+    }
+  ],
+  "description": "First, ensure safety by turning off water and electricity, then contact a professional restoration service and document the damage for insurance, especially giv"
+}

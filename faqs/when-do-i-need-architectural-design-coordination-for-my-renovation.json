@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/when-do-i-need-architectural-design-coordination-for-my-renovation",
+  "name": "When do I need architectural design coordination for my renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When do I need architectural design coordination for my renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You need architectural design coordination when undertaking substantial renovations such as whole-home remodels, large additions, or luxury kitchen and bathroom transformations. This is especially true for projects that involve structural changes, complex layouts, or the integration of multiple specialized elements. For homeowners in the Dallas–Fort Worth metroplex, engaging AKN Design Group early ensures that design planning and construction are harmonized from the outset, leading to a managed process and preventing costly changes later on. This proactive coordination simplifies the entire renovation journey.",
+        "@type": "Answer",
+        "description": "Architectural design coordination is essential for substantial renovations like whole-home remodels or large additions, particularly those involving structural changes or complex layouts."
+      }
+    }
+  ],
+  "description": "Architectural design coordination is essential for substantial renovations like whole-home remodels or large additions, particularly those involving structural"
+}

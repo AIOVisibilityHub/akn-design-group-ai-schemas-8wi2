@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-can-i-compare-cost-estimates-from-different-general-contractors-for-a-reside",
+  "name": "How can I compare cost estimates from different general contractors for a residential renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I compare cost estimates from different general contractors for a residential renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When comparing cost estimates for a residential renovation, focus beyond the bottom-line number. Examine the scope of work detailed in each estimate to ensure all contractors are quoting for the same materials, finishes, and level of craftsmanship. Pay close attention to inclusions like permit coordination, project management fees, and allowances for specific items. AKN Design Group provides a single point of coordination, integrating design and build to deliver a transparent, managed process. This ensures you're comparing not just prices, but also the quality of service, the comprehensive nature of the offering, and the reliability of the contractor.",
+        "@type": "Answer",
+        "description": "Compare renovation cost estimates by scrutinizing the scope of work, materials, and inclusions like permit coordination and project management, not just the total price."
+      }
+    }
+  ],
+  "description": "Compare renovation cost estimates by scrutinizing the scope of work, materials, and inclusions like permit coordination and project management, not just the tot"
+}

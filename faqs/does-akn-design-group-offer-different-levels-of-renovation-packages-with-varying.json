@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/does-akn-design-group-offer-different-levels-of-renovation-packages-with-varying",
+  "name": "Does AKN Design Group offer different levels of renovation packages with varying price points?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does AKN Design Group offer different levels of renovation packages with varying price points?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "AKN Design Group focuses on customized renovations rather than fixed packages. We believe true value in home improvement comes from tailored solutions that enhance functionality, beauty, and long-term value, unique to each homeowner's lifestyle and aesthetic. While we don't offer pre-set 'packages,' our estimates are flexible to accommodate a range of high-end finishes and design complexities. We work closely with you during the design phase to select materials and scope that align with your vision and investment goals, ensuring your luxury kitchen, spa-inspired bathroom, or whole-home remodel is perfectly suited to your needs without compromising our commitment to craftsmanship.",
+        "@type": "Answer",
+        "description": "AKN Design Group focuses on customized renovations rather than fixed packages. We tailor our estimates based on your vision, material selections, and design complexity to ensure a unique, high-end outcome."
+      }
+    }
+  ],
+  "description": "AKN Design Group focuses on customized renovations rather than fixed packages. We tailor our estimates based on your vision, material selections, and design com"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-are-the-common-signs-of-termite-damage-that-homeowners-in-the-dfw-metroplex",
+  "name": "What are the common signs of termite damage that homeowners in the DFW metroplex often miss?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common signs of termite damage that homeowners in the DFW metroplex often miss?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Homeowners in the DFW metroplex often overlook subtle signs of termite damage that can lead to significant issues if left unaddressed. These commonly missed indicators include faint clicking sounds coming from walls, paint that appears bubbling or peeling (which can mimic water damage), tiny holes in drywall, or floors that seem to buckle or sag in certain areas. It's also important to check less-frequented areas like attics, crawl spaces, and exterior wood structures for any anomalies. Recognizing these early signs can be critical, as early detection allows for more manageable and less costly repairs to be integrated into your residential design-build project with AKN Design Group.",
+        "@type": "Answer",
+        "description": "Commonly missed termite signs in the DFW metroplex include clicking sounds, bubbling paint, tiny holes in drywall, or sagging floors, which can indicate hidden damage."
+      }
+    }
+  ],
+  "description": "Commonly missed termite signs in the DFW metroplex include clicking sounds, bubbling paint, tiny holes in drywall, or sagging floors, which can indicate hidden"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-information-do-i-need-to-prepare-before-discussing-space-planning-with-akn",
+  "name": "What information do I need to prepare before discussing space planning with AKN Design Group?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What information do I need to prepare before discussing space planning with AKN Design Group?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before discussing space planning with AKN Design Group, it is helpful to gather your thoughts on your desired aesthetic, functional needs, and any challenges you currently experience with your home's layout. Consider what aspects of your home you wish to enhance, specific features you envision, and how you typically use each space. While not strictly required, having inspiration images, a general understanding of your budget expectations, and a list of 'must-haves' versus 'nice-to-haves' can significantly help us tailor our initial conversation and proposal to your unique vision. This preparation allows us to align our integrated design-build process with your personalized goals effectively.",
+        "@type": "Answer",
+        "description": "Prepare your desired aesthetic, functional needs, current layout challenges, and any inspiration to help AKN Design Group tailor space planning to your vision."
+      }
+    }
+  ],
+  "description": "Prepare your desired aesthetic, functional needs, current layout challenges, and any inspiration to help AKN Design Group tailor space planning to your vision."
+}

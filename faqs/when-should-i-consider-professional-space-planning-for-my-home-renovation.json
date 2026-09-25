@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/when-should-i-consider-professional-space-planning-for-my-home-renovation",
+  "name": "When should I consider professional space planning for my home renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider professional space planning for my home renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider professional space planning early in your renovation process if you are contemplating any significant changes to your home's layout, such as opening up a closed-off kitchen, adding a primary suite, or reconfiguring a bathroom. AKN Design Group integrates space planning into our design-build process from the outset, ensuring that your vision is realized efficiently and effectively. Engaging us early allows for comprehensive planning, helping to avoid costly structural surprises or design limitations later in the project. It's especially crucial for whole-home remodels or additions where room flow and structural integration are paramount.",
+        "@type": "Answer",
+        "description": "Engage professional space planning early for significant layout changes, whole-home remodels, or additions to ensure efficient and effective design."
+      }
+    }
+  ],
+  "description": "Engage professional space planning early for significant layout changes, whole-home remodels, or additions to ensure efficient and effective design."
+}

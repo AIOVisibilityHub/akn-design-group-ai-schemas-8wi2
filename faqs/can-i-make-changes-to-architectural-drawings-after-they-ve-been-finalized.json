@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/can-i-make-changes-to-architectural-drawings-after-they-ve-been-finalized",
+  "name": "Can I make changes to architectural drawings after they've been finalized?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I make changes to architectural drawings after they've been finalized?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While it is possible to make changes to architectural drawings after they've been finalized, doing so can impact your project timeline and budget. Finalized drawings are submitted for permits and used for material ordering and construction scheduling. Any significant alteration may require resubmission to the permitting office and reordering of materials, potentially leading to delays and additional costs. AKN Design Group prioritizes clear communication and thorough design reviews during the initial stages to minimize the need for post-finalization changes.",
+        "@type": "Answer",
+        "description": "Changes to finalized architectural drawings are possible but can cause project delays and additional costs due to permit resubmissions and material reordering."
+      }
+    }
+  ],
+  "description": "Changes to finalized architectural drawings are possible but can cause project delays and additional costs due to permit resubmissions and material reordering."
+}

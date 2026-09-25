@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-does-akn-design-group-manage-project-costs-within-a-design-build-framework",
+  "name": "How does AKN Design Group manage project costs within a design-build framework?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does AKN Design Group manage project costs within a design-build framework?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Within our design-build framework, AKN Design Group prioritizes clear communication and upfront estimates to manage project costs effectively. Our integrated approach allows for value engineering from the outset, where design choices can be directly evaluated against their construction implications, helping to optimize your investment. We provide scheduling transparency and aim to avoid the budget overruns often associated with disconnected services, as our single team is accountable for both design and construction phases. This comprehensive oversight is essential for complex projects in the Dallas–Fort Worth metroplex.",
+        "@type": "Answer",
+        "description": "AKN manages project costs through upfront estimates, value engineering, and integrated design-build oversight, optimizing your investment by linking design choices directly to construction implications."
+      }
+    }
+  ],
+  "description": "AKN manages project costs through upfront estimates, value engineering, and integrated design-build oversight, optimizing your investment by linking design choi"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-types-of-materials-and-finishes-are-typically-replaced-or-upgraded-during-f",
+  "name": "What types of materials and finishes are typically replaced or upgraded during fire damage restoration?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of materials and finishes are typically replaced or upgraded during fire damage restoration?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "During fire damage restoration, all materials compromised by fire, smoke, or water are typically replaced. This often includes drywall, insulation, flooring (carpets, hardwoods, tiles), cabinetry, countertops, plumbing fixtures, electrical wiring, and HVAC systems if affected by smoke or soot. Depending on the extent of damage and your preferences, this presents an opportunity for upgrades. For example, a dated kitchen or bathroom damaged by fire can be transformed into a luxury kitchen or spa-inspired primary bath during the rebuild, utilizing custom cabinetry, natural-stone countertops, or modern fixtures. AKN Design Group specializes in guiding homeowners through these material selections, enhancing functionality, beauty, and long-term value.",
+        "@type": "Answer",
+        "description": "Materials like drywall, flooring, and cabinetry compromised by fire, smoke, or water are replaced during restoration. This also presents an opportunity to upgrade finishes and features."
+      }
+    }
+  ],
+  "description": "Materials like drywall, flooring, and cabinetry compromised by fire, smoke, or water are replaced during restoration. This also presents an opportunity to upgra"
+}

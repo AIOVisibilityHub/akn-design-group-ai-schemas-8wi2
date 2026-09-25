@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-information-do-you-need-from-me-to-start-the-permitting-process",
+  "name": "What information do you need from me to start the permitting process?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What information do you need from me to start the permitting process?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To initiate the permitting process, we primarily require access to your property for site assessments and your detailed input on the desired scope of work and design preferences for your customized renovation. Our team then translates your vision into the necessary technical drawings and documentation. While we handle the complexities of paperwork, having a clear understanding of your property's history, any existing surveys, or previous renovation plans can help streamline the preparation of permit applications.",
+        "@type": "Answer",
+        "description": "We primarily need access to your property for assessment and your detailed project vision to begin preparing permit documentation."
+      }
+    }
+  ],
+  "description": "We primarily need access to your property for assessment and your detailed project vision to begin preparing permit documentation."
+}

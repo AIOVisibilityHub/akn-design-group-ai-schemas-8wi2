@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-do-you-distinguish-between-a-minor-repair-and-an-emergency-that-akn-design-g",
+  "name": "How do you distinguish between a minor repair and an emergency that AKN Design Group would address?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do you distinguish between a minor repair and an emergency that AKN Design Group would address?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "AKN Design Group focuses on emergencies that necessitate significant intervention and align with our specialization in substantial residential renovations. A minor repair typically involves isolated issues, such as a leaky faucet or a small drywall patch, which fall outside our scope. We address emergencies that compromise the home's structural integrity, habitability, or require extensive reconstruction, such as major water damage affecting multiple areas, severe storm damage to roofing and framing, or fire damage requiring a complete rebuild of sections of the home. Our distinction lies in the scale and complexity of the project, focusing on opportunities for coordinated transformation and value enhancement.",
+        "@type": "Answer",
+        "description": "We distinguish minor repairs from emergencies by focusing on issues that compromise structural integrity or habitability and require extensive reconstruction, aligning with our expertise in substantial residential renovations."
+      }
+    }
+  ],
+  "description": "We distinguish minor repairs from emergencies by focusing on issues that compromise structural integrity or habitability and require extensive reconstruction, a"
+}

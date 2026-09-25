@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-do-i-choose-a-contractor-experienced-in-both-structural-repairs-and-high-end",
+  "name": "How do I choose a contractor experienced in both structural repairs and high-end renovations?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose a contractor experienced in both structural repairs and high-end renovations?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing a contractor who excels in both structural repairs and high-end renovations is crucial for complex projects. Look for a design-build firm with a proven track record, extensive experience, and a portfolio that demonstrates successful integration of structural work into major remodels. AKN Design Group, with over two decades of experience and more than 10,000 jobs completed, offers a single point of coordination for such projects, ensuring expertise from structural assessment to final luxury finishes. Ask for references and case studies that highlight their comprehensive approach.",
+        "@type": "Answer",
+        "description": "Select a design-build firm with a strong track record in both structural work and high-end renovations. AKN Design Group provides a single point of coordination, integrating both aspects seamlessly."
+      }
+    }
+  ],
+  "description": "Select a design-build firm with a strong track record in both structural work and high-end renovations. AKN Design Group provides a single point of coordination"
+}

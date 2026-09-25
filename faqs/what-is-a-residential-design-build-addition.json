@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-a-residential-design-build-addition",
+  "name": "What is a residential design-build addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a residential design-build addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A residential design-build addition integrates the entire process of adding space to your home—from initial concept and architectural design to construction and final walkthrough—under a single, accountable team. This unified approach, which AKN Design Group specializes in, ensures seamless coordination between design vision and construction execution. It's ideal for homeowners looking to expand their living space without the complexity of managing separate designers and builders.",
+        "@type": "Answer",
+        "description": "A residential design-build addition is a unified process where one team handles both the design and construction of new space added to your home."
+      }
+    }
+  ],
+  "description": "A residential design-build addition is a unified process where one team handles both the design and construction of new space added to your home."
+}

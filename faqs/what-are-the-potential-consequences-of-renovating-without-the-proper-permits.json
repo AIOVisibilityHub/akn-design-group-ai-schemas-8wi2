@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-are-the-potential-consequences-of-renovating-without-the-proper-permits",
+  "name": "What are the potential consequences of renovating without the proper permits?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the potential consequences of renovating without the proper permits?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Renovating your home without obtaining the necessary permits can lead to serious consequences, including significant fines from local authorities and the potential requirement to demolish completed work. Unpermitted work may also complicate future home sales, as it can raise red flags during inspections and impact property insurance coverage. Moreover, without proper inspections, there's no assurance that the renovation meets safety and structural standards, potentially compromising your home's integrity. AKN Design Group prioritizes a managed process that ensures all required permits are secured, safeguarding your investment and ensuring the long-term value and safety of your customized renovation.",
+        "@type": "Answer",
+        "description": "Renovating without permits can result in fines, forced demolition, difficulty selling your home, and compromised safety, as work may not meet building codes. AKN Design Group ensures all permits are secured for your protection."
+      }
+    }
+  ],
+  "description": "Renovating without permits can result in fines, forced demolition, difficulty selling your home, and compromised safety, as work may not meet building codes. AK"
+}

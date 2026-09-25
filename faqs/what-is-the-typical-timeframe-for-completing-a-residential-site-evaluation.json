@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-the-typical-timeframe-for-completing-a-residential-site-evaluation",
+  "name": "What is the typical timeframe for completing a residential site evaluation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical timeframe for completing a residential site evaluation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The typical timeframe for completing a residential site evaluation with AKN Design Group can vary depending on the complexity and scope of your proposed renovation. For most substantial projects, like a whole-home remodel or a significant addition, the initial on-site assessment and subsequent analysis of findings usually take a few days to a week. This allows our team to thoroughly inspect the property, gather necessary measurements, and consider all relevant factors such as structural elements, utility access, and zoning requirements. We prioritize a meticulous evaluation to ensure accurate planning and a reliable project foundation.",
+        "@type": "Answer",
+        "description": "A typical residential site evaluation takes a few days to a week, depending on project complexity, allowing for thorough inspection and analysis for accurate planning."
+      }
+    }
+  ],
+  "description": "A typical residential site evaluation takes a few days to a week, depending on project complexity, allowing for thorough inspection and analysis for accurate pl"
+}

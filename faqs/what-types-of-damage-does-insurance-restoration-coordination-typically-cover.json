@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-types-of-damage-does-insurance-restoration-coordination-typically-cover",
+  "name": "What types of damage does insurance restoration coordination typically cover?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of damage does insurance restoration coordination typically cover?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Insurance restoration coordination primarily covers significant damage to your home resulting from unforeseen events such as fire, water intrusion (like burst pipes or flooding), storm damage (wind, hail), or other perils specified in your homeowner's insurance policy. AKN Design Group specializes in restoring and renovating homes that have suffered such extensive damage, transforming them through customized renovations. Our focus is on bringing your home back to its optimal state, often incorporating upgraded designs and materials, rather than just basic repairs.",
+        "@type": "Answer",
+        "description": "Insurance restoration coordination typically covers extensive damage from events like fire, water, or storms, leading to comprehensive home renovations."
+      }
+    }
+  ],
+  "description": "Insurance restoration coordination typically covers extensive damage from events like fire, water, or storms, leading to comprehensive home renovations."
+}

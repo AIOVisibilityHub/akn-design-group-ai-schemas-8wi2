@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/when-is-value-engineering-typically-applied-during-a-renovation-project",
+  "name": "When is value engineering typically applied during a renovation project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When is value engineering typically applied during a renovation project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Value engineering is most effectively applied early in the design-build process, ideally during the initial design and planning stages before construction begins. This allows AKN Design Group to explore different options and integrate cost-effective solutions seamlessly into the project plans, whether for a custom kitchen, a new home addition, or an outdoor living space. Making these decisions upfront helps to prevent costly changes or redesigns later, ensuring a more streamlined and managed process from concept to completion.",
+        "@type": "Answer",
+        "description": "Value engineering is applied early in the design and planning stages of a renovation project to integrate cost-effective solutions before construction begins."
+      }
+    }
+  ],
+  "description": "Value engineering is applied early in the design and planning stages of a renovation project to integrate cost-effective solutions before construction begins."
+}

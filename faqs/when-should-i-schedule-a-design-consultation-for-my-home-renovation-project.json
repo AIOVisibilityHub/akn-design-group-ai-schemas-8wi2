@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/when-should-i-schedule-a-design-consultation-for-my-home-renovation-project",
+  "name": "When should I schedule a design consultation for my home renovation project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I schedule a design consultation for my home renovation project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should schedule a design consultation when you are seriously considering a substantial renovation and are ready to explore comprehensive solutions. This typically occurs after you've identified the need for change within your home but before you begin collecting bids from multiple disconnected contractors. Engaging with AKN Design Group at this early stage allows us to integrate design planning with construction considerations, providing a single point of coordination. This approach helps avoid potential complexities, budget overruns, and unmet expectations often associated with piecemeal project management.",
+        "@type": "Answer",
+        "description": "Schedule a design consultation when you are seriously considering a substantial renovation and are ready to define the project scope, integrating design and construction from the start."
+      }
+    }
+  ],
+  "description": "Schedule a design consultation when you are seriously considering a substantial renovation and are ready to define the project scope, integrating design and con"
+}

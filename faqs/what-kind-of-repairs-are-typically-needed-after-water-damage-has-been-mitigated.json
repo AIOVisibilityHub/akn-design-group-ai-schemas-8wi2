@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-kind-of-repairs-are-typically-needed-after-water-damage-has-been-mitigated",
+  "name": "What kind of repairs are typically needed after water damage has been mitigated?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of repairs are typically needed after water damage has been mitigated?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "After water damage mitigation, the necessary repairs can range from replacing compromised drywall and insulation to reinstalling flooring, repainting, and addressing structural elements if they were affected. Depending on the extent, it might involve replacing cabinetry, fixtures, or even undertaking significant whole-home remodels or additions if the damage was widespread. AKN Design Group, specializing in customized renovations, can seamlessly integrate these repairs into a broader design-build project, ensuring that the restored areas not only recover their functionality but also enhance the beauty and value of your home with cohesive, high-quality finishes, rather than just piecemeal fixes.",
+        "@type": "Answer",
+        "description": "Post-mitigation repairs often include replacing drywall, insulation, and flooring, repainting, and potentially more extensive reconstruction to restore and enhance your home's functionality and aesthetic."
+      }
+    }
+  ],
+  "description": "Post-mitigation repairs often include replacing drywall, insulation, and flooring, repainting, and potentially more extensive reconstruction to restore and enha"
+}

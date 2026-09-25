@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-the-difference-between-architectural-design-coordination-and-interior-de",
+  "name": "What is the difference between architectural design coordination and interior design coordination?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between architectural design coordination and interior design coordination?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Architectural design coordination focuses on the structural and functional aspects of a space, including layout changes, additions, major material selections like flooring and cabinetry, and ensuring building code compliance. Interior design coordination, while related, typically focuses on aesthetic details, furnishings, decor, and color palettes within the established architectural framework. At AKN Design Group, our integrated approach seamlessly blends both, but our primary focus in design coordination is the holistic transformation of the space's structure and core elements. This ensures your renovation achieves both enhanced functionality and a cohesive, beautiful aesthetic from the ground up.",
+        "@type": "Answer",
+        "description": "Architectural design coordination focuses on structural and functional space changes, while interior design coordination addresses aesthetic details and decor within that framework."
+      }
+    }
+  ],
+  "description": "Architectural design coordination focuses on structural and functional space changes, while interior design coordination addresses aesthetic details and decor w"
+}

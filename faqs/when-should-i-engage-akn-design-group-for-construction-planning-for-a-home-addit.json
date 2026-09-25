@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/when-should-i-engage-akn-design-group-for-construction-planning-for-a-home-addit",
+  "name": "When should I engage AKN Design Group for construction planning for a home addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I engage AKN Design Group for construction planning for a home addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should engage AKN Design Group for construction planning as soon as you begin considering a home addition, especially if you need more usable space without moving. Early engagement allows us to lead the design-build process from scope development and layout planning. This proactive approach ensures we can integrate the addition seamlessly with your existing home's structure and aesthetics, manage permit coordination effectively, and plan for structural integration and finish matching. Starting early ensures a coordinated transformation and prevents potential complications down the line.",
+        "@type": "Answer",
+        "description": "Engage AKN Design Group for construction planning early when considering a home addition, as it allows for seamless integration, effective permit coordination, and comprehensive planning from the outset."
+      }
+    }
+  ],
+  "description": "Engage AKN Design Group for construction planning early when considering a home addition, as it allows for seamless integration, effective permit coordination,"
+}

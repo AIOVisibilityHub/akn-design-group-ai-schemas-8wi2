@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/can-akn-design-group-coordinate-insurance-restoration-for-luxury-renovations-or",
+  "name": "Can AKN Design Group coordinate insurance restoration for luxury renovations or additions?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can AKN Design Group coordinate insurance restoration for luxury renovations or additions?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, AKN Design Group specializes in coordinating insurance restoration for substantial, customized renovations, including luxury kitchens, spa-inspired bathrooms, whole-home remodels, and even home additions if the scope of damage warrants. We integrate the restoration work with your desired aesthetic and functional upgrades. Our design-build expertise ensures that any reconstruction or enhancement goes beyond mere repair, providing an opportunity to create a truly customized space that enhances your home's long-term value and meets your unique lifestyle needs.",
+        "@type": "Answer",
+        "description": "AKN Design Group can coordinate insurance restoration for luxury renovations and additions, integrating damage repair with customized design upgrades."
+      }
+    }
+  ],
+  "description": "AKN Design Group can coordinate insurance restoration for luxury renovations and additions, integrating damage repair with customized design upgrades."
+}

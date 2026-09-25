@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-involved-in-assessing-termite-damage-for-a-residential-renovation",
+  "name": "What is involved in assessing termite damage for a residential renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in assessing termite damage for a residential renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When considering a residential renovation, a thorough assessment of potential termite damage is a critical first step. This involves a detailed inspection by qualified professionals to identify the extent of structural compromise, locate active infestations, and determine necessary remediation. For AKN Design Group, our initial project assessment for substantial remodels includes evaluating the structural integrity of your home, which helps inform the scope of any required repairs related to past or present termite activity. This integrated approach ensures that any underlying issues are addressed comprehensively as part of your overall renovation plan, preventing future complications and ensuring lasting value.",
+        "@type": "Answer",
+        "description": "Assessing termite damage involves a detailed professional inspection to determine the extent of structural compromise and active infestations, informing the necessary remediation within your renovation plan."
+      }
+    }
+  ],
+  "description": "Assessing termite damage involves a detailed professional inspection to determine the extent of structural compromise and active infestations, informing the nec"
+}

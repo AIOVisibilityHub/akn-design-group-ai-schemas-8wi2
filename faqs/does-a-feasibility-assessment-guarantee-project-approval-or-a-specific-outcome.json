@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/does-a-feasibility-assessment-guarantee-project-approval-or-a-specific-outcome",
+  "name": "Does a feasibility assessment guarantee project approval or a specific outcome?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does a feasibility assessment guarantee project approval or a specific outcome?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A feasibility assessment provides a realistic evaluation of your project's potential, identifying practical constraints and opportunities, but it does not guarantee specific outcomes like permit approval or final budget. Its purpose is to inform decision-making by confirming what is genuinely achievable for your property, given structural considerations, local codes, and your vision. While it significantly streamlines the subsequent design and permitting phases by addressing potential issues upfront, the final approval rests with local authorities, and costs are solidified during detailed estimation. It is a critical step in setting accurate expectations within our comprehensive, managed process.",
+        "@type": "Answer",
+        "description": "A feasibility assessment evaluates project potential but does not guarantee specific outcomes or approvals; it informs decision-making by identifying constraints and opportunities."
+      }
+    }
+  ],
+  "description": "A feasibility assessment evaluates project potential but does not guarantee specific outcomes or approvals; it informs decision-making by identifying constraint"
+}

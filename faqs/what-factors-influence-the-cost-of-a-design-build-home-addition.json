@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-factors-influence-the-cost-of-a-design-build-home-addition",
+  "name": "What factors influence the cost of a design-build home addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of a design-build home addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a design-build home addition is influenced by several factors, including the size and complexity of the new space, the quality of materials and finishes selected, site-specific challenges, and necessary structural modifications. Our approach includes value engineering to ensure your project delivers maximum value without compromising quality. While we do not aim to be the lowest-cost option, AKN Design Group provides upfront estimates and manages the entire process to prevent budget overruns often associated with disconnected services, focusing on customized solutions that enhance long-term value.",
+        "@type": "Answer",
+        "description": "Addition costs depend on size, complexity, materials, and site conditions; AKN focuses on value engineering and integrated management to deliver long-term value."
+      }
+    }
+  ],
+  "description": "Addition costs depend on size, complexity, materials, and site conditions; AKN focuses on value engineering and integrated management to deliver long-term value"
+}

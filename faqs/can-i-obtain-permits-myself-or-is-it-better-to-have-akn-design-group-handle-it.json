@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/can-i-obtain-permits-myself-or-is-it-better-to-have-akn-design-group-handle-it",
+  "name": "Can I obtain permits myself, or is it better to have AKN Design Group handle it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I obtain permits myself, or is it better to have AKN Design Group handle it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While homeowners can technically pursue permits independently, having AKN Design Group handle permit coordination offers significant advantages, particularly for the substantial, coordinated residential renovations we specialize in. The process involves intricate knowledge of local codes, precise documentation, and often navigating multiple city departments. Our expertise ensures accurate submissions, efficient communication, and prompt resolution of any issues, saving you considerable time and potential frustration. This allows you to focus on the exciting aspects of your home's transformation, confident that the regulatory details are expertly managed.",
+        "@type": "Answer",
+        "description": "While you can obtain permits yourself, AKN Design Group's expertise in navigating complex local codes and managing submissions streamlines the process, saving you time and stress."
+      }
+    }
+  ],
+  "description": "While you can obtain permits yourself, AKN Design Group's expertise in navigating complex local codes and managing submissions streamlines the process, saving y"
+}

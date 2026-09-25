@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-included-in-a-design-consultation-service",
+  "name": "What is included in a design consultation service?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is included in a design consultation service?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A design consultation with AKN Design Group typically includes an in-depth discussion of your project goals, a thorough assessment of your existing space, and an exploration of potential design solutions. We will delve into your lifestyle needs, aesthetic preferences, and the specific functional enhancements you seek for areas like luxury kitchens, spa-inspired bathrooms, or outdoor living spaces. This foundational meeting helps us identify the scope of your customized renovation and explain how our managed process, supported by CAD-designed layouts, will guide your project from initial concept through construction and final walkthrough. It's the first step in building trust and a lasting relationship.",
+        "@type": "Answer",
+        "description": "Our design consultation involves discussing project goals, assessing your space, exploring design solutions, and outlining how our integrated process will bring your customized renovation to fruition."
+      }
+    }
+  ],
+  "description": "Our design consultation involves discussing project goals, assessing your space, exploring design solutions, and outlining how our integrated process will bring"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-a-feasibility-assessment-for-a-home-renovation-project",
+  "name": "What is a feasibility assessment for a home renovation project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a feasibility assessment for a home renovation project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A feasibility assessment for a residential renovation is a foundational step where AKN Design Group evaluates the practical, structural, and regulatory viability of your project vision. This initial phase helps to identify potential challenges, understand existing conditions, and determine if your objectives can be achieved within the property's constraints and local building codes. It clarifies the scope and helps establish a realistic path forward, ensuring that the design concept aligns with what is genuinely possible before significant resources are committed to detailed design and construction plans. This process is crucial for complex renovations, additions, or whole-home remodels.",
+        "@type": "Answer",
+        "description": "A feasibility assessment evaluates the practical, structural, and regulatory viability of your residential renovation vision, identifying potential challenges and ensuring your objectives align with property constraints and building codes."
+      }
+    }
+  ],
+  "description": "A feasibility assessment evaluates the practical, structural, and regulatory viability of your residential renovation vision, identifying potential challenges a"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/is-dry-rot-repair-covered-by-homeowner-s-insurance-in-the-dallas-fort-worth-area",
+  "name": "Is dry rot repair covered by homeowner's insurance in the Dallas-Fort Worth area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is dry rot repair covered by homeowner's insurance in the Dallas-Fort Worth area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether dry rot repair is covered by homeowner's insurance often depends on the specific cause of the moisture and the terms of your policy. Generally, damage from sudden and accidental events, like a burst pipe, might be covered, while damage resulting from long-term neglect or maintenance issues typically is not. It is advisable to consult your insurance provider directly to understand your policy's coverage for dry rot. While AKN Design Group focuses on the repair and renovation work, we recommend understanding your coverage before beginning any extensive repairs.",
+        "@type": "Answer",
+        "description": "Insurance coverage for dry rot repair varies by policy and cause. Generally, sudden damage may be covered, but long-term neglect is not. Consult your provider for specific details."
+      }
+    }
+  ],
+  "description": "Insurance coverage for dry rot repair varies by policy and cause. Generally, sudden damage may be covered, but long-term neglect is not. Consult your provider f"
+}

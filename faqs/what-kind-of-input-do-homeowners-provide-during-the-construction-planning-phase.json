@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-kind-of-input-do-homeowners-provide-during-the-construction-planning-phase",
+  "name": "What kind of input do homeowners provide during the construction planning phase?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of input do homeowners provide during the construction planning phase?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "During the construction planning phase, homeowners provide crucial input regarding their lifestyle, aesthetic preferences, functional needs, and budget. This includes discussing desired materials, fixtures, and finishes for areas like luxury kitchens or spa-inspired bathrooms. We encourage sharing inspiration, such as images or ideas, to help us translate your vision into a concrete plan. Your active participation in design reviews and material selections ensures the final project reflects your unique style and enhances your daily living, ensuring a truly customized renovation that aligns with your homeowner experience.",
+        "@type": "Answer",
+        "description": "Homeowners provide input on lifestyle, aesthetics, functional needs, and budget, including desired materials and finishes. This input is crucial for designing a customized renovation."
+      }
+    }
+  ],
+  "description": "Homeowners provide input on lifestyle, aesthetics, functional needs, and budget, including desired materials and finishes. This input is crucial for designing a"
+}

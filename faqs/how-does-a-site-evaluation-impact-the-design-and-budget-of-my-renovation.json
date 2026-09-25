@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-does-a-site-evaluation-impact-the-design-and-budget-of-my-renovation",
+  "name": "How does a site evaluation impact the design and budget of my renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does a site evaluation impact the design and budget of my renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A thorough site evaluation significantly impacts the design and budget by identifying potential constraints or opportunities unique to your property. For instance, discovering specific structural elements or utility line placements during the evaluation can influence the layout and scope of a custom kitchen or a primary suite addition. This early insight allows AKN Design Group to incorporate practical considerations into the initial designs, reducing the likelihood of costly changes or delays during construction. It forms the basis for accurate upfront estimates and value engineering, ensuring your design vision aligns with your property's realities and your investment expectations.",
+        "@type": "Answer",
+        "description": "A site evaluation informs design by identifying property constraints or opportunities, aiding in accurate budgeting and reducing potential changes during construction."
+      }
+    }
+  ],
+  "description": "A site evaluation informs design by identifying property constraints or opportunities, aiding in accurate budgeting and reducing potential changes during constr"
+}

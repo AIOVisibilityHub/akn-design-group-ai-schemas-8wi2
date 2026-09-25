@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-information-do-i-need-to-prepare-before-discussing-my-renovation-budget-wit",
+  "name": "What information do I need to prepare before discussing my renovation budget with AKN Design Group?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What information do I need to prepare before discussing my renovation budget with AKN Design Group?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before discussing your renovation budget with AKN Design Group, preparing some key information will streamline the process. Consider your desired project scope (e.g., kitchen, bathroom, addition), any specific features or finishes you envision, and a general idea of your investment range. Gathering inspirational images or a mood board can also be very helpful in conveying your aesthetic preferences. This initial preparation allows us to understand your vision clearly and provide a more accurate and tailored preliminary assessment of your project's potential costs.",
+        "@type": "Answer",
+        "description": "Prepare your desired project scope, envisioned features/finishes, and a general investment range. Inspirational images can also help us understand your vision for a tailored assessment."
+      }
+    }
+  ],
+  "description": "Prepare your desired project scope, envisioned features/finishes, and a general investment range. Inspirational images can also help us understand your vision f"
+}

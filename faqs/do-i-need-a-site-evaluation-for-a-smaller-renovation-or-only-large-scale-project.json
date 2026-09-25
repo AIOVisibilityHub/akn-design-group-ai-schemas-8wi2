@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/do-i-need-a-site-evaluation-for-a-smaller-renovation-or-only-large-scale-project",
+  "name": "Do I need a site evaluation for a smaller renovation, or only large-scale projects?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a site evaluation for a smaller renovation, or only large-scale projects?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While AKN Design Group specializes in substantial, coordinated residential renovations, a site evaluation is particularly valuable for any project that involves structural changes, significant layout modifications, or extensive utility work, regardless of perceived size. For instance, even a luxury bathroom remodel might involve rerouting plumbing or modifying wall structures, making a site assessment crucial. This upfront analysis ensures that all aspects of your project, from a custom kitchen to an outdoor living space, are planned meticulously, aligning with our commitment to a managed process and expert craftsmanship. It's about establishing a solid foundation for any significant home improvement.",
+        "@type": "Answer",
+        "description": "A site evaluation is valuable for any renovation involving structural changes or extensive utility work, ensuring meticulous planning for projects of all scales."
+      }
+    }
+  ],
+  "description": "A site evaluation is valuable for any renovation involving structural changes or extensive utility work, ensuring meticulous planning for projects of all scales"
+}

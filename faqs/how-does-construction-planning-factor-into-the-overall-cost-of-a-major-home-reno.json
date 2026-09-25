@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-does-construction-planning-factor-into-the-overall-cost-of-a-major-home-reno",
+  "name": "How does construction planning factor into the overall cost of a major home renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does construction planning factor into the overall cost of a major home renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Construction planning is an integral part of the overall cost for a major home renovation, as it encompasses all design, engineering, and permit coordination efforts before physical construction begins. Investing in thorough planning with AKN Design Group can actually lead to cost efficiencies by preventing costly changes during the construction phase. Our process includes detailed estimates and potential value engineering discussions to align your vision with your budget, ensuring transparency. This upfront investment ensures a well-defined project scope and minimizes unexpected expenses, contributing to the long-term value of your customized renovation.",
+        "@type": "Answer",
+        "description": "Construction planning is a part of renovation costs, covering design and permits. Thorough planning can prevent costly changes during construction and includes value engineering to align with your budget."
+      }
+    }
+  ],
+  "description": "Construction planning is a part of renovation costs, covering design and permits. Thorough planning can prevent costly changes during construction and includes"
+}

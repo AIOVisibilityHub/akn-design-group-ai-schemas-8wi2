@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-are-the-benefits-of-having-a-single-team-manage-both-design-and-constructio",
+  "name": "What are the benefits of having a single team manage both design and construction coordination?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the benefits of having a single team manage both design and construction coordination?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Having a single team manage both design and construction coordination, as AKN Design Group does, offers significant benefits for complex residential projects. It ensures seamless communication and accountability, as there's no misinterpretation between separate designers and builders. This integrated approach typically leads to more efficient timelines, better budget control through value engineering, and a higher quality finished product that perfectly matches the initial design intent. Homeowners avoid the stress of mediating between different parties, experiencing a truly managed process from start to finish.",
+        "@type": "Answer",
+        "description": "A single design-build team ensures seamless communication, efficient timelines, better budget control, and a high-quality finished product that aligns with the initial design."
+      }
+    }
+  ],
+  "description": "A single design-build team ensures seamless communication, efficient timelines, better budget control, and a high-quality finished product that aligns with the"
+}

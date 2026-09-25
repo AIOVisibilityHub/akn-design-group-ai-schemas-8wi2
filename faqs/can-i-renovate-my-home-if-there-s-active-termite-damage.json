@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/can-i-renovate-my-home-if-there-s-active-termite-damage",
+  "name": "Can I renovate my home if there's active termite damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I renovate my home if there's active termite damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "It is not advisable to proceed with major renovations if there is active termite damage in your home. The first and most crucial step is to have a licensed pest control professional eradicate the active infestation. Attempting to renovate over active termites can spread the infestation, complicate repairs, and potentially lead to further structural damage. Once the active termites have been fully addressed and certified as eradicated, AKN Design Group can then conduct a thorough assessment of the remaining damage and integrate the necessary structural repairs into your comprehensive renovation plan, ensuring a stable and lasting outcome.",
+        "@type": "Answer",
+        "description": "No, you should not renovate with active termite damage; eradicate the infestation first with a licensed pest control professional before assessing and repairing the damage during your remodel."
+      }
+    }
+  ],
+  "description": "No, you should not renovate with active termite damage; eradicate the infestation first with a licensed pest control professional before assessing and repairing"
+}

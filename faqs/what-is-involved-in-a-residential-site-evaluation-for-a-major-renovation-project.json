@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-involved-in-a-residential-site-evaluation-for-a-major-renovation-project",
+  "name": "What is involved in a residential site evaluation for a major renovation project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in a residential site evaluation for a major renovation project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A residential site evaluation by AKN Design Group involves a thorough assessment of your property's existing conditions, including structural integrity, utility access points, grading, drainage, and current architectural features. This comprehensive review helps us understand the unique challenges and opportunities your site presents. It is a critical initial step in our integrated design-build process, informing the foundational decisions for a customized renovation, ensuring that proposed designs are feasible and align with the property's characteristics. Our goal is to gather all necessary data to effectively plan your project, whether it's a kitchen remodel, a home addition, or an outdoor living space.",
+        "@type": "Answer",
+        "description": "A site evaluation assesses existing property conditions, structural elements, and utilities to inform design and planning for major renovations."
+      }
+    }
+  ],
+  "description": "A site evaluation assesses existing property conditions, structural elements, and utilities to inform design and planning for major renovations."
+}

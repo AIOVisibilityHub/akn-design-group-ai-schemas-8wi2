@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-can-akn-design-group-help-if-my-kitchen-was-severely-affected-by-smoke",
+  "name": "How can AKN Design Group help if my kitchen was severely affected by smoke?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can AKN Design Group help if my kitchen was severely affected by smoke?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If your kitchen has suffered severe smoke damage, AKN Design Group can transform it into a functional and aesthetically pleasing space through a full kitchen renovation. We redesign the layout, coordinate custom cabinetry, select new countertops and flooring, and integrate updated appliances. This approach allows us to not only address the damage but also significantly enhance the kitchen's functionality and flow, creating a bespoke entertaining space.",
+        "@type": "Answer",
+        "description": "For kitchens with severe smoke damage, AKN Design Group can perform a full renovation, redesigning the layout and coordinating all elements to enhance functionality and aesthetics."
+      }
+    }
+  ],
+  "description": "For kitchens with severe smoke damage, AKN Design Group can perform a full renovation, redesigning the layout and coordinating all elements to enhance functiona"
+}

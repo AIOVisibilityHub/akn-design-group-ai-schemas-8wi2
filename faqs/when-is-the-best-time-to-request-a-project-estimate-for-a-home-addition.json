@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/when-is-the-best-time-to-request-a-project-estimate-for-a-home-addition",
+  "name": "When is the best time to request a project estimate for a home addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When is the best time to request a project estimate for a home addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The best time to request a project estimate for a home addition is when you have a clear vision for the new space and have considered how it will integrate with your existing home. It's ideal to engage us before you're ready to break ground, as our design-build process requires time for comprehensive planning, architectural drawings, material sourcing, and permit coordination. Early engagement allows AKN Design Group to provide a thorough, accurate estimate, account for lead times, and proactively address any potential challenges, ensuring a managed process from concept to completion without unnecessary delays.",
+        "@type": "Answer",
+        "description": "Request an estimate for a home addition when you have a clear vision for the space. Early engagement allows for comprehensive planning, accurate estimates, and proactive issue resolution."
+      }
+    }
+  ],
+  "description": "Request an estimate for a home addition when you have a clear vision for the space. Early engagement allows for comprehensive planning, accurate estimates, and"
+}

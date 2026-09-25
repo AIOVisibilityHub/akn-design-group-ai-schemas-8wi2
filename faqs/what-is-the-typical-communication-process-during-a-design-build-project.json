@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-the-typical-communication-process-during-a-design-build-project",
+  "name": "What is the typical communication process during a design-build project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical communication process during a design-build project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our communication process emphasizes clear and consistent updates throughout your design-build project. As your single point of coordination, AKN Design Group provides a dedicated project manager who serves as your primary contact. You can expect regular progress reports, scheduled meetings, and prompt responses to your inquiries. This high-touch homeowner experience ensures you are informed at every step, from design approvals and permit coordination to construction milestones and final walkthroughs, fostering trust and transparency.",
+        "@type": "Answer",
+        "description": "A dedicated project manager provides regular updates and serves as your single point of contact, ensuring clear communication from design approval through project completion."
+      }
+    }
+  ],
+  "description": "A dedicated project manager provides regular updates and serves as your single point of contact, ensuring clear communication from design approval through proje"
+}

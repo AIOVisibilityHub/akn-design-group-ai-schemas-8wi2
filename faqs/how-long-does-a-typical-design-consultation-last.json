@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-long-does-a-typical-design-consultation-last",
+  "name": "How long does a typical design consultation last?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical design consultation last?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A typical design consultation with AKN Design Group generally lasts between 60 to 90 minutes. This timeframe allows us to engage in a thorough discussion of your vision, conduct a detailed walkthrough of your property in the Dallas–Fort Worth metroplex, and answer any questions you may have about our integrated design-build process. Our goal is to ensure we fully understand your needs for your customized renovation, whether it's for a whole-home remodel or a high-end outdoor living space, setting the stage for clear communication and a managed process that prioritizes your homeowner experience.",
+        "@type": "Answer",
+        "description": "A typical design consultation lasts 60 to 90 minutes, allowing us to thoroughly discuss your renovation vision, assess your DFW property, and explain our design-build process."
+      }
+    }
+  ],
+  "description": "A typical design consultation lasts 60 to 90 minutes, allowing us to thoroughly discuss your renovation vision, assess your DFW property, and explain our design"
+}

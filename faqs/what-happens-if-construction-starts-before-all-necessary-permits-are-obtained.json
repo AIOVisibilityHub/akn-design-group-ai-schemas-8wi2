@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-happens-if-construction-starts-before-all-necessary-permits-are-obtained",
+  "name": "What happens if construction starts before all necessary permits are obtained?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens if construction starts before all necessary permits are obtained?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Starting construction before obtaining all necessary permits can lead to significant issues, including stop-work orders from local building departments, substantial fines, and the requirement to undo work or make costly modifications to meet code. In some cases, unpermitted work can also complicate future home sales. AKN Design Group strictly adheres to all permitting requirements before commencing construction on your customized renovation. Our process prioritizes legal compliance and long-term project integrity, reflecting our commitment to reliability and craftsmanship, ensuring your investment is protected and your project progresses without legal complications.",
+        "@type": "Answer",
+        "description": "Beginning construction without permits can result in stop-work orders, fines, required demolition, and complications for future home sales. AKN Design Group ensures all permits are secured first."
+      }
+    }
+  ],
+  "description": "Beginning construction without permits can result in stop-work orders, fines, required demolition, and complications for future home sales. AKN Design Group ens"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-does-akn-design-group-develop-a-cost-estimate-for-a-major-renovation",
+  "name": "How does AKN Design Group develop a cost estimate for a major renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does AKN Design Group develop a cost estimate for a major renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "We develop a comprehensive cost estimate by first understanding the full scope of your project, including design preferences, desired materials, and functional requirements. This initial consultation allows us to create a detailed scope of work. We then factor in material costs, labor for our skilled craftsmen, necessary permits, and project management overhead. Our integrated design-build approach ensures that the estimate reflects both the design vision and the construction realities, providing a transparent and comprehensive financial outlook from the outset. Understanding your priorities for aesthetics, functionality, and budget early in the process helps us align the estimate with your expectations.",
+        "@type": "Answer",
+        "description": "AKN Design Group develops cost estimates by detailing the project scope, materials, labor, permits, and project management overhead to provide a comprehensive financial outlook."
+      }
+    }
+  ],
+  "description": "AKN Design Group develops cost estimates by detailing the project scope, materials, labor, permits, and project management overhead to provide a comprehensive f"
+}

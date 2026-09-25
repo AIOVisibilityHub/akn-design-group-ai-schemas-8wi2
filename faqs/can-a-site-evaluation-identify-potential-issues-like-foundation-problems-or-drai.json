@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/can-a-site-evaluation-identify-potential-issues-like-foundation-problems-or-drai",
+  "name": "Can a site evaluation identify potential issues like foundation problems or drainage concerns?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can a site evaluation identify potential issues like foundation problems or drainage concerns?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, a comprehensive site evaluation is designed to identify potential issues such as foundation concerns, drainage problems, or structural weaknesses that could impact your renovation. Our experienced team assesses visible indicators of these conditions, which is crucial for planning substantial projects like home additions or outdoor living spaces. While we do not provide structural engineering reports, our evaluation helps determine if further specialist assessments are needed. Identifying these concerns early in our managed process allows us to address them proactively, integrating solutions into the design and construction plan to ensure the long-term integrity and success of your customized renovation.",
+        "@type": "Answer",
+        "description": "Yes, a site evaluation can identify potential issues like foundation problems or drainage concerns, informing proactive solutions during renovation planning."
+      }
+    }
+  ],
+  "description": "Yes, a site evaluation can identify potential issues like foundation problems or drainage concerns, informing proactive solutions during renovation planning."
+}

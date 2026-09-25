@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-can-homeowners-prepare-for-a-storm-damage-assessment-by-akn-design-group",
+  "name": "How can homeowners prepare for a storm damage assessment by AKN Design Group?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can homeowners prepare for a storm damage assessment by AKN Design Group?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To prepare for a storm damage assessment by AKN Design Group, homeowners should first ensure their property is safe and free of immediate hazards. Gather any documentation related to the storm, such as date and time, and if available, initial photos of the damage. Also, have your insurance policy information accessible. This preparation allows our team to conduct a more efficient and comprehensive assessment, helping us to quickly understand the situation and begin developing a coordinated repair and renovation plan that meets your needs.",
+        "@type": "Answer",
+        "description": "Homeowners should ensure safety, gather storm documentation, initial damage photos, and insurance policy information to prepare for our assessment."
+      }
+    }
+  ],
+  "description": "Homeowners should ensure safety, gather storm documentation, initial damage photos, and insurance policy information to prepare for our assessment."
+}

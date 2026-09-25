@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/can-structural-damage-be-repaired-during-a-whole-home-remodel-or-addition",
+  "name": "Can structural damage be repaired during a whole-home remodel or addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can structural damage be repaired during a whole-home remodel or addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, structural damage can often be repaired concurrently with a whole-home remodel or addition. In fact, performing these repairs as part of a larger project can be more efficient, as it allows for a coordinated approach to demolition, construction, and finishing work. AKN Design Group specializes in integrating these complex structural interventions into comprehensive transformations, ensuring that your home's foundation is sound before enhancing its aesthetics and functionality. This is a primary benefit of our integrated design-build process.",
+        "@type": "Answer",
+        "description": "Structural damage can be repaired during a whole-home remodel or addition. This integrated approach is often more efficient and ensures a sound foundation for your transformed home."
+      }
+    }
+  ],
+  "description": "Structural damage can be repaired during a whole-home remodel or addition. This integrated approach is often more efficient and ensures a sound foundation for y"
+}

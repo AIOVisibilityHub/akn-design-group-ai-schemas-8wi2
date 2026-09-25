@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-should-i-prepare-for-akn-design-group-s-site-evaluation-visit",
+  "name": "What should I prepare for AKN Design Group's site evaluation visit?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare for AKN Design Group's site evaluation visit?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To make the most of AKN Design Group's site evaluation visit, we recommend preparing any existing architectural plans, surveys, or property documents you may have. Additionally, consider having a preliminary list of your renovation goals, desired functionalities, and aesthetic preferences. This initial preparation allows our team to understand your vision in the context of your property's current state. It helps us conduct a more focused assessment and facilitates a productive discussion about how our integrated design-build approach can bring your customized renovation to fruition, enhancing functionality, beauty, and value.",
+        "@type": "Answer",
+        "description": "Prepare existing property documents and a preliminary list of renovation goals for the site evaluation to ensure a focused and productive assessment."
+      }
+    }
+  ],
+  "description": "Prepare existing property documents and a preliminary list of renovation goals for the site evaluation to ensure a focused and productive assessment."
+}

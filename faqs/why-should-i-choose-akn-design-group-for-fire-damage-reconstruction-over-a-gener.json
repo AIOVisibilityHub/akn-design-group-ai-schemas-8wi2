@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/why-should-i-choose-akn-design-group-for-fire-damage-reconstruction-over-a-gener",
+  "name": "Why should I choose AKN Design Group for fire damage reconstruction over a general restoration company?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why should I choose AKN Design Group for fire damage reconstruction over a general restoration company?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing AKN Design Group for fire damage reconstruction means partnering with a firm that specializes in high-value, customized residential renovations rather than basic remediation. While general restoration companies focus on initial cleanup and mitigation, we offer an integrated design-build process that transforms your damaged property into a newly revitalized home. Our expertise lies in comprehensive remodels—from luxury kitchens and spa-inspired bathrooms to whole-home transformations. We provide a single point of coordination, ensuring craftsmanship and clear communication, and leverage over two decades of experience to deliver a managed process from design planning to final walkthrough, enhancing functionality, beauty, and value, rather than just restoring what was lost.",
+        "@type": "Answer",
+        "description": "Choose AKN Design Group for fire damage reconstruction because we specialize in high-value, customized residential renovations with an integrated design-build process, offering a managed transformation rather than just basic restoration."
+      }
+    }
+  ],
+  "description": "Choose AKN Design Group for fire damage reconstruction because we specialize in high-value, customized residential renovations with an integrated design-build p"
+}

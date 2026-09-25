@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-the-difference-between-value-engineering-and-simply-choosing-cheaper-opt",
+  "name": "What is the difference between value engineering and simply choosing cheaper options?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between value engineering and simply choosing cheaper options?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Value engineering is distinct from simply choosing cheaper options, as its core focus is on enhancing value and function while managing costs strategically, not just reducing them. Simply opting for cheaper materials or labor often compromises quality, durability, and the overall aesthetic, which contradicts AKN Design Group's commitment to craftsmanship and lasting impressions. Our value engineering process involves careful analysis to ensure any proposed change maintains or improves project performance and client satisfaction without sacrificing the high standards of a customized renovation.",
+        "@type": "Answer",
+        "description": "Value engineering enhances value and function while strategically managing costs, whereas choosing cheaper options often compromises quality and durability."
+      }
+    }
+  ],
+  "description": "Value engineering enhances value and function while strategically managing costs, whereas choosing cheaper options often compromises quality and durability."
+}

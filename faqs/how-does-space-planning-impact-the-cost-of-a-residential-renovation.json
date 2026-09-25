@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-does-space-planning-impact-the-cost-of-a-residential-renovation",
+  "name": "How does space planning impact the cost of a residential renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does space planning impact the cost of a residential renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Effective space planning can significantly influence the overall cost of a residential renovation by optimizing material usage, anticipating structural needs, and minimizing costly changes during construction. While initial design investment is part of our comprehensive service, thorough space planning helps avoid expensive rework or unforeseen complexities that can arise from inadequate upfront consideration. AKN Design Group utilizes value engineering principles during planning to identify efficient solutions, ensuring that your customized renovation delivers exceptional value without compromising on quality or your design vision.",
+        "@type": "Answer",
+        "description": "Thorough space planning influences renovation costs by optimizing materials, anticipating structural needs, and minimizing expensive changes during construction."
+      }
+    }
+  ],
+  "description": "Thorough space planning influences renovation costs by optimizing materials, anticipating structural needs, and minimizing expensive changes during construction"
+}

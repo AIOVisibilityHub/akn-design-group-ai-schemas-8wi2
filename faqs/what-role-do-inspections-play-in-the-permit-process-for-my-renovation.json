@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-role-do-inspections-play-in-the-permit-process-for-my-renovation",
+  "name": "What role do inspections play in the permit process for my renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What role do inspections play in the permit process for my renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Inspections are a critical component of the permit process, ensuring that construction work adheres to approved plans and local building codes at various stages. After obtaining permits, city inspectors will visit your property to verify that foundational work, framing, plumbing, electrical, and other key systems are installed correctly and safely before they are concealed. AKN Design Group coordinates these inspections, ensuring our work is ready and accessible when inspectors arrive. Failing an inspection can lead to required rework and project delays, underscoring the importance of our craftsmanship and adherence to code throughout the construction phase.",
+        "@type": "Answer",
+        "description": "Inspections ensure renovation work meets approved plans and building codes at key stages like foundation and framing. AKN Design Group coordinates these visits, as failed inspections can cause delays and require rework."
+      }
+    }
+  ],
+  "description": "Inspections ensure renovation work meets approved plans and building codes at key stages like foundation and framing. AKN Design Group coordinates these visits,"
+}

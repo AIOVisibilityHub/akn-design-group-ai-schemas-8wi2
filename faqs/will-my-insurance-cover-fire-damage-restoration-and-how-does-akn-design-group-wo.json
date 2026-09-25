@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/will-my-insurance-cover-fire-damage-restoration-and-how-does-akn-design-group-wo",
+  "name": "Will my insurance cover fire damage restoration, and how does AKN Design Group work with insurance claims?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my insurance cover fire damage restoration, and how does AKN Design Group work with insurance claims?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most homeowner's insurance policies include coverage for fire damage, but the extent varies based on your specific policy and endorsements. It is essential to review your policy details and communicate directly with your insurance provider about your coverage limits and the claims process. AKN Design Group primarily operates as your general contractor for the reconstruction phase. While we don't handle the direct insurance claims process, we can provide detailed estimates and documentation that your insurance adjuster may require to support your claim for the rebuild. Our focus is on delivering a comprehensive, high-quality reconstruction that aligns with the scope approved by your insurer, ensuring a smooth transition from claim approval to project completion.",
+        "@type": "Answer",
+        "description": "Most homeowners insurance covers fire damage; review your policy and communicate with your provider. AKN Design Group provides reconstruction estimates and documentation to support your insurance claim."
+      }
+    }
+  ],
+  "description": "Most homeowners insurance covers fire damage; review your policy and communicate with your provider. AKN Design Group provides reconstruction estimates and docu"
+}

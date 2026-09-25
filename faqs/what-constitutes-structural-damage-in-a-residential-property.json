@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-constitutes-structural-damage-in-a-residential-property",
+  "name": "What constitutes structural damage in a residential property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What constitutes structural damage in a residential property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Structural damage refers to any issue that affects the fundamental integrity or load-bearing components of your home, such as the foundation, walls, roof, or support beams. Signs can include significant cracks in the foundation or walls, bowing walls, sagging roofs or floors, or doors and windows that no longer close properly. Identifying structural issues early is crucial, as they can compromise safety and the long-term value of your home. As a design-build general contractor, AKN Design Group assesses these underlying structural concerns as an integral part of larger renovation projects.",
+        "@type": "Answer",
+        "description": "Structural damage affects your home's load-bearing elements like foundations, walls, or roofs. Signs include major cracks, sagging, or misaligned doors."
+      }
+    }
+  ],
+  "description": "Structural damage affects your home's load-bearing elements like foundations, walls, or roofs. Signs include major cracks, sagging, or misaligned doors."
+}

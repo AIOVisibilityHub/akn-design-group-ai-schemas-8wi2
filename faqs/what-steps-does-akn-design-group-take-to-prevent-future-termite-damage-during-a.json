@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-steps-does-akn-design-group-take-to-prevent-future-termite-damage-during-a",
+  "name": "What steps does AKN Design Group take to prevent future termite damage during a renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What steps does AKN Design Group take to prevent future termite damage during a renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While our primary focus is on repairing existing damage and renovating your home, during a comprehensive remodel, AKN Design Group implements best practices to help mitigate future termite issues. This includes ensuring proper drainage around the foundation, addressing moisture sources, and using treated lumber for replacements where appropriate and specified. We also ensure that any new construction or additions comply with local building codes designed to reduce pest entry points. Although we don't provide ongoing pest control, our meticulous construction practices and attention to detail contribute to creating a more resistant home environment, enhancing its long-term value.",
+        "@type": "Answer",
+        "description": "During renovation, AKN Design Group helps prevent future termite damage by ensuring proper drainage, addressing moisture, using treated lumber where specified, and adhering to building codes to reduce pest entry."
+      }
+    }
+  ],
+  "description": "During renovation, AKN Design Group helps prevent future termite damage by ensuring proper drainage, addressing moisture, using treated lumber where specified,"
+}

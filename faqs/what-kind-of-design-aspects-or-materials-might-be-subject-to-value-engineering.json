@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-kind-of-design-aspects-or-materials-might-be-subject-to-value-engineering",
+  "name": "What kind of design aspects or materials might be subject to value engineering?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of design aspects or materials might be subject to value engineering?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Almost any aspect of a high-value renovation project can be considered for value engineering, from structural components in a home addition to specific finishes in a custom kitchen. This includes exploring alternative countertop materials, optimizing framing designs, or assessing different types of lighting fixtures that achieve a similar aesthetic and performance. AKN Design Group focuses on maintaining the project's overall design intent and quality standards while seeking smarter solutions that enhance functionality and manage costs effectively.",
+        "@type": "Answer",
+        "description": "Design aspects like structural components, countertop materials, framing designs, and lighting fixtures can be subject to value engineering to enhance functionality and manage costs."
+      }
+    }
+  ],
+  "description": "Design aspects like structural components, countertop materials, framing designs, and lighting fixtures can be subject to value engineering to enhance functiona"
+}

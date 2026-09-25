@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-does-your-design-build-approach-benefit-homeowners-undertaking-a-significant",
+  "name": "How does your design-build approach benefit homeowners undertaking a significant renovation after smoke damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does your design-build approach benefit homeowners undertaking a significant renovation after smoke damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our integrated design-build process provides homeowners with a single point of coordination, which is invaluable during complex renovation projects, especially those following unforeseen events like smoke damage. This means you work with one accountable team from initial design concepts and planning through construction and final completion. This approach minimizes miscommunication, streamlines the timeline, and ensures that the design vision is precisely executed in the final build, reducing stress and delivering a cohesive outcome.",
+        "@type": "Answer",
+        "description": "Our design-build approach offers a single point of coordination, streamlining communication and execution from design to completion, which is crucial for complex renovations after damage."
+      }
+    }
+  ],
+  "description": "Our design-build approach offers a single point of coordination, streamlining communication and execution from design to completion, which is crucial for comple"
+}

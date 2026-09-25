@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-involved-in-space-planning-for-a-luxury-bathroom-remodel",
+  "name": "What is involved in space planning for a luxury bathroom remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in space planning for a luxury bathroom remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Space planning for a luxury bathroom remodel with AKN Design Group involves redesigning the layout to create a spa-inspired retreat that prioritizes comfort, function, and aesthetic appeal. This includes optimizing the placement of elements like walk-in showers, freestanding tubs, custom vanities, and layered lighting to maximize the sense of space and luxury. We consider factors such as adequate clearance, optimal fixture placement for daily routines, and integration of high-end finishes. Our planning ensures that every detail contributes to a cohesive, elevated primary bathroom experience.",
+        "@type": "Answer",
+        "description": "Luxury bathroom space planning redesigns layouts for optimal comfort and function, focusing on strategic placement of high-end features like walk-in showers and custom vanities."
+      }
+    }
+  ],
+  "description": "Luxury bathroom space planning redesigns layouts for optimal comfort and function, focusing on strategic placement of high-end features like walk-in showers and"
+}

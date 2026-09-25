@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-included-in-akn-design-group-s-full-permitting-support",
+  "name": "What is included in AKN Design Group's full permitting support?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is included in AKN Design Group's full permitting support?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our full permitting support covers the comprehensive process of securing necessary approvals for your residential renovation project. This includes preparing and submitting all required architectural plans, structural drawings, and other documentation to local building departments, such as those in Fort Worth, Alameda, Albany, Berkeley, or Dublin. We manage communication with city officials, address any feedback or revisions, and track the application's progress until all permits are successfully issued, ensuring your project adheres to local building codes and regulations from the outset.",
+        "@type": "Answer",
+        "description": "Our full permitting support handles all aspects of obtaining necessary approvals, from documentation submission to managing communications with local building departments in areas like Fort Worth or Berkeley."
+      }
+    }
+  ],
+  "description": "Our full permitting support handles all aspects of obtaining necessary approvals, from documentation submission to managing communications with local building d"
+}

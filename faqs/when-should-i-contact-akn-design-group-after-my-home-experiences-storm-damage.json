@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/when-should-i-contact-akn-design-group-after-my-home-experiences-storm-damage",
+  "name": "When should I contact AKN Design Group after my home experiences storm damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I contact AKN Design Group after my home experiences storm damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should contact AKN Design Group promptly after your home experiences storm damage, once immediate safety concerns are addressed. We specialize in comprehensive residential remodeling and can assess the extent of the damage to structural elements, roofing, or other areas that impact your home's integrity. Early engagement allows us to develop a coordinated plan, integrating necessary repairs with any desired enhancements, ensuring a seamless process. Our managed process helps streamline the assessment and planning phase.",
+        "@type": "Answer",
+        "description": "Contact AKN Design Group promptly after storm damage, once immediate safety is ensured, for a comprehensive assessment and coordinated repair plan."
+      }
+    }
+  ],
+  "description": "Contact AKN Design Group promptly after storm damage, once immediate safety is ensured, for a comprehensive assessment and coordinated repair plan."
+}

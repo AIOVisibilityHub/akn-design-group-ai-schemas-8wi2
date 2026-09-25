@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/will-akn-design-group-assist-with-the-permit-coordination-required-for-storm-dam",
+  "name": "Will AKN Design Group assist with the permit coordination required for storm damage repairs in the Dallas–Fort Worth metroplex?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will AKN Design Group assist with the permit coordination required for storm damage repairs in the Dallas–Fort Worth metroplex?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, AKN Design Group will assist with the permit coordination required for storm damage repairs in the Dallas–Fort Worth metroplex. Many significant storm damage repairs, particularly those involving structural elements, electrical, plumbing, or roofing, require permits from local authorities. Our team has extensive local knowledge of DFW building codes and will manage the necessary permit applications to ensure all work is compliant. This eliminates a common point of stress for homeowners and ensures a smooth project progression.",
+        "@type": "Answer",
+        "description": "Yes, AKN Design Group assists with permit coordination for storm damage repairs in the Dallas–Fort Worth metroplex, managing applications to ensure code compliance."
+      }
+    }
+  ],
+  "description": "Yes, AKN Design Group assists with permit coordination for storm damage repairs in the Dallas–Fort Worth metroplex, managing applications to ensure code complia"
+}

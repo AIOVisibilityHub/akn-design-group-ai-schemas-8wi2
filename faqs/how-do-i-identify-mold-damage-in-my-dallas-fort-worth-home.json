@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-do-i-identify-mold-damage-in-my-dallas-fort-worth-home",
+  "name": "How do I identify mold damage in my Dallas–Fort Worth home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I identify mold damage in my Dallas–Fort Worth home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Identifying mold damage often involves observing visible signs such as discolored spots on walls, ceilings, or floors, which can appear green, black, or white. A musty, earthy odor is also a strong indicator, even if mold isn't immediately visible. Homeowners should pay close attention to areas prone to moisture, like basements, bathrooms, and around leaky pipes. Before contacting a professional, consider documenting the affected areas with photos and noting any accompanying odors or signs of water intrusion to help streamline the assessment process.",
+        "@type": "Answer",
+        "description": "Look for discolored spots on surfaces or a persistent musty odor, especially in moisture-prone areas like basements or bathrooms, to identify potential mold damage in your home."
+      }
+    }
+  ],
+  "description": "Look for discolored spots on surfaces or a persistent musty odor, especially in moisture-prone areas like basements or bathrooms, to identify potential mold dam"
+}

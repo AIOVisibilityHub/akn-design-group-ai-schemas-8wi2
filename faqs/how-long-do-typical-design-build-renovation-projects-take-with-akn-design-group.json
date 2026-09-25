@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-long-do-typical-design-build-renovation-projects-take-with-akn-design-group",
+  "name": "How long do typical design-build renovation projects take with AKN Design Group?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long do typical design-build renovation projects take with AKN Design Group?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of design-build renovation projects varies significantly based on complexity and scope. Smaller projects like a luxury bathroom might take a few months, while a comprehensive whole-home remodel or a substantial addition can extend for several months to over a year. Our integrated process, with a single accountable team, aims to maintain efficiency by minimizing delays often caused by coordination issues between separate designers and builders. We provide clear scheduling transparency and project timelines tailored to your specific renovation goals during the planning phase.",
+        "@type": "Answer",
+        "description": "Project duration varies by scope; smaller renovations take months, while whole-home remodels or additions can take longer. Our integrated process aims for efficiency and transparent timelines."
+      }
+    }
+  ],
+  "description": "Project duration varies by scope; smaller renovations take months, while whole-home remodels or additions can take longer. Our integrated process aims for effic"
+}

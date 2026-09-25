@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/when-do-i-typically-need-a-building-permit-for-my-residential-remodeling-project",
+  "name": "When do I typically need a building permit for my residential remodeling project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When do I typically need a building permit for my residential remodeling project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You generally need a building permit for any substantial residential remodeling project that involves structural changes, significant modifications to plumbing or electrical systems, or changes to the home's footprint, such as additions or reconfiguring load-bearing walls. Even projects like extensive kitchen or bathroom remodels often require permits to ensure safety and code compliance. We assess your project's scope during the design phase to accurately determine all necessary permits, providing clarity on this crucial step before construction begins.",
+        "@type": "Answer",
+        "description": "Building permits are typically required for structural changes, significant system modifications, or home additions to ensure safety and code compliance."
+      }
+    }
+  ],
+  "description": "Building permits are typically required for structural changes, significant system modifications, or home additions to ensure safety and code compliance."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-should-i-prepare-for-a-feasibility-assessment-with-akn-design-group",
+  "name": "What should I prepare for a feasibility assessment with AKN Design Group?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare for a feasibility assessment with AKN Design Group?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To prepare for a feasibility assessment with AKN Design Group, gather any existing architectural plans, property surveys, or previous renovation documentation for your home. It is also beneficial to have a clear idea of your renovation goals, desired functionality, and aesthetic preferences. Consider your budget expectations and any specific timelines you envision. This preparation helps our team understand your vision and property specifics more efficiently, enabling us to conduct a thorough and accurate evaluation that forms the basis for a successful, customized renovation. Clear communication from the outset is key to our managed process.",
+        "@type": "Answer",
+        "description": "Prepare for a feasibility assessment by gathering existing plans, property surveys, and renovation documents, along with a clear idea of your goals, budget, and desired timeline."
+      }
+    }
+  ],
+  "description": "Prepare for a feasibility assessment by gathering existing plans, property surveys, and renovation documents, along with a clear idea of your goals, budget, and"
+}

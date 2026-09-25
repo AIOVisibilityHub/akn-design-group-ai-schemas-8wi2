@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-the-difference-between-permit-coordination-and-design-services",
+  "name": "What is the difference between permit coordination and design services?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between permit coordination and design services?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Design services focus on conceptualizing and detailing your project's aesthetics and functionality, creating architectural plans, material selections, and layouts for spaces like luxury kitchens or spa-inspired bathrooms. Permit coordination, while closely related, specifically involves preparing these approved designs for submission to local authorities and managing the bureaucratic process of obtaining legal permission to build. Our integrated design-build approach ensures a seamless transition, where our designs are inherently created with permitting requirements in mind, streamlining the entire project from concept to completion.",
+        "@type": "Answer",
+        "description": "Design services create the project vision, while permit coordination manages the official process of securing legal approval to build that design."
+      }
+    }
+  ],
+  "description": "Design services create the project vision, while permit coordination manages the official process of securing legal approval to build that design."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-involved-in-the-initial-project-estimating-process-for-a-major-renovatio",
+  "name": "What is involved in the initial project estimating process for a major renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in the initial project estimating process for a major renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our initial project estimating process begins with a detailed consultation to understand your vision, lifestyle, and project goals for a major renovation such as a kitchen, bath, or whole-home remodel. We discuss your needs, review your existing space, and explore preliminary design concepts. This stage is crucial for AKN Design Group to develop a comprehensive understanding of the project's scope, allowing us to provide an upfront estimate that aligns with your expectations for enhancing functionality, beauty, and value. Our aim is to ensure all key aspects are considered from the outset, providing clarity and a solid foundation for the managed design-build process.",
+        "@type": "Answer",
+        "description": "The initial project estimating process involves a detailed consultation to understand your renovation vision and project goals, which allows us to develop a comprehensive understanding of the scope and provide a preliminary estimate."
+      }
+    }
+  ],
+  "description": "The initial project estimating process involves a detailed consultation to understand your renovation vision and project goals, which allows us to develop a com"
+}

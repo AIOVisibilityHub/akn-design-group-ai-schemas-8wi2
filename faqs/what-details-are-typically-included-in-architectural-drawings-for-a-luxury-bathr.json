@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-details-are-typically-included-in-architectural-drawings-for-a-luxury-bathr",
+  "name": "What details are typically included in architectural drawings for a luxury bathroom or kitchen remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What details are typically included in architectural drawings for a luxury bathroom or kitchen remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For luxury bathroom or kitchen remodels, architectural drawings include detailed floor plans, elevations, and sections that specify exact dimensions, material selections, and fixture placements. This includes precise layouts for custom cabinetry, spa-inspired features like walk-in showers or freestanding tubs, and integrated lighting plans. These drawings ensure every element, from tile patterns to appliance locations, is meticulously planned. This level of detail is crucial for projects aiming for high-end finishes and customized functionality.",
+        "@type": "Answer",
+        "description": "Architectural drawings for luxury remodels detail floor plans, elevations, dimensions, material selections, and fixture placements for elements like custom cabinetry and spa features."
+      }
+    }
+  ],
+  "description": "Architectural drawings for luxury remodels detail floor plans, elevations, dimensions, material selections, and fixture placements for elements like custom cabi"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-kind-of-long-term-value-does-a-comprehensive-remodel-offer-after-smoke-dama",
+  "name": "What kind of long-term value does a comprehensive remodel offer after smoke damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of long-term value does a comprehensive remodel offer after smoke damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A comprehensive remodel following smoke damage offers significant long-term value by not just restoring but upgrading your home. This means enhancing functionality, beauty, and ensuring the structural integrity and aesthetic appeal for years to come. Unlike piecemeal repairs, our integrated design-build process delivers customized solutions that align with modern living standards and personal preferences, contributing to lasting impressions and increased property value.",
+        "@type": "Answer",
+        "description": "A comprehensive remodel after smoke damage enhances long-term value by upgrading your home's functionality, beauty, and structural integrity, going beyond simple repairs."
+      }
+    }
+  ],
+  "description": "A comprehensive remodel after smoke damage enhances long-term value by upgrading your home's functionality, beauty, and structural integrity, going beyond simpl"
+}

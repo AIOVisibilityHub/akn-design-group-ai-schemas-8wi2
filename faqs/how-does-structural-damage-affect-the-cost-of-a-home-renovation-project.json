@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-does-structural-damage-affect-the-cost-of-a-home-renovation-project",
+  "name": "How does structural damage affect the cost of a home renovation project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does structural damage affect the cost of a home renovation project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Addressing structural damage can add to the overall cost of a renovation project, as it involves specialized engineering, materials, and labor to restore the integrity of your home. The cost varies significantly based on the type, severity, and location of the damage. AKN Design Group provides upfront estimates that incorporate all necessary structural repairs identified during our comprehensive assessment, ensuring transparency and a single point of coordination for your entire project. Our value engineering approach seeks efficient solutions without compromising safety or quality.",
+        "@type": "Answer",
+        "description": "Structural damage increases renovation costs due to specialized repairs. AKN Design Group includes these costs in upfront estimates, ensuring transparency and comprehensive planning."
+      }
+    }
+  ],
+  "description": "Structural damage increases renovation costs due to specialized repairs. AKN Design Group includes these costs in upfront estimates, ensuring transparency and c"
+}

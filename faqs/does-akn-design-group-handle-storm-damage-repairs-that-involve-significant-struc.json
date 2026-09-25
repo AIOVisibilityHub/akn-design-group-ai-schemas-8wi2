@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/does-akn-design-group-handle-storm-damage-repairs-that-involve-significant-struc",
+  "name": "Does AKN Design Group handle storm damage repairs that involve significant structural work or whole-home impact?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does AKN Design Group handle storm damage repairs that involve significant structural work or whole-home impact?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, AKN Design Group is equipped to handle storm damage repairs that involve significant structural work or impact multiple areas of your home. Our expertise lies in substantial, customized renovations, including whole-home remodels and additions. This means we can manage complex projects where storm damage necessitates rebuilding or extensive repair to foundations, framing, roofing, or multiple interior spaces. We provide a single point of coordination for these complex transformations, ensuring craftsmanship and a cohesive outcome.",
+        "@type": "Answer",
+        "description": "Yes, AKN Design Group specializes in significant structural and whole-home storm damage repairs, offering a single point of coordination for complex projects."
+      }
+    }
+  ],
+  "description": "Yes, AKN Design Group specializes in significant structural and whole-home storm damage repairs, offering a single point of coordination for complex projects."
+}

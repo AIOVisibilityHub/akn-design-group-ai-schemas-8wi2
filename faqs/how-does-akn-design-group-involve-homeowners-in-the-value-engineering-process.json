@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-does-akn-design-group-involve-homeowners-in-the-value-engineering-process",
+  "name": "How does AKN Design Group involve homeowners in the value engineering process?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does AKN Design Group involve homeowners in the value engineering process?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "AKN Design Group ensures homeowners are integral to the value engineering process, upholding our belief in personalized service and clear communication. During the design phase, we present transparent options and discuss the implications of various choices on budget, aesthetics, and functionality for your customized renovation. Our goal is to empower you to make informed decisions that align with your vision and priorities, ensuring that the final outcome of your luxury kitchen, spa-inspired bathroom, or outdoor living space truly reflects your unique lifestyle and aesthetic.",
+        "@type": "Answer",
+        "description": "AKN Design Group involves homeowners by presenting transparent options and discussing implications on budget, aesthetics, and functionality to empower informed decisions during design."
+      }
+    }
+  ],
+  "description": "AKN Design Group involves homeowners by presenting transparent options and discussing implications on budget, aesthetics, and functionality to empower informed"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-kind-of-challenges-can-a-feasibility-assessment-uncover-for-a-renovation",
+  "name": "What kind of challenges can a feasibility assessment uncover for a renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of challenges can a feasibility assessment uncover for a renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A feasibility assessment can uncover various challenges, including structural limitations that may require extensive reinforcement, zoning restrictions impacting building setbacks or height, or existing utility conflicts that necessitate costly rerouting. It might also reveal historical preservation requirements, drainage issues, or soil conditions affecting foundation work. Identifying these early allows AKN Design Group to proactively address them in the design phase, potentially through value engineering or design modifications, minimizing unforeseen complications and ensuring a smoother construction process. This foresight helps us maintain a managed process and uphold our commitment to reliability.",
+        "@type": "Answer",
+        "description": "A feasibility assessment can uncover challenges like structural limitations, zoning restrictions, utility conflicts, or preservation requirements, allowing early resolution and a smoother construction process."
+      }
+    }
+  ],
+  "description": "A feasibility assessment can uncover challenges like structural limitations, zoning restrictions, utility conflicts, or preservation requirements, allowing earl"
+}

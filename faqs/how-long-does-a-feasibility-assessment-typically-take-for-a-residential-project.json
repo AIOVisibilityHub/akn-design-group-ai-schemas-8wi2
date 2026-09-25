@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-long-does-a-feasibility-assessment-typically-take-for-a-residential-project",
+  "name": "How long does a feasibility assessment typically take for a residential project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a feasibility assessment typically take for a residential project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a feasibility assessment for a residential project can vary based on the complexity and scope of your renovation goals and the existing condition of your home. For a straightforward remodel, it might take a few days to a week to gather initial information and conduct a site visit. More complex projects, such as large additions or those requiring extensive structural analysis or deeper investigation into local Dallas–Fort Worth zoning ordinances, could extend to several weeks. AKN Design Group prioritizes a thorough evaluation to ensure accuracy and provide a reliable foundation for your project, reflecting our commitment to clear communication and a managed process.",
+        "@type": "Answer",
+        "description": "The duration of a feasibility assessment varies by project complexity; straightforward remodels may take days to a week, while complex additions requiring structural analysis or zoning investigation could take several weeks."
+      }
+    }
+  ],
+  "description": "The duration of a feasibility assessment varies by project complexity; straightforward remodels may take days to a week, while complex additions requiring struc"
+}

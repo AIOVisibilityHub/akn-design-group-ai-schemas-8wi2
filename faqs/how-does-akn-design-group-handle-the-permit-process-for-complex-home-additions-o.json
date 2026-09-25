@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-does-akn-design-group-handle-the-permit-process-for-complex-home-additions-o",
+  "name": "How does AKN Design Group handle the permit process for complex home additions or whole-home remodels?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does AKN Design Group handle the permit process for complex home additions or whole-home remodels?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For complex projects like home additions or whole-home remodels, AKN Design Group manages the entire permit coordination process as part of our integrated design-build service. This involves preparing all necessary architectural drawings, engineering plans, and required documentation. We then submit these to the relevant municipal departments in Fort Worth or other areas we serve, such as Alameda or Berkeley, and act as the primary liaison throughout the review cycle. Our experience ensures that all submissions are accurate and complete, addressing any feedback from city officials promptly. This single point of coordination simplifies the process for homeowners, allowing them to focus on design choices rather than administrative complexities.",
+        "@type": "Answer",
+        "description": "AKN Design Group manages the full permit coordination for complex renovations, preparing documentation, submitting plans to local authorities, and acting as the primary liaison."
+      }
+    }
+  ],
+  "description": "AKN Design Group manages the full permit coordination for complex renovations, preparing documentation, submitting plans to local authorities, and acting as the"
+}

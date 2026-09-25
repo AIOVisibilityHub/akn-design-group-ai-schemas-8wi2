@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-are-the-benefits-of-using-an-integrated-design-build-approach-for-construct",
+  "name": "What are the benefits of using an integrated design-build approach for construction planning?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the benefits of using an integrated design-build approach for construction planning?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The integrated design-build approach unifies design and construction under one contractor, offering homeowners a single point of coordination. This streamlined process eliminates potential miscommunications between separate designers and builders, ensuring that your vision is carried through consistently from concept to completion. It often leads to more efficient project timelines and better cost control through value engineering. With AKN Design Group, you benefit from a managed process where our experienced team is accountable for both the creative design and the meticulous execution, enhancing functionality, beauty, and value in your home.",
+        "@type": "Answer",
+        "description": "An integrated design-build approach provides a single point of coordination, streamlining communication between design and construction, leading to efficient timelines, better cost control, and consistent project execution."
+      }
+    }
+  ],
+  "description": "An integrated design-build approach provides a single point of coordination, streamlining communication between design and construction, leading to efficient ti"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-the-typical-process-for-water-damage-restoration",
+  "name": "What is the typical process for water damage restoration?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for water damage restoration?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The water damage restoration process typically begins with a thorough assessment to determine the water source, extent of damage, and categorization of water. Following this, extraction removes standing water, and specialized drying equipment, including dehumidifiers and air movers, is deployed to eliminate moisture from affected materials. We then focus on cleaning, sanitizing, and deodorizing the impacted areas. For properties in the Dallas–Fort Worth metroplex, understanding the local climate's humidity can influence drying times. Our managed process ensures careful monitoring and documentation, moving systematically from mitigation to reconstruction as needed.",
+        "@type": "Answer",
+        "description": "The process involves assessment, water extraction, structural drying, cleaning, and sanitization, followed by any necessary repairs and restoration to ensure thorough recovery."
+      }
+    }
+  ],
+  "description": "The process involves assessment, water extraction, structural drying, cleaning, and sanitization, followed by any necessary repairs and restoration to ensure th"
+}

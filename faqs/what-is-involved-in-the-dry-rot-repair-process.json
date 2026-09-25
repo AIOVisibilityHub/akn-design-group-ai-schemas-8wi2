@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-involved-in-the-dry-rot-repair-process",
+  "name": "What is involved in the dry rot repair process?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in the dry rot repair process?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The dry rot repair process typically begins with identifying and addressing the source of moisture. Next, all affected wood is carefully removed, including surrounding sound timber to ensure complete eradication of the fungal spores. This is followed by treating adjacent areas with fungicide and replacing the damaged wood with new, structurally sound materials. AKN Design Group's managed process ensures that any necessary structural reinforcement, framing repair, or finish work resulting from the dry rot is seamlessly integrated, particularly when performing other customized renovations, providing a single point of coordination from assessment to completion.",
+        "@type": "Answer",
+        "description": "Dry rot repair involves identifying the moisture source, removing affected wood, treating surrounding areas, and replacing damaged materials. Our process integrates structural and finish work seamlessly."
+      }
+    }
+  ],
+  "description": "Dry rot repair involves identifying the moisture source, removing affected wood, treating surrounding areas, and replacing damaged materials. Our process integr"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/will-dry-rot-repair-affect-my-home-s-structural-integrity-and-how-do-you-address",
+  "name": "Will dry rot repair affect my home's structural integrity, and how do you address that?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will dry rot repair affect my home's structural integrity, and how do you address that?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Dry rot can significantly compromise your home's structural integrity by decaying load-bearing timbers if not properly addressed. Our repair approach involves not only removing the decayed wood but also ensuring the structural soundness of the affected area through proper reinforcement and replacement with appropriate materials. As a design-build firm specializing in customized renovations, we assess the full extent of the damage, integrate necessary structural engineering considerations, and rebuild using quality craftsmanship. This ensures that the repair is robust and fully supports the surrounding structure, enhancing both functionality and long-term value.",
+        "@type": "Answer",
+        "description": "Dry rot can damage structural integrity; we address this by removing decayed wood, reinforcing the area, and rebuilding with quality materials to ensure lasting structural soundness."
+      }
+    }
+  ],
+  "description": "Dry rot can damage structural integrity; we address this by removing decayed wood, reinforcing the area, and rebuilding with quality materials to ensure lasting"
+}

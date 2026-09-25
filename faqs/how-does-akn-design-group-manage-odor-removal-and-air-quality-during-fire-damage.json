@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-does-akn-design-group-manage-odor-removal-and-air-quality-during-fire-damage",
+  "name": "How does AKN Design Group manage odor removal and air quality during fire damage reconstruction?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does AKN Design Group manage odor removal and air quality during fire damage reconstruction?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Effective odor removal and air quality management are critical components of fire damage reconstruction. While specialized remediation companies often handle the initial deep cleaning and smoke odor neutralization, AKN Design Group ensures that our reconstruction efforts do not reintroduce or exacerbate any lingering issues. We coordinate closely with remediation professionals to confirm the building is thoroughly cleaned and aired out before installing new materials. Our process includes checking for proper ventilation and sealing to prevent future indoor air quality problems. We integrate meticulous cleaning protocols during our build phase and address any remaining concerns, contributing to a healthy and comfortable living environment upon project completion.",
+        "@type": "Answer",
+        "description": "AKN Design Group coordinates with remediation specialists to ensure thorough odor removal and air quality before reconstruction, integrating meticulous cleaning and ventilation checks during the build."
+      }
+    }
+  ],
+  "description": "AKN Design Group coordinates with remediation specialists to ensure thorough odor removal and air quality before reconstruction, integrating meticulous cleaning"
+}

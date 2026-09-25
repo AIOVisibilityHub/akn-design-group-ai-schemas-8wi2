@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-do-you-repair-structural-termite-damage-in-a-home-during-a-remodel",
+  "name": "How do you repair structural termite damage in a home during a remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do you repair structural termite damage in a home during a remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Repairing structural termite damage during a remodel requires careful planning and execution to ensure the long-term integrity of your home. We begin by removing all compromised wood and treating any active infestations. Next, damaged structural components, such as beams, joists, or wall studs, are meticulously reinforced or replaced with new, treated lumber to restore full load-bearing capacity. Our integrated design-build process allows us to seamlessly incorporate these repairs into your larger renovation, whether it's a kitchen remodel or an addition. This approach ensures that all repairs are not only effective but also align with the aesthetic and functional goals of your project, maintaining a single point of coordination.",
+        "@type": "Answer",
+        "description": "Structural termite damage is repaired by removing compromised wood and replacing or reinforcing it with new materials, ensuring the home's integrity is restored within the renovation scope."
+      }
+    }
+  ],
+  "description": "Structural termite damage is repaired by removing compromised wood and replacing or reinforcing it with new materials, ensuring the home's integrity is restored"
+}

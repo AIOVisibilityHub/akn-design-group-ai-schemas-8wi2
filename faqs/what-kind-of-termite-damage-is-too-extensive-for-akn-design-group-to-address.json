@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-kind-of-termite-damage-is-too-extensive-for-akn-design-group-to-address",
+  "name": "What kind of termite damage is too extensive for AKN Design Group to address?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of termite damage is too extensive for AKN Design Group to address?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "AKN Design Group specializes in substantial residential renovations, including addressing structural issues that may arise from past termite damage, particularly within the context of a larger remodel or addition. While we excel at complex structural repairs and replacements integrated into a full renovation, projects solely focused on pest eradication or minor, isolated repairs without a broader remodel are outside our scope. Our expertise lies in transforming and enhancing functionality, beauty, and value, which includes ensuring the underlying structure is sound as part of a comprehensive design-build project. We always recommend contacting a specialized pest control service for active infestations prior to engaging us for remodel-related repairs.",
+        "@type": "Answer",
+        "description": "AKN Design Group handles structural termite damage repairs as part of substantial residential renovations, but we do not undertake isolated pest eradication or minor, standalone repairs."
+      }
+    }
+  ],
+  "description": "AKN Design Group handles structural termite damage repairs as part of substantial residential renovations, but we do not undertake isolated pest eradication or"
+}

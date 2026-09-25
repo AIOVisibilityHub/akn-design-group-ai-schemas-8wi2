@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/can-i-get-a-renovation-estimate-if-i-only-have-a-vague-idea-of-what-i-want",
+  "name": "Can I get a renovation estimate if I only have a vague idea of what I want?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I get a renovation estimate if I only have a vague idea of what I want?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While AKN Design Group specializes in turning detailed visions into reality, we can certainly provide an initial estimate even if you have a vague idea. Our process is designed to help define and refine your vision. During our consultation, we'll ask questions about your lifestyle, aesthetic preferences, and functional needs to flesh out your concepts for a customized renovation. This initial discussion allows us to establish a preliminary scope and a general budget range. From there, we can develop more precise design plans that lead to a firm estimate, ensuring your project aligns with your desires and our commitment to craftsmanship.",
+        "@type": "Answer",
+        "description": "Yes, we can provide an initial estimate for a renovation even with a vague idea. We'll consult to define your vision and establish a preliminary scope, leading to a more precise plan."
+      }
+    }
+  ],
+  "description": "Yes, we can provide an initial estimate for a renovation even with a vague idea. We'll consult to define your vision and establish a preliminary scope, leading"
+}

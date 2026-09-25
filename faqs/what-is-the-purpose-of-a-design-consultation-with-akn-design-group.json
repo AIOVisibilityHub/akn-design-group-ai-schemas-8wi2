@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-the-purpose-of-a-design-consultation-with-akn-design-group",
+  "name": "What is the purpose of a design consultation with AKN Design Group?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the purpose of a design consultation with AKN Design Group?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A design consultation with AKN Design Group serves as the foundational step for any substantial residential renovation. It allows us to understand your vision, assess the existing space, discuss your functional needs, and establish the scope of work for your project. This initial meeting is crucial for determining how our integrated design-build process can best bring your customized renovation to life, whether it's a luxury kitchen, spa-inspired bathroom, or a whole-home remodel. We focus on enhancing functionality, beauty, and long-term value from the outset, ensuring clear communication and a managed process.",
+        "@type": "Answer",
+        "description": "The design consultation helps us understand your renovation vision, assess your space, and define the scope for your luxury kitchen, bathroom, or whole-home remodel project."
+      }
+    }
+  ],
+  "description": "The design consultation helps us understand your renovation vision, assess your space, and define the scope for your luxury kitchen, bathroom, or whole-home rem"
+}

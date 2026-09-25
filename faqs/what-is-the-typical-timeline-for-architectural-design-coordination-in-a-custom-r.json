@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-the-typical-timeline-for-architectural-design-coordination-in-a-custom-r",
+  "name": "What is the typical timeline for architectural design coordination in a custom renovation project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical timeline for architectural design coordination in a custom renovation project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The typical timeline for architectural design coordination in a custom renovation project can vary significantly based on the project's scope and complexity. For a substantial project such as a whole-home remodel or a significant addition, the design and planning phase, including coordination, might take several weeks to a few months before construction begins. At AKN Design Group, we prioritize thoroughness during this stage, ensuring all details are meticulously planned and coordinated. This upfront investment in precise design and permit coordination helps prevent delays and ensures a smoother construction phase, reflecting our commitment to a managed process.",
+        "@type": "Answer",
+        "description": "The timeline for architectural design coordination varies by project scope, typically ranging from several weeks to a few months for substantial renovations."
+      }
+    }
+  ],
+  "description": "The timeline for architectural design coordination varies by project scope, typically ranging from several weeks to a few months for substantial renovations."
+}

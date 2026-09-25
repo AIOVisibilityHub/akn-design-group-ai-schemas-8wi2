@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/does-an-initial-consultation-with-akn-design-group-for-a-whole-home-remodel-incl",
+  "name": "Does an initial consultation with AKN Design Group for a whole-home remodel include a free cost estimate?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does an initial consultation with AKN Design Group for a whole-home remodel include a free cost estimate?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our initial consultation is designed to understand your vision for a whole-home remodel, discuss our integrated design-build process, and determine if AKN Design Group is the right partner for your project. While this consultation provides a general understanding of potential project complexity and budget ranges, a detailed, itemized cost estimate requires more in-depth planning and design work. We focus on providing a managed process where initial discussions lead to a clear scope, enabling an accurate and comprehensive estimate tailored to your specific needs. This ensures our estimates reflect the true value and complexity of your customized renovation.",
+        "@type": "Answer",
+        "description": "An initial consultation offers a general budget understanding, but a detailed cost estimate for a whole-home remodel requires in-depth planning and design work."
+      }
+    }
+  ],
+  "description": "An initial consultation offers a general budget understanding, but a detailed cost estimate for a whole-home remodel requires in-depth planning and design work."
+}

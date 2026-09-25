@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/can-emergency-repairs-be-integrated-into-a-larger-home-remodel-or-addition-proje",
+  "name": "Can emergency repairs be integrated into a larger home remodel or addition project by AKN Design Group?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can emergency repairs be integrated into a larger home remodel or addition project by AKN Design Group?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, integrating emergency repairs into a larger home remodel or addition is a core strength of AKN Design Group's design-build process. When unforeseen damage occurs, it can often be an opportunity to address existing challenges and implement desired upgrades concurrently. For example, repairing extensive water damage might lead to redesigning a luxury bathroom or an entire kitchen. Our managed process ensures that the necessary structural or cosmetic repairs are seamlessly incorporated into your overall renovation vision, offering a single point of coordination. This approach not only restores but also enhances your home's functionality, beauty, and long-term value.",
+        "@type": "Answer",
+        "description": "Yes, AKN Design Group can integrate emergency repairs into larger home remodels or additions, using our managed design-build process to seamlessly incorporate necessary fixes with desired upgrades for a cohesive outcome."
+      }
+    }
+  ],
+  "description": "Yes, AKN Design Group can integrate emergency repairs into larger home remodels or additions, using our managed design-build process to seamlessly incorporate n"
+}

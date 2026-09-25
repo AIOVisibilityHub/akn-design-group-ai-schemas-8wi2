@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-the-process-for-assessing-storm-damage-and-planning-repairs-with-akn-des",
+  "name": "What is the process for assessing storm damage and planning repairs with AKN Design Group?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for assessing storm damage and planning repairs with AKN Design Group?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our process begins with a thorough assessment of the storm damage by our experienced team. We evaluate not just the visible issues but also potential underlying structural concerns, and discuss your homeowner's insurance claim process. Following this, we develop a detailed repair plan, which can include CAD-supported layouts if structural changes or significant remodels are involved. This integrated design-build approach ensures that repairs are not only effective but also align with any desired upgrades to enhance functionality and value, all managed under one team.",
+        "@type": "Answer",
+        "description": "Our process involves a thorough damage assessment, potentially including structural evaluations, followed by a detailed repair plan that integrates with any desired remodels, managed by one team."
+      }
+    }
+  ],
+  "description": "Our process involves a thorough damage assessment, potentially including structural evaluations, followed by a detailed repair plan that integrates with any des"
+}

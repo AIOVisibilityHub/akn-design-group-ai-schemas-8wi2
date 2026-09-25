@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-does-akn-design-group-assist-with-the-insurance-claim-process-for-my-renovat",
+  "name": "How does AKN Design Group assist with the insurance claim process for my renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does AKN Design Group assist with the insurance claim process for my renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "AKN Design Group provides comprehensive support throughout your insurance claim process by acting as your dedicated project partner. We help homeowners navigate the complexities of documentation, damage assessment, and communicating with their insurance company. Our team ensures that all necessary repairs and coordinated renovations are clearly outlined and properly estimated to align with your policy coverage. This managed process reduces your burden, allowing you to focus on your household while we manage the intricate details of restoration, from design planning to final walkthrough.",
+        "@type": "Answer",
+        "description": "AKN Design Group assists with insurance claims by managing documentation, damage assessment, and communication with your insurer for your home's renovation."
+      }
+    }
+  ],
+  "description": "AKN Design Group assists with insurance claims by managing documentation, damage assessment, and communication with your insurer for your home's renovation."
+}

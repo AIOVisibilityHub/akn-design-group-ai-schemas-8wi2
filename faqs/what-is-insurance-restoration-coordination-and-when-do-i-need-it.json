@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-insurance-restoration-coordination-and-when-do-i-need-it",
+  "name": "What is insurance restoration coordination and when do I need it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is insurance restoration coordination and when do I need it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Insurance restoration coordination involves managing the entire renovation process when your home has suffered damage covered by an insurance policy. This service becomes essential when damage from events like fire, flood, or storms requires substantial repairs and coordination with your insurance provider. AKN Design Group acts as your single point of coordination, handling the complexities of assessing damage, working with adjusters, and executing the necessary high-quality repairs and renovations. We ensure that the restoration seamlessly integrates with the existing structure and design of your home, restoring it to or exceeding its previous condition.",
+        "@type": "Answer",
+        "description": "Insurance restoration coordination manages significant home repairs covered by insurance, simplifying the process of working with adjusters and contractors after damage."
+      }
+    }
+  ],
+  "description": "Insurance restoration coordination manages significant home repairs covered by insurance, simplifying the process of working with adjusters and contractors afte"
+}

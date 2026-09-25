@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-mold-damage-and-why-is-professional-repair-necessary",
+  "name": "What is mold damage and why is professional repair necessary?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is mold damage and why is professional repair necessary?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Mold damage refers to the presence and growth of fungi that can compromise your home's structural integrity and air quality. While some homeowners might consider minor surface cleaning, professional repair is crucial because mold often indicates underlying moisture issues that need expert diagnosis and remediation. AKN Design Group focuses on comprehensive solutions for significant home transformations, and effectively addressing mold damage requires identifying and resolving its source to prevent recurrence, ensuring the long-term health and value of your property. Our approach integrates thorough assessment and remediation into a broader remodeling plan if needed.",
+        "@type": "Answer",
+        "description": "Mold damage is fungal growth indicating moisture issues; professional repair is necessary to address the source, prevent recurrence, and protect your home's structural integrity and air quality."
+      }
+    }
+  ],
+  "description": "Mold damage is fungal growth indicating moisture issues; professional repair is necessary to address the source, prevent recurrence, and protect your home's str"
+}

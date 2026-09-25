@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-kind-of-permits-are-needed-for-structural-damage-repair-in-a-residential-pr",
+  "name": "What kind of permits are needed for structural damage repair in a residential property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of permits are needed for structural damage repair in a residential property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Structural damage repair often requires specific building permits from local authorities to ensure that the work meets safety standards and local codes. The type of permit needed depends on the extent and nature of the repair, such as foundation repair, wall reconstruction, or roof framing replacement. AKN Design Group manages all permit coordination as part of our integrated design-build process, alleviating this complex responsibility from the homeowner and ensuring all necessary approvals are secured before construction begins.",
+        "@type": "Answer",
+        "description": "Structural damage repair typically requires specific building permits to ensure safety and code compliance. AKN Design Group manages all necessary permit coordination for your project."
+      }
+    }
+  ],
+  "description": "Structural damage repair typically requires specific building permits to ensure safety and code compliance. AKN Design Group manages all necessary permit coordi"
+}

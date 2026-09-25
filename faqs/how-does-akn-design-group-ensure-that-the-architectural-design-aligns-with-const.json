@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-does-akn-design-group-ensure-that-the-architectural-design-aligns-with-const",
+  "name": "How does AKN Design Group ensure that the architectural design aligns with construction feasibility?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does AKN Design Group ensure that the architectural design aligns with construction feasibility?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "AKN Design Group ensures architectural design aligns with construction feasibility through our integrated design-build model, where designers and builders collaborate from the project's inception. Our team leverages decades of experience and CAD-supported layouts to evaluate designs against structural integrity, material availability, and practical construction methods. This continuous feedback loop between design and construction phases allows us to identify and resolve potential challenges early, ensuring that the architectural vision is not only aesthetically pleasing but also practical, durable, and cost-effective to build. It's how we guarantee craftsmanship and reliability.",
+        "@type": "Answer",
+        "description": "AKN Design Group aligns design with construction feasibility by integrating designers and builders from the start, using CAD and experience to evaluate designs against practical building methods."
+      }
+    }
+  ],
+  "description": "AKN Design Group aligns design with construction feasibility by integrating designers and builders from the start, using CAD and experience to evaluate designs"
+}

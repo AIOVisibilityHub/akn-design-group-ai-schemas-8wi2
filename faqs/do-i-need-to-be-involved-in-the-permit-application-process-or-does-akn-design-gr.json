@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/do-i-need-to-be-involved-in-the-permit-application-process-or-does-akn-design-gr",
+  "name": "Do I need to be involved in the permit application process, or does AKN Design Group handle everything?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to be involved in the permit application process, or does AKN Design Group handle everything?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "As part of our single point of coordination, AKN Design Group handles the permit application process entirely on your behalf. Our team prepares all necessary architectural plans, engineering documents, and completes the submission forms. While we manage the interactions with local authorities and track progress, we keep you fully informed at every critical juncture. Your primary involvement will be reviewing and approving the project design that forms the basis of the permit application, ensuring the vision aligns with your goals.",
+        "@type": "Answer",
+        "description": "AKN Design Group fully manages the permit application process on your behalf, handling all submissions and communications while keeping you informed."
+      }
+    }
+  ],
+  "description": "AKN Design Group fully manages the permit application process on your behalf, handling all submissions and communications while keeping you informed."
+}

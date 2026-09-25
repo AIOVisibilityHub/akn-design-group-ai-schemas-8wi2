@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/do-you-handle-renovations-for-smoke-damage-specifically-in-the-fort-worth-area",
+  "name": "Do you handle renovations for smoke damage specifically in the Fort Worth area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you handle renovations for smoke damage specifically in the Fort Worth area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, AKN Design Group proudly serves homeowners across the Dallas–Fort Worth metroplex, including Fort Worth. Our extensive local expertise means we are familiar with local building codes, architectural styles, and permitting processes in the area. We bring our integrated design-build approach to Fort Worth residents, ensuring a seamless and high-quality renovation experience, whether after smoke damage or for a planned remodel.",
+        "@type": "Answer",
+        "description": "Yes, we serve homeowners throughout the Dallas–Fort Worth metroplex, including Fort Worth, applying our local expertise and design-build approach to post-damage renovations."
+      }
+    }
+  ],
+  "description": "Yes, we serve homeowners throughout the Dallas–Fort Worth metroplex, including Fort Worth, applying our local expertise and design-build approach to post-damage"
+}

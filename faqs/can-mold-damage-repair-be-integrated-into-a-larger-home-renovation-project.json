@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/can-mold-damage-repair-be-integrated-into-a-larger-home-renovation-project",
+  "name": "Can mold damage repair be integrated into a larger home renovation project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can mold damage repair be integrated into a larger home renovation project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, mold damage repair can often be seamlessly integrated into a larger home renovation project, especially for significant remodels. In fact, uncovering mold during a demolition phase offers a prime opportunity to address the issue comprehensively before proceeding with new construction. AKN Design Group's integrated design-build process means we can coordinate both the remediation and subsequent remodeling steps under one accountable team, ensuring the affected area is properly restored and designed to prevent future moisture issues, enhancing functionality, beauty, and long-term value.",
+        "@type": "Answer",
+        "description": "Yes, mold repair can integrate into a larger renovation; uncovering it during demolition allows for comprehensive remediation before new construction, managed seamlessly by an integrated design-build team."
+      }
+    }
+  ],
+  "description": "Yes, mold repair can integrate into a larger renovation; uncovering it during demolition allows for comprehensive remediation before new construction, managed s"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/does-akn-design-group-provide-upfront-estimates-for-storm-damage-repair-work",
+  "name": "Does AKN Design Group provide upfront estimates for storm damage repair work?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does AKN Design Group provide upfront estimates for storm damage repair work?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, AKN Design Group provides upfront estimates for storm damage repair work. After our initial assessment, we develop a detailed plan and provide a transparent estimate that reflects the scope of work, materials, and labor involved. Our focus on clear communication ensures homeowners understand the investment required for their project. While the final cost may adjust based on unforeseen conditions revealed during demolition, our initial estimates aim for accuracy, upholding our commitment to reliability and trust.",
+        "@type": "Answer",
+        "description": "Yes, AKN Design Group provides upfront, transparent estimates for storm damage repair work after an initial assessment, ensuring clear communication of project investment."
+      }
+    }
+  ],
+  "description": "Yes, AKN Design Group provides upfront, transparent estimates for storm damage repair work after an initial assessment, ensuring clear communication of project"
+}

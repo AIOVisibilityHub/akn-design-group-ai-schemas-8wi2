@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-does-a-design-build-approach-benefit-my-home-addition-project-compared-to-tr",
+  "name": "How does a design-build approach benefit my home addition project compared to traditional methods?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does a design-build approach benefit my home addition project compared to traditional methods?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A design-build approach offers significant benefits for your home addition by providing a single point of coordination and accountability from start to finish. Unlike traditional methods where you manage separate designers and contractors, AKN Design Group unifies both functions under one experienced team. This integrated process enhances clear communication, streamlines decision-making, and often results in more efficient project delivery and fewer unexpected issues, ensuring the design vision translates seamlessly into the constructed reality. It reduces the homeowner's stress of mediating between different parties.",
+        "@type": "Answer",
+        "description": "The design-build approach provides a single point of coordination, streamlines communication, and often leads to more efficient project delivery compared to traditional methods."
+      }
+    }
+  ],
+  "description": "The design-build approach provides a single point of coordination, streamlines communication, and often leads to more efficient project delivery compared to tra"
+}

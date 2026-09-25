@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-can-i-tell-if-my-home-in-alameda-county-has-termite-damage-before-starting-a",
+  "name": "How can I tell if my home in Alameda County has termite damage before starting a remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I tell if my home in Alameda County has termite damage before starting a remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before commencing a remodel in Alameda County, inspecting your home for signs of termite damage is prudent. Look for indicators such as discarded wings, mud tubes on foundations or walls, pinpoint holes in wood, or hollow-sounding timber when tapped. Swarming termites are another clear sign of activity. While these visual cues can be helpful, a professional pest inspection is the most reliable method to confirm the presence and extent of damage. AKN Design Group can then utilize this information to accurately plan for any necessary structural repairs within your custom renovation, coordinating seamlessly with local building standards.",
+        "@type": "Answer",
+        "description": "Look for discarded wings, mud tubes, or hollow-sounding wood, but a professional pest inspection is the most reliable way to confirm termite damage in Alameda County homes before remodeling."
+      }
+    }
+  ],
+  "description": "Look for discarded wings, mud tubes, or hollow-sounding wood, but a professional pest inspection is the most reliable way to confirm termite damage in Alameda C"
+}

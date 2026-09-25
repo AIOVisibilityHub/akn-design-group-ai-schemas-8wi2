@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-documentation-or-information-do-i-need-to-provide-for-permit-applications",
+  "name": "What documentation or information do I need to provide for permit applications?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What documentation or information do I need to provide for permit applications?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To initiate the permit process for your renovation, you will typically need to provide several key documents and pieces of information. This includes detailed architectural drawings, site plans illustrating property boundaries and proposed changes, structural engineering calculations, and specifications for materials and systems. Depending on the project, you might also need energy calculations or surveys. While AKN Design Group manages the compilation and submission of these technical documents as part of our integrated design-build service, homeowners often need to provide property surveys, recent appraisals, or other existing property records. Having these readily available can help streamline the initial stages of plan development.",
+        "@type": "Answer",
+        "description": "For permit applications, you'll generally need architectural drawings, site plans, structural calculations, and material specifications. While AKN Design Group handles submissions, homeowners may need to provide existing property surveys or appraisals."
+      }
+    }
+  ],
+  "description": "For permit applications, you'll generally need architectural drawings, site plans, structural calculations, and material specifications. While AKN Design Group"
+}

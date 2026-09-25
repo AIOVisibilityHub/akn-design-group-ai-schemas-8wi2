@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/can-i-start-demolition-or-site-preparation-before-permits-are-fully-approved",
+  "name": "Can I start demolition or site preparation before permits are fully approved?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I start demolition or site preparation before permits are fully approved?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Generally, it is not advisable to begin significant demolition or site preparation work before all necessary permits for your renovation project have been officially approved and issued. Most municipalities require permits to be in hand before any physical work beyond minor cosmetic changes commences. Starting prematurely can result in stop-work orders, fines, or the requirement to undo work, leading to substantial project delays and increased costs. AKN Design Group’s managed process ensures that all approvals are secured prior to the commencement of construction, protecting your project from these potential setbacks and ensuring a smooth, compliant build.",
+        "@type": "Answer",
+        "description": "It is generally not advisable to start demolition or significant site preparation before permits are officially approved. Doing so can lead to stop-work orders, fines, and costly delays, which AKN Design Group helps you avoid."
+      }
+    }
+  ],
+  "description": "It is generally not advisable to start demolition or significant site preparation before permits are officially approved. Doing so can lead to stop-work orders,"
+}

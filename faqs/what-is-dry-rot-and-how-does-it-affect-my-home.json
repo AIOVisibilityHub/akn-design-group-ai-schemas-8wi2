@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-dry-rot-and-how-does-it-affect-my-home",
+  "name": "What is dry rot and how does it affect my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is dry rot and how does it affect my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Dry rot is a timber decay caused by certain fungi that break down wood fibers, leading to a loss of structural integrity. It typically occurs in areas with persistent moisture and poor ventilation, such as crawl spaces, basements, or areas with plumbing leaks. If left unaddressed, dry rot can spread extensively, compromising the structural elements of your home and potentially requiring significant repairs. Recognizing early signs like a musty odor, crumbling wood, or fungal growth is essential for timely intervention.",
+        "@type": "Answer",
+        "description": "Dry rot is timber decay caused by fungi in moist, poorly ventilated areas, leading to structural damage if not addressed promptly."
+      }
+    }
+  ],
+  "description": "Dry rot is timber decay caused by fungi in moist, poorly ventilated areas, leading to structural damage if not addressed promptly."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-are-the-long-term-benefits-of-professionally-repairing-structural-damage",
+  "name": "What are the long-term benefits of professionally repairing structural damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the long-term benefits of professionally repairing structural damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Professionally repairing structural damage ensures the safety and stability of your home, preventing further deterioration and potential hazards. Long-term benefits include preserving and enhancing your property's value, avoiding more costly repairs down the line, and ensuring compliance with local building codes. AKN Design Group's commitment to craftsmanship and reliability means that structural repairs are executed to the highest standards, offering lasting impressions and peace of mind for homeowners in the Dallas–Fort Worth metroplex.",
+        "@type": "Answer",
+        "description": "Professional structural repairs ensure home safety and stability, preserving property value and preventing future costly issues. This commitment to craftsmanship offers lasting peace of mind."
+      }
+    }
+  ],
+  "description": "Professional structural repairs ensure home safety and stability, preserving property value and preventing future costly issues. This commitment to craftsmanshi"
+}

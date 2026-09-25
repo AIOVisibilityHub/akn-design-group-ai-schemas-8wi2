@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-do-you-handle-potential-hazardous-materials-during-water-damage-restoration",
+  "name": "How do you handle potential hazardous materials during water damage restoration?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do you handle potential hazardous materials during water damage restoration?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "During water damage restoration, particularly when dealing with black water (severely contaminated water from sewage or floodwaters), there's a potential for hazardous materials. Our initial assessment includes identifying these risks to ensure proper containment and removal protocols are followed. We adhere to established safety guidelines to protect both our team and your home's occupants. Should lead-based paint or asbestos be present and disturbed by the water damage, we coordinate with certified specialists for safe handling and abatement, ensuring compliance and a safe environment before proceeding with reconstruction. This meticulous approach is part of our commitment to a seamless, managed process.",
+        "@type": "Answer",
+        "description": "We identify and manage potential hazardous materials like black water or disturbed lead/asbestos by following safety protocols and coordinating with certified specialists for safe removal."
+      }
+    }
+  ],
+  "description": "We identify and manage potential hazardous materials like black water or disturbed lead/asbestos by following safety protocols and coordinating with certified s"
+}

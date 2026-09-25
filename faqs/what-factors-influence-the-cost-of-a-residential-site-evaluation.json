@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-factors-influence-the-cost-of-a-residential-site-evaluation",
+  "name": "What factors influence the cost of a residential site evaluation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of a residential site evaluation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a residential site evaluation is influenced by several factors, primarily the complexity and scale of the renovation project you envision, as well as the size and specific characteristics of your property. For instance, evaluating a site for a multi-room addition or a complex outdoor living space may require more extensive analysis than for a luxury bathroom remodel. The scope of the evaluation, including detailed measurements, assessment of existing utilities, and consideration of local regulatory nuances, also plays a role. AKN Design Group provides upfront estimates for our comprehensive services, ensuring transparency as we establish the foundation for your customized renovation.",
+        "@type": "Answer",
+        "description": "The cost of a site evaluation depends on the renovation's complexity, project scale, and property characteristics, with AKN Design Group providing upfront estimates for transparency."
+      }
+    }
+  ],
+  "description": "The cost of a site evaluation depends on the renovation's complexity, project scale, and property characteristics, with AKN Design Group providing upfront estim"
+}

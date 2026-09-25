@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-do-i-choose-a-contractor-for-dry-rot-repair-when-considering-a-larger-home-r",
+  "name": "How do I choose a contractor for dry rot repair when considering a larger home renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose a contractor for dry rot repair when considering a larger home renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing a contractor for dry rot repair, especially within the context of a larger renovation, requires a partner who can manage both the remediation and subsequent construction seamlessly. Look for a design-build firm that understands structural integrity and can integrate the repair into your broader project, ensuring continuity in design and craftsmanship. AKN Design Group brings over two decades of experience to residential remodeling, offering a single point of coordination for complex projects. We can address dry rot as part of a larger customized renovation, minimizing disruption and ensuring that the structural repairs align with your overall design vision and enhancing your home's long-term value.",
+        "@type": "Answer",
+        "description": "Select a design-build firm experienced in both structural repair and renovation to seamlessly integrate dry rot remediation into your larger home project. Look for a managed process and a single point of coordination."
+      }
+    }
+  ],
+  "description": "Select a design-build firm experienced in both structural repair and renovation to seamlessly integrate dry rot remediation into your larger home project. Look"
+}

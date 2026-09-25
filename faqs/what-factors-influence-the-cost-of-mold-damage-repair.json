@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-factors-influence-the-cost-of-mold-damage-repair",
+  "name": "What factors influence the cost of mold damage repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of mold damage repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of mold damage repair is primarily influenced by the extent of mold growth, the type of materials affected, and the source of the moisture. Small, localized mold issues will typically be less expensive than widespread contamination requiring extensive demolition and reconstruction. Accessibility to the mold, the need for specialized equipment, and whether the repair is part of a larger renovation project also play a role. AKN Design Group provides upfront estimates for complex projects, ensuring transparency and accountability in managing the repair and any subsequent remodeling work required.",
+        "@type": "Answer",
+        "description": "Mold repair costs vary based on the extent of growth, affected materials, and moisture source, with larger or less accessible areas increasing the investment."
+      }
+    }
+  ],
+  "description": "Mold repair costs vary based on the extent of growth, affected materials, and moisture source, with larger or less accessible areas increasing the investment."
+}

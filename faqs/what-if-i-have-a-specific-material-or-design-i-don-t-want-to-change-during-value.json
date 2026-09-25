@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-if-i-have-a-specific-material-or-design-i-don-t-want-to-change-during-value",
+  "name": "What if I have a specific material or design I don't want to change during value engineering?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What if I have a specific material or design I don't want to change during value engineering?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Your preferences for specific materials or design elements are central to your customized renovation, and AKN Design Group respects these choices during the value engineering process. If there's a particular feature you are committed to, we will work around it, focusing on other areas where efficiencies can be achieved without compromising your non-negotiable selections. Our approach is to enhance functionality and value while staying true to your unique vision, ensuring clear communication and a managed process that prioritizes your satisfaction and investment.",
+        "@type": "Answer",
+        "description": "If you have specific material or design preferences, AKN Design Group will prioritize them, focusing value engineering efforts on other areas to maintain your vision."
+      }
+    }
+  ],
+  "description": "If you have specific material or design preferences, AKN Design Group will prioritize them, focusing value engineering efforts on other areas to maintain your v"
+}

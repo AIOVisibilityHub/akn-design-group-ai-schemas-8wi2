@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-involved-in-the-mold-damage-repair-process",
+  "name": "What is involved in the mold damage repair process?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in the mold damage repair process?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The mold damage repair process typically begins with a thorough inspection to identify the mold's source and extent. This is followed by isolating the affected area to prevent cross-contamination. Remediation involves removing contaminated materials, cleaning salvageable surfaces, and applying antimicrobial treatments. Crucially, addressing the moisture source is paramount to prevent recurrence. As a design-build company, AKN Design Group integrates these steps into a comprehensive plan, ensuring that repairs are not just superficial but also contribute to the long-term structural integrity and aesthetics of your home, especially if it's part of a larger renovation.",
+        "@type": "Answer",
+        "description": "Mold repair involves inspection, containment, removal of contaminated materials, cleaning, and crucially, addressing the moisture source to prevent recurrence and ensure lasting home integrity."
+      }
+    }
+  ],
+  "description": "Mold repair involves inspection, containment, removal of contaminated materials, cleaning, and crucially, addressing the moisture source to prevent recurrence a"
+}

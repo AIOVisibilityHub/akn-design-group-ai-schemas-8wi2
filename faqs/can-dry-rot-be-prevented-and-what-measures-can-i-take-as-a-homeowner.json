@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/can-dry-rot-be-prevented-and-what-measures-can-i-take-as-a-homeowner",
+  "name": "Can dry rot be prevented, and what measures can I take as a homeowner?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can dry rot be prevented, and what measures can I take as a homeowner?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Preventing dry rot primarily involves managing moisture levels and ensuring adequate ventilation within your home. Homeowners can take several proactive measures, such as promptly repairing leaks in plumbing or roofing, ensuring proper drainage away from the foundation, and maintaining good air circulation in crawl spaces and basements. Regularly inspecting areas prone to moisture can help identify potential issues before dry rot develops. As part of our comprehensive renovation planning, AKN Design Group can identify and address underlying moisture issues during a project, offering solutions that enhance functionality and protect your investment.",
+        "@type": "Answer",
+        "description": "Prevent dry rot by controlling moisture, ensuring proper ventilation, promptly repairing leaks, and regularly inspecting vulnerable areas. We can address these issues during renovation planning."
+      }
+    }
+  ],
+  "description": "Prevent dry rot by controlling moisture, ensuring proper ventilation, promptly repairing leaks, and regularly inspecting vulnerable areas. We can address these"
+}

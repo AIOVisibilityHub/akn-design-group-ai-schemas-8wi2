@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/when-should-i-consider-a-full-structural-rebuild-versus-repairing-specific-fire",
+  "name": "When should I consider a full structural rebuild versus repairing specific fire-damaged areas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider a full structural rebuild versus repairing specific fire-damaged areas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The decision between a full structural rebuild and targeted repairs hinges on the extent of structural damage and the cost-effectiveness of each approach. If fire has compromised core structural elements like framing, foundations, or load-bearing walls, a full rebuild may be necessary to ensure safety and long-term integrity. For localized damage, targeted repairs might suffice. A professional structural engineer's assessment is crucial. AKN Design Group provides expert evaluation and guidance in this decision, aligning with our focus on substantial, coordinated renovations. We help homeowners in the Dallas–Fort Worth metroplex determine the most robust and value-enhancing solution, considering both immediate needs and long-term property value.",
+        "@type": "Answer",
+        "description": "Choose a full structural rebuild if fire extensively compromises structural elements; otherwise, targeted repairs might be sufficient. AKN Design Group helps homeowners in the Dallas–Fort Worth metroplex evaluate the most appropriate solution."
+      }
+    }
+  ],
+  "description": "Choose a full structural rebuild if fire extensively compromises structural elements; otherwise, targeted repairs might be sufficient. AKN Design Group helps ho"
+}

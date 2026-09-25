@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-kind-of-projects-does-akn-design-group-specialize-in-with-its-design-build",
+  "name": "What kind of projects does AKN Design Group specialize in with its design-build services?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of projects does AKN Design Group specialize in with its design-build services?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "AKN Design Group specializes in high-value, customized residential transformations, focusing on significant renovations rather than minor repairs. Our expertise includes luxury kitchens, spa-inspired bathrooms, comprehensive whole-home remodels, substantial home additions like primary suites or home offices, and high-end outdoor living spaces such as custom patios and outdoor kitchens. We guide homeowners from initial design planning, including CAD-supported layouts, through construction, installation, and final walkthrough, ensuring a cohesive and functional outcome.",
+        "@type": "Answer",
+        "description": "AKN Design Group specializes in high-value, customized residential renovations, including luxury kitchens, spa bathrooms, whole-home remodels, additions, and high-end outdoor living spaces."
+      }
+    }
+  ],
+  "description": "AKN Design Group specializes in high-value, customized residential renovations, including luxury kitchens, spa bathrooms, whole-home remodels, additions, and hi"
+}

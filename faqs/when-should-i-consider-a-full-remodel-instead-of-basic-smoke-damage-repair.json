@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/when-should-i-consider-a-full-remodel-instead-of-basic-smoke-damage-repair",
+  "name": "When should I consider a full remodel instead of basic smoke damage repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider a full remodel instead of basic smoke damage repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If smoke damage is extensive, affecting structural elements, multiple rooms, or key areas like kitchens and bathrooms, it often presents an opportunity for a comprehensive remodel. Rather than simply repairing what was damaged, a full renovation allows for an integrated design-build approach to enhance functionality, beauty, and long-term value. This is especially true if you've been considering updates or reconfigurations to your living spaces.",
+        "@type": "Answer",
+        "description": "Extensive smoke damage, particularly in key areas, can be an opportunity for a full remodel to enhance your home's functionality and value rather than just repairing the damage."
+      }
+    }
+  ],
+  "description": "Extensive smoke damage, particularly in key areas, can be an opportunity for a full remodel to enhance your home's functionality and value rather than just repa"
+}

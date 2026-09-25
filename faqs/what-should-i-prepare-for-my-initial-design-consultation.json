@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-should-i-prepare-for-my-initial-design-consultation",
+  "name": "What should I prepare for my initial design consultation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare for my initial design consultation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To make the most of your initial design consultation, gather any ideas, inspirations, or preferences you have for your customized renovation. This could include photos of styles you admire, a list of functional improvements you desire, or even a rough sketch of your ideal layout. It's also helpful to consider your anticipated investment range. Providing these details allows our team to better understand your aesthetic and functional goals, enabling us to discuss tailored solutions and how our managed process can align with your vision for enhancing functionality, beauty, and value.",
+        "@type": "Answer",
+        "description": "Prepare ideas, inspiration photos, a list of desired functional improvements, and consider your anticipated investment range to maximize your initial design consultation."
+      }
+    }
+  ],
+  "description": "Prepare ideas, inspiration photos, a list of desired functional improvements, and consider your anticipated investment range to maximize your initial design con"
+}

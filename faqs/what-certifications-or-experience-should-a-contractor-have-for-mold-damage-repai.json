@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-certifications-or-experience-should-a-contractor-have-for-mold-damage-repai",
+  "name": "What certifications or experience should a contractor have for mold damage repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What certifications or experience should a contractor have for mold damage repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selecting a contractor for mold damage repair, look for experience in remediation and moisture control, particularly if the damage is extensive or tied to structural issues. While specific mold certifications are beneficial, a proven track record in complex residential construction and renovation, coupled with a commitment to addressing underlying problems, is key. AKN Design Group's over two decades in business and extensive experience with home remodels mean we approach mold concerns with a comprehensive understanding of home systems, ensuring a managed process from diagnosis to resolution.",
+        "@type": "Answer",
+        "description": "Choose a contractor with experience in remediation and moisture control; a strong track record in complex residential construction, like AKN Design Group, ensures a comprehensive approach to mold issues."
+      }
+    }
+  ],
+  "description": "Choose a contractor with experience in remediation and moisture control; a strong track record in complex residential construction, like AKN Design Group, ensur"
+}

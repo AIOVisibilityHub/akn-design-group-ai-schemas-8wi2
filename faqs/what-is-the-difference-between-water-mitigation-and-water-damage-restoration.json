@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-the-difference-between-water-mitigation-and-water-damage-restoration",
+  "name": "What is the difference between water mitigation and water damage restoration?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between water mitigation and water damage restoration?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Water mitigation focuses on limiting the impact of water damage by stopping the source, extracting water, and drying affected areas to prevent further destruction and mold growth. This is the immediate emergency response. Water damage restoration, on the other hand, is a more comprehensive process that includes the mitigation steps but extends to repairing, rebuilding, and restoring your home to its pre-loss condition, encompassing tasks like drywall replacement, flooring installation, and painting. AKN Design Group can manage both, providing a single point of coordination from the initial cleanup to the final touches of a reconstructed space, ensuring a seamless, managed process.",
+        "@type": "Answer",
+        "description": "Water mitigation is the immediate action to prevent further damage, while restoration includes mitigation plus all necessary repairs and rebuilding to return the home to its original state."
+      }
+    }
+  ],
+  "description": "Water mitigation is the immediate action to prevent further damage, while restoration includes mitigation plus all necessary repairs and rebuilding to return th"
+}

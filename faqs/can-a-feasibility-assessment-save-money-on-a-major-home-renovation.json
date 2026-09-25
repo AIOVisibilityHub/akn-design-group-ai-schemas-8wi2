@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/can-a-feasibility-assessment-save-money-on-a-major-home-renovation",
+  "name": "Can a feasibility assessment save money on a major home renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can a feasibility assessment save money on a major home renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, a feasibility assessment can lead to significant cost savings on a major home renovation by identifying potential issues early, before extensive design or construction begins. By uncovering structural limitations, zoning conflicts, or unforeseen site conditions at the outset, AKN Design Group can incorporate necessary adjustments into the preliminary design, avoiding costly redesigns, change orders, or delays during construction. This proactive approach helps to optimize material usage and construction methods through value engineering, ensuring your investment is well-placed and aligns with a realistic project scope. It's a key part of our commitment to a transparent and managed process.",
+        "@type": "Answer",
+        "description": "Yes, a feasibility assessment saves money by identifying potential issues like structural limitations or zoning conflicts early, preventing costly redesigns or delays during construction."
+      }
+    }
+  ],
+  "description": "Yes, a feasibility assessment saves money by identifying potential issues like structural limitations or zoning conflicts early, preventing costly redesigns or"
+}

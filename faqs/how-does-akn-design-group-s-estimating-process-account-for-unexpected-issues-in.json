@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-does-akn-design-group-s-estimating-process-account-for-unexpected-issues-in",
+  "name": "How does AKN Design Group's estimating process account for unexpected issues in older homes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does AKN Design Group's estimating process account for unexpected issues in older homes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "AKN Design Group's estimating process for older homes, particularly within the Dallas–Fort Worth metroplex, accounts for potential unexpected issues by building contingencies into our project planning. Our extensive experience with over 10,000 jobs helps us anticipate common challenges, such as outdated electrical systems, plumbing issues, or structural surprises that may arise once demolition begins. We conduct thorough initial assessments and discussions about the home's history. While precise predictions are impossible, our managed process includes clear communication channels and transparent discussions regarding any unforeseen circumstances, minimizing surprises and ensuring the project stays on track for a high-quality outcome.",
+        "@type": "Answer",
+        "description": "Our estimating process for older homes includes contingencies for unexpected issues like outdated systems. We conduct thorough initial assessments and maintain transparent communication during the managed process."
+      }
+    }
+  ],
+  "description": "Our estimating process for older homes includes contingencies for unexpected issues like outdated systems. We conduct thorough initial assessments and maintain"
+}

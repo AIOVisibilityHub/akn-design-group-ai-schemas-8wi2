@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-factors-influence-the-cost-of-water-damage-restoration",
+  "name": "What factors influence the cost of water damage restoration?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of water damage restoration?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of water damage restoration is influenced by several factors, including the category of water (clean, gray, or black), the extent of the damage, the size of the affected area, the materials impacted, and the duration the water was present. Specialized services, such as mold remediation or structural repairs, will also add to the overall expense. AKN Design Group provides upfront estimates following a thorough assessment, ensuring transparency in the process. We also engage in value engineering to optimize project costs while upholding our commitment to craftsmanship and enhancing your home's functionality and value.",
+        "@type": "Answer",
+        "description": "Restoration costs depend on water category, damage extent, affected area size, material types, and time elapsed, with upfront estimates provided."
+      }
+    }
+  ],
+  "description": "Restoration costs depend on water category, damage extent, affected area size, material types, and time elapsed, with upfront estimates provided."
+}

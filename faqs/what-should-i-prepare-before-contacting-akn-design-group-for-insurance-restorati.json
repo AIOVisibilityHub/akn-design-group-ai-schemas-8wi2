@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-should-i-prepare-before-contacting-akn-design-group-for-insurance-restorati",
+  "name": "What should I prepare before contacting AKN Design Group for insurance restoration services?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare before contacting AKN Design Group for insurance restoration services?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before contacting AKN Design Group for insurance restoration, it is helpful to have initial documentation ready. This includes any official reports or photographs of the damage, your insurance policy details, and your insurance claim number if one has already been assigned. Thinking about your preferences for the renovated spaces can also be beneficial, as this informs our initial design discussions. We focus on enhancing functionality, beauty, and value, even in restoration projects, ensuring the outcome aligns with your vision for your Dallas–Fort Worth home.",
+        "@type": "Answer",
+        "description": "Before contacting AKN Design Group, prepare damage photos, insurance policy details, claim number, and any design preferences for your restoration project."
+      }
+    }
+  ],
+  "description": "Before contacting AKN Design Group, prepare damage photos, insurance policy details, claim number, and any design preferences for your restoration project."
+}

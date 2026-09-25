@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-involved-in-the-initial-construction-planning-phase-for-a-residential-re",
+  "name": "What is involved in the initial construction planning phase for a residential renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in the initial construction planning phase for a residential renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The initial construction planning phase with AKN Design Group involves a comprehensive assessment of your vision, existing space, and functional requirements. We discuss your aesthetic preferences, budget considerations, and timeline expectations. This collaborative process allows us to understand the scope of your desired project, whether it's a luxury kitchen, spa-inspired bathroom, or a whole-home remodel. We then move into developing detailed designs and layouts, often supported by CAD, ensuring every aspect aligns with your goals before construction begins. This managed process ensures design vision and construction execution are harmonized from the outset.",
+        "@type": "Answer",
+        "description": "Initial construction planning involves discussing your vision, budget, and timeline, followed by developing detailed designs and layouts to align with your project goals."
+      }
+    }
+  ],
+  "description": "Initial construction planning involves discussing your vision, budget, and timeline, followed by developing detailed designs and layouts to align with your proj"
+}

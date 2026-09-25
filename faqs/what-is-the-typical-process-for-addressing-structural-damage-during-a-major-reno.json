@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-the-typical-process-for-addressing-structural-damage-during-a-major-reno",
+  "name": "What is the typical process for addressing structural damage during a major renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for addressing structural damage during a major renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process begins with a thorough inspection and assessment by qualified structural engineers to determine the extent and cause of the damage. This informs the repair strategy, which AKN Design Group then integrates into the overall design-build plan for your renovation. This managed process ensures that structural repairs are not only effective but also aligned with your broader aesthetic and functional goals, eliminating the need to coordinate between separate contractors for design, structural work, and general construction. Permit coordination for structural changes is also a key part of our service.",
+        "@type": "Answer",
+        "description": "The process involves an engineer's assessment, followed by integrating repairs into the overall renovation plan. This managed design-build approach ensures seamless execution and permit coordination."
+      }
+    }
+  ],
+  "description": "The process involves an engineer's assessment, followed by integrating repairs into the overall renovation plan. This managed design-build approach ensures seam"
+}

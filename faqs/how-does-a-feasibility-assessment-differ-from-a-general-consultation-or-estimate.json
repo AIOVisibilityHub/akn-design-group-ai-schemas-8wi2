@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-does-a-feasibility-assessment-differ-from-a-general-consultation-or-estimate",
+  "name": "How does a feasibility assessment differ from a general consultation or estimate?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does a feasibility assessment differ from a general consultation or estimate?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A feasibility assessment is a more in-depth, investigative process compared to a general consultation or preliminary estimate. While a consultation provides an overview of your project and a broad cost range, a feasibility assessment delves into the specific structural, regulatory, and practical details of your property. It proactively identifies potential roadblocks and opportunities, providing a solid foundation for detailed design and accurate budgeting. A general estimate offers a cost projection based on assumptions, whereas a feasibility assessment validates those assumptions, ensuring the project's core concept is viable before proceeding with extensive design work, aligning with our integrated design-build approach.",
+        "@type": "Answer",
+        "description": "A feasibility assessment is an in-depth investigation of structural and regulatory details, unlike a general consultation or estimate that offers broad overviews or cost projections."
+      }
+    }
+  ],
+  "description": "A feasibility assessment is an in-depth investigation of structural and regulatory details, unlike a general consultation or estimate that offers broad overview"
+}

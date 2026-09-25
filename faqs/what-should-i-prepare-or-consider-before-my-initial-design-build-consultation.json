@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-should-i-prepare-or-consider-before-my-initial-design-build-consultation",
+  "name": "What should I prepare or consider before my initial design-build consultation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare or consider before my initial design-build consultation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before your initial design-build consultation with AKN Design Group, consider gathering any inspiration photos, rough ideas of your desired functionality, and a general understanding of your project's scope. Thinking about your lifestyle, aesthetic preferences, and how you envision using the redesigned space will be beneficial. While detailed plans aren't necessary, having a clear idea of your needs and priorities helps us understand your vision for customized renovations, enabling a more productive discussion about design possibilities and project goals.",
+        "@type": "Answer",
+        "description": "Before your consultation, gather inspiration photos, outline desired functionality, and consider your lifestyle and aesthetic preferences to help define your project vision."
+      }
+    }
+  ],
+  "description": "Before your consultation, gather inspiration photos, outline desired functionality, and consider your lifestyle and aesthetic preferences to help define your pr"
+}

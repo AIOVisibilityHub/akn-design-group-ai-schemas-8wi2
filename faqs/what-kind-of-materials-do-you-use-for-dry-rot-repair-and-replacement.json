@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-kind-of-materials-do-you-use-for-dry-rot-repair-and-replacement",
+  "name": "What kind of materials do you use for dry rot repair and replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of materials do you use for dry rot repair and replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For dry rot repair and replacement, we prioritize using materials that match or exceed the original structural integrity and aesthetic. This often includes pressure-treated lumber, engineered wood products, or other suitable materials resistant to future decay, ensuring longevity and durability. When the repair is part of a larger customized renovation, such as a kitchen or bathroom remodel, we select replacement materials that seamlessly integrate with the new design, upholding our commitment to craftsmanship. Our focus is on long-term value, enhancing both the structural soundness and the beauty of your home.",
+        "@type": "Answer",
+        "description": "We use durable, decay-resistant materials like pressure-treated lumber for dry rot repair. When integrated with renovations, materials are chosen to match structural needs and overall design."
+      }
+    }
+  ],
+  "description": "We use durable, decay-resistant materials like pressure-treated lumber for dry rot repair. When integrated with renovations, materials are chosen to match struc"
+}

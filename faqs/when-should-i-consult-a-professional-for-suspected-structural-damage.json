@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/when-should-i-consult-a-professional-for-suspected-structural-damage",
+  "name": "When should I consult a professional for suspected structural damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consult a professional for suspected structural damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consult a professional as soon as you notice any signs of potential structural damage, such as significant cracking, shifting, or unevenness in your home's foundation, walls, or floors. Delaying an assessment can lead to more extensive damage and higher repair costs. AKN Design Group can integrate a structural assessment into the initial planning stages of a larger renovation, ensuring that any underlying issues are addressed comprehensively and seamlessly within the project scope.",
+        "@type": "Answer",
+        "description": "Consult a professional immediately if you suspect structural damage to prevent further complications and cost escalation. Early assessment ensures issues are addressed within a larger renovation plan."
+      }
+    }
+  ],
+  "description": "Consult a professional immediately if you suspect structural damage to prevent further complications and cost escalation. Early assessment ensures issues are ad"
+}

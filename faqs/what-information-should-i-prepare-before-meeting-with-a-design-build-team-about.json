@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-information-should-i-prepare-before-meeting-with-a-design-build-team-about",
+  "name": "What information should I prepare before meeting with a design-build team about architectural drawings for my project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What information should I prepare before meeting with a design-build team about architectural drawings for my project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before meeting with AKN Design Group, preparing key information can significantly streamline the architectural drawing process. Consider gathering inspiration images of designs you admire, compiling a list of your functional needs for the space (e.g., more storage, better flow, specific features), and having a general understanding of your desired budget range. This preparation helps our team grasp your vision and practical requirements, allowing us to develop CAD-supported layouts that reflect your unique lifestyle and aesthetic preferences from the outset.",
+        "@type": "Answer",
+        "description": "Before discussing architectural drawings, prepare inspiration images, a list of functional needs, and your desired budget to help our team understand your vision."
+      }
+    }
+  ],
+  "description": "Before discussing architectural drawings, prepare inspiration images, a list of functional needs, and your desired budget to help our team understand your visio"
+}

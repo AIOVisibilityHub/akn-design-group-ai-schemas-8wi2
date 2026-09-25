@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-should-i-prepare-before-contacting-akn-design-group-for-a-post-smoke-damage",
+  "name": "What should I prepare before contacting AKN Design Group for a post-smoke damage renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare before contacting AKN Design Group for a post-smoke damage renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before contacting us for a post-smoke damage renovation, it's beneficial to have the initial damage mitigated and cleaned. Consider what you hope to achieve with the renovation beyond mere repair – are there layout changes, style upgrades, or functional improvements you've always wanted? Having an idea of your vision and any initial assessments from restoration professionals will help us begin the design-build conversation efficiently.",
+        "@type": "Answer",
+        "description": "Before contacting us, ensure initial smoke damage is mitigated. Consider your renovation vision beyond repairs, including desired layout changes or upgrades, to help us start planning."
+      }
+    }
+  ],
+  "description": "Before contacting us, ensure initial smoke damage is mitigated. Consider your renovation vision beyond repairs, including desired layout changes or upgrades, to"
+}

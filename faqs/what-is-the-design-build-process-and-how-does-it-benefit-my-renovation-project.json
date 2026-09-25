@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-the-design-build-process-and-how-does-it-benefit-my-renovation-project",
+  "name": "What is the design-build process and how does it benefit my renovation project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the design-build process and how does it benefit my renovation project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The design-build process integrates design and construction services under a single contract with one team, like AKN Design Group. This approach streamlines your project by fostering clear communication and accountability from initial concept to final walkthrough. It minimizes potential conflicts between designers and builders, often resulting in a more efficient timeline and better cost control. For significant projects such as luxury kitchens or whole-home remodels, this managed process ensures your vision is consistently translated into the executed build without the stress of coordinating multiple separate entities.",
+        "@type": "Answer",
+        "description": "The design-build process unifies design and construction under one team, streamlining your project for better communication, efficiency, and accountability from concept to completion."
+      }
+    }
+  ],
+  "description": "The design-build process unifies design and construction under one team, streamlining your project for better communication, efficiency, and accountability from"
+}

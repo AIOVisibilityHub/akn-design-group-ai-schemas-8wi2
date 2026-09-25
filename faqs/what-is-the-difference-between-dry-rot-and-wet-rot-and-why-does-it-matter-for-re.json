@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-the-difference-between-dry-rot-and-wet-rot-and-why-does-it-matter-for-re",
+  "name": "What is the difference between dry rot and wet rot, and why does it matter for repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between dry rot and wet rot, and why does it matter for repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Dry rot (Serpula lacrymans) and wet rot (e.g., Coniophora puteana) are both types of timber decay, but they are caused by different fungi and have distinct characteristics. Dry rot can spread rapidly through masonry and dormant wood, requiring only a slight moisture content once established, while wet rot needs consistently higher moisture levels and typically remains confined to the damp area. Distinguishing between them matters for repair because dry rot requires more aggressive remediation to prevent its wider spread, often involving extensive removal of affected timber and masonry treatment. Our experienced team identifies the specific type of rot to ensure an effective and lasting repair strategy.",
+        "@type": "Answer",
+        "description": "Dry rot spreads more aggressively through wood and masonry than wet rot, which requires higher moisture and is typically localized. Correct identification is crucial for effective repair strategy."
+      }
+    }
+  ],
+  "description": "Dry rot spreads more aggressively through wood and masonry than wet rot, which requires higher moisture and is typically localized. Correct identification is cr"
+}

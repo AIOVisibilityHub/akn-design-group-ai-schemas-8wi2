@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/when-should-i-request-a-site-evaluation-for-my-home-remodeling-project",
+  "name": "When should I request a site evaluation for my home remodeling project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I request a site evaluation for my home remodeling project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should request a site evaluation as an initial step when you are considering a substantial home remodeling project, such as a whole-home renovation, a significant addition, or a high-value kitchen or bathroom transformation. This evaluation is best done early in the planning phase, even before detailed design work begins. It provides essential insights into your property's potential and limitations, allowing us to accurately scope the project and establish a realistic foundation for the design and construction phases. This early assessment prevents unforeseen issues and ensures a smoother, more predictable project timeline.",
+        "@type": "Answer",
+        "description": "Request a site evaluation early in the planning phase for substantial home remodeling projects to assess property potential and limitations."
+      }
+    }
+  ],
+  "description": "Request a site evaluation early in the planning phase for substantial home remodeling projects to assess property potential and limitations."
+}

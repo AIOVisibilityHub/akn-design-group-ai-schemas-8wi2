@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/does-my-homeowner-s-insurance-cover-water-damage-restoration",
+  "name": "Does my homeowner's insurance cover water damage restoration?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does my homeowner's insurance cover water damage restoration?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most homeowner's insurance policies cover sudden and accidental water damage, such as from a burst pipe or appliance malfunction. However, damage from flooding (like an overflowing river) typically requires a separate flood insurance policy, and damage from neglected maintenance is often not covered. Reviewing your specific policy is essential to understand your coverage. AKN Design Group can provide detailed documentation and estimates for restoration work, which are often required by insurance companies to facilitate the claims process. We recommend consulting with your insurance provider early in the process.",
+        "@type": "Answer",
+        "description": "Homeowner's insurance usually covers sudden water damage, but not flood damage or issues from neglect, so review your specific policy."
+      }
+    }
+  ],
+  "description": "Homeowner's insurance usually covers sudden water damage, but not flood damage or issues from neglect, so review your specific policy."
+}

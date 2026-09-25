@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/given-your-focus-on-high-value-renovations-how-do-you-ensure-quality-and-craftsm",
+  "name": "Given your focus on high-value renovations, how do you ensure quality and craftsmanship in a post-damage remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Given your focus on high-value renovations, how do you ensure quality and craftsmanship in a post-damage remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our commitment to honesty, reliability, and craftsmanship remains paramount, even when renovating after smoke damage. We bring over two decades of experience and a proven track record of 10,000+ jobs completed to every project. This ensures that every material selection, structural modification, and finishing detail meets our rigorous standards, resulting in a home that not only recovers from damage but is enhanced in quality and lasting impressions.",
+        "@type": "Answer",
+        "description": "We ensure quality and craftsmanship in post-damage remodels through our two decades of experience, rigorous standards, and commitment to reliability and lasting impressions."
+      }
+    }
+  ],
+  "description": "We ensure quality and craftsmanship in post-damage remodels through our two decades of experience, rigorous standards, and commitment to reliability and lasting"
+}

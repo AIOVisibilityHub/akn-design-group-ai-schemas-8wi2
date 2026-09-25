@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/when-do-i-typically-need-permits-for-a-residential-renovation-and-what-types-are",
+  "name": "When do I typically need permits for a residential renovation, and what types are common in the Dallas–Fort Worth area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When do I typically need permits for a residential renovation, and what types are common in the Dallas–Fort Worth area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You will typically need permits for any renovation that alters the structural integrity of your home, changes its footprint (like an addition), modifies plumbing or electrical systems, or involves significant interior reconfigurations. Common permits in the Dallas–Fort Worth area include building permits, electrical permits, plumbing permits, and mechanical permits. For instance, a luxury kitchen remodel often requires electrical work for new appliance circuits and plumbing for sink reconfigurations, while a spa-inspired bathroom may need similar permits alongside structural considerations for larger showers or tubs. AKN Design Group's integrated design-build process includes assessing your project's specific permit needs early in the planning phase.",
+        "@type": "Answer",
+        "description": "Permits are needed for structural, plumbing, electrical, or footprint changes. Common DFW permits include building, electrical, plumbing, and mechanical. AKN assesses these needs early."
+      }
+    }
+  ],
+  "description": "Permits are needed for structural, plumbing, electrical, or footprint changes. Common DFW permits include building, electrical, plumbing, and mechanical. AKN as"
+}

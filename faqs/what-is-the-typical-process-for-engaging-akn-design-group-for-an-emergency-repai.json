@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-the-typical-process-for-engaging-akn-design-group-for-an-emergency-repai",
+  "name": "What is the typical process for engaging AKN Design Group for an emergency repair that requires extensive renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for engaging AKN Design Group for an emergency repair that requires extensive renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our process for managing significant emergency repairs that lead to extensive renovations begins with an initial consultation to assess the damage and understand the scope of work. We then develop a detailed design and construction plan, integrating the necessary repairs with your desired aesthetic and functional enhancements. This includes permit coordination, material selection, and a transparent project timeline. Our integrated design-build approach ensures a single point of coordination, moving from the initial damage mitigation through comprehensive reconstruction and final walkthrough. This managed process is designed to minimize your stress and deliver a cohesive, high-quality outcome.",
+        "@type": "Answer",
+        "description": "Our process for extensive emergency repairs involves an initial damage assessment, followed by a detailed design and construction plan, permit coordination, and a managed build through to completion."
+      }
+    }
+  ],
+  "description": "Our process for extensive emergency repairs involves an initial damage assessment, followed by a detailed design and construction plan, permit coordination, and"
+}

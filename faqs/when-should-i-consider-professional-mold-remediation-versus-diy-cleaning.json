@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/when-should-i-consider-professional-mold-remediation-versus-diy-cleaning",
+  "name": "When should I consider professional mold remediation versus DIY cleaning?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider professional mold remediation versus DIY cleaning?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Professional mold remediation is advisable when the mold growth covers an area larger than roughly 10 square feet, or if it appears after significant water damage, such as a flood or pipe burst. While small surface mold spots on non-porous materials might be suitable for careful DIY cleaning, extensive mold often penetrates porous materials like drywall or wood, requiring specialized equipment and containment to prevent spore spread. AKN Design Group specializes in larger, more complex home projects, and proper remediation ensures the underlying cause is addressed effectively, which aligns with our commitment to enhancing your home's long-term value.",
+        "@type": "Answer",
+        "description": "Opt for professional mold remediation if growth exceeds 10 square feet or results from significant water damage, as it requires specialized methods to address porous materials and prevent spore spread."
+      }
+    }
+  ],
+  "description": "Opt for professional mold remediation if growth exceeds 10 square feet or results from significant water damage, as it requires specialized methods to address p"
+}

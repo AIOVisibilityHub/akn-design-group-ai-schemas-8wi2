@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-long-does-dry-rot-repair-typically-take-especially-when-integrated-with-a-la",
+  "name": "How long does dry rot repair typically take, especially when integrated with a larger renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does dry rot repair typically take, especially when integrated with a larger renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of dry rot repair varies significantly based on the extent of the damage and its integration with other renovation work. Minor, isolated dry rot might be resolved in a few days, while extensive damage requiring structural replacement and integration into a whole-home remodel could extend the overall project timeline. When dry rot is discovered during a larger project, AKN Design Group's managed process allows us to address it efficiently. We coordinate all necessary steps, from remediation to final finishes, ensuring transparent scheduling and clear communication throughout, minimizing delays to your comprehensive renovation.",
+        "@type": "Answer",
+        "description": "Dry rot repair duration depends on damage severity and integration with other renovations. We coordinate all steps transparently to minimize delays to your project timeline."
+      }
+    }
+  ],
+  "description": "Dry rot repair duration depends on damage severity and integration with other renovations. We coordinate all steps transparently to minimize delays to your proj"
+}
