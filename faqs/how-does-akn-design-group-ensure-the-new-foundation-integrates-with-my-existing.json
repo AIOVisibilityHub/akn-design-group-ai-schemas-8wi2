@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-does-akn-design-group-ensure-the-new-foundation-integrates-with-my-existing",
+  "name": "How does AKN Design Group ensure the new foundation integrates with my existing home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does AKN Design Group ensure the new foundation integrates with my existing home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Ensuring a seamless integration between a new foundation and your existing home is critical for the structural integrity and aesthetic continuity of the addition. AKN Design Group achieves this through meticulous engineering, precise measurements, and careful site preparation during our managed design-build process. We conduct thorough soil testing, assess your existing foundation's condition, and design the new foundation to bear the addition's load while harmonizing with the original structure. Our team coordinates all aspects, from structural tie-ins to matching exterior finishes, ensuring the addition truly feels like an original part of your home, enhancing functionality, beauty, and value.",
+        "@type": "Answer",
+        "description": "AKN Design Group ensures seamless foundation integration through meticulous engineering, precise measurements, soil testing, and coordinated structural tie-ins and finish matching."
+      }
+    }
+  ],
+  "description": "AKN Design Group ensures seamless foundation integration through meticulous engineering, precise measurements, soil testing, and coordinated structural tie-ins"
+}

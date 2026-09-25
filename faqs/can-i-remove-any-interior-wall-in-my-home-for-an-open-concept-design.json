@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/can-i-remove-any-interior-wall-in-my-home-for-an-open-concept-design",
+  "name": "Can I remove any interior wall in my home for an open-concept design?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I remove any interior wall in my home for an open-concept design?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Not every interior wall can be removed without careful consideration, as some are load-bearing and crucial to your home's structural integrity. Attempting to remove a load-bearing wall without proper engineering and support can lead to significant structural damage. Before planning an open-concept design, it's essential to have a professional assessment to determine which walls are load-bearing. AKN Design Group specializes in identifying these structural elements and designing appropriate support solutions, like beams, to safely achieve your desired open space, ensuring the stability and safety of your home.",
+        "@type": "Answer",
+        "description": "Not all interior walls are safe to remove; some are load-bearing. A professional assessment is crucial to identify these walls and design safe support solutions for open-concept plans."
+      }
+    }
+  ],
+  "description": "Not all interior walls are safe to remove; some are load-bearing. A professional assessment is crucial to identify these walls and design safe support solutions"
+}

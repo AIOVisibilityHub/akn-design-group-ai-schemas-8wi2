@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-should-i-prepare-before-contacting-akn-design-group-about-a-primary-suite-a",
+  "name": "What should I prepare before contacting AKN Design Group about a primary suite addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare before contacting AKN Design Group about a primary suite addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before contacting AKN Design Group for your primary suite addition, it is helpful to have a general idea of your desired square footage, the features you envision for the bedroom and bathroom, and any specific aesthetic preferences. Considering your budget range can also help us guide you toward appropriate design and material selections during the initial consultation. Gathering inspiration images, or creating a preliminary list of 'must-haves' and 'would-likes,' allows us to better understand your vision and begin formulating a customized renovation plan.",
+        "@type": "Answer",
+        "description": "Before contacting us, prepare your desired square footage, envisioned features, aesthetic preferences, and budget range for your primary suite addition."
+      }
+    }
+  ],
+  "description": "Before contacting us, prepare your desired square footage, envisioned features, aesthetic preferences, and budget range for your primary suite addition."
+}

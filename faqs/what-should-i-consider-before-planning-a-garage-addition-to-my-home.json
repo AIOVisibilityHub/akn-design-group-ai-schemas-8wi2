@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-should-i-consider-before-planning-a-garage-addition-to-my-home",
+  "name": "What should I consider before planning a garage addition to my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I consider before planning a garage addition to my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before planning a garage addition, consider its primary purpose—whether for additional parking, a workshop, storage, or converting into a living space. Assess your property's available space, local zoning regulations, and how the addition will impact your yard or property lines. It's also beneficial to gather inspirational ideas and determine a realistic budget range. Understanding these aspects helps us tailor a customized renovation plan that aligns with your vision and enhances your home's long-term value. AKN Design Group focuses on guiding homeowners through these initial considerations during our consultation.",
+        "@type": "Answer",
+        "description": "Before a garage addition, consider its purpose, available property space, local zoning, and your budget. Understanding these factors helps us create a customized renovation plan."
+      }
+    }
+  ],
+  "description": "Before a garage addition, consider its purpose, available property space, local zoning, and your budget. Understanding these factors helps us create a customize"
+}

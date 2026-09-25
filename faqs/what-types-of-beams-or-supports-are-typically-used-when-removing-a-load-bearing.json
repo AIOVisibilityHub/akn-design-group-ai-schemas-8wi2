@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-types-of-beams-or-supports-are-typically-used-when-removing-a-load-bearing",
+  "name": "What types of beams or supports are typically used when removing a load-bearing wall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of beams or supports are typically used when removing a load-bearing wall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When removing a load-bearing wall, the new support system is crucial. Common options include steel beams, which offer high strength for wider spans, and engineered lumber beams, such as LVLs (Laminated Veneer Lumber), which are strong, stable, and often easier to work with in residential settings. The choice depends on the span length, the load being supported, and aesthetic considerations for how visible the beam will be. Our structural engineers and design-build team assess these factors to select the most appropriate and effective support, ensuring lasting safety and structural integrity for your home.",
+        "@type": "Answer",
+        "description": "Common supports include steel beams or engineered lumber beams (LVLs), chosen based on span, load, and aesthetic integration."
+      }
+    }
+  ],
+  "description": "Common supports include steel beams or engineered lumber beams (LVLs), chosen based on span, load, and aesthetic integration."
+}

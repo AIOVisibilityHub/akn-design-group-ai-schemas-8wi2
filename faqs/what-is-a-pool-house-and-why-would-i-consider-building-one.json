@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-a-pool-house-and-why-would-i-consider-building-one",
+  "name": "What is a pool house and why would I consider building one?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a pool house and why would I consider building one?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A pool house is a dedicated structure near your swimming pool, designed to enhance your outdoor living experience by providing amenities like changing rooms, restrooms, kitchens, or entertaining spaces. Considering a pool house allows for a more functional and luxurious backyard, minimizing foot traffic into your main home from wet swimmers. For homeowners seeking to maximize their high-end outdoor living spaces, a well-designed pool house integrates seamlessly with your existing property and significantly elevates both convenience and property value.",
+        "@type": "Answer",
+        "description": "A pool house enhances your outdoor living experience with dedicated amenities, improving functionality and convenience around your pool."
+      }
+    }
+  ],
+  "description": "A pool house enhances your outdoor living experience with dedicated amenities, improving functionality and convenience around your pool."
+}

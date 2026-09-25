@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-factors-influence-the-cost-of-a-bump-out-addition",
+  "name": "What factors influence the cost of a bump-out addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of a bump-out addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a bump-out addition is influenced by several factors, including its size, the complexity of the structural work required, the types of materials chosen for interior and exterior finishes, and the need for new utility extensions like plumbing or electrical. Foundation requirements also play a significant role; a cantilevered bump-out may be less costly than one requiring a new, localized foundation. We focus on value engineering during the design phase to help optimize your investment. AKN Design Group provides upfront estimates and transparent communication to ensure you understand the project scope and associated costs from the outset.",
+        "@type": "Answer",
+        "description": "Cost factors for a bump-out include size, structural complexity, material selections, utility extensions, and foundation requirements, all of which are covered in our upfront estimates."
+      }
+    }
+  ],
+  "description": "Cost factors for a bump-out include size, structural complexity, material selections, utility extensions, and foundation requirements, all of which are covered"
+}

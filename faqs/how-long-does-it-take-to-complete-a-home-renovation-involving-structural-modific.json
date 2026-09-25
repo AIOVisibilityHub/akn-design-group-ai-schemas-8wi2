@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-long-does-it-take-to-complete-a-home-renovation-involving-structural-modific",
+  "name": "How long does it take to complete a home renovation involving structural modifications?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to complete a home renovation involving structural modifications?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for a renovation involving structural modifications can vary significantly based on the complexity and scope of the changes. Simple wall removals might add weeks, while a multi-story addition involving extensive foundation work and roofline integration could take several months. Factors like permit approval times, material lead times, and the extent of demolition and reconstruction all influence the duration. AKN Design Group provides detailed project schedules with clear milestones and communication to manage expectations and minimize disruptions, leveraging our two decades of experience for efficient project management.",
+        "@type": "Answer",
+        "description": "Timelines vary for structural modifications, from weeks for simple wall removals to months for complex additions, depending on scope, permits, and materials."
+      }
+    }
+  ],
+  "description": "Timelines vary for structural modifications, from weeks for simple wall removals to months for complex additions, depending on scope, permits, and materials."
+}

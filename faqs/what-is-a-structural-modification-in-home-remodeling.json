@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-a-structural-modification-in-home-remodeling",
+  "name": "What is a structural modification in home remodeling?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a structural modification in home remodeling?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A structural modification in home remodeling involves altering the primary load-bearing elements of your home, such as walls, beams, or foundations, to change the layout, add space, or improve functionality. This often includes removing walls for an open-concept kitchen, adding new windows or doors, or expanding your home with an addition. AKN Design Group integrates these modifications seamlessly into our comprehensive design-build process, ensuring structural integrity and aesthetic harmony. Understanding the scope of these changes early on helps us develop a precise project plan.",
+        "@type": "Answer",
+        "description": "Structural modification involves altering load-bearing elements of your home to change the layout or add space, often for an open-concept design or an addition."
+      }
+    }
+  ],
+  "description": "Structural modification involves altering load-bearing elements of your home to change the layout or add space, often for an open-concept design or an addition."
+}

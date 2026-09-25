@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-considerations-are-important-for-adding-a-second-story-or-a-substantial-roo",
+  "name": "What considerations are important for adding a second story or a substantial room addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What considerations are important for adding a second story or a substantial room addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Adding a second story or a substantial room addition involves significant structural considerations. Key factors include assessing your existing foundation's capacity to support the additional weight, integrating new structural elements with the current roofline, and ensuring seamless exterior finish matching. This type of project requires detailed architectural plans, structural engineering, and comprehensive permit coordination. AKN Design Group manages these complexities with an integrated design-build approach, guiding homeowners from concept to completion and ensuring the addition not only adds space but also visually integrates with the original home, enhancing its functionality and value.",
+        "@type": "Answer",
+        "description": "Adding a second story or a large addition requires assessing foundation capacity, integrating new structures, and matching finishes. AKN Design Group manages these complex structural and design elements through our integrated process."
+      }
+    }
+  ],
+  "description": "Adding a second story or a large addition requires assessing foundation capacity, integrating new structures, and matching finishes. AKN Design Group manages th"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-are-the-common-challenges-with-primary-suite-additions-and-how-does-akn-des",
+  "name": "What are the common challenges with primary suite additions, and how does AKN Design Group address them?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common challenges with primary suite additions, and how does AKN Design Group address them?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common challenges in primary suite additions include seamlessly integrating the new structure with the existing home's roofline and exterior finishes, managing unexpected structural issues, and navigating permit coordination. AKN Design Group addresses these by employing decades of experience and an integrated design-build approach. Our team handles all aspects from detailed structural planning and exterior tie-in work to proactive permit coordination. This single point of coordination ensures potential challenges are identified early and resolved efficiently, maintaining project flow and quality.",
+        "@type": "Answer",
+        "description": "Challenges like structural integration and permitting are addressed by our experienced design-build team, ensuring seamless execution and proactive problem-solving."
+      }
+    }
+  ],
+  "description": "Challenges like structural integration and permitting are addressed by our experienced design-build team, ensuring seamless execution and proactive problem-solv"
+}

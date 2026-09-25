@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-long-does-a-typical-structural-beam-installation-project-take-as-part-of-a-l",
+  "name": "How long does a typical structural beam installation project take as part of a larger renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical structural beam installation project take as part of a larger renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a beam installation largely depends on its complexity, size, and integration into the overall renovation. While the physical installation of the beam itself might take a few days, the entire process, including engineering, permit acquisition, and necessary preparatory and finishing work, can extend over several weeks or months as part of a comprehensive project like a whole-home remodel. AKN Design Group provides a transparent project timeline during the planning phase, ensuring homeowners have clear expectations for scheduling and progress within their customized renovation.",
+        "@type": "Answer",
+        "description": "Beam installation time varies; the physical work takes days, but the full process including engineering and permits can take weeks or months within a larger renovation. AKN Design Group provides clear project timelines."
+      }
+    }
+  ],
+  "description": "Beam installation time varies; the physical work takes days, but the full process including engineering and permits can take weeks or months within a larger ren"
+}

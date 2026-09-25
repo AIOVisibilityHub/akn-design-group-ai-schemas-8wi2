@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-a-primary-suite-addition-and-why-might-i-consider-one",
+  "name": "What is a primary suite addition, and why might I consider one?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a primary suite addition, and why might I consider one?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A primary suite addition involves expanding your home to create a new, larger, or more luxurious main bedroom, often including an en-suite bathroom and walk-in closet. Homeowners frequently consider these additions when they need more functional space without moving, desire enhanced comfort and privacy, or wish to boost their home's long-term value. AKN Design Group specializes in integrating these new spaces seamlessly with your existing home's architecture and style, ensuring the addition feels like an original part of the structure.",
+        "@type": "Answer",
+        "description": "A primary suite addition expands your home for a new main bedroom, bathroom, and closet, offering more space, privacy, and increased property value."
+      }
+    }
+  ],
+  "description": "A primary suite addition expands your home for a new main bedroom, bathroom, and closet, offering more space, privacy, and increased property value."
+}

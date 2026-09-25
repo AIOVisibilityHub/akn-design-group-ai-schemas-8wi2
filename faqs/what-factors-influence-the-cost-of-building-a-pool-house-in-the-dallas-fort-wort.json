@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-factors-influence-the-cost-of-building-a-pool-house-in-the-dallas-fort-wort",
+  "name": "What factors influence the cost of building a pool house in the Dallas–Fort Worth metroplex?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of building a pool house in the Dallas–Fort Worth metroplex?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of building a pool house is influenced by its size, complexity of design, included amenities, and material selections. Features such as integrated kitchens, luxury bathrooms, custom built-ins, and high-end finishes will impact the overall investment. Additionally, site preparation, utility extensions (water, electrical, gas), and permit coordination costs are integral parts of the budget. We engage in value engineering discussions early in the design-build process to ensure your vision aligns with a managed financial plan.",
+        "@type": "Answer",
+        "description": "Pool house costs depend on size, design complexity, amenities, and material choices, with utility extensions and permits also influencing the budget."
+      }
+    }
+  ],
+  "description": "Pool house costs depend on size, design complexity, amenities, and material choices, with utility extensions and permits also influencing the budget."
+}

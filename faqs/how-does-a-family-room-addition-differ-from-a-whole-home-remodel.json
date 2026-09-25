@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-does-a-family-room-addition-differ-from-a-whole-home-remodel",
+  "name": "How does a family room addition differ from a whole-home remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does a family room addition differ from a whole-home remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A family room addition specifically expands your home's footprint by adding new living space, focusing on creating a dedicated functional area. A whole-home remodel, conversely, renovates existing spaces throughout the entire house to improve flow and update aesthetics. While both enhance functionality and value, an addition increases square footage, whereas a remodel transforms existing space. AKN Design Group specializes in both, ensuring a coordinated transformation regardless of project type.",
+        "@type": "Answer",
+        "description": "An addition expands square footage for new space, while a whole-home remodel renovates existing areas to improve flow and update aesthetics."
+      }
+    }
+  ],
+  "description": "An addition expands square footage for new space, while a whole-home remodel renovates existing areas to improve flow and update aesthetics."
+}

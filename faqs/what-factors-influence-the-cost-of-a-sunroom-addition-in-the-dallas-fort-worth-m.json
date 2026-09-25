@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-factors-influence-the-cost-of-a-sunroom-addition-in-the-dallas-fort-worth-m",
+  "name": "What factors influence the cost of a sunroom addition in the Dallas–Fort Worth metroplex?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of a sunroom addition in the Dallas–Fort Worth metroplex?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a sunroom addition in the Dallas–Fort Worth metroplex can vary significantly based on several factors, including its size, the complexity of the design, the type of materials selected for windows and roofing, and whether it requires new foundation work. Integrating HVAC systems for year-round climate control, electrical work, and custom interior finishes also contribute to the overall investment. AKN Design Group provides upfront estimates and employs value engineering to ensure your project aligns with your vision and budget while maintaining our commitment to craftsmanship.",
+        "@type": "Answer",
+        "description": "Sunroom addition costs in the Dallas–Fort Worth metroplex depend on size, design complexity, material choices, and integration of systems like HVAC or electrical."
+      }
+    }
+  ],
+  "description": "Sunroom addition costs in the Dallas–Fort Worth metroplex depend on size, design complexity, material choices, and integration of systems like HVAC or electrica"
+}

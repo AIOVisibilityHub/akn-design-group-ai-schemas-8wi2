@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-are-the-key-factors-that-influence-the-cost-of-an-in-law-suite-addition",
+  "name": "What are the key factors that influence the cost of an in-law suite addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the key factors that influence the cost of an in-law suite addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of an in-law suite addition is influenced by several key factors, including its size, the chosen finishes, structural modifications required, and the extent of new utility connections. Detached structures, for example, often incur higher costs due to new foundation, roofing, and utility runs. Our value engineering approach focuses on optimizing design and material choices to meet your budget and functional requirements while ensuring quality. We provide upfront estimates and clear communication throughout the project, ensuring there are no surprises.",
+        "@type": "Answer",
+        "description": "Costs for an in-law suite depend on size, finishes, structural changes, and utility connections. We use value engineering to align design with your budget."
+      }
+    }
+  ],
+  "description": "Costs for an in-law suite depend on size, finishes, structural changes, and utility connections. We use value engineering to align design with your budget."
+}

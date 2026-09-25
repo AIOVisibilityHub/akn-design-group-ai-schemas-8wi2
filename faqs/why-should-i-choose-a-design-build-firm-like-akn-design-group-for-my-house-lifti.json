@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/why-should-i-choose-a-design-build-firm-like-akn-design-group-for-my-house-lifti",
+  "name": "Why should I choose a design-build firm like AKN Design Group for my house lifting project instead of separate contractors?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why should I choose a design-build firm like AKN Design Group for my house lifting project instead of separate contractors?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing an integrated design-build firm like AKN Design Group for a complex house lifting project offers a single point of coordination, streamlining the entire process. When dealing with separate contractors for design and construction, homeowners often face communication gaps, scheduling conflicts, and accountability issues that can lead to delays and budget overruns. Our approach unifies design planning and construction under one accountable team, fostering clear communication and efficient project management from conceptualization through the final walkthrough. This managed process minimizes homeowner stress and ensures that the structural design and construction execution are perfectly harmonized, resulting in a cohesive, high-quality outcome that enhances functionality, beauty, and value.",
+        "@type": "Answer",
+        "description": "A design-build firm provides a single point of coordination, unifying design and construction, minimizing communication gaps and ensuring a streamlined, cohesive project outcome."
+      }
+    }
+  ],
+  "description": "A design-build firm provides a single point of coordination, unifying design and construction, minimizing communication gaps and ensuring a streamlined, cohesiv"
+}

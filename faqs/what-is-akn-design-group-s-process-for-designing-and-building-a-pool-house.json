@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-akn-design-group-s-process-for-designing-and-building-a-pool-house",
+  "name": "What is AKN Design Group's process for designing and building a pool house?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is AKN Design Group's process for designing and building a pool house?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our process for designing and building a pool house is an integrated design-build approach, providing homeowners with a single point of coordination. It begins with an initial consultation to understand your vision and needs, followed by detailed design planning and CAD-supported layouts. Once designs are approved and permit coordination is complete, our skilled craftsmen execute the construction. We ensure clear communication, scheduling transparency, and a managed process from concept to final walkthrough, delivering a high-end outdoor living space designed for lasting enjoyment.",
+        "@type": "Answer",
+        "description": "AKN's integrated design-build process coordinates your pool house project from initial concept, detailed design, permit handling, to final construction."
+      }
+    }
+  ],
+  "description": "AKN's integrated design-build process coordinates your pool house project from initial concept, detailed design, permit handling, to final construction."
+}

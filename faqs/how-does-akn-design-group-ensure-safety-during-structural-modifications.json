@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-does-akn-design-group-ensure-safety-during-structural-modifications",
+  "name": "How does AKN Design Group ensure safety during structural modifications?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does AKN Design Group ensure safety during structural modifications?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Safety is paramount in all structural modifications undertaken by AKN Design Group. We ensure safety through a multi-faceted approach that includes engaging certified structural engineers for all load-bearing alterations, meticulously planning temporary support structures during construction, and strictly adhering to all local building codes and regulations. Our experienced team follows rigorous safety protocols on-site, and all work is subject to required municipal inspections. This managed process, backed by our decades of experience, ensures the integrity of your home and the safety of everyone involved.",
+        "@type": "Answer",
+        "description": "AKN Design Group prioritizes safety by involving certified structural engineers, using temporary supports, adhering to building codes, and conducting rigorous on-site safety protocols and inspections."
+      }
+    }
+  ],
+  "description": "AKN Design Group prioritizes safety by involving certified structural engineers, using temporary supports, adhering to building codes, and conducting rigorous o"
+}

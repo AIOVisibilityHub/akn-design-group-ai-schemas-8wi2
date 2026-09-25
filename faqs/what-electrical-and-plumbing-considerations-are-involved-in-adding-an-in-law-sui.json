@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-electrical-and-plumbing-considerations-are-involved-in-adding-an-in-law-sui",
+  "name": "What electrical and plumbing considerations are involved in adding an in-law suite?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What electrical and plumbing considerations are involved in adding an in-law suite?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Adding an in-law suite often requires extending or upgrading your home's existing electrical and plumbing systems to accommodate new bathrooms, kitchenettes, and living spaces. This includes ensuring adequate power supply, adding new circuits, and connecting to water and waste lines. Complex projects may require panel upgrades or new sewer connections. Our design-build team carefully assesses these infrastructure needs during planning, incorporating necessary upgrades to meet current codes and ensure the new suite is fully functional and safe.",
+        "@type": "Answer",
+        "description": "In-law suites require careful planning for new electrical circuits, plumbing connections, and potential system upgrades to support added bathrooms and kitchenettes, all managed by our team."
+      }
+    }
+  ],
+  "description": "In-law suites require careful planning for new electrical circuits, plumbing connections, and potential system upgrades to support added bathrooms and kitchenet"
+}

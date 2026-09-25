@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-a-load-bearing-wall-and-how-can-i-identify-one-in-my-home",
+  "name": "What is a load-bearing wall, and how can I identify one in my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a load-bearing wall, and how can I identify one in my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A load-bearing wall is a critical structural element that supports the weight from your home's roof, upper floors, or other structural components, transferring that load down to the foundation. Removing it without proper planning can compromise the structural integrity of your entire home. Identifying one typically requires an expert assessment, as it's not always obvious to the untrained eye. We recommend homeowners consult with a structural engineer or an experienced design-build team like AKN Design Group, who can accurately determine a wall's function through architectural plans and on-site evaluation, ensuring any modifications are structurally sound and safe.",
+        "@type": "Answer",
+        "description": "A load-bearing wall supports your home's structure. Identifying it requires expert assessment to prevent structural damage."
+      }
+    }
+  ],
+  "description": "A load-bearing wall supports your home's structure. Identifying it requires expert assessment to prevent structural damage."
+}

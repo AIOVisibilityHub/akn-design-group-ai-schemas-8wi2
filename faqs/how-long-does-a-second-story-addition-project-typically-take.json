@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-long-does-a-second-story-addition-project-typically-take",
+  "name": "How long does a second-story addition project typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a second-story addition project typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for a second-story addition can vary significantly based on the project's complexity, the size of the addition, and the specifics of permitting in the Dallas–Fort Worth metroplex. Generally, these projects involve extensive structural work and multiple inspection points, making them more involved than a single-room remodel. While we can provide an estimated timeline during the design phase, our commitment to clear communication means we keep you informed of scheduling transparency. Factors like material lead times, unforeseen structural discoveries, and permit approval durations can influence the overall schedule.",
+        "@type": "Answer",
+        "description": "Project duration varies by complexity, size, and permitting, but typically involves extensive structural work. We provide transparent schedules and manage expectations."
+      }
+    }
+  ],
+  "description": "Project duration varies by complexity, size, and permitting, but typically involves extensive structural work. We provide transparent schedules and manage expec"
+}

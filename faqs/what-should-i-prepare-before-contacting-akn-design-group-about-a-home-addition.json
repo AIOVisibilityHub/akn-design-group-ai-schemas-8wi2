@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-should-i-prepare-before-contacting-akn-design-group-about-a-home-addition",
+  "name": "What should I prepare before contacting AKN Design Group about a home addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare before contacting AKN Design Group about a home addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before contacting AKN Design Group about a home addition, consider what new functionality you need, any existing challenges with your current space, and a general idea of your desired aesthetic. Gathering examples of designs you like, understanding your household's lifestyle requirements, and having an approximate budget range can be helpful. This preparation allows us to better understand your vision and goals during the initial consultation, enabling us to provide a more tailored and accurate assessment of how we can enhance your home's functionality, beauty, and value.",
+        "@type": "Answer",
+        "description": "Before contacting AKN Design Group, prepare your desired functionality, aesthetic preferences, and an approximate budget to help us understand your vision for the addition."
+      }
+    }
+  ],
+  "description": "Before contacting AKN Design Group, prepare your desired functionality, aesthetic preferences, and an approximate budget to help us understand your vision for t"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-types-of-foundations-are-used-for-home-additions",
+  "name": "What types of foundations are used for home additions?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of foundations are used for home additions?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For home additions, common foundation types include slab-on-grade, crawl space, and full basement foundations. Slab-on-grade foundations are often cost-effective and built directly on the ground, suitable for warmer climates. Crawl spaces provide accessible space for utilities and offer some protection from moisture, while full basements add significant usable square footage beneath the new structure. The appropriate choice depends on factors like soil conditions, local building codes, your budget, and the desired functionality of the new space. AKN Design Group considers these elements to integrate the new foundation seamlessly with your existing home's structure and aesthetic.",
+        "@type": "Answer",
+        "description": "Common foundation types for additions include slab-on-grade, crawl space, and full basement, each chosen based on soil, budget, and desired functionality."
+      }
+    }
+  ],
+  "description": "Common foundation types for additions include slab-on-grade, crawl space, and full basement, each chosen based on soil, budget, and desired functionality."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-should-i-consider-when-planning-a-home-addition-versus-renovating-existing",
+  "name": "What should I consider when planning a home addition versus renovating existing space?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I consider when planning a home addition versus renovating existing space?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When evaluating a home addition versus renovating existing space, consider your long-term needs, property constraints, and budget. An addition provides new square footage and can dramatically alter your home's layout, while a renovation optimizes existing space and can be more cost-effective if structural changes are minimal. Factors like lot size, setback requirements, and the desired functionality often dictate the best approach. Our team can help assess your property's potential and your lifestyle needs to determine if an addition or a comprehensive remodel is the most suitable path for enhancing your home's functionality and value.",
+        "@type": "Answer",
+        "description": "Consider your long-term needs, property constraints, and budget when deciding between a home addition for new square footage or renovating existing space to optimize its current footprint."
+      }
+    }
+  ],
+  "description": "Consider your long-term needs, property constraints, and budget when deciding between a home addition for new square footage or renovating existing space to opt"
+}

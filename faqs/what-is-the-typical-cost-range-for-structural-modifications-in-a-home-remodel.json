@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-the-typical-cost-range-for-structural-modifications-in-a-home-remodel",
+  "name": "What is the typical cost range for structural modifications in a home remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost range for structural modifications in a home remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of structural modifications is highly variable, depending on the extent of the work, the type of structure, and the materials required. A simple load-bearing wall removal might cost several thousand dollars, while a significant addition or complex foundation work could range from tens of thousands to well over a hundred thousand dollars. Factors like engineering fees, permit costs, and the need for temporary supports all contribute. AKN Design Group provides upfront, transparent estimates tailored to your specific project needs, focusing on value engineering to optimize your investment without compromising craftsmanship or safety.",
+        "@type": "Answer",
+        "description": "Costs for structural modifications vary widely, from thousands for simple wall removals to tens or hundreds of thousands for complex additions, depending on scope and materials."
+      }
+    }
+  ],
+  "description": "Costs for structural modifications vary widely, from thousands for simple wall removals to tens or hundreds of thousands for complex additions, depending on sco"
+}

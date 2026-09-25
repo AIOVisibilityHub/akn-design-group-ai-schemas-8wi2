@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-long-does-a-typical-bump-out-addition-project-take-to-complete",
+  "name": "How long does a typical bump-out addition project take to complete?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical bump-out addition project take to complete?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for a typical bump-out addition can vary based on its complexity, the extent of structural modifications, and the specifics of the interior and exterior finishes. Generally, these projects are less extensive than full room additions, leading to shorter construction periods. Key phases include design, permit acquisition, foundation work, framing, roofing, exterior siding, and interior finishing. AKN Design Group prioritizes scheduling transparency and clear communication throughout the project, providing a realistic timeline tailored to your specific renovation, ensuring we complete your project efficiently and with exceptional craftsmanship.",
+        "@type": "Answer",
+        "description": "Bump-out timelines vary with complexity, structural needs, and finishes, but are generally shorter than full additions. We provide transparent, project-specific schedules."
+      }
+    }
+  ],
+  "description": "Bump-out timelines vary with complexity, structural needs, and finishes, but are generally shorter than full additions. We provide transparent, project-specific"
+}

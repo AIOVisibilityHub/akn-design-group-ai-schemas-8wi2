@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/can-a-bump-out-addition-accommodate-a-new-bathroom-or-kitchen-extension",
+  "name": "Can a bump-out addition accommodate a new bathroom or kitchen extension?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can a bump-out addition accommodate a new bathroom or kitchen extension?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Absolutely. A bump-out addition is an excellent solution for expanding a kitchen to incorporate a larger island, a pantry, or a breakfast nook, or for enlarging a bathroom to allow for a more spacious walk-in shower, double vanity, or additional storage. The key is in the precise design and structural planning to ensure the new space seamlessly integrates with existing plumbing, electrical, and HVAC systems. Our specialized design-build team can help you explore the possibilities and create a customized renovation that enhances functionality, beauty, and value, delivering a truly spa-inspired experience or a functional entertaining space.",
+        "@type": "Answer",
+        "description": "Yes, bump-outs are ideal for expanding kitchens or bathrooms to add features like larger islands, walk-in showers, or double vanities, with careful design and structural planning."
+      }
+    }
+  ],
+  "description": "Yes, bump-outs are ideal for expanding kitchens or bathrooms to add features like larger islands, walk-in showers, or double vanities, with careful design and s"
+}

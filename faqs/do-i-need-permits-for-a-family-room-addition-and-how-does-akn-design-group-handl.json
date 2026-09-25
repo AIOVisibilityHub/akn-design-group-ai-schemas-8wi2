@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/do-i-need-permits-for-a-family-room-addition-and-how-does-akn-design-group-handl",
+  "name": "Do I need permits for a family room addition, and how does AKN Design Group handle this?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need permits for a family room addition, and how does AKN Design Group handle this?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, family room additions almost always require permits from your local municipality due to structural, electrical, and plumbing changes. Navigating these requirements can be complex. As part of our managed process, AKN Design Group handles all necessary permit coordination, ensuring your project complies with local building codes in areas like Fort Worth, Alameda, Albany, Berkeley, or Dublin. This single point of coordination relieves homeowners of this administrative burden.",
+        "@type": "Answer",
+        "description": "Yes, permits are required for additions; AKN Design Group manages all permit coordination to ensure compliance with local building codes."
+      }
+    }
+  ],
+  "description": "Yes, permits are required for additions; AKN Design Group manages all permit coordination to ensure compliance with local building codes."
+}

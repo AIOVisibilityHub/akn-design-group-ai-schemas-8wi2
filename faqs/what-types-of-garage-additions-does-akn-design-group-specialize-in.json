@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-types-of-garage-additions-does-akn-design-group-specialize-in",
+  "name": "What types of garage additions does AKN Design Group specialize in?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of garage additions does AKN Design Group specialize in?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "AKN Design Group specializes in custom garage additions that seamlessly integrate with your existing home and lifestyle. We design and build various types of additions, including expanded garages for additional vehicles or storage, dedicated workshop spaces, home office integrations above or beside a garage, or conversions to living spaces like accessory dwelling units (ADUs). Our approach focuses on enhancing functionality, beauty, and long-term value, ensuring the new structure complements your home's aesthetics and structural integrity. A key aspect of our managed process is integrating the new space for a cohesive look and efficient use.",
+        "@type": "Answer",
+        "description": "We specialize in custom garage additions such as expanded vehicle storage, workshops, home offices, or living space conversions, all designed to integrate seamlessly with your existing home."
+      }
+    }
+  ],
+  "description": "We specialize in custom garage additions such as expanded vehicle storage, workshops, home offices, or living space conversions, all designed to integrate seaml"
+}

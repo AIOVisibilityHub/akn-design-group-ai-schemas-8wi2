@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-involved-in-the-design-build-process-for-a-backyard-office-shed",
+  "name": "What is involved in the design-build process for a backyard office shed?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in the design-build process for a backyard office shed?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our design-build process for a backyard office shed begins with understanding your specific needs and vision, translating them into CAD-supported layouts. This managed process covers everything from initial concept and site assessment to permit coordination, construction, and final walkthrough. As a single point of coordination, AKN Design Group handles all aspects, ensuring the design vision integrates seamlessly with construction execution, from foundation and framing to interior finishes and exterior tie-in work. This integrated approach minimizes homeowner stress and ensures a cohesive result.",
+        "@type": "Answer",
+        "description": "The design-build process for a backyard office shed covers concept, CAD layouts, permitting, construction, and final walkthrough, managed by a single team."
+      }
+    }
+  ],
+  "description": "The design-build process for a backyard office shed covers concept, CAD layouts, permitting, construction, and final walkthrough, managed by a single team."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-involved-in-building-a-dedicated-studio-office-at-home",
+  "name": "What is involved in building a dedicated studio office at home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in building a dedicated studio office at home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Constructing a dedicated studio office involves creating a customized space tailored to your professional needs and integrating it seamlessly with your existing home. This often includes foundational work, framing, roofing, and connecting utilities like HVAC, electrical, and lighting. AKN Design Group manages the entire design-build process, from initial concept and architectural planning to structural integration and final interior finishes, ensuring the new space enhances both functionality and your home's overall aesthetic and value. A key decision factor involves assessing whether the addition will be attached to the existing structure or a standalone unit, which impacts foundation requirements and utility connections.",
+        "@type": "Answer",
+        "description": "Building a dedicated studio office involves custom design, structural integration, and utility connections, managed through a comprehensive design-build process."
+      }
+    }
+  ],
+  "description": "Building a dedicated studio office involves custom design, structural integration, and utility connections, managed through a comprehensive design-build process"
+}

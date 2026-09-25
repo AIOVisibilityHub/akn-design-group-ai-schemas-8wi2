@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-questions-should-i-ask-a-contractor-about-foundation-construction-for-an-ad",
+  "name": "What questions should I ask a contractor about foundation construction for an addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What questions should I ask a contractor about foundation construction for an addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When evaluating contractors for foundation construction, ask about their experience with similar additions, their approach to site preparation and soil testing, and how they handle permit coordination. Inquire about the types of foundations they recommend for your specific project and why, as well as their methods for integrating the new foundation with your existing home. It's also vital to understand their communication process, project timeline management, and how they address unforeseen challenges. AKN Design Group emphasizes clear communication and transparency throughout our managed process, ensuring you are fully informed from concept to completion, reinforcing our commitment to building trust and lasting relationships.",
+        "@type": "Answer",
+        "description": "Ask contractors about their experience, site prep, permit handling, recommended foundation types, integration methods, communication, and project management for additions."
+      }
+    }
+  ],
+  "description": "Ask contractors about their experience, site prep, permit handling, recommended foundation types, integration methods, communication, and project management for"
+}

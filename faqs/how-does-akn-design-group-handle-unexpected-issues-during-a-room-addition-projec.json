@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-does-akn-design-group-handle-unexpected-issues-during-a-room-addition-projec",
+  "name": "How does AKN Design Group handle unexpected issues during a room addition project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does AKN Design Group handle unexpected issues during a room addition project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "During any complex room addition project, unforeseen conditions can occasionally arise. AKN Design Group addresses these by maintaining clear communication and proactive problem-solving. Our integrated design-build team is equipped with over two decades of experience to skillfully manage unexpected structural challenges, utility relocations, or material availability issues. We prioritize transparency, promptly informing you of any developments and proposing solutions to keep the project on track, ensuring the highest standards of craftsmanship and minimal disruption to the homeowner experience.",
+        "@type": "Answer",
+        "description": "AKN Design Group handles unexpected issues during room additions with clear communication and proactive problem-solving, leveraging our experienced design-build team to manage challenges and maintain project progress."
+      }
+    }
+  ],
+  "description": "AKN Design Group handles unexpected issues during room additions with clear communication and proactive problem-solving, leveraging our experienced design-build"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-does-a-kitchen-addition-impact-my-home-s-value",
+  "name": "How does a kitchen addition impact my home's value?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does a kitchen addition impact my home's value?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A well-executed kitchen addition can significantly enhance your home's functionality, beauty, and long-term value. Expanding your living space with a modern, customized kitchen is a highly desirable improvement for many homeowners and prospective buyers. The impact on value is maximized when the addition is thoughtfully designed to integrate seamlessly with the existing architecture and includes quality craftsmanship and finishes. AKN Design Group focuses on customized solutions that not only meet your current needs but also contribute positively to your home’s overall market appeal and value.",
+        "@type": "Answer",
+        "description": "A well-executed kitchen addition enhances functionality, beauty, and long-term value, proving to be a desirable home improvement. AKN Design Group ensures customized solutions and quality craftsmanship for optimal impact."
+      }
+    }
+  ],
+  "description": "A well-executed kitchen addition enhances functionality, beauty, and long-term value, proving to be a desirable home improvement. AKN Design Group ensures custo"
+}

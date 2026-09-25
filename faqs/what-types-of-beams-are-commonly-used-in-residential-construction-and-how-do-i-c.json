@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-types-of-beams-are-commonly-used-in-residential-construction-and-how-do-i-c",
+  "name": "What types of beams are commonly used in residential construction, and how do I choose the right one?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of beams are commonly used in residential construction, and how do I choose the right one?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common beam types in residential construction include engineered wood products (like LVL or Glulam), steel beams, and sometimes reinforced concrete. The selection depends on factors such as load requirements, span length, aesthetic preferences, and budget. For instance, steel beams offer high strength for long spans with a smaller profile, while engineered wood might be preferred for ease of integration within existing wood framing. AKN Design Group's design-build process includes value engineering to help clients compare options, ensuring the chosen beam meets structural needs while aligning with the project's overall design and cost parameters.",
+        "@type": "Answer",
+        "description": "Common beams are engineered wood or steel, chosen based on load, span, aesthetics, and budget. AKN Design Group assists in selecting the optimal type through value engineering, balancing structural needs and project goals."
+      }
+    }
+  ],
+  "description": "Common beams are engineered wood or steel, chosen based on load, span, aesthetics, and budget. AKN Design Group assists in selecting the optimal type through va"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-does-pool-house-construction-impact-my-backyard-landscaping",
+  "name": "How does pool house construction impact my backyard landscaping?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does pool house construction impact my backyard landscaping?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Pool house construction will inherently impact your existing backyard landscaping, requiring careful planning to integrate the new structure seamlessly. This often involves relocating or protecting existing plants, redesigning pathways, and potentially extending irrigation systems. Our design-build process considers the holistic outdoor living space, ensuring that the pool house design harmonizes with and enhances your landscape rather than detracting from it. We aim to create a cohesive environment that maximizes both aesthetics and functionality.",
+        "@type": "Answer",
+        "description": "Pool house construction impacts landscaping through plant relocation, pathway redesign, and irrigation adjustments, requiring integrated planning for a cohesive outdoor space."
+      }
+    }
+  ],
+  "description": "Pool house construction impacts landscaping through plant relocation, pathway redesign, and irrigation adjustments, requiring integrated planning for a cohesive"
+}

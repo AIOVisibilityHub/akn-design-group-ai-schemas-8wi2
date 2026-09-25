@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-should-i-prepare-before-discussing-structural-modifications-with-a-contract",
+  "name": "What should I prepare before discussing structural modifications with a contractor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare before discussing structural modifications with a contractor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before discussing structural modifications, preparing a few key items can significantly streamline the process. Gather any existing blueprints or architectural drawings of your home, if available. Think about your desired outcome: what specific functional or aesthetic improvements are you hoping to achieve? This includes considering how the new layout will impact adjacent spaces and your daily routines. Having these initial thoughts helps AKN Design Group understand your vision and assess the feasibility and scope of the structural changes, allowing us to provide a more accurate and comprehensive initial consultation for your customized renovation.",
+        "@type": "Answer",
+        "description": "Before discussing structural modifications, prepare any existing blueprints and clearly define your desired functional and aesthetic outcomes. This helps us assess feasibility for your customized renovation."
+      }
+    }
+  ],
+  "description": "Before discussing structural modifications, prepare any existing blueprints and clearly define your desired functional and aesthetic outcomes. This helps us ass"
+}

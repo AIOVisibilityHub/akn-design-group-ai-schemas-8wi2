@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/when-is-a-primary-suite-addition-a-better-option-than-purchasing-a-new-home",
+  "name": "When is a primary suite addition a better option than purchasing a new home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When is a primary suite addition a better option than purchasing a new home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A primary suite addition often proves to be a superior option to purchasing a new home when you love your current neighborhood, have children in local schools, or have strong community ties that you wish to maintain. It allows you to gain the specific space and luxury features you desire without the disruption, costs, and emotional impact of moving. This customized renovation enables you to enhance functionality, beauty, and value precisely where you live, tailored to your unique lifestyle. AKN Design Group helps you realize the full potential of your existing property.",
+        "@type": "Answer",
+        "description": "Choose a primary suite addition over moving if you love your neighborhood and want customized space and luxury without the disruption of relocating."
+      }
+    }
+  ],
+  "description": "Choose a primary suite addition over moving if you love your neighborhood and want customized space and luxury without the disruption of relocating."
+}

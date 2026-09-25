@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-the-typical-timeframe-for-a-custom-garage-addition-project",
+  "name": "What is the typical timeframe for a custom garage addition project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical timeframe for a custom garage addition project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The typical timeframe for a custom garage addition project varies significantly based on its complexity, size, and the specifics of the design. Factors such as foundation work, structural integration, utility extensions, and interior finishes all impact the schedule. While we provide clear upfront estimates, a project timeline can range from several weeks for a straightforward expansion to several months for a multi-purpose addition with extensive custom features. Our managed process includes detailed scheduling transparency, ensuring clear communication about each phase, from permit coordination to final walkthrough, helping homeowners understand expectations.",
+        "@type": "Answer",
+        "description": "The timeframe for a custom garage addition varies based on complexity and size, typically ranging from weeks to several months. Our managed process provides detailed scheduling transparency from permitting to completion."
+      }
+    }
+  ],
+  "description": "The timeframe for a custom garage addition varies based on complexity and size, typically ranging from weeks to several months. Our managed process provides det"
+}

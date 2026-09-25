@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/will-an-in-law-suite-addition-increase-the-value-of-my-home",
+  "name": "Will an in-law suite addition increase the value of my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will an in-law suite addition increase the value of my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A thoughtfully designed and well-executed in-law suite addition can significantly enhance the functionality and long-term market value of your home, especially in competitive real estate markets like the Dallas–Fort Worth metroplex. It appeals to buyers seeking flexible living arrangements or additional income potential. However, the true value enhancement comes from a seamless integration that doesn't compromise the original home's aesthetic or structural integrity. Our commitment to craftsmanship ensures the addition adds lasting appeal and value.",
+        "@type": "Answer",
+        "description": "Yes, a well-designed in-law suite can increase home value by offering flexible living solutions and expanding usable space, particularly in the DFW market."
+      }
+    }
+  ],
+  "description": "Yes, a well-designed in-law suite can increase home value by offering flexible living solutions and expanding usable space, particularly in the DFW market."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-do-i-choose-a-contractor-for-a-complex-kitchen-addition-project",
+  "name": "How do I choose a contractor for a complex kitchen addition project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose a contractor for a complex kitchen addition project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing a contractor for a complex kitchen addition requires careful consideration of their experience, process, and commitment to quality. Look for a design-build firm that offers a single point of coordination for both design and construction, as this simplifies the process and ensures accountability. AKN Design Group, with over two decades of experience and more than 10,000 jobs completed, specializes in managing such complex projects. We emphasize an integrated approach from consultation and CAD-supported layouts through construction, ensuring your design vision is harmonized with execution and communication remains clear.",
+        "@type": "Answer",
+        "description": "For complex kitchen additions, choose a design-build contractor offering a single point of coordination, proven experience, and an integrated process. AKN Design Group provides this managed approach for substantial renovations."
+      }
+    }
+  ],
+  "description": "For complex kitchen additions, choose a design-build contractor offering a single point of coordination, proven experience, and an integrated process. AKN Desig"
+}

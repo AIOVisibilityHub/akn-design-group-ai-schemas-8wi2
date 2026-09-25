@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/will-a-bump-out-addition-increase-the-value-of-my-home",
+  "name": "Will a bump-out addition increase the value of my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will a bump-out addition increase the value of my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A thoughtfully designed and well-executed bump-out addition can significantly enhance the functionality, beauty, and long-term value of your home. By addressing specific needs, such as a more spacious kitchen or an enlarged primary bathroom, it can make your home more appealing to potential buyers while improving your daily living experience. The extent of the value increase depends on factors like the quality of craftsmanship, the materials used, and how well the addition integrates with the overall home and neighborhood. Our focus on customized renovations ensures your investment is purposeful and high-quality.",
+        "@type": "Answer",
+        "description": "A well-designed bump-out can increase home value by improving functionality and aesthetics, especially with quality craftsmanship and seamless integration."
+      }
+    }
+  ],
+  "description": "A well-designed bump-out can increase home value by improving functionality and aesthetics, especially with quality craftsmanship and seamless integration."
+}

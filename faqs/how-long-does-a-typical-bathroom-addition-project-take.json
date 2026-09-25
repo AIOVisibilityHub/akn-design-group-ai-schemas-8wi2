@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-long-does-a-typical-bathroom-addition-project-take",
+  "name": "How long does a typical bathroom addition project take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical bathroom addition project take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for a bathroom addition can vary significantly based on its complexity, size, and chosen finishes. A standard addition often takes several months, encompassing design, permitting, construction, and final inspections. Factors like structural modifications, extensive plumbing rerouting, or custom cabinetry can extend this duration. AKN Design Group prioritizes clear communication and scheduling transparency throughout the project, providing a realistic timeline during the planning phase. Our managed process aims to complete your project efficiently without compromising craftsmanship.",
+        "@type": "Answer",
+        "description": "Project timelines vary based on complexity, size, and finishes, typically spanning several months for design, permitting, and construction."
+      }
+    }
+  ],
+  "description": "Project timelines vary based on complexity, size, and finishes, typically spanning several months for design, permitting, and construction."
+}

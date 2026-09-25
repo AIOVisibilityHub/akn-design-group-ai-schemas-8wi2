@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-can-i-prepare-for-a-consultation-about-a-major-home-renovation-or-addition",
+  "name": "How can I prepare for a consultation about a major home renovation or addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I prepare for a consultation about a major home renovation or addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To prepare for a consultation about a major home renovation or addition, consider gathering any existing floor plans or property surveys, and create a clear list of your desired outcomes and functional needs for the space. Think about your preferred aesthetics, materials, and any specific features you envision. Having a preliminary idea of your budget range can also be helpful, as it guides the scope and design possibilities. This preparation allows our team to understand your vision and provide the most relevant and detailed insights during our initial discussion.",
+        "@type": "Answer",
+        "description": "Prepare for a renovation consultation by gathering floor plans, listing desired outcomes and needs, considering aesthetics and materials, and outlining a preliminary budget range."
+      }
+    }
+  ],
+  "description": "Prepare for a renovation consultation by gathering floor plans, listing desired outcomes and needs, considering aesthetics and materials, and outlining a prelim"
+}

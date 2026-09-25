@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-long-does-a-custom-home-addition-project-typically-take",
+  "name": "How long does a custom home addition project typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a custom home addition project typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a custom home addition varies significantly based on its size, complexity, and specific requirements, as well as local permitting timelines. While we can provide a more precise estimate after an initial consultation, projects can range from several months to over a year. Our extensive experience, with over 10,000 jobs completed over two decades, allows us to provide clear scheduling transparency and proactive communication about each phase of your project.",
+        "@type": "Answer",
+        "description": "Project timelines for custom home additions vary widely based on scope and permitting, but AKN provides clear scheduling and communication."
+      }
+    }
+  ],
+  "description": "Project timelines for custom home additions vary widely based on scope and permitting, but AKN provides clear scheduling and communication."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/when-is-house-lifting-a-necessary-renovation-rather-than-a-simpler-repair",
+  "name": "When is house lifting a necessary renovation, rather than a simpler repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When is house lifting a necessary renovation, rather than a simpler repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "House lifting becomes necessary when structural damage to a foundation is extensive, when a property is at persistent risk of flooding, or when a major renovation requires a new, deeper foundation or additional stories below the existing structure. Unlike minor foundation repairs, which might involve pier and beam adjustments or slab leveling, lifting the entire house is a comprehensive solution for critical structural compromises or significant elevation changes. Our design-build approach ensures that we thoroughly assess these needs, providing a managed process to determine if house lifting is the most effective long-term solution for enhancing your home's functionality and value.",
+        "@type": "Answer",
+        "description": "House lifting is necessary for extensive foundation damage, persistent flood risk, or major renovations requiring a new or deeper foundation, going beyond minor repairs."
+      }
+    }
+  ],
+  "description": "House lifting is necessary for extensive foundation damage, persistent flood risk, or major renovations requiring a new or deeper foundation, going beyond minor"
+}

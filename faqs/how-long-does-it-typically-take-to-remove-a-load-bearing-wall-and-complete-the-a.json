@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-long-does-it-typically-take-to-remove-a-load-bearing-wall-and-complete-the-a",
+  "name": "How long does it typically take to remove a load-bearing wall and complete the associated renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it typically take to remove a load-bearing wall and complete the associated renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for removing a load-bearing wall can vary significantly based on the project's complexity, the size of the opening, and the extent of finishing work required. Typically, the structural phase itself, including temporary supports and beam installation, might take a few days to a week. However, the overall renovation, including design, permitting, electrical, plumbing adjustments, and all finish work to achieve a seamless look, can extend from several weeks to a few months. Our integrated design-build process focuses on clear communication and scheduling transparency, providing a comprehensive timeline upfront so you know what to expect.",
+        "@type": "Answer",
+        "description": "The structural phase takes days to a week, but the full renovation, including design, permitting, and finishes, can take several weeks to months."
+      }
+    }
+  ],
+  "description": "The structural phase takes days to a week, but the full renovation, including design, permitting, and finishes, can take several weeks to months."
+}

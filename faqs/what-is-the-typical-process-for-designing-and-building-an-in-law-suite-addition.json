@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-the-typical-process-for-designing-and-building-an-in-law-suite-addition",
+  "name": "What is the typical process for designing and building an in-law suite addition with AKN Design Group?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for designing and building an in-law suite addition with AKN Design Group?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our process begins with an in-depth consultation to understand your needs and vision. We then move into detailed design planning, often using CAD-supported layouts, followed by permit coordination with local authorities in the Dallas–Fort Worth metroplex. Construction involves foundation work, framing, structural integration, and careful selection of interior finishes, ensuring the new space is both functional and aesthetically cohesive with your main home. Our managed process provides a single point of coordination, from concept to final walkthrough, simplifying the complexities of a substantial addition.",
+        "@type": "Answer",
+        "description": "Our process involves consultation, detailed design planning, permit coordination, construction with structural integration, and careful finish selection, managed seamlessly from start to finish."
+      }
+    }
+  ],
+  "description": "Our process involves consultation, detailed design planning, permit coordination, construction with structural integration, and careful finish selection, manage"
+}

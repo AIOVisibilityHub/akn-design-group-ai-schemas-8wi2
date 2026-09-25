@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-the-typical-process-for-removing-a-load-bearing-wall",
+  "name": "What is the typical process for removing a load-bearing wall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for removing a load-bearing wall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process for removing a load-bearing wall with AKN Design Group begins with an initial consultation and structural assessment by an engineer. This is followed by design planning to integrate the new open concept and secure necessary permits. We then implement temporary support structures, carefully remove the wall, and install a new beam or other permanent support, often concealed within the ceiling or wall. The final stages involve finishing work, including drywall, flooring, and paint, to seamlessly blend the new space with your home’s existing aesthetic. Our integrated design-build approach ensures a managed process from concept to completion.",
+        "@type": "Answer",
+        "description": "The process involves structural assessment, design, permitting, temporary support, wall removal, new beam installation, and finishing work."
+      }
+    }
+  ],
+  "description": "The process involves structural assessment, design, permitting, temporary support, wall removal, new beam installation, and finishing work."
+}

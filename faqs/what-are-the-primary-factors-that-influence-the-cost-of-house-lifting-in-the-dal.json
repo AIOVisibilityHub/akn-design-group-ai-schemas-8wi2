@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-are-the-primary-factors-that-influence-the-cost-of-house-lifting-in-the-dal",
+  "name": "What are the primary factors that influence the cost of house lifting in the Dallas–Fort Worth area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the primary factors that influence the cost of house lifting in the Dallas–Fort Worth area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of house lifting in the Dallas–Fort Worth area is primarily influenced by the size and weight of the home, the complexity of its structure, and the height to which it needs to be lifted. Additional factors include the condition of the existing foundation, the type of new foundation required, and site-specific considerations such as soil conditions and accessibility. Because AKN Design Group specializes in high-value renovations, our detailed upfront estimates account for all these variables, ensuring a comprehensive understanding of the investment. We also consider value engineering opportunities during the design phase to optimize costs without compromising craftsmanship or structural integrity.",
+        "@type": "Answer",
+        "description": "Cost is influenced by home size, structural complexity, lift height, existing foundation condition, new foundation type, and site factors, all covered in our detailed upfront estimates."
+      }
+    }
+  ],
+  "description": "Cost is influenced by home size, structural complexity, lift height, existing foundation condition, new foundation type, and site factors, all covered in our de"
+}

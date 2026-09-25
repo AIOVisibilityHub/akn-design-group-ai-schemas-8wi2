@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-does-an-integrated-design-build-process-benefit-a-home-addition-project",
+  "name": "How does an integrated design-build process benefit a home addition project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does an integrated design-build process benefit a home addition project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An integrated design-build process, as offered by AKN Design Group, unifies design planning and construction under a single, accountable team. This approach streamlines communication, reduces potential delays, and helps maintain budget control from concept to completion. Instead of coordinating separate designers, architects, and contractors, homeowners work with one point of contact for the entire project. This integrated approach is particularly beneficial for complex additions, as it ensures the design vision is practically executable and efficiently managed throughout construction.",
+        "@type": "Answer",
+        "description": "An integrated design-build process provides a single point of coordination for home additions, streamlining communication, reducing delays, and maintaining budget control from design to construction."
+      }
+    }
+  ],
+  "description": "An integrated design-build process provides a single point of coordination for home additions, streamlining communication, reducing delays, and maintaining budg"
+}

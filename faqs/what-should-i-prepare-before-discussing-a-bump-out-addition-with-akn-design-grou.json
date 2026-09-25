@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-should-i-prepare-before-discussing-a-bump-out-addition-with-akn-design-grou",
+  "name": "What should I prepare before discussing a bump-out addition with AKN Design Group?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare before discussing a bump-out addition with AKN Design Group?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before discussing a bump-out addition with AKN Design Group, considering your primary goals for the added space is beneficial, such as whether it's for an expanded kitchen, a larger bathroom, or a new home office. Think about your preferred aesthetic, any specific features you envision, and how the new space will integrate with your existing home's layout and functionality. Gathering any existing floor plans or photos of your current space can also be helpful. This initial preparation allows us to better understand your vision and provide personalized guidance from our first consultation.",
+        "@type": "Answer",
+        "description": "Before consulting, consider your goals for the new space, preferred aesthetics, desired features, and how it integrates with your home. Existing plans or photos are helpful."
+      }
+    }
+  ],
+  "description": "Before consulting, consider your goals for the new space, preferred aesthetics, desired features, and how it integrates with your home. Existing plans or photos"
+}

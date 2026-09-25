@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-long-does-the-design-build-process-typically-take-for-a-sunroom-addition",
+  "name": "How long does the design-build process typically take for a sunroom addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does the design-build process typically take for a sunroom addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for a sunroom addition project varies, but generally involves several key phases: initial design consultation, detailed architectural planning (including CAD-supported layouts), material selection, permitting, construction, and final walkthrough. A typical project might range from a few months to several months, depending on the scale and custom features involved. AKN Design Group's integrated design-build process is structured to provide clear communication and a managed timeline, ensuring efficiency from concept to completion and minimizing disruptions to your daily life.",
+        "@type": "Answer",
+        "description": "The design-build process for a sunroom addition can take several months, encompassing design, permitting, construction, and final walkthrough."
+      }
+    }
+  ],
+  "description": "The design-build process for a sunroom addition can take several months, encompassing design, permitting, construction, and final walkthrough."
+}

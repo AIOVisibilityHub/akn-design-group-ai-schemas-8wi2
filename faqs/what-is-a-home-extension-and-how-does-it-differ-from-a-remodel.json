@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-a-home-extension-and-how-does-it-differ-from-a-remodel",
+  "name": "What is a home extension and how does it differ from a remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a home extension and how does it differ from a remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A home extension, or addition, involves increasing your home's total square footage by building new structures or expanding existing ones. This differs from a remodel, which primarily focuses on updating or reconfiguring interior spaces within the existing footprint. AKN Design Group specializes in seamlessly integrating additions, such as primary suites, home offices, or family rooms, to ensure they enhance functionality and visually blend with your original home. Our integrated design-build process ensures that both the new structure and its finishes are harmonized with your home's overall aesthetic and structural integrity.",
+        "@type": "Answer",
+        "description": "A home extension adds new square footage, while a remodel updates existing spaces. AKN Design Group integrates additions seamlessly with your home's existing structure and style."
+      }
+    }
+  ],
+  "description": "A home extension adds new square footage, while a remodel updates existing spaces. AKN Design Group integrates additions seamlessly with your home's existing st"
+}

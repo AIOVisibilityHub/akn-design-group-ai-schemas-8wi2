@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/when-do-i-need-a-structural-engineer-for-my-remodeling-project",
+  "name": "When do I need a structural engineer for my remodeling project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When do I need a structural engineer for my remodeling project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You will need a structural engineer whenever a remodeling project involves altering load-bearing walls, adding new openings in exterior walls, or constructing additions that will bear weight. AKN Design Group always engages qualified structural engineers to assess your home's existing framework and design the necessary modifications. This ensures safety, compliance with local building codes, and the long-term integrity of your home. We manage this crucial coordination as part of our integrated design-build process, providing a single point of coordination for homeowners.",
+        "@type": "Answer",
+        "description": "A structural engineer is needed for projects altering load-bearing walls, creating new openings, or building additions. AKN Design Group coordinates this to ensure safety and compliance."
+      }
+    }
+  ],
+  "description": "A structural engineer is needed for projects altering load-bearing walls, creating new openings, or building additions. AKN Design Group coordinates this to ens"
+}

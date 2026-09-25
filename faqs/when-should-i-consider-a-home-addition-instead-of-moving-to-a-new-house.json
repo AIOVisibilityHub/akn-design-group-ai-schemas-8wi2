@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/when-should-i-consider-a-home-addition-instead-of-moving-to-a-new-house",
+  "name": "When should I consider a home addition instead of moving to a new house?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider a home addition instead of moving to a new house?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider a home addition when your household needs more usable space—such as a primary suite, home office, guest room, or family room—but you value your current neighborhood, schools, or community and wish to avoid the disruption of moving. AKN Design Group helps homeowners assess how an addition can meet their evolving needs while maintaining their connection to their cherished location. A significant factor in this decision is understanding how an addition can enhance functionality, beauty, and long-term value within your existing property.",
+        "@type": "Answer",
+        "description": "Consider a home addition when you need more space but want to stay in your current neighborhood and enhance your existing property."
+      }
+    }
+  ],
+  "description": "Consider a home addition when you need more space but want to stay in your current neighborhood and enhance your existing property."
+}

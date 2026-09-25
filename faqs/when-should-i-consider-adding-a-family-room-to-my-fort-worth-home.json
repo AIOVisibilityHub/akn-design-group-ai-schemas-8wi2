@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/when-should-i-consider-adding-a-family-room-to-my-fort-worth-home",
+  "name": "When should I consider adding a family room to my Fort Worth home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider adding a family room to my Fort Worth home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A family room addition is ideal when your current living space no longer meets your household's needs, but you wish to remain in your valued neighborhood. This often includes situations where you need more space for entertaining, a dedicated area for children's activities, or simply more room for everyday relaxation. AKN Design Group helps homeowners in the Dallas–Fort Worth metroplex assess their current layout and future needs to determine if an addition is the right solution for enhancing functionality and value.",
+        "@type": "Answer",
+        "description": "Consider a family room addition when your current home no longer meets your space needs but you want to stay in your neighborhood."
+      }
+    }
+  ],
+  "description": "Consider a family room addition when your current home no longer meets your space needs but you want to stay in your neighborhood."
+}

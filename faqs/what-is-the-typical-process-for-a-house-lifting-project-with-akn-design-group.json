@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-the-typical-process-for-a-house-lifting-project-with-akn-design-group",
+  "name": "What is the typical process for a house lifting project with AKN Design Group?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for a house lifting project with AKN Design Group?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process begins with a detailed assessment and structural analysis of your home to determine the feasibility and scope of the lift. Following this, our design-build team develops comprehensive architectural and structural plans, incorporating any desired foundation improvements or additions. We then manage all permit coordination, a critical step for such significant structural work. The physical lift involves carefully jacking the house off its existing foundation, installing temporary supports, constructing the new or repaired foundation, and gently lowering the house onto it. Throughout this managed process, clear communication and rigorous project management are paramount to ensure the integrity of your home.",
+        "@type": "Answer",
+        "description": "The typical process involves assessment, detailed planning, permit coordination, lifting the house, building a new foundation, and then lowering the house onto it."
+      }
+    }
+  ],
+  "description": "The typical process involves assessment, detailed planning, permit coordination, lifting the house, building a new foundation, and then lowering the house onto"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-involved-in-a-bedroom-addition-project-with-akn-design-group",
+  "name": "What is involved in a bedroom addition project with AKN Design Group?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in a bedroom addition project with AKN Design Group?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A bedroom addition project with AKN Design Group involves a comprehensive design-build process. We begin with understanding your needs, developing a customized layout, and coordinating all aspects from structural integration and exterior finish matching to interior finishes like flooring, lighting, and paint. Our managed process includes permit coordination to ensure all work meets local regulations and seamlessly integrates with your existing home's structure and aesthetic.",
+        "@type": "Answer",
+        "description": "Our bedroom addition projects involve a comprehensive design-build process, from initial design and layout planning to permit coordination and final construction, ensuring seamless integration with your home."
+      }
+    }
+  ],
+  "description": "Our bedroom addition projects involve a comprehensive design-build process, from initial design and layout planning to permit coordination and final constructio"
+}

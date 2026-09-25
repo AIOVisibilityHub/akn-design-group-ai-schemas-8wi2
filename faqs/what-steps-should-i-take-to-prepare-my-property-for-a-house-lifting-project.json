@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-steps-should-i-take-to-prepare-my-property-for-a-house-lifting-project",
+  "name": "What steps should I take to prepare my property for a house lifting project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What steps should I take to prepare my property for a house lifting project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Preparing your property for a house lifting project involves several critical steps to ensure a smooth and safe process. Homeowners should first secure temporary housing for the duration of the lift and foundation work, as the home will be uninhabitable. All personal belongings, especially fragile items, should be removed or carefully packed. Utilities such as water, gas, electricity, and sewer lines must be safely disconnected by qualified professionals. Additionally, any landscaping, decks, or attached structures near the foundation will likely need to be temporarily removed or protected. Our team at AKN Design Group provides a detailed checklist and guides you through each preparation phase, ensuring a managed process.",
+        "@type": "Answer",
+        "description": "Preparation includes securing temporary housing, removing personal belongings, disconnecting utilities, and clearing landscaping or attached structures, guided by our detailed checklist."
+      }
+    }
+  ],
+  "description": "Preparation includes securing temporary housing, removing personal belongings, disconnecting utilities, and clearing landscaping or attached structures, guided"
+}

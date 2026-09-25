@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-factors-influence-the-cost-of-a-bathroom-addition",
+  "name": "What factors influence the cost of a bathroom addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of a bathroom addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a bathroom addition is influenced by several factors, including the size and complexity of the new space, the extent of structural modifications, the quality of finishes and fixtures chosen, and the need for significant plumbing or electrical rerouting. Custom features like heated floors, elaborate tile work, or advanced shower systems also contribute to the overall investment. AKN Design Group provides upfront estimates and engages in value engineering during the design phase to optimize your budget without compromising on quality or the desired luxury aesthetic.",
+        "@type": "Answer",
+        "description": "Bathroom addition costs are influenced by size, structural complexity, chosen finishes, and custom features; AKN Design Group offers upfront estimates."
+      }
+    }
+  ],
+  "description": "Bathroom addition costs are influenced by size, structural complexity, chosen finishes, and custom features; AKN Design Group offers upfront estimates."
+}

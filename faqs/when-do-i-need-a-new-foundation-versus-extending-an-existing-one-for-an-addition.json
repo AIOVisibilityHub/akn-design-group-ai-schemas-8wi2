@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/when-do-i-need-a-new-foundation-versus-extending-an-existing-one-for-an-addition",
+  "name": "When do I need a new foundation versus extending an existing one for an addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When do I need a new foundation versus extending an existing one for an addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Deciding between a new foundation or extending an existing one for a home addition depends on several factors, including the structural integrity of your current foundation, the size and weight of the proposed addition, and local building codes. If your existing foundation is robust and the addition is a straightforward extension, integrating it might be feasible. However, a significant addition, particularly one adding multiple stories or heavy loads, often necessitates a completely new, independently engineered foundation. AKN Design Group assesses your existing structure and proposed design during the initial consultation to determine the most stable and code-compliant approach, ensuring the longevity and safety of your investment.",
+        "@type": "Answer",
+        "description": "A new foundation is typically needed for large or heavy additions, while smaller extensions might integrate with an existing, sound foundation after assessment."
+      }
+    }
+  ],
+  "description": "A new foundation is typically needed for large or heavy additions, while smaller extensions might integrate with an existing, sound foundation after assessment."
+}

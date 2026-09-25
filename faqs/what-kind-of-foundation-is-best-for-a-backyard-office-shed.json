@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-kind-of-foundation-is-best-for-a-backyard-office-shed",
+  "name": "What kind of foundation is best for a backyard office shed?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of foundation is best for a backyard office shed?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The most suitable foundation for a backyard office shed depends on factors like soil conditions, shed size, weight, and local building codes. Options typically include concrete slabs, pier and beam, or gravel bases. AKN Design Group assesses these site-specific conditions during the design phase to recommend and implement the optimal foundation, ensuring structural integrity and longevity. Our expertise guarantees a stable base for your customized renovation.",
+        "@type": "Answer",
+        "description": "The best foundation for a backyard office shed, such as a concrete slab or pier and beam, depends on soil, size, and local codes, assessed during design."
+      }
+    }
+  ],
+  "description": "The best foundation for a backyard office shed, such as a concrete slab or pier and beam, depends on soil, size, and local codes, assessed during design."
+}

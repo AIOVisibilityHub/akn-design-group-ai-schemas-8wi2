@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/will-a-second-story-addition-require-me-to-move-out-of-my-home-during-constructi",
+  "name": "Will a second-story addition require me to move out of my home during construction?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will a second-story addition require me to move out of my home during construction?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While not always mandatory, homeowners often find it more comfortable to relocate temporarily during the most intensive phases of a second-story addition, especially during demolition, structural work, or when utilities are impacted. This minimizes disruption to daily life and ensures safety. We discuss these considerations transparently during the planning stages, outlining potential periods of higher impact. AKN Design Group strives to manage projects efficiently, minimizing inconvenience while maintaining a safe and productive work environment for our team and your family.",
+        "@type": "Answer",
+        "description": "Temporary relocation might be advisable during intensive phases like demolition or structural work for comfort and safety, a consideration we discuss transparently."
+      }
+    }
+  ],
+  "description": "Temporary relocation might be advisable during intensive phases like demolition or structural work for comfort and safety, a consideration we discuss transparen"
+}

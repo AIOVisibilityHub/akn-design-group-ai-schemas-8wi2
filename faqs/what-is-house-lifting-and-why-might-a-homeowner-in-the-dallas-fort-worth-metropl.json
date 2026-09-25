@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-house-lifting-and-why-might-a-homeowner-in-the-dallas-fort-worth-metropl",
+  "name": "What is house lifting, and why might a homeowner in the Dallas–Fort Worth metroplex consider it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is house lifting, and why might a homeowner in the Dallas–Fort Worth metroplex consider it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "House lifting involves elevating an existing structure from its foundation. This process is typically undertaken to address structural issues, mitigate flood risks, or create space for a new foundation or basement. For homeowners in the Dallas–Fort Worth metroplex, increasing the elevation of a property can be a proactive measure against potential water damage, enhance structural integrity, or facilitate significant expansions and renovations that require a higher finished floor elevation. AKN Design Group approaches such complex projects with our integrated design-build process, ensuring careful planning and execution from structural assessment to final finishes.",
+        "@type": "Answer",
+        "description": "House lifting elevates a structure for structural repairs, flood mitigation, or to create space for a new foundation or basement, especially relevant for DFW homeowners addressing water concerns or planning major expansions."
+      }
+    }
+  ],
+  "description": "House lifting elevates a structure for structural repairs, flood mitigation, or to create space for a new foundation or basement, especially relevant for DFW ho"
+}

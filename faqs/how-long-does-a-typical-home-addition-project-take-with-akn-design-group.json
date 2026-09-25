@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-long-does-a-typical-home-addition-project-take-with-akn-design-group",
+  "name": "How long does a typical home addition project take with AKN Design Group?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical home addition project take with AKN Design Group?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for a home addition project varies significantly based on its complexity, size, and specific requirements, including permitting. While we cannot provide an exact duration without a detailed project scope, our managed design-build process is structured to optimize efficiency and minimize delays. We coordinate all phases, from initial design and permit coordination to construction and final walkthrough, providing a single point of accountability. Factors like material lead times, the extent of structural changes, and the integration of new utilities will influence the overall project schedule.",
+        "@type": "Answer",
+        "description": "Home addition timelines vary based on complexity and scope, but our managed design-build process is designed for efficiency, coordinating all phases from design to completion."
+      }
+    }
+  ],
+  "description": "Home addition timelines vary based on complexity and scope, but our managed design-build process is designed for efficiency, coordinating all phases from design"
+}

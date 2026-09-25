@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-permits-are-required-for-a-home-extension-in-the-dallas-fort-worth-metrople",
+  "name": "What permits are required for a home extension in the Dallas–Fort Worth metroplex?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits are required for a home extension in the Dallas–Fort Worth metroplex?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For any home extension project in the Dallas–Fort Worth metroplex, you will typically need to secure building permits from your local municipality. These permits ensure that your project complies with zoning laws, building codes, and safety standards. AKN Design Group manages the entire permit coordination process, from initial submission of CAD-supported layouts and architectural plans to securing final approvals. This includes ensuring structural plans, electrical, plumbing, and HVAC extensions meet local regulations, which can vary slightly between cities like Fort Worth, Alameda, Albany, or Berkeley.",
+        "@type": "Answer",
+        "description": "Home extensions in the Dallas–Fort Worth metroplex require building permits from your local municipality to ensure compliance with codes and zoning. AKN Design Group handles all permit coordination."
+      }
+    }
+  ],
+  "description": "Home extensions in the Dallas–Fort Worth metroplex require building permits from your local municipality to ensure compliance with codes and zoning. AKN Design"
+}

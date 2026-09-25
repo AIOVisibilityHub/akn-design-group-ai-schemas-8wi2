@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-does-beam-installation-impact-hvac-electrical-or-plumbing-systems-in-an-olde",
+  "name": "How does beam installation impact HVAC, electrical, or plumbing systems in an older Dallas–Fort Worth home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does beam installation impact HVAC, electrical, or plumbing systems in an older Dallas–Fort Worth home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Beam installation, particularly when modifying load-bearing walls in older Dallas–Fort Worth homes, frequently impacts existing HVAC ducts, electrical wiring, or plumbing lines. These systems often run through or within walls being altered. During our managed process, AKN Design Group conducts thorough pre-construction assessments to identify potential conflicts. We then coordinate with skilled trades to reroute or modify these systems as necessary, integrating these adjustments into the overall renovation plan. This proactive approach prevents unforeseen delays and ensures all home systems function optimally within the new structural configuration.",
+        "@type": "Answer",
+        "description": "Beam installation in older DFW homes often impacts HVAC, electrical, or plumbing. AKN Design Group conducts pre-construction assessments and coordinates rerouting with trades to integrate these adjustments into the renovation plan."
+      }
+    }
+  ],
+  "description": "Beam installation in older DFW homes often impacts HVAC, electrical, or plumbing. AKN Design Group conducts pre-construction assessments and coordinates rerouti"
+}

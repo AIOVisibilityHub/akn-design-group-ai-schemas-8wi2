@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-the-typical-process-for-designing-and-building-a-second-story-addition",
+  "name": "What is the typical process for designing and building a second-story addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for designing and building a second-story addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process for a second-story addition begins with a comprehensive consultation and design phase, where our team develops CAD-supported layouts tailored to your vision and the existing home's structure. This is followed by permit coordination, where we manage all necessary approvals with local authorities. Construction then proceeds, involving foundational assessments, structural integration, framing, and careful exterior tie-in work. AKN Design Group's integrated design-build approach means we handle every step, from initial concept to final walkthrough, providing a single point of coordination and clear communication throughout. This managed process ensures your addition is built with precision and craftsmanship.",
+        "@type": "Answer",
+        "description": "The process involves consultation, CAD design, permit coordination, construction, and structural integration. AKN Design Group manages every step from concept to completion."
+      }
+    }
+  ],
+  "description": "The process involves consultation, CAD design, permit coordination, construction, and structural integration. AKN Design Group manages every step from concept t"
+}

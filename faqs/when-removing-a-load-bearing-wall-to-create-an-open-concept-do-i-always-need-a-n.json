@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/when-removing-a-load-bearing-wall-to-create-an-open-concept-do-i-always-need-a-n",
+  "name": "When removing a load-bearing wall to create an open concept, do I always need a new beam?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When removing a load-bearing wall to create an open concept, do I always need a new beam?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, if a wall is identified as load-bearing, removing it requires a structural replacement to maintain the integrity of your home. This replacement is typically a new beam, engineered to support the load previously carried by the wall. Failure to properly support the structure can lead to serious safety issues and costly damage. AKN Design Group’s expertise in whole-home remodels and open-concept designs means we carefully assess structural needs, providing a single point of coordination for the engineering, permit coordination, and precise installation required for such significant changes.",
+        "@type": "Answer",
+        "description": "Yes, removing a load-bearing wall always requires a new beam to maintain structural integrity and prevent damage. AKN Design Group manages the engineering, permitting, and installation for such renovations."
+      }
+    }
+  ],
+  "description": "Yes, removing a load-bearing wall always requires a new beam to maintain structural integrity and prevent damage. AKN Design Group manages the engineering, perm"
+}

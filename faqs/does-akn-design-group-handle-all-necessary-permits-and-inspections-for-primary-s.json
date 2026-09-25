@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/does-akn-design-group-handle-all-necessary-permits-and-inspections-for-primary-s",
+  "name": "Does AKN Design Group handle all necessary permits and inspections for primary suite additions?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does AKN Design Group handle all necessary permits and inspections for primary suite additions?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, AKN Design Group fully manages all necessary permit coordination and facilitates inspections for your primary suite addition. Navigating local building codes and municipal requirements in areas like Fort Worth, Alameda, Albany, or Berkeley can be complex. Our team handles the entire permitting process, from application submission to coordinating with inspectors, ensuring your project complies with all regulations. This integral part of our managed process removes a significant burden from homeowners, allowing you to focus on the exciting aspects of your renovation.",
+        "@type": "Answer",
+        "description": "Yes, AKN Design Group handles all permit coordination and inspections for primary suite additions, ensuring compliance with local building codes in all service areas."
+      }
+    }
+  ],
+  "description": "Yes, AKN Design Group handles all permit coordination and inspections for primary suite additions, ensuring compliance with local building codes in all service"
+}

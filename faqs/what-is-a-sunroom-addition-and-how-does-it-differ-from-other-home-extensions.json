@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-a-sunroom-addition-and-how-does-it-differ-from-other-home-extensions",
+  "name": "What is a sunroom addition and how does it differ from other home extensions?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a sunroom addition and how does it differ from other home extensions?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A sunroom addition, also known as a solarium or patio enclosure, is a dedicated space designed to bring natural light into your home, often featuring expansive windows. Unlike traditional home extensions, sunrooms are primarily focused on maximizing natural light and views, creating a seamless connection to the outdoors. AKN Design Group approaches these additions with a focus on integrating the new structure harmoniously with your existing home's architecture and ensuring year-round usability, enhancing both functionality and beauty.",
+        "@type": "Answer",
+        "description": "A sunroom addition is a dedicated space with extensive windows designed to maximize natural light and views, providing a seamless connection to the outdoors."
+      }
+    }
+  ],
+  "description": "A sunroom addition is a dedicated space with extensive windows designed to maximize natural light and views, providing a seamless connection to the outdoors."
+}

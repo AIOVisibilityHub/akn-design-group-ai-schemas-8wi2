@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-involved-in-a-living-room-addition-project",
+  "name": "What is involved in a living room addition project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in a living room addition project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A living room addition extends your home's footprint, providing new or expanded gathering space. The process typically involves initial design consultation, architectural planning, securing necessary permits, foundation work, framing, roofing integration, exterior finish matching, and interior build-out with electrical, HVAC, and final finishes. AKN Design Group manages this entire process, ensuring a cohesive integration with your existing home's structure and aesthetic.",
+        "@type": "Answer",
+        "description": "A living room addition involves design, permitting, construction, and integration with your home's existing structure and systems. We manage the entire design-build process."
+      }
+    }
+  ],
+  "description": "A living room addition involves design, permitting, construction, and integration with your home's existing structure and systems. We manage the entire design-b"
+}

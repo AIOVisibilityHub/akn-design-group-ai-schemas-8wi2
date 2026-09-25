@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-are-common-reasons-homeowners-choose-a-bump-out-addition",
+  "name": "What are common reasons homeowners choose a bump-out addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common reasons homeowners choose a bump-out addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Homeowners typically choose a bump-out addition to gain targeted space where it's most needed, without the commitment of a large-scale addition. Common motivations include expanding a kitchen to accommodate a larger island or breakfast nook, increasing the size of a bathroom for a walk-in shower or double vanity, or adding a small sitting area to a primary bedroom. This choice often stems from a desire to enhance functionality and beauty within a specific area, ensuring the home better suits current lifestyle needs without a significant overall renovation. Our design-build process ensures your specific needs are met with a customized renovation plan.",
+        "@type": "Answer",
+        "description": "Homeowners choose bump-outs for targeted space expansion, like a larger kitchen, bathroom, or sitting area, to enhance functionality and beauty."
+      }
+    }
+  ],
+  "description": "Homeowners choose bump-outs for targeted space expansion, like a larger kitchen, bathroom, or sitting area, to enhance functionality and beauty."
+}

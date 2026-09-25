@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-factors-influence-the-cost-of-a-primary-suite-addition-in-the-dallas-fort-w",
+  "name": "What factors influence the cost of a primary suite addition in the Dallas–Fort Worth metroplex?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of a primary suite addition in the Dallas–Fort Worth metroplex?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a primary suite addition in the Dallas–Fort Worth metroplex is influenced by several key factors, including the size and complexity of the addition, the chosen materials and finishes for the bedroom and en-suite bathroom, and the extent of site preparation or structural modifications required. Factors like high-end fixtures, custom cabinetry, or spa-inspired bathroom features will also impact the overall investment. AKN Design Group provides upfront estimates and uses value engineering to help balance your design aspirations with your financial considerations, always focusing on enhancing functionality, beauty, and value.",
+        "@type": "Answer",
+        "description": "Primary suite addition costs in DFW depend on size, complexity, material choices, and site work; AKN Design Group offers upfront estimates and value engineering."
+      }
+    }
+  ],
+  "description": "Primary suite addition costs in DFW depend on size, complexity, material choices, and site work; AKN Design Group offers upfront estimates and value engineering"
+}

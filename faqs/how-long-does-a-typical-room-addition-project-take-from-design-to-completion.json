@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-long-does-a-typical-room-addition-project-take-from-design-to-completion",
+  "name": "How long does a typical room addition project take from design to completion?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical room addition project take from design to completion?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for a room addition project varies significantly based on its complexity, size, and the specifics of the design. A typical project, from initial design planning through permit coordination and construction, can range from several months to over a year. Our managed design-build process aims to streamline this, providing a single point of coordination. We prioritize clear communication, offering upfront estimates and scheduling transparency, so homeowners understand the project's progression and key milestones from concept to completion.",
+        "@type": "Answer",
+        "description": "Project timelines for room additions vary, typically spanning several months to over a year, depending on complexity. Our design-build process provides clear communication and managed coordination."
+      }
+    }
+  ],
+  "description": "Project timelines for room additions vary, typically spanning several months to over a year, depending on complexity. Our design-build process provides clear co"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/when-is-a-second-story-addition-the-right-solution-for-adding-space-to-my-fort-w",
+  "name": "When is a second-story addition the right solution for adding space to my Fort Worth home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When is a second-story addition the right solution for adding space to my Fort Worth home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A second-story addition is often the ideal solution when your Fort Worth property has limited lot space for horizontal expansion, or when you wish to preserve existing yard space. It's particularly suitable for homeowners who need a significant increase in usable square footage, such as a new primary suite, home office, or additional bedrooms, without the disruption of moving. AKN Design Group specializes in integrating these additions seamlessly with your home's existing structure and architectural style, ensuring the new level enhances both functionality and aesthetic value. Our design-build process ensures a coordinated transformation from concept to completion.",
+        "@type": "Answer",
+        "description": "A second-story addition is right when you need significant space but have limited lot size or wish to preserve your yard. It adds functionality and integrates with your home's design."
+      }
+    }
+  ],
+  "description": "A second-story addition is right when you need significant space but have limited lot size or wish to preserve your yard. It adds functionality and integrates w"
+}

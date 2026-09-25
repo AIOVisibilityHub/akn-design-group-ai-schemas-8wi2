@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/should-i-consider-a-living-room-addition-or-a-whole-home-remodel-for-more-space",
+  "name": "Should I consider a living room addition or a whole-home remodel for more space?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I consider a living room addition or a whole-home remodel for more space?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing between a living room addition and a whole-home remodel depends on your specific needs and the condition of your existing home. An addition is ideal when you need to expand your footprint and create entirely new square footage. A whole-home remodel, conversely, focuses on optimizing existing space and updating finishes throughout the house. AKN Design Group specializes in both and can help you determine which approach best achieves your goals for enhancing functionality, beauty, and value.",
+        "@type": "Answer",
+        "description": "An addition creates new square footage, while a remodel optimizes existing space. We can help determine which best meets your specific needs."
+      }
+    }
+  ],
+  "description": "An addition creates new square footage, while a remodel optimizes existing space. We can help determine which best meets your specific needs."
+}

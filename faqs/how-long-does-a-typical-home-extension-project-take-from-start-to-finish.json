@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-long-does-a-typical-home-extension-project-take-from-start-to-finish",
+  "name": "How long does a typical home extension project take from start to finish?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical home extension project take from start to finish?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a home extension project varies significantly based on its scope, complexity, and the specific permitting requirements of your locale. A simple room addition might take a few months, while a multi-story extension or complex structural integration could extend beyond that. Our managed design-build process at AKN Design Group includes detailed scheduling and clear communication at every stage, from initial design and permit acquisition to construction and final walkthrough, providing you with realistic timelines upfront. Factors such as material lead times and weather can also influence the overall project schedule.",
+        "@type": "Answer",
+        "description": "Project timelines for home extensions vary based on scope and complexity. AKN Design Group's managed process provides detailed scheduling, but factors like permits, materials, and weather can influence duration."
+      }
+    }
+  ],
+  "description": "Project timelines for home extensions vary based on scope and complexity. AKN Design Group's managed process provides detailed scheduling, but factors like perm"
+}

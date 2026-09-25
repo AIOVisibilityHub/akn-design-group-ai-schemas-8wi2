@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-a-structural-beam-and-when-is-its-installation-necessary-in-a-residentia",
+  "name": "What is a structural beam, and when is its installation necessary in a residential renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a structural beam, and when is its installation necessary in a residential renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A structural beam is a critical horizontal support member designed to bear significant loads from above, transferring them to vertical supports. Its installation is typically necessary during residential renovations when removing load-bearing walls to create open-concept spaces, adding a second story, or constructing an addition. AKN Design Group integrates beam installation into projects like whole-home remodels or additions, ensuring structural integrity while enhancing a home's functionality and aesthetic. We coordinate the necessary engineering and design to seamlessly incorporate these elements.",
+        "@type": "Answer",
+        "description": "A structural beam is a horizontal support that bears loads; its installation is necessary when removing load-bearing walls, adding stories, or constructing additions to maintain structural integrity."
+      }
+    }
+  ],
+  "description": "A structural beam is a horizontal support that bears loads; its installation is necessary when removing load-bearing walls, adding stories, or constructing addi"
+}

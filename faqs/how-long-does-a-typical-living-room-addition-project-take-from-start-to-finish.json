@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-long-does-a-typical-living-room-addition-project-take-from-start-to-finish",
+  "name": "How long does a typical living room addition project take from start to finish?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical living room addition project take from start to finish?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for a living room addition can vary based on its scale and specific design elements. Generally, the entire process, including initial design, permit acquisition, and construction, can range from several months to a year. Complex additions requiring significant structural changes or custom features may take longer. Our managed process includes transparent scheduling and clear communication throughout, minimizing unforeseen delays.",
+        "@type": "Answer",
+        "description": "Timelines for living room additions vary by scale and complexity, typically ranging from several months to a year. Our process includes transparent scheduling."
+      }
+    }
+  ],
+  "description": "Timelines for living room additions vary by scale and complexity, typically ranging from several months to a year. Our process includes transparent scheduling."
+}

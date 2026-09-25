@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-involved-in-a-kitchen-addition-project",
+  "name": "What is involved in a kitchen addition project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in a kitchen addition project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A kitchen addition project involves expanding your home's footprint to create a larger or entirely new kitchen space. This comprehensive process typically includes structural changes, foundation work, framing, roofline integration, and the installation of new plumbing, electrical systems, and HVAC extensions. AKN Design Group manages the entire design-build process, from initial scope development and layout planning with CAD support to permitting coordination, construction, and final interior and exterior finishes. Our goal is to create a seamless extension that enhances functionality and beauty while integrating visually with your existing home.",
+        "@type": "Answer",
+        "description": "A kitchen addition expands your home's footprint for a new or larger kitchen, involving structural changes, utility extensions, and integrated finishes. AKN Design Group manages the full design-build process, including permitting and construction."
+      }
+    }
+  ],
+  "description": "A kitchen addition expands your home's footprint for a new or larger kitchen, involving structural changes, utility extensions, and integrated finishes. AKN Des"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-the-typical-investment-range-for-a-custom-home-addition-in-the-dallas-fo",
+  "name": "What is the typical investment range for a custom home addition in the Dallas–Fort Worth metroplex?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical investment range for a custom home addition in the Dallas–Fort Worth metroplex?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The investment for a custom home addition in the Dallas–Fort Worth metroplex varies widely depending on factors such as the addition's size, complexity, selected finishes, and specific site conditions. Due to the highly customized nature of our work, providing a 'typical' range without understanding your specific project scope is not feasible. AKN Design Group focuses on customized solutions that enhance functionality, beauty, and long-term value. We provide upfront, transparent estimates after a thorough consultation to align with your vision and deliver exceptional craftsmanship.",
+        "@type": "Answer",
+        "description": "The investment for a custom home addition in the Dallas–Fort Worth metroplex varies significantly based on size, complexity, and finishes; AKN Design Group provides transparent estimates after consultation."
+      }
+    }
+  ],
+  "description": "The investment for a custom home addition in the Dallas–Fort Worth metroplex varies significantly based on size, complexity, and finishes; AKN Design Group prov"
+}

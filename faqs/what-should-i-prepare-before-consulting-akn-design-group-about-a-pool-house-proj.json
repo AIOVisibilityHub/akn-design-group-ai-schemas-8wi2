@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-should-i-prepare-before-consulting-akn-design-group-about-a-pool-house-proj",
+  "name": "What should I prepare before consulting AKN Design Group about a pool house project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare before consulting AKN Design Group about a pool house project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before consulting AKN Design Group about your pool house project, we recommend gathering any inspiration photos, thinking about your desired amenities (e.g., bathroom, kitchen, lounge area), and considering how you envision using the space. Having a general idea of your property's layout and potential placement will also be beneficial. This initial preparation helps us understand your unique lifestyle and aesthetic preferences, allowing us to provide a more tailored and insightful discussion during our first consultation.",
+        "@type": "Answer",
+        "description": "Prepare for a pool house consultation by gathering inspiration, listing desired amenities, and considering your property's layout and vision for the space."
+      }
+    }
+  ],
+  "description": "Prepare for a pool house consultation by gathering inspiration, listing desired amenities, and considering your property's layout and vision for the space."
+}

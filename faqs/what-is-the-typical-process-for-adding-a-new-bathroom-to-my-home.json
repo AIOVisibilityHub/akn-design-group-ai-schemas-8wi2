@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-the-typical-process-for-adding-a-new-bathroom-to-my-home",
+  "name": "What is the typical process for adding a new bathroom to my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for adding a new bathroom to my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process for a bathroom addition begins with a comprehensive design consultation to understand your vision and assess your home's structure. We then develop detailed CAD-supported layouts and manage all necessary permitting coordination. Following design finalization and permits, our team executes the construction, including structural integration, plumbing, electrical, and finish work, ensuring a seamless tie-in with your existing home. AKN Design Group provides a single point of coordination, guiding you through each stage from concept to final walkthrough, simplifying a complex renovation. Understanding this structured process helps homeowners anticipate each phase.",
+        "@type": "Answer",
+        "description": "Our process for a bathroom addition involves design consultation, permitting, structural integration, and finish work, all managed by our design-build team."
+      }
+    }
+  ],
+  "description": "Our process for a bathroom addition involves design consultation, permitting, structural integration, and finish work, all managed by our design-build team."
+}

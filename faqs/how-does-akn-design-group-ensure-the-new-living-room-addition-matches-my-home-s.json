@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-does-akn-design-group-ensure-the-new-living-room-addition-matches-my-home-s",
+  "name": "How does AKN Design Group ensure the new living room addition matches my home's exterior?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does AKN Design Group ensure the new living room addition matches my home's exterior?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Ensuring a seamless exterior match for a living room addition is crucial for maintaining your home's curb appeal and architectural integrity. We achieve this by carefully sourcing materials that complement or perfectly match your existing siding, brickwork, roofing, and window styles. Our design-build approach includes detailed planning and expert craftsmanship to blend the new structure harmoniously, making the addition appear as if it was always part of the original home.",
+        "@type": "Answer",
+        "description": "We ensure exterior matching by carefully selecting materials for siding, roofing, and windows that blend seamlessly with your home's existing style and architecture."
+      }
+    }
+  ],
+  "description": "We ensure exterior matching by carefully selecting materials for siding, roofing, and windows that blend seamlessly with your home's existing style and architec"
+}

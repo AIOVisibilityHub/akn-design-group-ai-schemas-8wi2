@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-long-does-foundation-construction-typically-take-for-a-home-addition",
+  "name": "How long does foundation construction typically take for a home addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does foundation construction typically take for a home addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for foundation construction for a home addition varies significantly based on its type, size, site conditions, and weather. A simple slab-on-grade foundation might be completed in a few weeks, while a more complex basement foundation could take several weeks to a month or more, including excavation, pouring, and curing time. Throughout our managed process, AKN Design Group provides clear communication regarding scheduling and keeps homeowners informed of each phase, from initial ground preparation and inspections to the final pour and cure. Factors such as unforeseen soil issues or complex structural integration can extend the timeline.",
+        "@type": "Answer",
+        "description": "Foundation construction can take several weeks to over a month, depending on the type, size, site conditions, and weather, with AKN providing clear scheduling and communication."
+      }
+    }
+  ],
+  "description": "Foundation construction can take several weeks to over a month, depending on the type, size, site conditions, and weather, with AKN providing clear scheduling a"
+}

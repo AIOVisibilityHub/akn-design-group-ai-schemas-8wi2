@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-are-the-common-options-for-an-in-law-suite-addition-and-how-do-i-choose-the",
+  "name": "What are the common options for an in-law suite addition and how do I choose the right one?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common options for an in-law suite addition and how do I choose the right one?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In-law suites can be built as attached additions, detached structures (ADUs), or by converting existing spaces like garages or basements. Choosing the right option depends on your property's available space, local zoning regulations in the Dallas–Fort Worth area, your budget, and the desired level of independence for the occupant. Our integrated design-build process helps homeowners evaluate these factors, guiding you through layout planning and structural considerations to ensure the addition seamlessly integrates with your existing home and lifestyle.",
+        "@type": "Answer",
+        "description": "Options include attached additions, detached structures, or converted spaces. The best choice depends on your property, budget, and desired independence, which our design-build team can help you assess."
+      }
+    }
+  ],
+  "description": "Options include attached additions, detached structures, or converted spaces. The best choice depends on your property, budget, and desired independence, which"
+}

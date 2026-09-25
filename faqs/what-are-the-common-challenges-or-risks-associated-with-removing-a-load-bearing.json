@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-are-the-common-challenges-or-risks-associated-with-removing-a-load-bearing",
+  "name": "What are the common challenges or risks associated with removing a load-bearing wall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common challenges or risks associated with removing a load-bearing wall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Removing a load-bearing wall involves several critical challenges that require expert handling. The primary risk is compromising your home’s structural integrity if the support system is not properly designed and installed. Other challenges include potential rerouting of electrical, plumbing, or HVAC lines hidden within the wall, which can add complexity and cost. Our managed process, leveraging over two decades of experience, meticulously plans for these potential issues, integrating design planning with construction execution to mitigate risks and ensure a safe, high-quality outcome.",
+        "@type": "Answer",
+        "description": "Challenges include maintaining structural integrity, rerouting utilities, and ensuring proper design and installation of new supports."
+      }
+    }
+  ],
+  "description": "Challenges include maintaining structural integrity, rerouting utilities, and ensuring proper design and installation of new supports."
+}

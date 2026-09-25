@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-value-engineering-and-how-does-it-apply-to-home-additions",
+  "name": "What is value engineering, and how does it apply to home additions?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is value engineering, and how does it apply to home additions?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Value engineering in home additions is a systematic process of identifying and selecting cost-effective materials and methods without compromising the project's quality, functionality, or design intent. It involves analyzing different options for components like insulation, windows, roofing, and finishes to achieve the best performance and aesthetic value within your budget parameters. Our team applies value engineering principles to ensure your addition meets your expectations while optimizing investment, focusing on long-term benefits and durability rather than just initial low cost.",
+        "@type": "Answer",
+        "description": "Value engineering for home additions involves selecting cost-effective materials and methods to achieve desired quality and functionality without compromising design, optimizing your investment."
+      }
+    }
+  ],
+  "description": "Value engineering for home additions involves selecting cost-effective materials and methods to achieve desired quality and functionality without compromising d"
+}

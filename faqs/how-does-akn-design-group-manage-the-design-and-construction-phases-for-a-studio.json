@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-does-akn-design-group-manage-the-design-and-construction-phases-for-a-studio",
+  "name": "How does AKN Design Group manage the design and construction phases for a studio office addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does AKN Design Group manage the design and construction phases for a studio office addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "AKN Design Group employs an integrated design-build process for studio office additions, providing a single point of coordination from concept to completion. This managed process begins with comprehensive design planning, including CAD-supported layouts and material selections, followed by detailed architectural drawings and permit coordination. Once design is finalized and permits secured, our experienced construction team executes the build, ensuring craftsmanship and clear communication throughout. This unified approach eliminates the common frustrations of working with separate designers and contractors, ensuring a seamless project flow and accountable team.",
+        "@type": "Answer",
+        "description": "AKN Design Group manages studio office additions with an integrated design-build process, offering single-point coordination from design planning and permitting to construction and completion."
+      }
+    }
+  ],
+  "description": "AKN Design Group manages studio office additions with an integrated design-build process, offering single-point coordination from design planning and permitting"
+}

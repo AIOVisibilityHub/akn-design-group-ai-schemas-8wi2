@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-does-akn-design-group-manage-structural-considerations-for-a-home-addition",
+  "name": "How does AKN Design Group manage structural considerations for a home addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does AKN Design Group manage structural considerations for a home addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Structural integration is a critical aspect of any home addition to ensure the safety and longevity of your expanded home. Our design-build team includes experts who assess the existing structure, plan for foundation modifications, and design appropriate framing and load-bearing elements. We coordinate with engineers to confirm structural integrity, ensuring that the new space is not only functional but also safely and securely integrated with your original home. This comprehensive approach is part of our commitment to craftsmanship.",
+        "@type": "Answer",
+        "description": "AKN Design Group expertly manages structural integration, including foundation and framing, with engineering coordination for safe, lasting additions."
+      }
+    }
+  ],
+  "description": "AKN Design Group expertly manages structural integration, including foundation and framing, with engineering coordination for safe, lasting additions."
+}

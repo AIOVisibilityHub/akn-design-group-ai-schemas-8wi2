@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/can-i-build-an-addition-on-a-post-and-beam-foundation",
+  "name": "Can I build an addition on a post and beam foundation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I build an addition on a post and beam foundation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While post and beam foundations are less common for modern home additions compared to concrete slabs or full basements, they can be a suitable option in specific circumstances, particularly for elevated structures, additions on uneven terrain, or in areas prone to flooding where crawl space access is desired. They offer advantages for running utilities and provide good ventilation. However, their suitability depends heavily on local building codes, soil stability, and the structural requirements of your specific addition. AKN Design Group evaluates your site's unique characteristics and your design vision to recommend the most appropriate and structurally sound foundation system, always prioritizing safety and longevity.",
+        "@type": "Answer",
+        "description": "Post and beam foundations can work for additions on uneven terrain or where elevation is needed, but suitability depends on codes, soil, and structural needs."
+      }
+    }
+  ],
+  "description": "Post and beam foundations can work for additions on uneven terrain or where elevation is needed, but suitability depends on codes, soil, and structural needs."
+}

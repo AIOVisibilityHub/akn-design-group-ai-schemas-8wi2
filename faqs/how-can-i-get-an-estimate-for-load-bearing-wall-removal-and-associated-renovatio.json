@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-can-i-get-an-estimate-for-load-bearing-wall-removal-and-associated-renovatio",
+  "name": "How can I get an estimate for load-bearing wall removal and associated renovation costs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I get an estimate for load-bearing wall removal and associated renovation costs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To receive an accurate estimate for load-bearing wall removal and the associated renovation, we recommend scheduling an initial consultation with AKN Design Group. During this meeting, our team will discuss your vision, assess the structural requirements, and understand the scope of work involved, including any desired finishings or related renovations. We believe in providing upfront estimates and transparent communication throughout the project. This personalized approach allows us to develop a customized solution and a clear cost breakdown for your specific project, reflecting our commitment to value engineering and quality.",
+        "@type": "Answer",
+        "description": "Schedule an initial consultation with AKN Design Group to discuss your vision, assess structural needs, and receive a customized, upfront estimate."
+      }
+    }
+  ],
+  "description": "Schedule an initial consultation with AKN Design Group to discuss your vision, assess structural needs, and receive a customized, upfront estimate."
+}

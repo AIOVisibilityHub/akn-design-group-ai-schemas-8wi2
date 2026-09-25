@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-are-the-first-steps-to-plan-a-kitchen-addition",
+  "name": "What are the first steps to plan a kitchen addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the first steps to plan a kitchen addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The first steps in planning a kitchen addition involve defining your needs, desired functionality, and aesthetic preferences for the new space. Consider how you envision using the kitchen for cooking, entertaining, and daily life. It is beneficial to gather inspiration and assess your current home's layout to identify potential integration challenges or opportunities. AKN Design Group recommends an initial consultation to discuss your vision, evaluate your property, and explore the possibilities. This helps us understand your unique lifestyle and develop a customized plan that reflects your goals.",
+        "@type": "Answer",
+        "description": "Begin planning a kitchen addition by defining your needs, desired functionality, and aesthetic vision. AKN Design Group recommends an initial consultation to discuss your goals and evaluate your property."
+      }
+    }
+  ],
+  "description": "Begin planning a kitchen addition by defining your needs, desired functionality, and aesthetic vision. AKN Design Group recommends an initial consultation to di"
+}

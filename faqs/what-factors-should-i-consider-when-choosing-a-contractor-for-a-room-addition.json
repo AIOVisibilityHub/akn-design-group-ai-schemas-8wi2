@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-factors-should-i-consider-when-choosing-a-contractor-for-a-room-addition",
+  "name": "What factors should I consider when choosing a contractor for a room addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors should I consider when choosing a contractor for a room addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a contractor for a room addition, prioritize an integrated design-build firm that offers a single point of coordination for complex projects. Look for a company with a proven track record, extensive experience, and a commitment to clear communication and craftsmanship. AKN Design Group, with over two decades of experience and more than 10,000 jobs completed, unifies design planning and construction. This approach ensures accountability, streamlines the process, and harmonizes your design vision with construction execution, delivering a high-quality homeowner experience.",
+        "@type": "Answer",
+        "description": "Choose a design-build firm with a proven track record and extensive experience that offers a single point of coordination for your room addition project, ensuring clear communication and craftsmanship."
+      }
+    }
+  ],
+  "description": "Choose a design-build firm with a proven track record and extensive experience that offers a single point of coordination for your room addition project, ensuri"
+}

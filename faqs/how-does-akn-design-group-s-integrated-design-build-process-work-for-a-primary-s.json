@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-does-akn-design-group-s-integrated-design-build-process-work-for-a-primary-s",
+  "name": "How does AKN Design Group's integrated design-build process work for a primary suite addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does AKN Design Group's integrated design-build process work for a primary suite addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our integrated design-build process for a primary suite addition begins with a thorough consultation to understand your vision and needs. From there, we move into design planning, developing CAD-supported layouts that align with your lifestyle and the home's existing structure. This process includes permit coordination, structural integration, and the selection of interior finishes. By managing both the design and construction under one team, we ensure clear communication and a streamlined project flow from concept through to the final walkthrough, eliminating the complexities of coordinating multiple contractors.",
+        "@type": "Answer",
+        "description": "Our design-build process unifies consultation, CAD design, permit coordination, and construction under one team, ensuring a seamless primary suite addition."
+      }
+    }
+  ],
+  "description": "Our design-build process unifies consultation, CAD design, permit coordination, and construction under one team, ensuring a seamless primary suite addition."
+}

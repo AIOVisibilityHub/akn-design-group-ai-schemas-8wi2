@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-akn-design-group-s-process-for-designing-and-building-a-sunroom-addition",
+  "name": "What is AKN Design Group's process for designing and building a sunroom addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is AKN Design Group's process for designing and building a sunroom addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "AKN Design Group's process for designing and building a sunroom addition is a managed, integrated approach from start to finish. It begins with a comprehensive consultation to understand your vision and needs, followed by detailed design and CAD-supported layouts. We then manage permit coordination, material procurement, and the construction phase, maintaining clear communication throughout. Our commitment to craftsmanship ensures that every detail, from foundation to finishes, meets our high standards, culminating in a final walkthrough to ensure your complete satisfaction.",
+        "@type": "Answer",
+        "description": "AKN Design Group's process involves consultation, design, permit coordination, construction, and a final walkthrough, all managed under one integrated team."
+      }
+    }
+  ],
+  "description": "AKN Design Group's process involves consultation, design, permit coordination, construction, and a final walkthrough, all managed under one integrated team."
+}

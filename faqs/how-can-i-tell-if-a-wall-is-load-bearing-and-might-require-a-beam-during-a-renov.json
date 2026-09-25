@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-can-i-tell-if-a-wall-is-load-bearing-and-might-require-a-beam-during-a-renov",
+  "name": "How can I tell if a wall is load-bearing and might require a beam during a renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I tell if a wall is load-bearing and might require a beam during a renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Identifying a load-bearing wall typically requires an experienced professional assessment. Indicators can include walls supporting joists or rafters, walls that align with foundation walls below or roof ridges above, or those centrally located in a home. However, visual cues are not always conclusive. AKN Design Group, with over two decades of experience, integrates structural evaluations into our initial design consultations for projects like kitchen remodels or home additions. This ensures accurate identification and planning, avoiding future structural issues and optimizing your renovation strategy.",
+        "@type": "Answer",
+        "description": "Identifying a load-bearing wall needs professional assessment, though indicators include supporting joists or aligning with foundations. AKN Design Group includes structural evaluations in initial consultations to ensure accurate planning."
+      }
+    }
+  ],
+  "description": "Identifying a load-bearing wall needs professional assessment, though indicators include supporting joists or aligning with foundations. AKN Design Group includ"
+}

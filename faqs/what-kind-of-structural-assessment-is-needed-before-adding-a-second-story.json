@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-kind-of-structural-assessment-is-needed-before-adding-a-second-story",
+  "name": "What kind of structural assessment is needed before adding a second story?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of structural assessment is needed before adding a second story?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before commencing a second-story addition, a thorough structural assessment of your existing foundation and framing is critical. This involves evaluating whether the current structure can safely support the additional weight of a new level. Our design-build team works with qualified engineers to determine if modifications, such as reinforcing foundations or adding new bearing walls, are necessary. This initial assessment ensures the safety and long-term stability of your customized renovation, aligning with our commitment to reliability and craftsmanship from the ground up.",
+        "@type": "Answer",
+        "description": "A structural assessment determines if your foundation and framing can support a second story, often requiring engineering to ensure safety and stability."
+      }
+    }
+  ],
+  "description": "A structural assessment determines if your foundation and framing can support a second story, often requiring engineering to ensure safety and stability."
+}

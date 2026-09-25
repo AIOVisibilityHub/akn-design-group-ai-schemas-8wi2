@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-should-i-prepare-before-contacting-a-contractor-for-a-home-extension",
+  "name": "What should I prepare before contacting a contractor for a home extension?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare before contacting a contractor for a home extension?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before contacting AKN Design Group for a home extension, it is helpful to have a clear understanding of your primary goals for the new space, such as its intended use (e.g., primary suite, home office, family room) and a general idea of your desired aesthetic. Consider gathering any existing floor plans, property surveys, or photographs of similar projects you admire. While our team assists with precise measurements and design, having an initial vision and a realistic sense of your budget will enable a more productive first consultation, setting a solid foundation for our managed design-build process.",
+        "@type": "Answer",
+        "description": "Before contacting us, clarify your goals for the new space, its intended use, and desired aesthetic. Having existing floor plans or inspirational images can also be helpful for an initial consultation."
+      }
+    }
+  ],
+  "description": "Before contacting us, clarify your goals for the new space, its intended use, and desired aesthetic. Having existing floor plans or inspirational images can als"
+}

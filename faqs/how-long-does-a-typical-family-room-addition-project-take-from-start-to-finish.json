@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-long-does-a-typical-family-room-addition-project-take-from-start-to-finish",
+  "name": "How long does a typical family room addition project take from start to finish?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical family room addition project take from start to finish?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for a family room addition can vary significantly based on its size, complexity, and specific features. Key factors include the scope of structural work, the lead time for specialized materials, and the necessary permit coordination. AKN Design Group prioritizes clear communication and scheduling transparency, providing a comprehensive project timeline upfront to ensure you understand each phase from design to final walkthrough.",
+        "@type": "Answer",
+        "description": "Project timelines vary by size and complexity; AKN Design Group provides an upfront schedule considering structural work, materials, and permit coordination."
+      }
+    }
+  ],
+  "description": "Project timelines vary by size and complexity; AKN Design Group provides an upfront schedule considering structural work, materials, and permit coordination."
+}

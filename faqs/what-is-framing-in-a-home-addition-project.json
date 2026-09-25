@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-framing-in-a-home-addition-project",
+  "name": "What is framing in a home addition project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is framing in a home addition project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Framing forms the structural skeleton of your home addition, creating the shape and support for new walls, floors, and roofs. This critical phase establishes the exact dimensions and layout for the new space, integrating it structurally with your existing home. AKN Design Group ensures precise framing to support all subsequent construction, contributing to the long-term integrity and safety of your expanded living area. Our design-build process coordinates this foundational work seamlessly with the architectural plans.",
+        "@type": "Answer",
+        "description": "Framing creates the structural skeleton of your home addition, forming new walls, floors, and roofs. It establishes the exact dimensions and layout, ensuring structural integrity and integration with your existing home."
+      }
+    }
+  ],
+  "description": "Framing creates the structural skeleton of your home addition, forming new walls, floors, and roofs. It establishes the exact dimensions and layout, ensuring st"
+}

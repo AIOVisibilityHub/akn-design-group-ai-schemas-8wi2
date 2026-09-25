@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-an-in-law-suite-addition-and-why-should-i-consider-one-for-my-dallas-for",
+  "name": "What is an in-law suite addition and why should I consider one for my Dallas–Fort Worth home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is an in-law suite addition and why should I consider one for my Dallas–Fort Worth home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An in-law suite addition, often called a multigenerational living area or accessory dwelling unit (ADU), is a self-contained living space added to an existing home or property. It typically includes a bedroom, bathroom, and often a kitchenette or living area, designed for privacy and independence. Homeowners in the Dallas–Fort Worth metroplex consider these additions to accommodate aging parents, adult children, or to provide a flexible space for guests, enhancing functionality and long-term value without the need to move.",
+        "@type": "Answer",
+        "description": "An in-law suite is a self-contained living space added to a home, providing independence for family members or guests and enhancing property value."
+      }
+    }
+  ],
+  "description": "An in-law suite is a self-contained living space added to a home, providing independence for family members or guests and enhancing property value."
+}

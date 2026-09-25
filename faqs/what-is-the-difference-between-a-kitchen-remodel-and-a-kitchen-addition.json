@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-the-difference-between-a-kitchen-remodel-and-a-kitchen-addition",
+  "name": "What is the difference between a kitchen remodel and a kitchen addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a kitchen remodel and a kitchen addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A kitchen remodel renovates the existing kitchen within its current footprint, focusing on updating finishes, improving the layout, and enhancing functionality without changing the home’s exterior dimensions. A kitchen addition, conversely, expands your home by building new square footage specifically for the kitchen, allowing for significant layout changes, increased space, or even relocating the kitchen entirely. AKN Design Group specializes in both substantial renovations and additions, providing a single point of coordination. We help you evaluate whether a remodel meets your needs or if an addition is required to achieve your desired functionality and spatial goals.",
+        "@type": "Answer",
+        "description": "A kitchen remodel updates an existing kitchen within its current space, while a kitchen addition expands your home's footprint to create a larger or new kitchen area. AKN Design Group assists in determining the best approach for your needs."
+      }
+    }
+  ],
+  "description": "A kitchen remodel updates an existing kitchen within its current space, while a kitchen addition expands your home's footprint to create a larger or new kitchen"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-does-akn-design-group-ensure-the-safety-and-structural-integrity-during-a-ho",
+  "name": "How does AKN Design Group ensure the safety and structural integrity during a house lifting project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does AKN Design Group ensure the safety and structural integrity during a house lifting project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Ensuring the safety and structural integrity during a house lifting project is our highest priority, foundational to our commitment to craftsmanship and reliability. We achieve this through meticulous engineering analysis, the use of specialized lifting equipment operated by experienced professionals, and continuous monitoring throughout the entire process. Our integrated design-build team strictly adheres to all relevant building codes and safety protocols, managing all structural integration and inspection points. We prioritize a managed process where every step, from the initial shoring to the final lowering onto the new foundation, is executed with precision and clear communication, safeguarding your investment and home.",
+        "@type": "Answer",
+        "description": "We ensure safety and structural integrity through meticulous engineering analysis, specialized equipment, continuous monitoring, and strict adherence to building codes and safety protocols."
+      }
+    }
+  ],
+  "description": "We ensure safety and structural integrity through meticulous engineering analysis, specialized equipment, continuous monitoring, and strict adherence to buildin"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/do-bump-out-additions-require-permits-and-how-does-akn-design-group-assist-with",
+  "name": "Do bump-out additions require permits, and how does AKN Design Group assist with this?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do bump-out additions require permits, and how does AKN Design Group assist with this?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, bump-out additions almost always require permits because they involve structural changes to your home and impact its footprint. The permitting process can include submitting detailed plans to your local planning and building departments for approval, ensuring compliance with zoning laws, structural safety, and energy efficiency codes. AKN Design Group manages all necessary permit coordination as part of our integrated design-build service. We handle the preparation and submission of architectural plans and documentation, streamlining the process and reducing potential delays for our homeowners.",
+        "@type": "Answer",
+        "description": "Bump-out additions require permits due to structural changes. AKN Design Group manages all permit coordination, including plan submission, to ensure compliance."
+      }
+    }
+  ],
+  "description": "Bump-out additions require permits due to structural changes. AKN Design Group manages all permit coordination, including plan submission, to ensure compliance."
+}

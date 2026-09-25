@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-does-removing-a-load-bearing-wall-impact-my-home-s-resale-value",
+  "name": "How does removing a load-bearing wall impact my home's resale value?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does removing a load-bearing wall impact my home's resale value?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Thoughtfully removing a load-bearing wall to create an open-concept living space can significantly enhance your home's appeal and potentially increase its resale value. Modern buyers often seek brighter, more functional layouts that support contemporary lifestyles, particularly in areas like kitchens and living rooms. This type of customized renovation, when executed with AKN Design Group's craftsmanship and attention to detail, transforms your home, aligning with current design trends and making it more desirable. It's a strategic investment in enhancing functionality, beauty, and long-term value.",
+        "@type": "Answer",
+        "description": "Removing a load-bearing wall to create an open concept can significantly increase your home's appeal and resale value."
+      }
+    }
+  ],
+  "description": "Removing a load-bearing wall to create an open concept can significantly increase your home's appeal and resale value."
+}

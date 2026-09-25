@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/will-a-living-room-addition-affect-my-home-s-property-value",
+  "name": "Will a living room addition affect my home's property value?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will a living room addition affect my home's property value?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A thoughtfully designed and well-executed living room addition can significantly enhance your home's functionality, beauty, and overall long-term value. Adding usable, quality square footage that integrates seamlessly with your existing property often makes your home more attractive to potential buyers. AKN Design Group focuses on customized solutions and craftsmanship, ensuring your addition is a valuable investment that aligns with local market expectations in the Dallas–Fort Worth metroplex.",
+        "@type": "Answer",
+        "description": "A well-designed living room addition can enhance your home's functionality and increase its long-term value. Our craftsmanship ensures a valuable investment."
+      }
+    }
+  ],
+  "description": "A well-designed living room addition can enhance your home's functionality and increase its long-term value. Our craftsmanship ensures a valuable investment."
+}

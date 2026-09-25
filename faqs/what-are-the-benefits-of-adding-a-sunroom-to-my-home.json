@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-are-the-benefits-of-adding-a-sunroom-to-my-home",
+  "name": "What are the benefits of adding a sunroom to my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the benefits of adding a sunroom to my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Adding a sunroom can significantly enhance your home's functionality, beauty, and value. It provides additional living space that is flooded with natural light, perfect for relaxation, a home office, or entertaining. Beyond expanding usable square footage, a well-designed sunroom fosters a deeper connection to your outdoor environment throughout the year. AKN Design Group specializes in creating customized solutions that seamlessly integrate with your existing home, ensuring that the addition not only meets your needs but also elevates your entire property.",
+        "@type": "Answer",
+        "description": "A sunroom adds valuable living space, enhances natural light, connects you to the outdoors, and increases your home's functionality, beauty, and value."
+      }
+    }
+  ],
+  "description": "A sunroom adds valuable living space, enhances natural light, connects you to the outdoors, and increases your home's functionality, beauty, and value."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-factors-influence-the-cost-of-a-backyard-office-shed",
+  "name": "What factors influence the cost of a backyard office shed?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of a backyard office shed?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a backyard office shed is influenced by several key factors, including its size, the complexity of its design, the quality of materials selected, and the extent of utility connections (electrical, plumbing, HVAC). High-end finishes, custom built-ins, and specialized features will also impact the overall investment. AKN Design Group provides upfront estimates during the planning phase, integrating value engineering to align your vision with your budget for a customized, high-value addition.",
+        "@type": "Answer",
+        "description": "Cost factors for a backyard office shed include size, design complexity, material quality, and utility connections, with upfront estimates provided."
+      }
+    }
+  ],
+  "description": "Cost factors for a backyard office shed include size, design complexity, material quality, and utility connections, with upfront estimates provided."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-the-design-build-process-for-a-home-addition-with-akn-design-group",
+  "name": "What is the design-build process for a home addition with AKN Design Group?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the design-build process for a home addition with AKN Design Group?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "AKN Design Group's integrated design-build process for a home addition means we handle every aspect from concept to completion under a single point of coordination. It begins with an initial consultation to understand your needs, followed by design planning, including CAD-supported layouts and material selections. Once designs are finalized and permits secured, our team manages all construction, structural integration, interior finishes, and exterior tie-in work. This cohesive approach eliminates the complexities of coordinating multiple contractors and ensures a harmonious project flow, maintaining clear communication throughout.",
+        "@type": "Answer",
+        "description": "Our design-build process for home additions integrates all phases, from initial consultation and design to permit coordination and construction, under a single team. This ensures a streamlined, managed process from start to finish."
+      }
+    }
+  ],
+  "description": "Our design-build process for home additions integrates all phases, from initial consultation and design to permit coordination and construction, under a single"
+}

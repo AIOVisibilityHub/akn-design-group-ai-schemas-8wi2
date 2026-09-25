@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/can-akn-design-group-help-with-an-addition-that-includes-outdoor-living-space",
+  "name": "Can AKN Design Group help with an addition that includes outdoor living space?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can AKN Design Group help with an addition that includes outdoor living space?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, AKN Design Group excels in creating comprehensive transformations that can seamlessly extend your indoor living space with high-end outdoor living areas. If your home addition vision includes elements like a covered patio, outdoor kitchen, or integrated entertainment areas, we can incorporate these into the overall design. Our expertise ensures that both the interior addition and the exterior features are harmonized, enhancing both the functionality and beauty of your entire property for a cohesive lifestyle experience.",
+        "@type": "Answer",
+        "description": "Yes, AKN Design Group can integrate outdoor living spaces like covered patios and outdoor kitchens into your home addition project for a cohesive design."
+      }
+    }
+  ],
+  "description": "Yes, AKN Design Group can integrate outdoor living spaces like covered patios and outdoor kitchens into your home addition project for a cohesive design."
+}

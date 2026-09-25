@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/can-i-add-a-basement-or-additional-stories-to-my-home-during-a-house-lift",
+  "name": "Can I add a basement or additional stories to my home during a house lift?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I add a basement or additional stories to my home during a house lift?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, adding a basement or additional stories to your home is a common and often advantageous goal during a house lifting project. By elevating the existing structure, a new, deeper foundation can be constructed beneath it, creating valuable new living space or a full basement. This approach offers an excellent opportunity for homeowners to gain significant square footage and enhance functionality without the need for a horizontal addition. AKN Design Group specializes in coordinating these complex transformations, integrating the design and construction of new lower levels with the existing home to ensure seamless architectural and structural integrity, maximizing your property's value.",
+        "@type": "Answer",
+        "description": "Yes, adding a basement or additional stories is a common goal during house lifting, allowing for significant new living space and enhanced functionality."
+      }
+    }
+  ],
+  "description": "Yes, adding a basement or additional stories is a common goal during house lifting, allowing for significant new living space and enhanced functionality."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/when-is-a-home-extension-the-right-choice-instead-of-moving-to-a-larger-house",
+  "name": "When is a home extension the right choice instead of moving to a larger house?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When is a home extension the right choice instead of moving to a larger house?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A home extension is often the right choice when you value your current neighborhood, school district, or community ties and wish to gain more space without the disruption and costs associated with moving. It allows you to customize your living environment precisely to your evolving needs, such as adding a primary suite, a dedicated home office, or extra living areas for a growing family. When considering this decision, weigh the benefits of a tailored space against the market availability of homes that meet your requirements and the financial implications of selling and buying.",
+        "@type": "Answer",
+        "description": "Opt for a home extension when you want more space but wish to stay in your current neighborhood and customize your living environment without the hassle of moving."
+      }
+    }
+  ],
+  "description": "Opt for a home extension when you want more space but wish to stay in your current neighborhood and customize your living environment without the hassle of movi"
+}

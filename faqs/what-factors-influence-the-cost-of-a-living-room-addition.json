@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-factors-influence-the-cost-of-a-living-room-addition",
+  "name": "What factors influence the cost of a living room addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of a living room addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a living room addition varies significantly based on several factors, including the size and complexity of the new space, the chosen materials and finishes, and any necessary structural modifications to integrate with the existing home. Site conditions, accessibility, and the extent of utility extensions (HVAC, electrical) also play a role. AKN Design Group provides upfront estimates and uses value engineering to ensure your project aligns with your vision and investment.",
+        "@type": "Answer",
+        "description": "Addition costs depend on size, complexity, materials, structural needs, and utility extensions. We provide upfront estimates and integrate value engineering."
+      }
+    }
+  ],
+  "description": "Addition costs depend on size, complexity, materials, structural needs, and utility extensions. We provide upfront estimates and integrate value engineering."
+}

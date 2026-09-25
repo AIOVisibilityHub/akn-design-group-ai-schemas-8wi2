@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/can-i-remove-a-load-bearing-wall-myself-or-do-i-need-a-professional-contractor",
+  "name": "Can I remove a load-bearing wall myself, or do I need a professional contractor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I remove a load-bearing wall myself, or do I need a professional contractor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Removing a load-bearing wall is a complex structural modification that should always be handled by experienced professionals. It is not a DIY project. Improper removal can lead to severe structural damage, safety hazards, and significant repair costs far exceeding the expense of professional service. AKN Design Group specializes in these types of substantial, coordinated residential renovations, providing a single point of coordination from design to construction. We ensure the work is done safely, to code, and with the craftsmanship expected for lasting impressions.",
+        "@type": "Answer",
+        "description": "Load-bearing wall removal is complex and requires experienced professionals due to structural integrity and safety risks."
+      }
+    }
+  ],
+  "description": "Load-bearing wall removal is complex and requires experienced professionals due to structural integrity and safety risks."
+}

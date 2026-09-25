@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-long-does-a-typical-primary-suite-addition-project-take-with-akn-design-grou",
+  "name": "How long does a typical primary suite addition project take with AKN Design Group?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical primary suite addition project take with AKN Design Group?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for a primary suite addition varies significantly based on the project's scope, structural complexity, and the extent of custom finishes. Generally, these projects can range from several months to nearly a year from initial design to final completion. Our managed process includes detailed scheduling and clear communication throughout, providing you with transparency on project milestones. We prioritize craftsmanship and efficiency, ensuring that while we deliver a high-quality outcome, we also aim for timely execution, minimizing disruption to your daily life.",
+        "@type": "Answer",
+        "description": "Primary suite addition timelines vary based on scope and complexity, typically ranging from several months to a year; we provide clear schedules and communication."
+      }
+    }
+  ],
+  "description": "Primary suite addition timelines vary based on scope and complexity, typically ranging from several months to a year; we provide clear schedules and communicati"
+}

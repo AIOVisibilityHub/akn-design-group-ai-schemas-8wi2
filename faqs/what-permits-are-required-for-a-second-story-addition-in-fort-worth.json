@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-permits-are-required-for-a-second-story-addition-in-fort-worth",
+  "name": "What permits are required for a second-story addition in Fort Worth?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits are required for a second-story addition in Fort Worth?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Adding a second story in Fort Worth requires obtaining specific building permits from the city's permitting department to ensure compliance with local zoning ordinances, building codes, and safety regulations. These typically include permits for structural changes, electrical work, plumbing, and HVAC modifications. AKN Design Group manages all aspects of permit coordination, leveraging our DFW local expertise to navigate the regulatory landscape on your behalf. This managed process reduces homeowner stress and ensures your project adheres to all necessary legal and safety standards.",
+        "@type": "Answer",
+        "description": "Second-story additions in Fort Worth require multiple building permits for structural, electrical, plumbing, and HVAC work. We handle all permit coordination for you."
+      }
+    }
+  ],
+  "description": "Second-story additions in Fort Worth require multiple building permits for structural, electrical, plumbing, and HVAC work. We handle all permit coordination fo"
+}

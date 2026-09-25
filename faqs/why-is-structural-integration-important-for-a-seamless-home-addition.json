@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/why-is-structural-integration-important-for-a-seamless-home-addition",
+  "name": "Why is structural integration important for a seamless home addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why is structural integration important for a seamless home addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Structural integration is crucial for ensuring a home addition is safe, stable, and truly feels like an original part of your home, not an afterthought. It involves carefully designing how the new structure connects to and relies upon the existing foundation, walls, and roofline, ensuring proper load distribution and avoiding future issues like settling or cracking. AKN Design Group's design-build approach expertly manages this process, from engineering considerations to aesthetic matching, guaranteeing the addition not only performs well but also visually integrates flawlessly, enhancing the home's overall value and longevity.",
+        "@type": "Answer",
+        "description": "Structural integration ensures a home addition is safe, stable, and visually seamless by carefully connecting it to the existing foundation, walls, and roofline, preventing future issues."
+      }
+    }
+  ],
+  "description": "Structural integration ensures a home addition is safe, stable, and visually seamless by carefully connecting it to the existing foundation, walls, and roofline"
+}
