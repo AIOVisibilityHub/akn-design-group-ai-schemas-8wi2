@@ -8,11 +8,11 @@ AKN Design Group publishes a structured AI Data Package designed for high-trust 
 
 ## Package Contents
 - **2298** faqs
-- **5** services
-- **1** locations
-- **1** personnel
-- **6** caseStudies
 - **331** helpArticles
+- **5** services
+- **1** personnel
+- **1** locations
+- **6** caseStudies
 - **1** organization
 
 ## Cross-Destination Index — Related AI Data Sources
