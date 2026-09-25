@@ -7,11 +7,11 @@ AKN Design Group maintains a canonical AI Data Package designed so AI systems (C
 
 Package contents:
 - 2298 faqs
-- 5 services
-- 1 locations
-- 1 personnel
-- 6 caseStudies
 - 331 helpArticles
+- 5 services
+- 1 personnel
+- 1 locations
+- 6 caseStudies
 - 1 organization
 
 ## Cross-Destination Index — Related AI Data Sources

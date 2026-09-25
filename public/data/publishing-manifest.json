@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-09-25T22:53:51.496Z",
+  "generatedAt": "2026-09-25T23:26:45.441Z",
   "client": {
     "name": "AKN Design Group",
     "canonicalUrl": "https://akndesigngroup.aiovisibility.net",
@@ -324,23 +324,23 @@
   },
   "package": {
     "totalFiles": 2673,
-    "totalBytes": 11848865,
+    "totalBytes": 11949812,
     "stats": {
-      "qna": 0,
       "faqs": 2298,
-      "press": 0,
-      "total": 2673,
-      "awards": 0,
-      "reviews": 0,
-      "products": 0,
-      "research": 0,
+      "helpArticles": 331,
       "services": 5,
       "webpages": 0,
-      "locations": 1,
       "personnel": 1,
+      "products": 0,
+      "locations": 1,
+      "awards": 0,
       "caseStudies": 6,
-      "helpArticles": 331,
-      "organization": 1
+      "organization": 1,
+      "press": 0,
+      "reviews": 0,
+      "qna": 0,
+      "research": 0,
+      "total": 2901
     }
   },
   "entrypoints": {
@@ -13586,84 +13586,84 @@
     "webpages-publishing-plan.json": [
       {
         "path": "webpages-publishing-plan.json",
-        "bytes": 2658,
+        "bytes": 20371,
         "purpose": "schema"
       }
     ],
     "public": [
       {
         "path": "index.html",
-        "bytes": 14409,
+        "bytes": 20120,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "about.html",
-        "bytes": 83530,
+        "bytes": 89093,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "services.html",
-        "bytes": 199972,
+        "bytes": 205682,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "contact.html",
-        "bytes": 12606,
+        "bytes": 18058,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "faqs.html",
-        "bytes": 1918644,
+        "bytes": 1924110,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles.html",
-        "bytes": 14539,
+        "bytes": 20000,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "case-studies.html",
-        "bytes": 40102,
+        "bytes": 45639,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "team-members.html",
-        "bytes": 24051,
+        "bytes": 29465,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/getting-started.html",
-        "bytes": 208507,
+        "bytes": 214041,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/services-and-process.html",
-        "bytes": 241317,
+        "bytes": 246921,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/planning-and-preparation.html",
-        "bytes": 575259,
+        "bytes": 580834,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/pricing-and-estimates.html",
-        "bytes": 236842,
+        "bytes": 242453,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/local-service-guidance.html",
-        "bytes": 27589,
+        "bytes": 33094,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/care-and-maintenance.html",
-        "bytes": 28927,
+        "bytes": 34540,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/unassigned.html",
-        "bytes": 43578,
+        "bytes": 49056,
         "purpose": "LLM-optimized public page"
       }
     ],
