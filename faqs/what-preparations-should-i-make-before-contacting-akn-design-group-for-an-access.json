@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-preparations-should-i-make-before-contacting-akn-design-group-for-an-access",
+  "name": "What preparations should I make before contacting AKN Design Group for an accessible kitchen renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What preparations should I make before contacting AKN Design Group for an accessible kitchen renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before contacting us, considering your specific needs, daily routines, and any particular challenges within your current kitchen can be very helpful. Thinking about desired features, such as countertop heights, appliance placements, or storage solutions, will allow for a more productive initial consultation. While you don't need a detailed plan, having a general understanding of your functional requirements and aesthetic preferences helps us develop customized solutions that genuinely enhance your homeowner experience. As your central project partner, we guide you through the entire process.",
+        "@type": "Answer",
+        "description": "Before contacting us, consider your specific needs, daily routines, desired features, and aesthetic preferences. This helps us tailor a customized solution for your accessible kitchen."
+      }
+    }
+  ],
+  "description": "Before contacting us, consider your specific needs, daily routines, desired features, and aesthetic preferences. This helps us tailor a customized solution for"
+}

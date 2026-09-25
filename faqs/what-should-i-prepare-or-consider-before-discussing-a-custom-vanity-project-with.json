@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-should-i-prepare-or-consider-before-discussing-a-custom-vanity-project-with",
+  "name": "What should I prepare or consider before discussing a custom vanity project with AKN Design Group?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare or consider before discussing a custom vanity project with AKN Design Group?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before discussing your custom vanity project, consider your primary needs for storage and organization, your preferred aesthetic style, and any specific materials or finishes you admire. Gathering inspiration images, understanding your typical morning routine, and identifying items you need to store can significantly aid the design conversation. This preparation allows AKN Design Group to develop a design that not only meets your functional requirements but also aligns with your vision for a luxury bathroom, ensuring a managed process from initial concept to completion.",
+        "@type": "Answer",
+        "description": "Beforehand, consider your storage needs, preferred style, and gather inspiration images to help us design a custom vanity that perfectly suits your vision."
+      }
+    }
+  ],
+  "description": "Beforehand, consider your storage needs, preferred style, and gather inspiration images to help us design a custom vanity that perfectly suits your vision."
+}

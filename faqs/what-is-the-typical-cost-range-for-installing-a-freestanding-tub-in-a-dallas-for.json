@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-the-typical-cost-range-for-installing-a-freestanding-tub-in-a-dallas-for",
+  "name": "What is the typical cost range for installing a freestanding tub in a Dallas–Fort Worth home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost range for installing a freestanding tub in a Dallas–Fort Worth home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost for installing a freestanding tub in the Dallas–Fort Worth metroplex can vary widely based on several factors, including the tub's size and material, the extent of plumbing modifications needed, and whether structural reinforcement is required. Our projects focus on customized renovations, meaning we provide detailed, upfront estimates after assessing your specific bathroom's needs and your design preferences. While we do not offer piecemeal, labor-only installations, our comprehensive design-build service integrates all costs transparently, ensuring you understand the investment for your spa-inspired bathroom retreat.",
+        "@type": "Answer",
+        "description": "Installation costs vary based on tub type, plumbing modifications, and structural needs; AKN Design Group provides upfront, detailed estimates for customized renovations."
+      }
+    }
+  ],
+  "description": "Installation costs vary based on tub type, plumbing modifications, and structural needs; AKN Design Group provides upfront, detailed estimates for customized re"
+}

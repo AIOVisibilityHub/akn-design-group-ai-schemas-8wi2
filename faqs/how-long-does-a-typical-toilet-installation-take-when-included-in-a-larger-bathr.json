@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-long-does-a-typical-toilet-installation-take-when-included-in-a-larger-bathr",
+  "name": "How long does a typical toilet installation take when included in a larger bathroom remodeling project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical toilet installation take when included in a larger bathroom remodeling project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When integrated into a comprehensive bathroom remodeling project, the physical installation of a toilet typically takes a few hours. However, the overall timeline is dictated by the entire remodel's scope, including demolition, subfloor preparation, flooring installation, and plumbing rough-ins. AKN Design Group’s managed process ensures efficient scheduling and coordination, minimizing disruption while maintaining our commitment to detailed craftsmanship and a quality homeowner experience throughout your luxury bathroom transformation.",
+        "@type": "Answer",
+        "description": "Toilet installation itself takes a few hours, but the overall timeline depends on the full bathroom remodel's scope. Our managed process ensures efficient coordination."
+      }
+    }
+  ],
+  "description": "Toilet installation itself takes a few hours, but the overall timeline depends on the full bathroom remodel's scope. Our managed process ensures efficient coord"
+}

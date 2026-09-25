@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-preparations-should-i-make-before-starting-a-primary-bathroom-remodel-proje",
+  "name": "What preparations should I make before starting a primary bathroom remodel project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What preparations should I make before starting a primary bathroom remodel project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before commencing a primary bathroom remodel, it's beneficial to gather inspiration regarding styles, finishes, and desired features, creating a clear vision for your spa-inspired retreat. Consider your family's daily routines and how the new layout can enhance functionality and comfort. Think about specific elements like storage needs, lighting preferences, and desired shower experiences. While AKN Design Group manages the design and construction, having an initial understanding of your preferences will streamline the consultation process, allowing us to better integrate your vision into our CAD-supported layouts and material selections.",
+        "@type": "Answer",
+        "description": "Before starting, gather inspiration, define your desired style and features, and consider how the new bathroom can enhance your daily routines to inform our design process."
+      }
+    }
+  ],
+  "description": "Before starting, gather inspiration, define your desired style and features, and consider how the new bathroom can enhance your daily routines to inform our des"
+}

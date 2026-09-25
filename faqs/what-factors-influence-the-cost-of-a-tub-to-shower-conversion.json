@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-factors-influence-the-cost-of-a-tub-to-shower-conversion",
+  "name": "What factors influence the cost of a tub-to-shower conversion?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of a tub-to-shower conversion?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a tub-to-shower conversion is influenced by several factors, including the size of the new shower, the complexity of plumbing modifications, the type of materials chosen for tiling and fixtures, and whether structural changes are required. High-end options like frameless glass enclosures, rainfall showerheads, custom tile work, and built-in benches will increase the investment. AKN Design Group provides upfront estimates and transparent communication throughout the project, ensuring you understand the scope and associated costs for your customized renovation.",
+        "@type": "Answer",
+        "description": "Cost is influenced by shower size, plumbing complexity, material choices, and structural changes, with custom features impacting the overall investment."
+      }
+    }
+  ],
+  "description": "Cost is influenced by shower size, plumbing complexity, material choices, and structural changes, with custom features impacting the overall investment."
+}

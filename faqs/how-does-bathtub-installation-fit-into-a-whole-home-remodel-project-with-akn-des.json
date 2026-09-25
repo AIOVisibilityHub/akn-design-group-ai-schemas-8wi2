@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-does-bathtub-installation-fit-into-a-whole-home-remodel-project-with-akn-des",
+  "name": "How does bathtub installation fit into a whole-home remodel project with AKN Design Group?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does bathtub installation fit into a whole-home remodel project with AKN Design Group?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In a whole-home remodel, bathtub installation is an integral part of renovating the bathrooms to align with the cohesive design and elevated functionality across the entire residence. Our integrated design-build approach ensures that bathroom renovations, including bathtub installations, are perfectly synchronized with other project phases like kitchen remodels, flooring, and lighting upgrades. This managed process prevents the disjointed results often seen with piecemeal upgrades. We coordinate all trades, manage timelines, and maintain clear communication, ensuring the new bathtub and bathroom design contribute to a harmonious and customized transformation of your entire home.",
+        "@type": "Answer",
+        "description": "Bathtub installation in a whole-home remodel is seamlessly integrated into the overall renovation plan, ensuring cohesive design and synchronized execution across all areas of your home."
+      }
+    }
+  ],
+  "description": "Bathtub installation in a whole-home remodel is seamlessly integrated into the overall renovation plan, ensuring cohesive design and synchronized execution acro"
+}

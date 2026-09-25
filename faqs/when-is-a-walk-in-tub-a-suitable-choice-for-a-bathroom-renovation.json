@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/when-is-a-walk-in-tub-a-suitable-choice-for-a-bathroom-renovation",
+  "name": "When is a walk-in tub a suitable choice for a bathroom renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When is a walk-in tub a suitable choice for a bathroom renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A walk-in tub is a suitable choice when a homeowner seeks enhanced accessibility and safety within their bathroom, often due to mobility considerations or a desire for a safer bathing experience. It integrates well into a luxury bathroom renovation, especially if the current layout is dated or unsafe. AKN Design Group can assess your existing bathroom layout and discuss how a walk-in tub can be incorporated seamlessly as part of a comprehensive spa-inspired retreat, ensuring it aligns with your long-term needs and aesthetic preferences. Our design-build process ensures this specialized fixture is integrated thoughtfully into the overall bathroom design.",
+        "@type": "Answer",
+        "description": "A walk-in tub is suitable for homeowners seeking enhanced accessibility and safety in their bathroom, particularly as part of a luxury renovation."
+      }
+    }
+  ],
+  "description": "A walk-in tub is suitable for homeowners seeking enhanced accessibility and safety in their bathroom, particularly as part of a luxury renovation."
+}

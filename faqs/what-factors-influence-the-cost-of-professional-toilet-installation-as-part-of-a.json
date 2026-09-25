@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-factors-influence-the-cost-of-professional-toilet-installation-as-part-of-a",
+  "name": "What factors influence the cost of professional toilet installation as part of a bathroom remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of professional toilet installation as part of a bathroom remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of professional toilet installation within a larger bathroom remodel is influenced by several factors. These include the type and style of toilet selected (e.g., standard, comfort-height, wall-mounted, smart toilets), any necessary plumbing modifications to accommodate the new unit, and the complexity of integrating it into a custom tile floor or wall design. AKN Design Group provides detailed, upfront estimates that encompass all aspects of your luxury bathroom renovation, ensuring transparency regarding the investment for superior craftsmanship and functionality.",
+        "@type": "Answer",
+        "description": "Cost factors for toilet installation during a remodel include toilet type, plumbing modifications, and integration with custom finishes. We provide detailed, upfront estimates for transparency."
+      }
+    }
+  ],
+  "description": "Cost factors for toilet installation during a remodel include toilet type, plumbing modifications, and integration with custom finishes. We provide detailed, up"
+}

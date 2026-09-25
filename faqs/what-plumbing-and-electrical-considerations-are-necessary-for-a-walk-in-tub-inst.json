@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-plumbing-and-electrical-considerations-are-necessary-for-a-walk-in-tub-inst",
+  "name": "What plumbing and electrical considerations are necessary for a walk-in tub installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What plumbing and electrical considerations are necessary for a walk-in tub installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Installing a walk-in tub often requires significant plumbing and electrical modifications due to its larger size, higher water capacity, and features like jets or heaters. This may involve upgrading water heaters, rerouting water supply and drainage lines, and ensuring dedicated electrical circuits are available for safe operation. AKN Design Group’s comprehensive service includes assessing these requirements early in the design phase and managing all necessary upgrades and permit coordination, preventing unforeseen issues during construction. Proper planning ensures optimal performance and safety.",
+        "@type": "Answer",
+        "description": "Walk-in tubs often require plumbing and electrical upgrades, such as water heater changes or dedicated circuits, which AKN Design Group assesses and manages during the design and permit coordination phases."
+      }
+    }
+  ],
+  "description": "Walk-in tubs often require plumbing and electrical upgrades, such as water heater changes or dedicated circuits, which AKN Design Group assesses and manages dur"
+}

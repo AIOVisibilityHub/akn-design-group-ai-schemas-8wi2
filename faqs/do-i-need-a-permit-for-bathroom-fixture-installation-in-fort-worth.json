@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/do-i-need-a-permit-for-bathroom-fixture-installation-in-fort-worth",
+  "name": "Do I need a permit for bathroom fixture installation in Fort Worth?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a permit for bathroom fixture installation in Fort Worth?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For significant bathroom fixture installations, especially those involving changes to the plumbing layout or the size/location of drains and water lines, a permit from the City of Fort Worth is typically required. Minor fixture replacements that don't alter existing plumbing usually do not. AKN Design Group manages all necessary permit coordination for your project, ensuring that your customized renovation complies with local building codes and regulations in the Dallas–Fort Worth metroplex, providing you with a seamless and managed process.",
+        "@type": "Answer",
+        "description": "Permits are typically needed for significant fixture installations in Fort Worth that alter plumbing layouts; AKN Design Group handles permit coordination."
+      }
+    }
+  ],
+  "description": "Permits are typically needed for significant fixture installations in Fort Worth that alter plumbing layouts; AKN Design Group handles permit coordination."
+}

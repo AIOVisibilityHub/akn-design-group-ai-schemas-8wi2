@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-long-does-a-typical-bathroom-tile-installation-take-during-a-full-renovation",
+  "name": "How long does a typical bathroom tile installation take during a full renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical bathroom tile installation take during a full renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of tile installation depends on the scope of the bathroom renovation, the complexity of the tile pattern, and the type of tile chosen. For a comprehensive spa-inspired bathroom remodel, tiling can take anywhere from a few days to over a week, not including curing times. This is part of a larger, managed process. AKN Design Group integrates the tiling phase seamlessly into the overall project timeline, ensuring clear communication and efficient scheduling from design planning to final walkthrough. We prioritize minimizing disruption while maintaining our commitment to craftsmanship.",
+        "@type": "Answer",
+        "description": "Tile installation duration varies with project scope and complexity, typically taking days to over a week within a full renovation. We integrate this into the overall project timeline."
+      }
+    }
+  ],
+  "description": "Tile installation duration varies with project scope and complexity, typically taking days to over a week within a full renovation. We integrate this into the o"
+}

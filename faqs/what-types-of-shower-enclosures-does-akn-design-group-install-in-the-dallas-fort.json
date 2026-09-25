@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-types-of-shower-enclosures-does-akn-design-group-install-in-the-dallas-fort",
+  "name": "What types of shower enclosures does AKN Design Group install in the Dallas–Fort Worth metroplex?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of shower enclosures does AKN Design Group install in the Dallas–Fort Worth metroplex?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "AKN Design Group specializes in the installation of high-quality shower enclosures as part of comprehensive luxury bathroom renovations. This includes frameless glass enclosures, which are a popular choice for spa-inspired bathrooms due to their clean lines and open feel. We focus on integrating the enclosure seamlessly with custom tile work, updated plumbing fixtures, and overall bathroom design to enhance both functionality and aesthetic appeal. Our managed process ensures that the enclosure selected aligns with your specific vision for a sophisticated and cohesive bathroom space, enhancing your daily routine.",
+        "@type": "Answer",
+        "description": "AKN Design Group installs high-quality shower enclosures, including frameless glass, as part of luxury bathroom renovations in the Dallas–Fort Worth metroplex. We integrate the enclosure with the overall design for enhanced functionality and aesthetic appeal."
+      }
+    }
+  ],
+  "description": "AKN Design Group installs high-quality shower enclosures, including frameless glass, as part of luxury bathroom renovations in the Dallas–Fort Worth metroplex."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-kind-of-preparation-is-needed-before-a-toilet-installation-within-a-remodel",
+  "name": "What kind of preparation is needed before a toilet installation within a remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of preparation is needed before a toilet installation within a remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before a new toilet installation as part of a remodel, several preparations are essential. This includes the removal of the old toilet, ensuring the subfloor is clean, level, and structurally sound, and verifying that the existing water supply and waste lines are correctly positioned and in good condition. During our managed process, AKN Design Group ensures that these foundational steps are meticulously completed, providing a secure and reliable base for your new fixture and contributing to the longevity of your luxury bathroom.",
+        "@type": "Answer",
+        "description": "Preparation for toilet installation includes removing the old unit, ensuring a sound subfloor, and verifying water supply and waste line positioning. AKN Design Group manages these critical steps."
+      }
+    }
+  ],
+  "description": "Preparation for toilet installation includes removing the old unit, ensuring a sound subfloor, and verifying water supply and waste line positioning. AKN Design"
+}

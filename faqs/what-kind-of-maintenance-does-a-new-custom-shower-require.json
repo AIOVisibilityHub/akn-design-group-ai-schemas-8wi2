@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-kind-of-maintenance-does-a-new-custom-shower-require",
+  "name": "What kind of maintenance does a new custom shower require?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of maintenance does a new custom shower require?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Maintaining a new custom shower typically involves regular cleaning of tiles, grout, and glass enclosures to prevent soap scum and mildew buildup. The specific cleaning routine will depend on the materials chosen; for instance, natural stone may require different care than porcelain or ceramic tiles. Choosing high-quality, durable materials from the outset, a hallmark of AKN Design Group's projects, can simplify long-term maintenance. We provide guidance on appropriate care for your specific selections, ensuring your spa-inspired shower retains its beauty and functionality for years.",
+        "@type": "Answer",
+        "description": "Maintenance involves regular cleaning of tiles, grout, and glass. High-quality materials can simplify this, with specific care depending on material type."
+      }
+    }
+  ],
+  "description": "Maintenance involves regular cleaning of tiles, grout, and glass. High-quality materials can simplify this, with specific care depending on material type."
+}

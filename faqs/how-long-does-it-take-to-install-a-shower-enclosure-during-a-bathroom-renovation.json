@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-long-does-it-take-to-install-a-shower-enclosure-during-a-bathroom-renovation",
+  "name": "How long does it take to install a shower enclosure during a bathroom renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to install a shower enclosure during a bathroom renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The specific timing for shower enclosure installation is integrated into the broader timeline of your luxury bathroom renovation. While the actual physical installation of the glass panels and hardware can often be completed within a day or two, this step is contingent on earlier phases such as demolition, plumbing rough-in, waterproofing, and tile installation and curing. AKN Design Group provides upfront estimates and scheduling transparency, coordinating all trades through our single point of coordination. We ensure each phase is completed with precision, contributing to the overall managed process and efficient delivery of your spa-inspired bathroom.",
+        "@type": "Answer",
+        "description": "Shower enclosure installation typically takes 1-2 days, but it's part of a larger luxury bathroom renovation timeline. AKN Design Group coordinates all phases, from demolition and tiling to final installation, with scheduling transparency."
+      }
+    }
+  ],
+  "description": "Shower enclosure installation typically takes 1-2 days, but it's part of a larger luxury bathroom renovation timeline. AKN Design Group coordinates all phases,"
+}

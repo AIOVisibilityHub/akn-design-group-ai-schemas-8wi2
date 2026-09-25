@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-involved-in-the-tub-to-shower-conversion-process",
+  "name": "What is involved in the tub-to-shower conversion process?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in the tub-to-shower conversion process?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The tub-to-shower conversion process involves removing the existing bathtub and surrounding wall materials, making necessary plumbing adjustments for the new shower configuration, installing a new shower pan or custom sloped floor, waterproofing, and then tiling the walls and floor. Finally, new fixtures, a shower door or enclosure, and any storage niches are installed. As an integrated design-build team, AKN Design Group manages every step, from initial design concepts and material selection to permit coordination and construction, ensuring a seamless transformation.",
+        "@type": "Answer",
+        "description": "The process includes removing the tub, adjusting plumbing, installing a new shower pan and waterproofing, tiling, and installing fixtures and an enclosure."
+      }
+    }
+  ],
+  "description": "The process includes removing the tub, adjusting plumbing, installing a new shower pan and waterproofing, tiling, and installing fixtures and an enclosure."
+}

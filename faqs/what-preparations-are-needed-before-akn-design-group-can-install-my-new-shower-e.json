@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-preparations-are-needed-before-akn-design-group-can-install-my-new-shower-e",
+  "name": "What preparations are needed before AKN Design Group can install my new shower enclosure?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What preparations are needed before AKN Design Group can install my new shower enclosure?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before AKN Design Group can install your new shower enclosure, several critical preparations are typically involved within the larger scope of a luxury bathroom renovation. This includes finalizing the bathroom layout and design, selecting all materials such as tile, fixtures, and the specific enclosure style. The shower area itself must be properly prepared, which involves ensuring the subfloor is level, waterproofing is correctly applied, and all tiling is expertly installed and cured. These foundational steps, coordinated by our design-build team, are essential for a precise, leak-free, and long-lasting shower enclosure installation, emphasizing our commitment to craftsmanship.",
+        "@type": "Answer",
+        "description": "Key preparations for shower enclosure installation include finalizing the bathroom design and material selections, ensuring the shower area is level, properly waterproofed, and all tiling is expertly installed and cured beforehand."
+      }
+    }
+  ],
+  "description": "Key preparations for shower enclosure installation include finalizing the bathroom design and material selections, ensuring the shower area is level, properly w"
+}

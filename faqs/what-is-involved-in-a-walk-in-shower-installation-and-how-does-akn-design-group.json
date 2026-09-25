@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-involved-in-a-walk-in-shower-installation-and-how-does-akn-design-group",
+  "name": "What is involved in a walk-in shower installation, and how does AKN Design Group manage the process?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in a walk-in shower installation, and how does AKN Design Group manage the process?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A walk-in shower installation typically involves removing existing fixtures, reconfiguring plumbing, waterproofing the enclosure, installing new tile and glass, and integrating new fixtures like rainfall showerheads. AKN Design Group manages this as a key component of a larger bathroom renovation, employing our integrated design-build process. This means we coordinate everything from initial design and material selection, including CAD-supported layouts, through demolition, construction, and final installation. Our managed process ensures a seamless transformation, addressing structural needs, finish selections, and all necessary permit coordination to create a spa-inspired bathing space with a single, accountable team.",
+        "@type": "Answer",
+        "description": "A walk-in shower installation involves removing old fixtures, plumbing adjustments, waterproofing, tiling, and glass installation. AKN Design Group manages this as part of a larger bathroom renovation using an integrated design-build process, handling design, permits, and construction."
+      }
+    }
+  ],
+  "description": "A walk-in shower installation involves removing old fixtures, plumbing adjustments, waterproofing, tiling, and glass installation. AKN Design Group manages this"
+}

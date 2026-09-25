@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-long-does-a-custom-shower-renovation-typically-take",
+  "name": "How long does a custom shower renovation typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a custom shower renovation typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for a custom shower renovation varies based on the scope and complexity of the design, including factors like structural modifications, plumbing rerouting, and intricate tile work. While a specific duration can only be determined after a detailed design consultation, our managed process aims for efficiency without compromising craftsmanship. We provide upfront estimates and scheduling transparency, ensuring you are informed every step of the way. Considerations such as permit coordination, material lead times, and the integration with other bathroom elements will influence the overall project schedule. Our goal is to complete your project efficiently while upholding our commitment to quality.",
+        "@type": "Answer",
+        "description": "The timeline for a custom shower renovation depends on the design's complexity and scope. AKN Design Group provides upfront estimates and scheduling transparency, with permit coordination and material lead times influencing the overall duration."
+      }
+    }
+  ],
+  "description": "The timeline for a custom shower renovation depends on the design's complexity and scope. AKN Design Group provides upfront estimates and scheduling transparenc"
+}

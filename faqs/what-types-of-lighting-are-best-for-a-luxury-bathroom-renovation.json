@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-types-of-lighting-are-best-for-a-luxury-bathroom-renovation",
+  "name": "What types of lighting are best for a luxury bathroom renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of lighting are best for a luxury bathroom renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For a luxury bathroom renovation, AKN Design Group recommends a layered approach to lighting. This typically includes ambient lighting, such as recessed ceiling lights, for overall illumination; task lighting, like sconces or integrated mirror lights, for grooming areas; and accent lighting, perhaps low-voltage strips or spotlights, to highlight architectural features or artwork. The goal is to create a spa-inspired experience by combining functionality with aesthetic appeal, enhancing both beauty and value. We focus on integrating these elements seamlessly into your overall design vision, ensuring the lighting complements your fixtures and finishes.",
+        "@type": "Answer",
+        "description": "Layered lighting, combining ambient, task, and accent fixtures, is best for a luxury bathroom renovation to create a spa-inspired experience."
+      }
+    }
+  ],
+  "description": "Layered lighting, combining ambient, task, and accent fixtures, is best for a luxury bathroom renovation to create a spa-inspired experience."
+}

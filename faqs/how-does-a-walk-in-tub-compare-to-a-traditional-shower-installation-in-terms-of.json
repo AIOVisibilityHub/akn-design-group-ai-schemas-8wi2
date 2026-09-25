@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-does-a-walk-in-tub-compare-to-a-traditional-shower-installation-in-terms-of",
+  "name": "How does a walk-in tub compare to a traditional shower installation in terms of renovation scope?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does a walk-in tub compare to a traditional shower installation in terms of renovation scope?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Installing a walk-in tub typically involves a more extensive renovation scope compared to replacing a traditional shower. A walk-in tub often requires specific structural support, more significant plumbing adjustments for its larger volume, and dedicated electrical circuits for features like jets or heaters. A traditional shower replacement might be less invasive. Our design-build approach helps homeowners weigh these practical tradeoffs, ensuring the chosen solution best enhances functionality, beauty, and value for their specific needs, whether it's a spa-style walk-in tub or an expansive custom shower.",
+        "@type": "Answer",
+        "description": "A walk-in tub usually involves a more extensive renovation scope, requiring significant structural, plumbing, and electrical modifications compared to a traditional shower replacement."
+      }
+    }
+  ],
+  "description": "A walk-in tub usually involves a more extensive renovation scope, requiring significant structural, plumbing, and electrical modifications compared to a traditi"
+}

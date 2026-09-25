@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/can-tile-be-installed-over-existing-bathroom-flooring",
+  "name": "Can tile be installed over existing bathroom flooring?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can tile be installed over existing bathroom flooring?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While it is sometimes technically possible to install new tile over existing flooring, it is often not the ideal approach for a high-quality, lasting renovation. Installing over existing surfaces can lead to an uneven finish, raise floor heights to undesirable levels, or create issues if the underlying material is not perfectly stable. For a luxury bathroom remodel, AKN Design Group typically recommends removing old flooring to ensure a proper, level subfloor and a secure installation. This commitment to craftsmanship ensures structural integrity and a flawless aesthetic.",
+        "@type": "Answer",
+        "description": "Installing tile over existing flooring is generally not recommended for a lasting, high-quality result. We typically remove old flooring to ensure a proper, level base."
+      }
+    }
+  ],
+  "description": "Installing tile over existing flooring is generally not recommended for a lasting, high-quality result. We typically remove old flooring to ensure a proper, lev"
+}

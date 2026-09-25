@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/will-installing-a-new-bathtub-require-changes-to-my-bathroom-s-plumbing-or-layou",
+  "name": "Will installing a new bathtub require changes to my bathroom's plumbing or layout?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will installing a new bathtub require changes to my bathroom's plumbing or layout?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Installing a new bathtub, especially when changing its type or location, often requires adjustments to your bathroom's plumbing and potentially its overall layout. For instance, converting from an alcove tub to a freestanding tub might necessitate relocating drain lines and water supply. Our comprehensive design-build approach ensures that all necessary plumbing modifications are expertly planned and executed as part of your renovation. We manage permit coordination and structural considerations to ensure your new bathtub is installed correctly and safely, harmonizing with the updated design elements of your luxury bathroom.",
+        "@type": "Answer",
+        "description": "New bathtub installations, particularly those changing tub type or location, often require plumbing and layout adjustments, which AKN Design Group manages through its design-build process."
+      }
+    }
+  ],
+  "description": "New bathtub installations, particularly those changing tub type or location, often require plumbing and layout adjustments, which AKN Design Group manages throu"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/does-akn-design-group-handle-the-removal-of-existing-bathroom-countertops",
+  "name": "Does AKN Design Group handle the removal of existing bathroom countertops?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does AKN Design Group handle the removal of existing bathroom countertops?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, as part of our comprehensive, managed process for bathroom renovations, AKN Design Group handles the complete removal and disposal of your existing countertops. This is an integral step in preparing your space for the new installation and ensuring a clean, efficient transition. Our team manages all aspects of the demolition and installation, providing a single point of coordination and reducing the hassle for homeowners during their customized remodel.",
+        "@type": "Answer",
+        "description": "Yes, we handle the complete removal and disposal of existing bathroom countertops as part of our comprehensive renovation process."
+      }
+    }
+  ],
+  "description": "Yes, we handle the complete removal and disposal of existing bathroom countertops as part of our comprehensive renovation process."
+}

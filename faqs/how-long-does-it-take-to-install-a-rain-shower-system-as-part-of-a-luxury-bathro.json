@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-long-does-it-take-to-install-a-rain-shower-system-as-part-of-a-luxury-bathro",
+  "name": "How long does it take to install a rain shower system as part of a luxury bathroom renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to install a rain shower system as part of a luxury bathroom renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The installation timeline for a rain shower system, when integrated into a luxury bathroom renovation, is part of the larger project schedule. While the fixture installation itself is a component, the overall duration includes design planning, permit coordination, demolition, plumbing and electrical rough-ins, tiling, and finish work. For a spa-inspired primary bathroom, AKN Design Group provides a clear project timeline upfront, managing every step from concept to completion. Our goal is to deliver a cohesive, high-quality transformation efficiently while upholding our commitment to craftsmanship and clear communication.",
+        "@type": "Answer",
+        "description": "Installation time is part of the overall luxury bathroom renovation schedule, which includes design, permits, and finish work. AKN Design Group provides upfront project timelines."
+      }
+    }
+  ],
+  "description": "Installation time is part of the overall luxury bathroom renovation schedule, which includes design, permits, and finish work. AKN Design Group provides upfront"
+}

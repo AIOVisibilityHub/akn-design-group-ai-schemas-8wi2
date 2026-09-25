@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-ventilation-capacity-cfm-do-i-need-for-my-range-hood",
+  "name": "What ventilation capacity (CFM) do I need for my range hood?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What ventilation capacity (CFM) do I need for my range hood?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Determining the correct ventilation capacity (CFM, or cubic feet per minute) for your range hood is crucial for effective fume removal. A general guideline is to have at least 100 CFM for every 10,000 BTUs of stove burner output, or 1 CFM per square foot of kitchen space for general ventilation. We evaluate your specific cooking needs and appliance specifications during the design phase of your kitchen remodel to recommend a hood with appropriate CFM, ensuring optimal air quality and performance in your customized renovation.",
+        "@type": "Answer",
+        "description": "Calculate range hood CFM based on stove BTU output (100 CFM per 10,000 BTU) or kitchen size (1 CFM per square foot) to ensure effective ventilation."
+      }
+    }
+  ],
+  "description": "Calculate range hood CFM based on stove BTU output (100 CFM per 10,000 BTU) or kitchen size (1 CFM per square foot) to ensure effective ventilation."
+}

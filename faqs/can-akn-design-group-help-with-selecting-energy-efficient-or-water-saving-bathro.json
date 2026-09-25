@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/can-akn-design-group-help-with-selecting-energy-efficient-or-water-saving-bathro",
+  "name": "Can AKN Design Group help with selecting energy-efficient or water-saving bathroom fixtures?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can AKN Design Group help with selecting energy-efficient or water-saving bathroom fixtures?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, AKN Design Group can certainly assist with selecting energy-efficient and water-saving bathroom fixtures as part of your comprehensive renovation. We understand that homeowners often seek solutions that enhance functionality, beauty, and long-term value, which includes sustainability. Our team can guide you toward options like low-flow toilets, water-efficient showerheads, and smart faucets that reduce water consumption without compromising performance or the spa-inspired experience. We integrate these choices into the overall design-build plan for a cohesive, customized solution.",
+        "@type": "Answer",
+        "description": "Yes, AKN Design Group assists with selecting energy-efficient and water-saving fixtures like low-flow toilets and showerheads to enhance functionality and value."
+      }
+    }
+  ],
+  "description": "Yes, AKN Design Group assists with selecting energy-efficient and water-saving fixtures like low-flow toilets and showerheads to enhance functionality and value"
+}

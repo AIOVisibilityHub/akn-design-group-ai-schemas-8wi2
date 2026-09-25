@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-considerations-are-important-when-planning-bathroom-cabinetry-for-a-double",
+  "name": "What considerations are important when planning bathroom cabinetry for a double vanity?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What considerations are important when planning bathroom cabinetry for a double vanity?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When planning cabinetry for a double vanity, key considerations include ensuring ample storage for two users, maintaining personal space, and optimizing countertop area. We design solutions that balance individual needs with a cohesive aesthetic, often incorporating separate storage zones or specific drawer organizers. Our process ensures that the cabinetry accommodates two sinks, fixtures, and lighting effectively, while also considering ergonomic heights and clearance. This careful planning contributes to a highly functional and luxurious bathroom experience for both users.",
+        "@type": "Answer",
+        "description": "For double vanity cabinetry, we focus on maximizing individual storage, personal space, and countertop area. Our designs accommodate two sinks, fixtures, and lighting while ensuring ergonomic and luxurious functionality."
+      }
+    }
+  ],
+  "description": "For double vanity cabinetry, we focus on maximizing individual storage, personal space, and countertop area. Our designs accommodate two sinks, fixtures, and li"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-are-the-structural-considerations-for-installing-a-freestanding-tub",
+  "name": "What are the structural considerations for installing a freestanding tub?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the structural considerations for installing a freestanding tub?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Structural considerations are crucial for a successful freestanding tub installation, especially given the significant weight of a tub when filled with water and a bather. Our design-build team evaluates the existing floor joists and subfloor to determine if additional reinforcement is necessary. This step is vital to prevent future issues and ensure the long-term integrity of your home. As part of our comprehensive service, AKN Design Group will assess your specific situation and incorporate any required structural modifications into the renovation plan, providing a single point of coordination for this complex aspect.",
+        "@type": "Answer",
+        "description": "The main structural consideration is ensuring the floor joists and subfloor can support the tub's weight when filled, often requiring reinforcement."
+      }
+    }
+  ],
+  "description": "The main structural consideration is ensuring the floor joists and subfloor can support the tub's weight when filled, often requiring reinforcement."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-long-does-it-take-to-install-new-bathroom-flooring-as-part-of-a-renovation",
+  "name": "How long does it take to install new bathroom flooring as part of a renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to install new bathroom flooring as part of a renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for installing new bathroom flooring as part of a renovation depends on the material, the size of the bathroom, and the extent of subfloor preparation needed. For example, standard tile installation might take a few days, including setting and grouting, while complex natural stone or intricate patterns could extend this. Any necessary subfloor repairs or leveling will add to the project duration. AKN Design Group integrates flooring installation seamlessly into the overall remodeling schedule, providing clear communication and scheduling transparency to minimize disruption and ensure efficient progress toward your spa-inspired retreat.",
+        "@type": "Answer",
+        "description": "Bathroom flooring installation duration varies based on material, bathroom size, and subfloor preparation; it's integrated into the overall renovation schedule for efficiency."
+      }
+    }
+  ],
+  "description": "Bathroom flooring installation duration varies based on material, bathroom size, and subfloor preparation; it's integrated into the overall renovation schedule"
+}

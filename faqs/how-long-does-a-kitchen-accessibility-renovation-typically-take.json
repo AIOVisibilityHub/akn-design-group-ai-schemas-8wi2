@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-long-does-a-kitchen-accessibility-renovation-typically-take",
+  "name": "How long does a kitchen accessibility renovation typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a kitchen accessibility renovation typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for a kitchen accessibility renovation varies significantly based on the project's scope and complexity. Minor adjustments might take a few weeks, while comprehensive redesigns involving structural changes and custom cabinetry can extend to several months. As your single point of coordination, AKN Design Group provides a managed process with upfront estimates and scheduling transparency. We work diligently to minimize disruption and maintain clear communication throughout the project, ensuring a reliable timeline from design planning to final walkthrough.",
+        "@type": "Answer",
+        "description": "Renovation timelines vary by project scope; minor adjustments take weeks, while comprehensive redesigns can take months. AKN Design Group provides transparent scheduling and clear communication."
+      }
+    }
+  ],
+  "description": "Renovation timelines vary by project scope; minor adjustments take weeks, while comprehensive redesigns can take months. AKN Design Group provides transparent s"
+}

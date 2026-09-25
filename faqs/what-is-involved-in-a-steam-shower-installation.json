@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-involved-in-a-steam-shower-installation",
+  "name": "What is involved in a steam shower installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in a steam shower installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A steam shower installation involves integrating a steam generator, specialized plumbing, waterproof enclosures, and proper ventilation into your bathroom. AKN Design Group approaches this as part of a comprehensive luxury bathroom renovation, ensuring the system integrates seamlessly with the overall design and existing infrastructure. We manage the entire process, from selecting appropriate fixtures and finishes to coordinating all necessary plumbing, electrical work, and tile installation to create a spa-inspired retreat.",
+        "@type": "Answer",
+        "description": "A steam shower installation integrates a steam generator, specialized plumbing, and waterproofing into your bathroom, typically as part of a luxury bathroom renovation."
+      }
+    }
+  ],
+  "description": "A steam shower installation integrates a steam generator, specialized plumbing, and waterproofing into your bathroom, typically as part of a luxury bathroom ren"
+}

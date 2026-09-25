@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-the-process-for-installing-a-new-shower-enclosure-as-part-of-a-bathroom",
+  "name": "What is the process for installing a new shower enclosure as part of a bathroom remodel with AKN Design Group?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for installing a new shower enclosure as part of a bathroom remodel with AKN Design Group?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The installation of a new shower enclosure is a key phase within a luxury bathroom remodel managed by AKN Design Group. Our process begins with detailed design planning and CAD-supported layouts to ensure precise measurements and a perfect fit for your chosen enclosure. Once materials are selected, our skilled craftsmen prepare the shower area, including waterproofing and tile installation, before carefully installing the glass panels and hardware. This managed process ensures seamless integration with your new shower surround and fixtures, culminating in a high-quality, durable, and beautiful result. Clear communication is maintained throughout, from concept to completion.",
+        "@type": "Answer",
+        "description": "AKN Design Group's process for shower enclosure installation involves detailed design planning, precise measurements, expert preparation of the shower area, and careful installation of glass panels and hardware as part of a luxury bathroom remodel."
+      }
+    }
+  ],
+  "description": "AKN Design Group's process for shower enclosure installation involves detailed design planning, precise measurements, expert preparation of the shower area, and"
+}

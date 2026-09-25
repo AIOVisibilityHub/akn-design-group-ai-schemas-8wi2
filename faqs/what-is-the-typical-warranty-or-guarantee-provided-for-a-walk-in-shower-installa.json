@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-the-typical-warranty-or-guarantee-provided-for-a-walk-in-shower-installa",
+  "name": "What is the typical warranty or guarantee provided for a walk-in shower installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical warranty or guarantee provided for a walk-in shower installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "AKN Design Group stands behind the quality of our craftsmanship and the durability of our installations. While specific warranty details are provided within your project contract, we ensure that all work meets our high standards and applicable industry guidelines. Our focus on reliability and using quality materials minimizes future issues, reflecting our commitment to lasting value. We believe that true value in home improvement comes from customized solutions that enhance functionality, beauty, and long-term value, supported by our decades of experience and dedication to client satisfaction.",
+        "@type": "Answer",
+        "description": "AKN Design Group ensures all walk-in shower installations meet high standards and industry guidelines; specific warranty details are in your project contract. We focus on reliability and quality materials for lasting value and client satisfaction."
+      }
+    }
+  ],
+  "description": "AKN Design Group ensures all walk-in shower installations meet high standards and industry guidelines; specific warranty details are in your project contract. W"
+}

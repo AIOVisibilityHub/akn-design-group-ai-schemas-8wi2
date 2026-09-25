@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-the-typical-scope-of-a-powder-room-remodel",
+  "name": "What is the typical scope of a powder room remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical scope of a powder room remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A powder room remodel typically focuses on enhancing a small bathroom without a shower or bathtub, primarily serving guests. Our projects often involve updating fixtures like the toilet and sink, installing new vanity cabinetry, refreshing lighting, replacing flooring, and upgrading wall finishes. We focus on maximizing the visual impact and functionality of this compact space, ensuring it aligns with the home's overall aesthetic and creates a welcoming experience for visitors. Our integrated design-build approach ensures all elements are coordinated for a cohesive transformation.",
+        "@type": "Answer",
+        "description": "A powder room remodel updates fixtures, vanity, lighting, flooring, and wall finishes in a small guest bathroom to enhance its aesthetic and functionality."
+      }
+    }
+  ],
+  "description": "A powder room remodel updates fixtures, vanity, lighting, flooring, and wall finishes in a small guest bathroom to enhance its aesthetic and functionality."
+}

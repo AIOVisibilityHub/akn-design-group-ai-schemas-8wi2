@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-types-of-bathroom-fixtures-can-akn-design-group-install-during-a-renovation",
+  "name": "What types of bathroom fixtures can AKN Design Group install during a renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of bathroom fixtures can AKN Design Group install during a renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "During a comprehensive bathroom renovation, AKN Design Group can install a wide range of fixtures, including new showers, bathtubs, toilets, sinks, faucets, and other plumbing components. We specialize in luxury bathrooms and spa-inspired features, integrating high-quality fixtures that enhance both functionality and the overall aesthetic of your space. Our design-build process ensures that all fixture selections align with your vision and the structural requirements of your home, providing a seamless upgrade from concept to completion.",
+        "@type": "Answer",
+        "description": "AKN Design Group installs a wide range of bathroom fixtures, including showers, bathtubs, toilets, sinks, and faucets, as part of comprehensive bathroom renovations."
+      }
+    }
+  ],
+  "description": "AKN Design Group installs a wide range of bathroom fixtures, including showers, bathtubs, toilets, sinks, and faucets, as part of comprehensive bathroom renovat"
+}

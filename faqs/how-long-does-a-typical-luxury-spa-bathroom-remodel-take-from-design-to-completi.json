@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-long-does-a-typical-luxury-spa-bathroom-remodel-take-from-design-to-completi",
+  "name": "How long does a typical luxury spa bathroom remodel take from design to completion?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical luxury spa bathroom remodel take from design to completion?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a luxury spa bathroom remodel varies based on the project's scope, including structural changes, custom elements, and material lead times. Generally, once the design is finalized and permits are secured, construction can range from several weeks to a few months. AKN Design Group provides upfront estimates and scheduling transparency throughout the managed process. We coordinate all aspects, from demolition to final installation, aiming to deliver your enhanced space efficiently while upholding our commitment to craftsmanship.",
+        "@type": "Answer",
+        "description": "Project duration for a luxury spa bathroom remodel varies by scope but typically ranges from several weeks to a few months after design and permits. AKN Design Group provides clear schedules and manages the entire process."
+      }
+    }
+  ],
+  "description": "Project duration for a luxury spa bathroom remodel varies by scope but typically ranges from several weeks to a few months after design and permits. AKN Design"
+}

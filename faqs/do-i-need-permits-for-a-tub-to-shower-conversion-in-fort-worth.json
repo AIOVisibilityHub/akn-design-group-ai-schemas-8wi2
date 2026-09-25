@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/do-i-need-permits-for-a-tub-to-shower-conversion-in-fort-worth",
+  "name": "Do I need permits for a tub-to-shower conversion in Fort Worth?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need permits for a tub-to-shower conversion in Fort Worth?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, tub-to-shower conversions in Fort Worth typically require permits, particularly if plumbing changes are involved or if the project alters the structural integrity or layout of the bathroom significantly. These permits ensure the work complies with local building codes and safety standards. As part of our integrated design-build process, AKN Design Group handles all necessary permit coordination for your project within the Dallas–Fort Worth metroplex, removing this complexity from your responsibility and ensuring adherence to all local regulations.",
+        "@type": "Answer",
+        "description": "Yes, permits are typically required in Fort Worth for tub-to-shower conversions involving plumbing or structural changes to ensure code compliance."
+      }
+    }
+  ],
+  "description": "Yes, permits are typically required in Fort Worth for tub-to-shower conversions involving plumbing or structural changes to ensure code compliance."
+}

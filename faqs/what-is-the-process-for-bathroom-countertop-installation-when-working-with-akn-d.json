@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-the-process-for-bathroom-countertop-installation-when-working-with-akn-d",
+  "name": "What is the process for bathroom countertop installation when working with AKN Design Group?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for bathroom countertop installation when working with AKN Design Group?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our process begins with an in-depth design consultation to understand your vision for your luxury bathroom, including material selection and CAD-supported layouts. Once materials are chosen, we handle all aspects from precise measurement and fabrication to the coordinated installation. We manage the entire project, ensuring seamless integration with other remodel elements like custom vanities and updated plumbing fixtures. This single point of coordination ensures clear communication and a smooth transformation from concept to completion.",
+        "@type": "Answer",
+        "description": "Our process involves design consultation, material selection, precise measurement, fabrication, and coordinated installation as part of a larger, managed bathroom remodel."
+      }
+    }
+  ],
+  "description": "Our process involves design consultation, material selection, precise measurement, fabrication, and coordinated installation as part of a larger, managed bathro"
+}

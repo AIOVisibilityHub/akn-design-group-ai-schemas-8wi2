@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-the-typical-cost-range-for-installing-a-new-shower-enclosure-in-the-dall",
+  "name": "What is the typical cost range for installing a new shower enclosure in the Dallas–Fort Worth metroplex?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost range for installing a new shower enclosure in the Dallas–Fort Worth metroplex?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "AKN Design Group focuses on comprehensive, high-value renovations rather than isolated installations, meaning the cost of a shower enclosure is integrated within the broader investment of a luxury bathroom remodel. Pricing for a shower enclosure can vary significantly based on factors such as glass thickness, hardware finishes, custom configurations (e.g., neo-angle, steam shower), and the complexity of the installation. We provide transparent, upfront estimates as part of our managed process, ensuring clients understand the value delivered through superior materials and craftsmanship within their customized renovation. We prioritize enhancing long-term value, rather than offering the lowest initial price point.",
+        "@type": "Answer",
+        "description": "The cost of a shower enclosure is part of a luxury bathroom remodel with AKN Design Group, varying by glass thickness, hardware, and custom configurations. We provide upfront estimates for comprehensive projects."
+      }
+    }
+  ],
+  "description": "The cost of a shower enclosure is part of a luxury bathroom remodel with AKN Design Group, varying by glass thickness, hardware, and custom configurations. We p"
+}

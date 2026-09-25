@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-kind-of-maintenance-is-required-for-a-steam-shower",
+  "name": "What kind of maintenance is required for a steam shower?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of maintenance is required for a steam shower?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Regular maintenance for a steam shower typically involves draining the generator to prevent mineral buildup and occasionally cleaning the steam head and enclosure. We advise homeowners that diligent maintenance helps ensure the longevity and optimal performance of the system. During the final walkthrough, AKN Design Group provides guidance on caring for your new steam shower to protect your investment and preserve its functionality and beauty.",
+        "@type": "Answer",
+        "description": "Maintenance includes regularly draining the generator and cleaning the steam head and enclosure to prevent mineral buildup."
+      }
+    }
+  ],
+  "description": "Maintenance includes regularly draining the generator and cleaning the steam head and enclosure to prevent mineral buildup."
+}

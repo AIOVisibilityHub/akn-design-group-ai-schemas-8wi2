@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-factors-influence-the-cost-of-a-shower-replacement",
+  "name": "What factors influence the cost of a shower replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of a shower replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a shower replacement is influenced by several factors, including the size and configuration of the shower, the selection of materials like tile and fixtures, and any structural modifications required. For example, opting for a custom walk-in shower with specific tile designs and high-end plumbing fixtures will impact the overall investment. AKN Design Group focuses on customized renovations, providing detailed, upfront estimates that reflect the quality craftsmanship and personalized solutions we deliver, ensuring value that enhances functionality, beauty, and long-term value.",
+        "@type": "Answer",
+        "description": "Shower replacement costs depend on size, configuration, material selections (tile, fixtures), and structural changes, with customized options increasing the investment."
+      }
+    }
+  ],
+  "description": "Shower replacement costs depend on size, configuration, material selections (tile, fixtures), and structural changes, with customized options increasing the inv"
+}

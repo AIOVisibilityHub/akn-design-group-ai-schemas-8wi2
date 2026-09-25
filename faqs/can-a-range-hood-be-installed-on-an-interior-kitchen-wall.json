@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/can-a-range-hood-be-installed-on-an-interior-kitchen-wall",
+  "name": "Can a range hood be installed on an interior kitchen wall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can a range hood be installed on an interior kitchen wall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Installing a range hood on an interior kitchen wall is certainly possible, but it often presents greater challenges and requires more complex ductwork planning than exterior wall installations. This typically involves routing ducting through cabinets, soffits, or ceilings to reach an exterior vent, potentially increasing installation time and material costs. As part of our integrated design-build process, AKN Design Group assesses these complexities early in the planning stage to ensure a functional and aesthetically pleasing solution for your custom kitchen.",
+        "@type": "Answer",
+        "description": "Yes, a range hood can be installed on an interior wall, but it often requires more complex ductwork planning through cabinets, soffits, or ceilings."
+      }
+    }
+  ],
+  "description": "Yes, a range hood can be installed on an interior wall, but it often requires more complex ductwork planning through cabinets, soffits, or ceilings."
+}

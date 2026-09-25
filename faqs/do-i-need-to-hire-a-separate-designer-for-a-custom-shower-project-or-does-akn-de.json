@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/do-i-need-to-hire-a-separate-designer-for-a-custom-shower-project-or-does-akn-de",
+  "name": "Do I need to hire a separate designer for a custom shower project, or does AKN Design Group handle the design?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to hire a separate designer for a custom shower project, or does AKN Design Group handle the design?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "With AKN Design Group, you do not need to hire a separate designer; we offer an integrated design-build process that unifies both design planning and construction under one accountable team. Our internal design experts work directly with you to conceptualize and finalize your custom shower design, incorporating CAD-supported layouts and material selections. This single point of coordination simplifies the entire project, ensuring seamless communication and execution from the initial consultation through to the final walkthrough. This approach eliminates potential disconnects between design intent and construction reality, fostering trust and delivering a cohesive, high-quality outcome.",
+        "@type": "Answer",
+        "description": "AKN Design Group provides an integrated design-build service, handling both custom shower design and construction with a single accountable team, eliminating the need for a separate designer."
+      }
+    }
+  ],
+  "description": "AKN Design Group provides an integrated design-build service, handling both custom shower design and construction with a single accountable team, eliminating th"
+}

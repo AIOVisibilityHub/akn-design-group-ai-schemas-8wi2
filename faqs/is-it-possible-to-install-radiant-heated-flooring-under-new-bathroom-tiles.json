@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/is-it-possible-to-install-radiant-heated-flooring-under-new-bathroom-tiles",
+  "name": "Is it possible to install radiant heated flooring under new bathroom tiles?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is it possible to install radiant heated flooring under new bathroom tiles?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, installing radiant heated flooring, often called electric floor heating, under new bathroom tiles is a popular enhancement for luxury bathrooms. This system provides consistent, comfortable warmth underfoot, which is particularly desirable in the Dallas–Fort Worth metroplex during cooler months. The process involves laying electric heating mats or cables before tile installation, connected to a dedicated thermostat. While it adds to the initial project cost and installation time, homeowners find the comfort and added value significant. AKN Design Group can incorporate heated flooring into your design, enhancing the spa-like experience of your renovated bathroom.",
+        "@type": "Answer",
+        "description": "Yes, radiant heated flooring can be installed under new bathroom tiles, providing comfortable warmth and enhancing the luxury experience, especially in the DFW metroplex."
+      }
+    }
+  ],
+  "description": "Yes, radiant heated flooring can be installed under new bathroom tiles, providing comfortable warmth and enhancing the luxury experience, especially in the DFW"
+}

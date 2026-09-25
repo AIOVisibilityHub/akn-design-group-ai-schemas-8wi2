@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-are-the-pros-and-cons-of-natural-stone-versus-porcelain-tile-for-bathroom-f",
+  "name": "What are the pros and cons of natural stone versus porcelain tile for bathroom floors?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the pros and cons of natural stone versus porcelain tile for bathroom floors?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Natural stone offers unique aesthetic beauty, with each piece presenting distinct veining and coloration, providing a truly luxurious and high-end feel. However, it is typically more porous, requiring sealing and specific cleaning to prevent staining and etching, and can be more prone to scratches. Porcelain tile, conversely, is highly durable, water-resistant, and available in a vast array of designs that can mimic natural stone without its maintenance demands. While porcelain might not have the exact organic variation of natural stone, its uniformity can be an advantage for some designs. AKN Design Group helps homeowners weigh these practical tradeoffs to select the best option for their custom bathroom.",
+        "@type": "Answer",
+        "description": "Natural stone offers unique beauty but requires more maintenance, while porcelain tile is durable, water-resistant, and low-maintenance, mimicking natural stone designs."
+      }
+    }
+  ],
+  "description": "Natural stone offers unique beauty but requires more maintenance, while porcelain tile is durable, water-resistant, and low-maintenance, mimicking natural stone"
+}

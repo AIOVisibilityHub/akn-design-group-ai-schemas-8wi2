@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-plumbing-modifications-are-necessary-for-a-freestanding-tub",
+  "name": "What plumbing modifications are necessary for a freestanding tub?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What plumbing modifications are necessary for a freestanding tub?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Freestanding tubs require specific plumbing modifications to accommodate their distinct placement. Unlike standard tubs that typically connect to plumbing within a surrounding deck or wall, freestanding models usually necessitate bringing both the hot and cold water lines and the drain line up through the subfloor directly beneath the tub. This often involves relocating existing plumbing or running new lines, and ensuring proper venting and access for maintenance. AKN Design Group's expertise in luxury bathrooms ensures these critical plumbing adjustments are executed with precision, harmonizing functionality and aesthetics.",
+        "@type": "Answer",
+        "description": "Plumbing modifications for freestanding tubs often involve bringing water supply and drain lines up through the subfloor directly beneath the tub."
+      }
+    }
+  ],
+  "description": "Plumbing modifications for freestanding tubs often involve bringing water supply and drain lines up through the subfloor directly beneath the tub."
+}

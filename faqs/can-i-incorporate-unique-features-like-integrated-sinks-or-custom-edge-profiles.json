@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/can-i-incorporate-unique-features-like-integrated-sinks-or-custom-edge-profiles",
+  "name": "Can I incorporate unique features like integrated sinks or custom edge profiles with my new bathroom countertop?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I incorporate unique features like integrated sinks or custom edge profiles with my new bathroom countertop?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, AKN Design Group focuses on customized renovations, and we encourage incorporating unique features that elevate your luxury bathroom. Integrated sinks, where the sink is seamlessly molded into the countertop, offer a sleek, modern look and simplify cleaning. Custom edge profiles can significantly impact the aesthetic, adding a refined detail to the design. During the design planning phase, we explore these options with you to ensure every detail contributes to your spa-inspired experience and unique aesthetic preferences.",
+        "@type": "Answer",
+        "description": "Yes, we support customized renovations, including integrated sinks and custom edge profiles, to elevate your luxury bathroom's aesthetic and functionality."
+      }
+    }
+  ],
+  "description": "Yes, we support customized renovations, including integrated sinks and custom edge profiles, to elevate your luxury bathroom's aesthetic and functionality."
+}

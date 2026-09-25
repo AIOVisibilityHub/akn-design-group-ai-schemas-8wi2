@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-involved-in-a-custom-shower-design-project-with-akn-design-group",
+  "name": "What is involved in a custom shower design project with AKN Design Group?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in a custom shower design project with AKN Design Group?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A custom shower design project with AKN Design Group involves a comprehensive, managed process. We begin with a detailed consultation to understand your vision, lifestyle, and aesthetic preferences. This leads to CAD-supported layouts and material selections, where we explore options like walk-in showers, frameless glass enclosures, custom tile surrounds, rainfall fixtures, and integrated storage solutions. Our integrated design-build approach ensures seamless coordination from concept to installation, culminating in a spa-inspired retreat tailored to your specifications. The process prioritizes clear communication and a single point of coordination, ensuring your design vision aligns with construction execution.",
+        "@type": "Answer",
+        "description": "AKN Design Group offers a managed, integrated design-build process for custom showers, from initial consultation and CAD layouts to material selection and final installation, creating a spa-inspired retreat."
+      }
+    }
+  ],
+  "description": "AKN Design Group offers a managed, integrated design-build process for custom showers, from initial consultation and CAD layouts to material selection and final"
+}

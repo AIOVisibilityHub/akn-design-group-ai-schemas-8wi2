@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/do-i-need-a-permit-for-freestanding-tub-installation-in-fort-worth",
+  "name": "Do I need a permit for freestanding tub installation in Fort Worth?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a permit for freestanding tub installation in Fort Worth?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For significant bathroom renovations, including the installation of a freestanding tub that involves changes to plumbing lines, structural modifications, or floor reinforcement, permits are typically required by the City of Fort Worth. Obtaining the necessary permits ensures that the work complies with local building codes and safety standards. AKN Design Group excels in permit coordination as part of our integrated design-build service. We manage the entire process, from design planning and submission to inspection, providing a single point of coordination for homeowners in the Dallas–Fort Worth metroplex.",
+        "@type": "Answer",
+        "description": "Yes, permits are typically required in Fort Worth for freestanding tub installations involving plumbing, structural, or floor modifications to ensure code compliance."
+      }
+    }
+  ],
+  "description": "Yes, permits are typically required in Fort Worth for freestanding tub installations involving plumbing, structural, or floor modifications to ensure code compl"
+}

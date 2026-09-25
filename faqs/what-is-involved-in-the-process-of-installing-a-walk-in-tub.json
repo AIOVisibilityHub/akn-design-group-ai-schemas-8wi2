@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-involved-in-the-process-of-installing-a-walk-in-tub",
+  "name": "What is involved in the process of installing a walk-in tub?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in the process of installing a walk-in tub?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The installation of a walk-in tub is part of a managed process that typically begins with an initial consultation and detailed design planning, often including CAD-supported layouts. This is followed by permit coordination, demolition of the existing bathing area, necessary plumbing and electrical modifications, and then the precise installation of the walk-in tub. Our integrated design-build approach means we handle all stages, from conception through construction and final walkthrough, ensuring seamless coordination of all trades. We emphasize clear communication throughout the project.",
+        "@type": "Answer",
+        "description": "Walk-in tub installation involves design planning, permit coordination, demolition, plumbing and electrical modifications, and precise tub installation, all managed through our integrated design-build process."
+      }
+    }
+  ],
+  "description": "Walk-in tub installation involves design planning, permit coordination, demolition, plumbing and electrical modifications, and precise tub installation, all man"
+}

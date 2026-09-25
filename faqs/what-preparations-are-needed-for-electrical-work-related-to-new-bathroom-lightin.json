@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-preparations-are-needed-for-electrical-work-related-to-new-bathroom-lightin",
+  "name": "What preparations are needed for electrical work related to new bathroom lighting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What preparations are needed for electrical work related to new bathroom lighting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For electrical work related to new bathroom lighting, homeowners need to consider the desired placement of fixtures, switches, and outlets, as well as any smart home integrations. Providing us with a clear understanding of your daily routines and preferences helps us design an optimal electrical plan. During our managed process, AKN Design Group coordinates all necessary electrical upgrades, ensuring compliance with local codes and proper capacity for your chosen fixtures. We manage the permit coordination and structural considerations, ensuring a seamless and safe installation.",
+        "@type": "Answer",
+        "description": "Homeowners should consider desired fixture, switch, and outlet placements, and smart home integrations. AKN Design Group then coordinates electrical upgrades, permits, and structural considerations for a safe installation."
+      }
+    }
+  ],
+  "description": "Homeowners should consider desired fixture, switch, and outlet placements, and smart home integrations. AKN Design Group then coordinates electrical upgrades, p"
+}

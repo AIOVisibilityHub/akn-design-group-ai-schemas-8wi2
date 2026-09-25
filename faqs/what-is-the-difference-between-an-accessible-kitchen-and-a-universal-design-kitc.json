@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-the-difference-between-an-accessible-kitchen-and-a-universal-design-kitc",
+  "name": "What is the difference between an accessible kitchen and a universal design kitchen?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between an accessible kitchen and a universal design kitchen?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An accessible kitchen is specifically tailored to meet the needs of an individual with particular mobility challenges, such as a wheelchair user, focusing on targeted modifications. Universal design, however, aims to create a kitchen that is usable by all people, regardless of age, ability, or disability, without the need for adaptation. While an accessible kitchen is often part of a universal design approach, universal design is broader. AKN Design Group can integrate principles from both, customizing the design to best suit your household’s current and future needs, enhancing functionality and long-term value.",
+        "@type": "Answer",
+        "description": "An accessible kitchen targets specific needs, while a universal design kitchen is usable by all. AKN Design Group can integrate elements from both to suit your household's requirements."
+      }
+    }
+  ],
+  "description": "An accessible kitchen targets specific needs, while a universal design kitchen is usable by all. AKN Design Group can integrate elements from both to suit your"
+}

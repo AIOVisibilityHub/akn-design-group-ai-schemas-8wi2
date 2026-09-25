@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-kind-of-subfloor-preparation-is-needed-before-installing-new-bathroom-floor",
+  "name": "What kind of subfloor preparation is needed before installing new bathroom flooring?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of subfloor preparation is needed before installing new bathroom flooring?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Proper subfloor preparation is crucial for the longevity and performance of any new bathroom flooring. This typically involves ensuring the subfloor is structurally sound, clean, dry, level, and free of any movement. For tile installations, a cement board or uncoupling membrane is often installed over the subfloor to prevent cracking. For other materials like luxury vinyl plank, a smooth, flat surface is essential. Neglecting proper preparation can lead to issues such as uneven surfaces, grout cracks, or flooring detachment over time. Our experienced team at AKN Design Group meticulously handles all necessary subfloor work as part of our integrated design-build process.",
+        "@type": "Answer",
+        "description": "Subfloor preparation involves ensuring it is sound, clean, dry, level, and stable; cement board or uncoupling membranes are often used for tile to prevent issues."
+      }
+    }
+  ],
+  "description": "Subfloor preparation involves ensuring it is sound, clean, dry, level, and stable; cement board or uncoupling membranes are often used for tile to prevent issue"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-the-typical-timeframe-for-designing-and-installing-a-custom-vanity-as-pa",
+  "name": "What is the typical timeframe for designing and installing a custom vanity as part of a bathroom renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical timeframe for designing and installing a custom vanity as part of a bathroom renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeframe for a custom vanity, as an integral part of a larger bathroom renovation, varies based on design complexity, material lead times, and the overall project scope. Typically, the design phase can take several weeks, followed by fabrication, which may range from 4-8 weeks depending on the selected materials and customization level. Installation occurs during the construction phase of your bathroom remodel. Our integrated design-build process at AKN Design Group aims to streamline these timelines through single-point coordination, providing transparent scheduling and clear communication to minimize disruption and ensure efficient project completion.",
+        "@type": "Answer",
+        "description": "The timeframe depends on design and materials, with design taking weeks and fabrication 4-8 weeks. Our integrated process streamlines scheduling for efficient completion."
+      }
+    }
+  ],
+  "description": "The timeframe depends on design and materials, with design taking weeks and fabrication 4-8 weeks. Our integrated process streamlines scheduling for efficient c"
+}

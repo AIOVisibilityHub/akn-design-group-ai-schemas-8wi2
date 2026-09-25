@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/should-i-choose-a-wall-mounted-or-floor-mounted-tub-filler-for-my-freestanding-t",
+  "name": "Should I choose a wall-mounted or floor-mounted tub filler for my freestanding tub?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I choose a wall-mounted or floor-mounted tub filler for my freestanding tub?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing between a wall-mounted or floor-mounted tub filler depends on your bathroom's layout, aesthetic preferences, and existing plumbing configuration. Floor-mounted fillers offer a striking visual statement, often requiring new plumbing lines to be run through the floor. Wall-mounted fillers, while still elegant, can sometimes simplify plumbing if suitable wall space with existing lines is available. Our design consultation helps you evaluate these practical tradeoffs and integrate the best option into your overall spa-inspired bathroom design, balancing beauty with the practicalities of installation and maintenance.",
+        "@type": "Answer",
+        "description": "The choice between wall-mounted and floor-mounted tub fillers depends on layout, aesthetics, and plumbing, each offering different installation considerations."
+      }
+    }
+  ],
+  "description": "The choice between wall-mounted and floor-mounted tub fillers depends on layout, aesthetics, and plumbing, each offering different installation considerations."
+}

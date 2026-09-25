@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-the-cost-range-for-a-kitchen-accessibility-upgrade",
+  "name": "What is the cost range for a kitchen accessibility upgrade?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the cost range for a kitchen accessibility upgrade?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The investment for a kitchen accessibility upgrade can vary widely, reflecting the extent of the remodel, chosen materials, and specific accessibility features integrated. Basic modifications might start at a certain range, while a luxury, fully customized renovation with high-end finishes and advanced smart technology will represent a more substantial investment. AKN Design Group focuses on customized renovations that enhance functionality, beauty, and long-term value. We provide detailed, upfront estimates during the design-build process, ensuring transparency without compromising on craftsmanship or comprehensive solutions.",
+        "@type": "Answer",
+        "description": "Costs for accessibility upgrades vary based on scope, materials, and features. AKN Design Group provides detailed, upfront estimates for customized solutions that enhance long-term value."
+      }
+    }
+  ],
+  "description": "Costs for accessibility upgrades vary based on scope, materials, and features. AKN Design Group provides detailed, upfront estimates for customized solutions th"
+}

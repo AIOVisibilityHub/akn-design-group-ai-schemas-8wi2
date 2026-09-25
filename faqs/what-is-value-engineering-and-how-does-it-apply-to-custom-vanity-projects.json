@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-value-engineering-and-how-does-it-apply-to-custom-vanity-projects",
+  "name": "What is 'value engineering' and how does it apply to custom vanity projects?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is 'value engineering' and how does it apply to custom vanity projects?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Value engineering, in the context of a custom vanity project, is a systematic approach to optimizing the overall value by achieving the desired functionality and aesthetic at the most efficient cost, without compromising quality. It involves evaluating different materials, construction methods, and design elements to identify alternatives that meet performance requirements while potentially reducing expenses. AKN Design Group applies value engineering throughout our design-build process to ensure your custom vanity aligns with both your vision and your investment goals, focusing on maximizing enhancements in functionality, beauty, and long-term value.",
+        "@type": "Answer",
+        "description": "Value engineering optimizes a custom vanity's functionality and aesthetic at the most efficient cost without compromising quality, by evaluating materials and design elements."
+      }
+    }
+  ],
+  "description": "Value engineering optimizes a custom vanity's functionality and aesthetic at the most efficient cost without compromising quality, by evaluating materials and d"
+}

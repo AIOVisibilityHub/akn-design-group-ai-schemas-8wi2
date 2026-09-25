@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-s-the-difference-between-stock-semi-custom-and-custom-cabinetry-for-bathroo",
+  "name": "What's the difference between stock, semi-custom, and custom cabinetry for bathrooms?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between stock, semi-custom, and custom cabinetry for bathrooms?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Stock cabinets are pre-made in standard sizes, offering the most economical option but with limited design flexibility. Semi-custom cabinets offer more size options and door styles, allowing for some personalization. Custom cabinetry, which AKN Design Group specializes in, is built to exact specifications for your unique space, providing unlimited choices in materials, finishes, sizes, and configurations. This allows for bespoke solutions that perfectly match your design vision and functional requirements, a critical aspect of creating a luxury bathroom.",
+        "@type": "Answer",
+        "description": "Stock cabinets are standard and economical; semi-custom offer more options. Custom cabinetry, our specialty, is built to exact specifications for unique, luxurious bathroom designs with unlimited choices."
+      }
+    }
+  ],
+  "description": "Stock cabinets are standard and economical; semi-custom offer more options. Custom cabinetry, our specialty, is built to exact specifications for unique, luxuri"
+}

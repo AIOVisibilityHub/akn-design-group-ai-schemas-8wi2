@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-kind-of-preparation-is-needed-before-akn-design-group-begins-a-walk-in-show",
+  "name": "What kind of preparation is needed before AKN Design Group begins a walk-in shower project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of preparation is needed before AKN Design Group begins a walk-in shower project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before AKN Design Group commences a walk-in shower project, the primary preparation involves finalizing the design and material selections, and ensuring all necessary permits are secured. We handle the permit coordination as part of our integrated design-build process. Homeowners should consider their storage needs, desired fixtures, and overall aesthetic vision for the space, as these decisions impact the design phase. Clearing the bathroom of personal belongings and ensuring access for our team will also streamline the project's start. Our commitment to clear communication ensures you are informed and prepared for each phase.",
+        "@type": "Answer",
+        "description": "Preparation for a walk-in shower project with AKN Design Group involves finalizing design and materials, and securing permits, which we coordinate. Homeowners should consider their aesthetic vision and clear the bathroom for access."
+      }
+    }
+  ],
+  "description": "Preparation for a walk-in shower project with AKN Design Group involves finalizing design and materials, and securing permits, which we coordinate. Homeowners s"
+}

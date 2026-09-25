@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-value-engineering-and-how-does-it-apply-to-toilet-selection-in-a-high-en",
+  "name": "What is value engineering, and how does it apply to toilet selection in a high-end bathroom remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is value engineering, and how does it apply to toilet selection in a high-end bathroom remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Value engineering, in the context of a high-end bathroom remodel, is the process of optimizing the functionality and cost-effectiveness of components without compromising quality, performance, or the overall design vision. For toilet selection, this might involve choosing a fixture that offers comparable aesthetics and features to a higher-priced alternative, or one that provides superior long-term water efficiency, thus reducing operational costs. AKN Design Group applies value engineering principles to ensure your investment delivers maximum return, enhancing functionality, beauty, and value.",
+        "@type": "Answer",
+        "description": "Value engineering optimizes the functionality and cost-effectiveness of remodel components, like toilets, without compromising quality or design. This ensures your investment delivers maximum return and long-term value."
+      }
+    }
+  ],
+  "description": "Value engineering optimizes the functionality and cost-effectiveness of remodel components, like toilets, without compromising quality or design. This ensures y"
+}

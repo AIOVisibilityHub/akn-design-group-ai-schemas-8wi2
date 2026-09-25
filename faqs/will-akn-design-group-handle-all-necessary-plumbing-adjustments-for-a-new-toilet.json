@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/will-akn-design-group-handle-all-necessary-plumbing-adjustments-for-a-new-toilet",
+  "name": "Will AKN Design Group handle all necessary plumbing adjustments for a new toilet installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will AKN Design Group handle all necessary plumbing adjustments for a new toilet installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, as part of our integrated design-build process for luxury bathroom renovations, AKN Design Group handles all necessary plumbing adjustments for new toilet installations. This includes ensuring proper water supply lines, drain connections, and venting are correctly configured to meet local codes and support the chosen fixture. Our comprehensive approach means homeowners have a single point of coordination for all aspects of their project, from design to the final plumbing walkthrough.",
+        "@type": "Answer",
+        "description": "Yes, AKN Design Group handles all necessary plumbing adjustments for new toilet installations as part of our integrated design-build process for luxury bathroom renovations."
+      }
+    }
+  ],
+  "description": "Yes, AKN Design Group handles all necessary plumbing adjustments for new toilet installations as part of our integrated design-build process for luxury bathroom"
+}

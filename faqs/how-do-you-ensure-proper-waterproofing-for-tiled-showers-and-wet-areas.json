@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-do-you-ensure-proper-waterproofing-for-tiled-showers-and-wet-areas",
+  "name": "How do you ensure proper waterproofing for tiled showers and wet areas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do you ensure proper waterproofing for tiled showers and wet areas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Ensuring proper waterproofing in tiled showers and wet areas is a critical component of our craftsmanship and commitment to lasting results. We utilize advanced waterproofing membranes and techniques that create an impermeable barrier, protecting your home's structure from moisture intrusion. This meticulous process prevents leaks and potential mold growth, which are essential for the longevity of your luxury bathroom. Our integrated approach covers all critical construction details, providing peace of mind and preserving the integrity of your investment.",
+        "@type": "Answer",
+        "description": "We use advanced waterproofing membranes and techniques to create impermeable barriers in showers and wet areas, protecting your home from moisture and ensuring longevity."
+      }
+    }
+  ],
+  "description": "We use advanced waterproofing membranes and techniques to create impermeable barriers in showers and wet areas, protecting your home from moisture and ensuring"
+}

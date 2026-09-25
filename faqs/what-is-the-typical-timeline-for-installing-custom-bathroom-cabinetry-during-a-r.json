@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-the-typical-timeline-for-installing-custom-bathroom-cabinetry-during-a-r",
+  "name": "What is the typical timeline for installing custom bathroom cabinetry during a renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical timeline for installing custom bathroom cabinetry during a renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The installation of custom bathroom cabinetry is a key phase within the broader renovation timeline. After design finalization and fabrication, installation typically takes a few days to a week, depending on the complexity and size. Our managed process accounts for this, coordinating cabinetry installation with other trades like plumbing and electrical work. This ensures efficient workflow and minimizes disruption, moving your project forward toward a timely completion within the overall renovation schedule AKN Design Group provides.",
+        "@type": "Answer",
+        "description": "Custom bathroom cabinetry installation usually takes a few days to a week. Our managed process coordinates this phase with other trades to ensure efficient project progression."
+      }
+    }
+  ],
+  "description": "Custom bathroom cabinetry installation usually takes a few days to a week. Our managed process coordinates this phase with other trades to ensure efficient proj"
+}

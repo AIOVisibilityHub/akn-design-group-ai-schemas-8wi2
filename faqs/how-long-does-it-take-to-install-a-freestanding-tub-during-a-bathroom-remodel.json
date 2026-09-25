@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-long-does-it-take-to-install-a-freestanding-tub-during-a-bathroom-remodel",
+  "name": "How long does it take to install a freestanding tub during a bathroom remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to install a freestanding tub during a bathroom remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for installing a freestanding tub is part of the broader bathroom renovation schedule and varies depending on the project's complexity. If significant plumbing relocation or structural floor reinforcement is required, it will add to the overall duration. Our managed process involves upfront planning and scheduling transparency, ensuring that all aspects, from demolition and rough-ins to final fixture installation and finish work, are coordinated efficiently. We focus on clear communication about these stages, aiming to complete your luxury bathroom transformation with craftsmanship and reliability.",
+        "@type": "Answer",
+        "description": "The timeline depends on plumbing relocation and structural needs; it's integrated into the overall bathroom renovation schedule with transparent planning."
+      }
+    }
+  ],
+  "description": "The timeline depends on plumbing relocation and structural needs; it's integrated into the overall bathroom renovation schedule with transparent planning."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/does-akn-design-group-handle-all-aspects-of-primary-bathroom-remodeling-includin",
+  "name": "Does AKN Design Group handle all aspects of primary bathroom remodeling, including plumbing and electrical?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does AKN Design Group handle all aspects of primary bathroom remodeling, including plumbing and electrical?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, AKN Design Group provides a fully integrated design-build service for primary bathroom remodeling, which includes managing all specialized trades such as plumbing, electrical, and HVAC. Our managed process ensures a single point of coordination, meaning you won't need to manage multiple contractors or worry about integrating various components. From initial design and permit coordination to the final installation of fixtures, wiring, and piping, our experienced team oversees every detail, ensuring quality craftsmanship and seamless execution, allowing you to focus on the transformation of your home.",
+        "@type": "Answer",
+        "description": "Yes, AKN Design Group handles all aspects of primary bathroom remodeling, including plumbing and electrical, through our integrated design-build process with a single point of coordination."
+      }
+    }
+  ],
+  "description": "Yes, AKN Design Group handles all aspects of primary bathroom remodeling, including plumbing and electrical, through our integrated design-build process with a"
+}

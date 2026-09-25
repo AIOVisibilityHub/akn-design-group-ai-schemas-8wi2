@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-the-cost-implication-of-installing-a-walk-in-tub-compared-to-a-standard",
+  "name": "What is the cost implication of installing a walk-in tub compared to a standard tub or shower?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the cost implication of installing a walk-in tub compared to a standard tub or shower?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of installing a walk-in tub is generally higher than a standard tub or shower due to the specialized unit itself, along with more extensive plumbing and electrical modifications often required. Factors influencing the total investment include the tub's features (e.g., jets, heating), the complexity of utility upgrades, and any necessary structural work. AKN Design Group provides upfront estimates during the design phase, detailing all costs for a comprehensive, customized renovation, emphasizing value engineering to optimize your investment without compromising craftsmanship or your desired spa-inspired experience.",
+        "@type": "Answer",
+        "description": "Installing a walk-in tub typically costs more than a standard tub or shower due to specialized unit costs and often more extensive plumbing and electrical work, with AKN Design Group providing upfront estimates."
+      }
+    }
+  ],
+  "description": "Installing a walk-in tub typically costs more than a standard tub or shower due to specialized unit costs and often more extensive plumbing and electrical work,"
+}

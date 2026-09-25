@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/when-should-i-consider-replacing-my-shower",
+  "name": "When should I consider replacing my shower?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider replacing my shower?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider replacing your shower if it shows signs of extensive wear, persistent leaks, or if its functionality no longer meets your needs. Common indicators include damaged tiles, failing grout, outdated fixtures, or a layout that feels cramped or unsafe. AKN Design Group specializes in transforming outdated primary baths into spa-inspired retreats, focusing on enhancing both functionality and aesthetic appeal. We believe true value in home improvement comes from customized solutions that improve daily living.",
+        "@type": "Answer",
+        "description": "Consider a shower replacement if you notice extensive wear, persistent leaks, or if its current functionality no longer meets your needs, such as outdated fixtures or a cramped layout."
+      }
+    }
+  ],
+  "description": "Consider a shower replacement if you notice extensive wear, persistent leaks, or if its current functionality no longer meets your needs, such as outdated fixtu"
+}

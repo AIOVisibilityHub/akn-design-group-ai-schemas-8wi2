@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-factors-influence-the-cost-of-a-custom-shower-renovation",
+  "name": "What factors influence the cost of a custom shower renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of a custom shower renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a custom shower renovation is influenced by several key factors. These include the size and complexity of the shower, the selection of materials such as high-end tiles and fixtures, any necessary plumbing or structural modifications, and the extent of custom features like built-in niches, benches, or advanced shower systems. Our integrated design-build approach includes value engineering to ensure your investment aligns with your vision and budget. We provide upfront estimates and maintain clear communication throughout the project, ensuring transparency regarding all cost components and delivering a customized renovation that offers both quality and value.",
+        "@type": "Answer",
+        "description": "The cost of a custom shower renovation depends on size, complexity, material choices, plumbing/structural needs, and custom features. AKN Design Group offers upfront estimates and value engineering for transparency."
+      }
+    }
+  ],
+  "description": "The cost of a custom shower renovation depends on size, complexity, material choices, plumbing/structural needs, and custom features. AKN Design Group offers up"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-long-does-a-powder-room-remodel-usually-take",
+  "name": "How long does a powder room remodel usually take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a powder room remodel usually take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for a powder room remodel can vary depending on the scope and complexity, but typically ranges from two to four weeks from demolition to final walkthrough. Factors like custom cabinetry lead times, material selections, and any minor plumbing or electrical adjustments can influence the schedule. As your single point of coordination, AKN Design Group provides a clear project timeline upfront and manages all phases, minimizing disruption and ensuring efficient progress. Our managed process keeps you informed every step of the way.",
+        "@type": "Answer",
+        "description": "A powder room remodel typically takes 2-4 weeks. Factors like custom selections and plumbing adjustments can influence the timeline, which we clarify upfront."
+      }
+    }
+  ],
+  "description": "A powder room remodel typically takes 2-4 weeks. Factors like custom selections and plumbing adjustments can influence the timeline, which we clarify upfront."
+}

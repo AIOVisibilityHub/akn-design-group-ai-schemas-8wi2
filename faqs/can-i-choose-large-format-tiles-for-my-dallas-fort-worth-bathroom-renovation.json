@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/can-i-choose-large-format-tiles-for-my-dallas-fort-worth-bathroom-renovation",
+  "name": "Can I choose large format tiles for my Dallas-Fort Worth bathroom renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I choose large format tiles for my Dallas-Fort Worth bathroom renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, large format tiles are an excellent choice for modern luxury bathrooms, often creating a more expansive and seamless appearance with fewer grout lines. Their suitability, however, depends on the specific dimensions of your bathroom and the preparation of the subfloor or wall. AKN Design Group specializes in customized renovations throughout the Dallas–Fort Worth metroplex. We assess your space to determine the best tile size and layout to enhance functionality, beauty, and value, ensuring structural integrity and a refined finish tailored to DFW home styles.",
+        "@type": "Answer",
+        "description": "Large format tiles can create an expansive look for DFW bathrooms. Their suitability depends on bathroom dimensions and proper surface preparation, which we assess during design."
+      }
+    }
+  ],
+  "description": "Large format tiles can create an expansive look for DFW bathrooms. Their suitability depends on bathroom dimensions and proper surface preparation, which we ass"
+}

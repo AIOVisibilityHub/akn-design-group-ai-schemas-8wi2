@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-do-you-prepare-a-bathroom-for-a-freestanding-tub-installation",
+  "name": "How do you prepare a bathroom for a freestanding tub installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do you prepare a bathroom for a freestanding tub installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Preparing a bathroom for a freestanding tub installation involves careful planning and execution. This includes precise measurements to ensure adequate space around the tub for comfort and cleaning, as well as roughing in the plumbing lines for both water supply and drainage exactly where the tub will sit. Unlike drop-in tubs, freestanding models often require floor-mounted or wall-mounted filler valves, necessitating specific plumbing preparations. Our integrated approach covers all these details, coordinating every trade and ensuring the space is perfectly prepared for your new luxury fixture.",
+        "@type": "Answer",
+        "description": "Preparation involves precise measurements, roughing in plumbing for water supply and drainage, and planning for specific filler valve types required by freestanding tubs."
+      }
+    }
+  ],
+  "description": "Preparation involves precise measurements, roughing in plumbing for water supply and drainage, and planning for specific filler valve types required by freestan"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-does-the-design-build-process-work-for-an-accessible-kitchen-renovation-with",
+  "name": "How does the design-build process work for an accessible kitchen renovation with AKN Design Group?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does the design-build process work for an accessible kitchen renovation with AKN Design Group?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our integrated design-build process begins with an in-depth consultation to understand your specific accessibility needs and vision. We then move into design planning, utilizing CAD-supported layouts to create a detailed plan for your accessible kitchen. Following design approval and permit coordination, our experienced team manages all aspects of construction, installation, and final walkthrough. This seamless approach ensures a single point of coordination, allowing us to harmonize design vision with construction execution and deliver a high-quality, customized renovation from concept to completion.",
+        "@type": "Answer",
+        "description": "Our design-build process covers consultation, CAD-supported design planning, permit coordination, construction, and final walkthrough, providing a single point of coordination for your accessible kitchen."
+      }
+    }
+  ],
+  "description": "Our design-build process covers consultation, CAD-supported design planning, permit coordination, construction, and final walkthrough, providing a single point"
+}

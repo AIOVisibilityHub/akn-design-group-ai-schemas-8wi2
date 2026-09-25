@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/when-is-the-best-time-to-consider-a-custom-bathroom-renovation",
+  "name": "When is the best time to consider a custom bathroom renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When is the best time to consider a custom bathroom renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The best time to consider a custom bathroom renovation is often when your current bathroom no longer meets your functional needs, aesthetic preferences, or overall lifestyle. This might manifest as an outdated layout, insufficient storage, or a desire for a spa-like retreat. Early planning is key; engaging our design-build team early allows ample time for design development, material sourcing, and permit coordination, ensuring a seamless and thoughtful transformation.",
+        "@type": "Answer",
+        "description": "Consider a custom bathroom renovation when your current space no longer meets your needs or aesthetic desires; early planning is crucial."
+      }
+    }
+  ],
+  "description": "Consider a custom bathroom renovation when your current space no longer meets your needs or aesthetic desires; early planning is crucial."
+}

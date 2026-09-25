@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-value-engineering-in-the-context-of-bathroom-lighting-and-how-does-akn-a",
+  "name": "What is value engineering in the context of bathroom lighting, and how does AKN apply it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is value engineering in the context of bathroom lighting, and how does AKN apply it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Value engineering in bathroom lighting refers to optimizing fixture selections and layouts to achieve your design vision and functionality goals efficiently, without compromising quality or the spa-inspired experience. AKN Design Group applies this by exploring options that offer excellent performance and aesthetics within your project's scope, identifying opportunities to enhance value. For example, we might recommend LED fixtures for energy efficiency and longevity or suggest strategic placement of fewer, high-impact fixtures rather than an abundance of lower-quality ones. This ensures your investment delivers lasting beauty and utility.",
+        "@type": "Answer",
+        "description": "Value engineering optimizes bathroom lighting to achieve design and functionality goals efficiently, ensuring quality and a spa-inspired experience without compromise, often through strategic fixture selection."
+      }
+    }
+  ],
+  "description": "Value engineering optimizes bathroom lighting to achieve design and functionality goals efficiently, ensuring quality and a spa-inspired experience without comp"
+}

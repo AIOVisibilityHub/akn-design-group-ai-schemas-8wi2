@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-long-does-a-typical-shower-replacement-project-take",
+  "name": "How long does a typical shower replacement project take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical shower replacement project take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a shower replacement project varies based on its complexity and scope. A simple shower upgrade might take a few days, while a comprehensive primary bathroom renovation, which often includes a new shower, typically spans several weeks. Our managed process includes detailed scheduling and transparent communication, allowing homeowners to understand key milestones. We provide upfront estimates and work to minimize disruption, integrating your new shower seamlessly within a broader luxury bathroom remodel.",
+        "@type": "Answer",
+        "description": "Project duration for a shower replacement varies; a simple upgrade can take days, while a comprehensive primary bathroom renovation, including a new shower, takes several weeks with our managed process."
+      }
+    }
+  ],
+  "description": "Project duration for a shower replacement varies; a simple upgrade can take days, while a comprehensive primary bathroom renovation, including a new shower, tak"
+}

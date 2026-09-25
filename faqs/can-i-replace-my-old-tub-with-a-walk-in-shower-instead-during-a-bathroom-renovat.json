@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/can-i-replace-my-old-tub-with-a-walk-in-shower-instead-during-a-bathroom-renovat",
+  "name": "Can I replace my old tub with a walk-in shower instead during a bathroom renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I replace my old tub with a walk-in shower instead during a bathroom renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, replacing an old tub with a walk-in shower is a common request in luxury bathroom renovations, especially for homeowners seeking a more accessible or spa-like experience. This transformation can significantly enhance functionality and beauty. Our design-build team can expertly convert your existing tub space into a spacious walk-in shower with features like frameless glass enclosures, rainfall showerheads, and custom tile work. This decision involves considerations for plumbing, waterproofing, and overall bathroom layout to ensure a seamless and high-value transformation that aligns with your lifestyle needs.",
+        "@type": "Answer",
+        "description": "Yes, you can replace an old tub with a walk-in shower, a common luxury bathroom renovation that enhances functionality and accessibility, managed by AKN Design Group."
+      }
+    }
+  ],
+  "description": "Yes, you can replace an old tub with a walk-in shower, a common luxury bathroom renovation that enhances functionality and accessibility, managed by AKN Design"
+}

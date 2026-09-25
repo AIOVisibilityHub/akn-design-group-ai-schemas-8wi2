@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-the-typical-timeline-for-bathroom-fixture-installation-within-a-larger-r",
+  "name": "What is the typical timeline for bathroom fixture installation within a larger renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical timeline for bathroom fixture installation within a larger renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for bathroom fixture installation is integrated into the broader schedule of a comprehensive bathroom renovation. Fixture installation typically occurs after demolition, rough plumbing, electrical work, and tile installation are completed. Exact timing depends on the project's complexity, the types of fixtures selected, and any custom requirements. As part of our managed process, AKN Design Group provides clear scheduling transparency from the outset, ensuring you understand each phase and what to expect during your customized renovation.",
+        "@type": "Answer",
+        "description": "Fixture installation is part of a larger renovation, typically occurring after rough-ins and tile work; exact timing depends on project complexity and fixture types."
+      }
+    }
+  ],
+  "description": "Fixture installation is part of a larger renovation, typically occurring after rough-ins and tile work; exact timing depends on project complexity and fixture t"
+}

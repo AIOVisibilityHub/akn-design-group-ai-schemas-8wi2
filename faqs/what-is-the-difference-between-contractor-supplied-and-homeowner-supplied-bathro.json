@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-the-difference-between-contractor-supplied-and-homeowner-supplied-bathro",
+  "name": "What is the difference between contractor-supplied and homeowner-supplied bathroom fixtures?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between contractor-supplied and homeowner-supplied bathroom fixtures?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When AKN Design Group supplies bathroom fixtures, we leverage our experience and relationships to source high-quality, durable products that fit seamlessly with your renovation plan, ensuring they meet our craftsmanship standards and arrive on schedule. If a homeowner supplies fixtures, it requires careful coordination of delivery timelines and verification that the selected products are compatible with the design and plumbing requirements. While we can install homeowner-provided fixtures, our integrated design-build process offers the most seamless experience when we manage the entire material procurement, guaranteeing optimal quality and project flow for your customized renovation.",
+        "@type": "Answer",
+        "description": "Contractor-supplied fixtures ensure quality, compatibility, and timely delivery, while homeowner-supplied ones require careful coordination to avoid project delays."
+      }
+    }
+  ],
+  "description": "Contractor-supplied fixtures ensure quality, compatibility, and timely delivery, while homeowner-supplied ones require careful coordination to avoid project del"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-should-i-consider-when-choosing-lighting-fixtures-for-a-bathroom-remodel",
+  "name": "What should I consider when choosing lighting fixtures for a bathroom remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I consider when choosing lighting fixtures for a bathroom remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing lighting fixtures for a bathroom remodel, consider the overall style of your space, the specific functions each light will serve, and the level of moisture resistance required. Fixtures should complement your custom vanity and other finishes, while providing adequate illumination for tasks like applying makeup or shaving. For safety and longevity, ensure that any fixtures near water sources, such as showers or tubs, are rated for damp or wet locations. Our integrated design-build process helps coordinate these selections to ensure they meet both aesthetic and practical requirements.",
+        "@type": "Answer",
+        "description": "Consider your bathroom's style, lighting function, and required moisture resistance when selecting fixtures; choose damp or wet-rated options for safety near water."
+      }
+    }
+  ],
+  "description": "Consider your bathroom's style, lighting function, and required moisture resistance when selecting fixtures; choose damp or wet-rated options for safety near wa"
+}

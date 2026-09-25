@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/when-is-the-best-time-to-choose-bathroom-fixtures-during-a-renovation-project",
+  "name": "When is the best time to choose bathroom fixtures during a renovation project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When is the best time to choose bathroom fixtures during a renovation project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The best time to choose bathroom fixtures is early in the design phase of your renovation. This allows for their seamless integration into the overall design plan and ensures they are ordered and available when needed for installation. Early selection helps prevent delays, allows for necessary plumbing adjustments, and ensures all elements, from tile to vanity, complement your chosen fixtures. AKN Design Group’s integrated design-build process guides you through material and fixture selection at the optimal time to maintain project flow and schedule.",
+        "@type": "Answer",
+        "description": "Choose bathroom fixtures early in the design phase to ensure seamless integration, avoid delays, and allow for necessary plumbing adjustments."
+      }
+    }
+  ],
+  "description": "Choose bathroom fixtures early in the design phase to ensure seamless integration, avoid delays, and allow for necessary plumbing adjustments."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-are-the-benefits-of-upgrading-to-a-high-efficiency-toilet-during-a-home-ren",
+  "name": "What are the benefits of upgrading to a high-efficiency toilet during a home renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the benefits of upgrading to a high-efficiency toilet during a home renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Upgrading to a high-efficiency toilet (HET) during a home renovation offers significant benefits, including reduced water consumption, which can lead to lower utility bills over time, and improved flushing performance. Many modern HETs also feature contemporary designs and advanced functionalities that enhance the aesthetic and comfort of a luxury bathroom. AKN Design Group advises on selecting fixtures that not only align with your design vision but also contribute to the long-term functionality and value of your home.",
+        "@type": "Answer",
+        "description": "Upgrading to a high-efficiency toilet reduces water consumption, lowers utility bills, and offers improved performance and modern design benefits for your luxury bathroom."
+      }
+    }
+  ],
+  "description": "Upgrading to a high-efficiency toilet reduces water consumption, lowers utility bills, and offers improved performance and modern design benefits for your luxur"
+}

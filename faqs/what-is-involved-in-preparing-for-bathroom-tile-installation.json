@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-involved-in-preparing-for-bathroom-tile-installation",
+  "name": "What is involved in preparing for bathroom tile installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in preparing for bathroom tile installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Proper preparation is crucial for a lasting and visually appealing tile installation. This involves ensuring the subfloor or wall surfaces are clean, level, and structurally sound. Any existing materials must be removed, and the area might require waterproofing, particularly in shower enclosures, to protect against moisture. AKN Design Group manages these preparatory steps as part of our integrated design-build process, ensuring the foundation is meticulously prepared. We handle all aspects, from initial demolition to the final setting, reducing your need to manage multiple vendors.",
+        "@type": "Answer",
+        "description": "Preparation for tile installation involves ensuring surfaces are clean, level, and often includes waterproofing. AKN Design Group manages these essential steps within our integrated process."
+      }
+    }
+  ],
+  "description": "Preparation for tile installation involves ensuring surfaces are clean, level, and often includes waterproofing. AKN Design Group manages these essential steps"
+}

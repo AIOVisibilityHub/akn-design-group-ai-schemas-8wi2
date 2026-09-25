@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-long-does-the-bathroom-countertop-installation-process-typically-take-with-a",
+  "name": "How long does the bathroom countertop installation process typically take with AKN Design Group?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does the bathroom countertop installation process typically take with AKN Design Group?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a bathroom countertop installation is part of our managed process for a full bathroom remodel, not an isolated task. While the actual installation of countertops often takes a day or two, the complete process, from initial design consultation and material selection to fabrication and final installation, is integrated into the larger project timeline. We provide upfront estimates and scheduling transparency, coordinating all trades to ensure efficiency and minimize disruption, delivering your spa-inspired retreat on schedule.",
+        "@type": "Answer",
+        "description": "Countertop installation is integrated into our full bathroom remodel process; actual installation is 1-2 days, but the complete timeline is part of the larger project plan."
+      }
+    }
+  ],
+  "description": "Countertop installation is integrated into our full bathroom remodel process; actual installation is 1-2 days, but the complete timeline is part of the larger p"
+}

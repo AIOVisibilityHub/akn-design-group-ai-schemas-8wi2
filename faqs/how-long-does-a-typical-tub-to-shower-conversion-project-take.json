@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-long-does-a-typical-tub-to-shower-conversion-project-take",
+  "name": "How long does a typical tub-to-shower conversion project take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical tub-to-shower conversion project take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A typical tub-to-shower conversion project duration can vary based on its complexity and the extent of customization. Simple conversions might take a few days to a week, while more extensive remodels involving significant plumbing relocation, custom tile work, or structural adjustments could take longer. As part of our commitment to a high-touch homeowner experience, AKN Design Group provides scheduling transparency and a clear project timeline from the outset, allowing you to plan effectively. Our managed process minimizes disruption while maintaining craftsmanship.",
+        "@type": "Answer",
+        "description": "Project duration varies by complexity; simple conversions take days to a week, while extensive remodels may take longer."
+      }
+    }
+  ],
+  "description": "Project duration varies by complexity; simple conversions take days to a week, while extensive remodels may take longer."
+}

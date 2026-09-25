@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-are-common-challenges-during-a-primary-bathroom-remodel-and-how-does-akn-ad",
+  "name": "What are common challenges during a primary bathroom remodel and how does AKN address them?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common challenges during a primary bathroom remodel and how does AKN address them?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common challenges during a primary bathroom remodel often involve unforeseen structural issues, plumbing reconfigurations, or delays in material sourcing. AKN Design Group addresses these by employing a single, accountable design-build team and a managed process. Our two decades of experience and over 10,000 completed jobs allow us to anticipate potential obstacles and plan accordingly, minimizing disruptions. We prioritize clear communication, providing upfront estimates and scheduling transparency, ensuring homeowners are informed and comfortable throughout the project, mitigating the overwhelming experience often associated with complex renovations.",
+        "@type": "Answer",
+        "description": "Challenges like structural issues or material delays are common in bathroom remodels. AKN addresses them through our experienced design-build team, managed process, and clear communication."
+      }
+    }
+  ],
+  "description": "Challenges like structural issues or material delays are common in bathroom remodels. AKN addresses them through our experienced design-build team, managed proc"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-should-i-prepare-before-starting-a-shower-replacement-project",
+  "name": "What should I prepare before starting a shower replacement project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare before starting a shower replacement project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before starting your shower replacement project, consider gathering inspiration images, identifying specific needs or frustrations with your current shower, and establishing a general budget. Thinking about your desired aesthetic, preferred features like rainfall showerheads or built-in benches, and any accessibility requirements will help our team design a tailored solution. As your single point of coordination, AKN Design Group will guide you through the detailed planning, ensuring all necessary preparations are covered for a smooth project start.",
+        "@type": "Answer",
+        "description": "Before starting, gather inspiration, identify current shower frustrations, establish a budget, and consider desired aesthetics or features. AKN Design Group will guide you through detailed planning."
+      }
+    }
+  ],
+  "description": "Before starting, gather inspiration, identify current shower frustrations, establish a budget, and consider desired aesthetics or features. AKN Design Group wil"
+}

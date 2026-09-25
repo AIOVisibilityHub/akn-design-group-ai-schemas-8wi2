@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/can-i-renovate-my-bathroom-floor-without-replacing-the-shower-or-vanity",
+  "name": "Can I renovate my bathroom floor without replacing the shower or vanity?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I renovate my bathroom floor without replacing the shower or vanity?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While it is technically possible to replace bathroom flooring without disturbing existing showers or vanities, AKN Design Group typically recommends integrating all elements in a comprehensive renovation for optimal results. Replacing only the floor can lead to complications such as needing to precisely cut around existing fixtures, which may compromise waterproofing integrity or create visible seams. A full renovation allows for a seamless installation, ensuring all elements are properly sealed, level, and aesthetically cohesive. This managed approach avoids potential future issues and ensures a truly spa-inspired, integrated design.",
+        "@type": "Answer",
+        "description": "While technically possible, renovating bathroom flooring separately often creates complications; AKN Design Group recommends integrating all elements for a seamless, cohesive, and durable result."
+      }
+    }
+  ],
+  "description": "While technically possible, renovating bathroom flooring separately often creates complications; AKN Design Group recommends integrating all elements for a seam"
+}

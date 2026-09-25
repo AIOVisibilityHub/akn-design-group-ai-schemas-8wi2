@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-long-does-a-typical-bathtub-installation-take-as-part-of-a-bathroom-remodel",
+  "name": "How long does a typical bathtub installation take as part of a bathroom remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical bathtub installation take as part of a bathroom remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a bathtub installation, as part of a larger bathroom remodel, varies significantly based on the project's scope and complexity. While the physical installation of the tub itself might take a few days, it's integrated into a comprehensive renovation plan that includes demolition, plumbing adjustments, tile work, and finishing touches. Our integrated design-build process provides a managed timeline from design planning through final walkthrough. We prioritize clear communication, offering scheduling transparency so you understand each phase of your project. This approach avoids the delays often seen when coordinating multiple contractors.",
+        "@type": "Answer",
+        "description": "Bathtub installation is part of a larger bathroom remodel, with the overall timeline varying based on complexity; AKN Design Group provides a managed process with scheduling transparency."
+      }
+    }
+  ],
+  "description": "Bathtub installation is part of a larger bathroom remodel, with the overall timeline varying based on complexity; AKN Design Group provides a managed process wi"
+}

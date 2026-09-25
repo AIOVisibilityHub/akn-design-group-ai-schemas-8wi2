@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/when-is-it-advisable-to-replace-a-toilet-rather-than-repair-it-during-a-bathroom",
+  "name": "When is it advisable to replace a toilet rather than repair it during a bathroom renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When is it advisable to replace a toilet rather than repair it during a bathroom renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "During a comprehensive bathroom renovation, replacing a toilet is often advisable when the existing unit is outdated, inefficient, or does not align with the new design aesthetic. While repairs address immediate issues, a full replacement ensures integration with upgraded plumbing, improved water efficiency, and a unified look for your spa-inspired bathroom. AKN Design Group integrates new toilet installations into the broader design and plumbing plan, ensuring that all components of your luxury bathroom function seamlessly and contribute to its overall value and appearance.",
+        "@type": "Answer",
+        "description": "Replace a toilet during a bathroom renovation if it's outdated, inefficient, or doesn't match the new design to ensure integration with upgraded plumbing and aesthetics."
+      }
+    }
+  ],
+  "description": "Replace a toilet during a bathroom renovation if it's outdated, inefficient, or doesn't match the new design to ensure integration with upgraded plumbing and ae"
+}

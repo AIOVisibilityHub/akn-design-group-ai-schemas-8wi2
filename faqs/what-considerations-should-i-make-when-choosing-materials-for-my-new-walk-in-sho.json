@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-considerations-should-i-make-when-choosing-materials-for-my-new-walk-in-sho",
+  "name": "What considerations should I make when choosing materials for my new walk-in shower?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What considerations should I make when choosing materials for my new walk-in shower?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selecting materials for your walk-in shower, consider both aesthetics and long-term durability. Factors like tile type, grout choice, shower pan material, and glass enclosure style significantly influence the final look and maintenance requirements. AKN Design Group assists with material selection as part of our integrated design process, guiding you through options that align with your vision for a spa-inspired retreat. We focus on materials that enhance functionality, beauty, and long-term value, ensuring choices that stand up to daily use while complementing your home’s overall design. Our experts can advise on value engineering to optimize material choices.",
+        "@type": "Answer",
+        "description": "Consider aesthetics, durability, and maintenance when choosing materials for your walk-in shower, including tile, grout, shower pan, and glass enclosure. AKN Design Group guides clients through material selection to align with their design vision and long-term value."
+      }
+    }
+  ],
+  "description": "Consider aesthetics, durability, and maintenance when choosing materials for your walk-in shower, including tile, grout, shower pan, and glass enclosure. AKN De"
+}
