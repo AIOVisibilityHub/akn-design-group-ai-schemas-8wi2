@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-involved-in-the-design-build-process-for-a-custom-home-office-with-akn-d",
+  "name": "What is involved in the design-build process for a custom home office with AKN Design Group?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in the design-build process for a custom home office with AKN Design Group?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our integrated design-build process for a custom home office begins with understanding your specific needs and workflow requirements. This involves detailed consultations and CAD-supported layouts to visualize the space. Following design approval, we handle all aspects from permit coordination to construction, material selection, and final installation. This single point of coordination ensures a seamless, managed process from concept to completion, eliminating the complexities of managing multiple vendors.",
+        "@type": "Answer",
+        "description": "AKN's design-build process for a home office includes consultations, CAD layouts, permit coordination, construction, and installation, all managed by one team."
+      }
+    }
+  ],
+  "description": "AKN's design-build process for a home office includes consultations, CAD layouts, permit coordination, construction, and installation, all managed by one team."
+}

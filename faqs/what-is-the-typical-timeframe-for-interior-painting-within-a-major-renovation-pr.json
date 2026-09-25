@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-the-typical-timeframe-for-interior-painting-within-a-major-renovation-pr",
+  "name": "What is the typical timeframe for interior painting within a major renovation project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical timeframe for interior painting within a major renovation project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The typical timeframe for interior painting within a major renovation project, such as a whole-home remodel or a significant addition, is integrated into the larger project schedule. Painting is generally performed after all structural, drywall, and finish carpentry work is complete, but before final flooring installation and fixture placement. This sequencing ensures that surfaces are clean and undisturbed for optimal paint application. The exact duration depends on the project's scale, the number of coats required, and drying times. AKN Design Group provides a transparent project timeline, allowing for clear communication and efficient coordination of all phases, including painting.",
+        "@type": "Answer",
+        "description": "Interior painting within a major renovation is scheduled after structural and drywall work, but before final flooring. The timeframe depends on project scale and coats needed, and is integrated into AKN Design Group's transparent project timeline."
+      }
+    }
+  ],
+  "description": "Interior painting within a major renovation is scheduled after structural and drywall work, but before final flooring. The timeframe depends on project scale an"
+}

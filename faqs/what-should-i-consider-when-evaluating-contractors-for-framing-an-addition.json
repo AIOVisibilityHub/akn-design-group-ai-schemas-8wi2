@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-should-i-consider-when-evaluating-contractors-for-framing-an-addition",
+  "name": "What should I consider when evaluating contractors for framing an addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I consider when evaluating contractors for framing an addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When evaluating contractors for framing an addition, prioritize those with proven expertise in substantial residential projects and a comprehensive design-build approach. Look for a track record that demonstrates experience in structural integration and permit coordination, critical aspects of additions. AKN Design Group, with over two decades in the Dallas–Fort Worth metroplex and 10,000+ jobs completed, offers a managed process and a single point of coordination. We emphasize clear communication and craftsmanship, building trust and lasting relationships through our commitment to reliability.",
+        "@type": "Answer",
+        "description": "When choosing a contractor for addition framing, prioritize expertise in residential projects, a design-build approach, and a strong track record in structural integration and permit coordination. AKN Design Group offers a managed process and deep experience."
+      }
+    }
+  ],
+  "description": "When choosing a contractor for addition framing, prioritize expertise in residential projects, a design-build approach, and a strong track record in structural"
+}

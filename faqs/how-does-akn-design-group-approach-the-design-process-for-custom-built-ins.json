@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-does-akn-design-group-approach-the-design-process-for-custom-built-ins",
+  "name": "How does AKN Design Group approach the design process for custom built-ins?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does AKN Design Group approach the design process for custom built-ins?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "AKN Design Group approaches custom built-in design through our integrated design-build process, which begins with a thorough consultation to understand your functional needs and aesthetic preferences. Our team develops CAD-supported layouts to visualize the proposed units within your space, considering factors like room flow, existing architecture, and desired finishes. This managed process ensures that the built-ins not only meet your storage and display requirements but also enhance the overall architectural integrity and value of your home, becoming an integral part of a larger renovation project. We focus on enhancing functionality, beauty, and long-term value.",
+        "@type": "Answer",
+        "description": "AKN Design Group integrates custom built-in design into our design-build process, using CAD-supported layouts and detailed consultations to ensure functionality and aesthetic harmony with your renovation."
+      }
+    }
+  ],
+  "description": "AKN Design Group integrates custom built-in design into our design-build process, using CAD-supported layouts and detailed consultations to ensure functionality"
+}

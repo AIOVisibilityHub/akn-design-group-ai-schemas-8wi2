@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-do-you-handle-finish-carpentry-in-older-homes-in-the-dallas-fort-worth-metro",
+  "name": "How do you handle finish carpentry in older homes in the Dallas–Fort Worth metroplex?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do you handle finish carpentry in older homes in the Dallas–Fort Worth metroplex?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For older homes in the Dallas–Fort Worth metroplex, finish carpentry requires a nuanced approach to respect historical integrity while introducing modern functionality. AKN Design Group has extensive experience working with diverse DFW home styles and building codes. We meticulously assess existing trim and architectural details, offering options to replicate period-appropriate designs or to thoughtfully integrate new elements that complement the home's character. Our managed process ensures that any structural changes or upgrades are seamlessly tied into the original architecture, preserving the home's charm while enhancing its functionality, beauty, and value for contemporary living.",
+        "@type": "Answer",
+        "description": "In older DFW homes, we assess existing details to replicate period designs or integrate new elements, preserving charm while enhancing functionality."
+      }
+    }
+  ],
+  "description": "In older DFW homes, we assess existing details to replicate period designs or integrate new elements, preserving charm while enhancing functionality."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-value-engineering-in-the-context-of-framing-for-an-addition",
+  "name": "What is value engineering in the context of framing for an addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is value engineering in the context of framing for an addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Value engineering in framing for an addition involves systematically analyzing the design and materials to achieve the project's functional requirements at the lowest practical cost without compromising quality or structural integrity. This might include optimizing lumber sizes, selecting alternative engineered wood products, or adjusting structural configurations to reduce material waste or labor. AKN Design Group applies value engineering principles to ensure your addition is built efficiently, enhancing functionality and beauty while providing excellent value for your investment in a managed process.",
+        "@type": "Answer",
+        "description": "Value engineering in framing optimizes design and materials to achieve project goals efficiently without sacrificing quality. It involves assessing options to reduce costs while maintaining structural integrity and performance."
+      }
+    }
+  ],
+  "description": "Value engineering in framing optimizes design and materials to achieve project goals efficiently without sacrificing quality. It involves assessing options to r"
+}

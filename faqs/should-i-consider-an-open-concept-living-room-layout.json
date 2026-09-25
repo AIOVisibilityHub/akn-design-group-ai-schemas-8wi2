@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/should-i-consider-an-open-concept-living-room-layout",
+  "name": "Should I consider an open-concept living room layout?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I consider an open-concept living room layout?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Transitioning to an open-concept living room layout can significantly enhance the sense of space and improve flow between connected areas, which is a common desire in whole-home remodels. This decision often involves structural modifications, potentially requiring the removal of load-bearing walls. A practical tradeoff is the reduction in wall space for art or furniture placement, and sound transmission can become more noticeable. Our design-build team can evaluate your home's structure and your lifestyle to determine if an open-concept design aligns with your needs and aesthetic goals, ensuring seamless integration and enhancing overall functionality.",
+        "@type": "Answer",
+        "description": "An open-concept living room offers improved flow and spaciousness but may involve structural changes and impact wall space or sound. Our team can assess if it suits your home."
+      }
+    }
+  ],
+  "description": "An open-concept living room offers improved flow and spaciousness but may involve structural changes and impact wall space or sound. Our team can assess if it s"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-factors-influence-the-cost-of-custom-built-ins",
+  "name": "What factors influence the cost of custom built-ins?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of custom built-ins?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of custom built-ins is influenced by several factors, including the complexity of the design, the type of materials selected, the size of the unit, and the required finish work. Premium hardwoods, specialized hardware, integrated lighting, and intricate detailing will contribute to a higher investment than simpler designs with standard materials. As part of a substantial renovation project, AKN Design Group provides upfront estimates for all components, including custom built-ins, ensuring transparency. Our value engineering approach seeks to optimize material choices and design elements to align with your project budget while maintaining our standards for craftsmanship and quality.",
+        "@type": "Answer",
+        "description": "Custom built-in costs depend on design complexity, material choices, size, and finish work. AKN Design Group provides transparent estimates and uses value engineering for substantial renovations."
+      }
+    }
+  ],
+  "description": "Custom built-in costs depend on design complexity, material choices, size, and finish work. AKN Design Group provides transparent estimates and uses value engin"
+}

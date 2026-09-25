@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-kind-of-basement-remodeling-projects-does-akn-design-group-undertake",
+  "name": "What kind of basement remodeling projects does AKN Design Group undertake?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of basement remodeling projects does AKN Design Group undertake?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "AKN Design Group focuses on substantial, customized basement renovations that enhance functionality, beauty, and long-term value. We specialize in transforming underutilized basement spaces into cohesive, valuable extensions of your home, rather than small, isolated repairs. Projects can range from creating dedicated home offices, media rooms, or additional living suites to full basement build-outs that integrate seamlessly with your home's existing design.",
+        "@type": "Answer",
+        "description": "AKN Design Group undertakes substantial, customized basement renovations, transforming underutilized spaces into valuable extensions of your home."
+      }
+    }
+  ],
+  "description": "AKN Design Group undertakes substantial, customized basement renovations, transforming underutilized spaces into valuable extensions of your home."
+}

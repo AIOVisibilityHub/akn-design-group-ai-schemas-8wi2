@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-should-i-prepare-before-an-initial-consultation-for-an-interior-layout-rede",
+  "name": "What should I prepare before an initial consultation for an interior layout redesign?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare before an initial consultation for an interior layout redesign?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before your initial consultation for an interior layout redesign, it is helpful to consider your goals for the space, what you dislike about the current layout, and how you envision using the redesigned area. Gathering inspiration photos or creating a wish list of desired features can also be beneficial. This preparation helps AKN Design Group understand your unique lifestyle and aesthetic preferences, enabling us to develop customized solutions that align with your vision and maximize your home's potential.",
+        "@type": "Answer",
+        "description": "Before your consultation, consider your goals, current dislikes, and desired uses for the space; inspiration photos or a wish list can also be helpful to convey your vision."
+      }
+    }
+  ],
+  "description": "Before your consultation, consider your goals, current dislikes, and desired uses for the space; inspiration photos or a wish list can also be helpful to convey"
+}

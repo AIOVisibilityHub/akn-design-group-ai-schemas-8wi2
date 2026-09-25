@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-types-of-flooring-does-akn-design-group-install-during-a-comprehensive-reno",
+  "name": "What types of flooring does AKN Design Group install during a comprehensive renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of flooring does AKN Design Group install during a comprehensive renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "AKN Design Group integrates new flooring installations into larger residential renovations, including whole-home remodels, kitchen renovations, and bathroom transformations. We coordinate the selection and installation of various flooring materials to ensure aesthetic cohesion and functional suitability with your overall design. Our managed process includes guidance on options such as hardwood, tile, and luxury vinyl, considering factors like durability, maintenance, and how each material contributes to the enhanced functionality and beauty of your customized space. This ensures the flooring is a seamless element of your complete home transformation.",
+        "@type": "Answer",
+        "description": "AKN Design Group installs various flooring types, such as hardwood, tile, and luxury vinyl, as part of comprehensive residential renovations."
+      }
+    }
+  ],
+  "description": "AKN Design Group installs various flooring types, such as hardwood, tile, and luxury vinyl, as part of comprehensive residential renovations."
+}

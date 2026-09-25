@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-long-does-a-typical-kitchen-renovation-project-take-with-akn-design-group",
+  "name": "How long does a typical kitchen renovation project take with AKN Design Group?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical kitchen renovation project take with AKN Design Group?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a kitchen renovation varies significantly based on its complexity, the extent of structural changes, and the lead time for custom materials. While minor updates might take a few weeks, a full kitchen renovation, including custom cabinetry and layout modifications, can range from 8 to 16 weeks or more from design finalization to completion. Our integrated design-build process ensures permit coordination and a clear project timeline from the outset, providing transparency throughout the managed process. Clients should factor in material selection time, as unique finishes can impact the overall schedule.",
+        "@type": "Answer",
+        "description": "Kitchen renovations typically take 8 to 16 weeks, varying with complexity and custom material lead times. AKN provides clear timelines and handles permit coordination."
+      }
+    }
+  ],
+  "description": "Kitchen renovations typically take 8 to 16 weeks, varying with complexity and custom material lead times. AKN provides clear timelines and handles permit coordi"
+}

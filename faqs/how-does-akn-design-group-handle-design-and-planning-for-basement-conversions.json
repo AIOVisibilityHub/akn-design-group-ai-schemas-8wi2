@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-does-akn-design-group-handle-design-and-planning-for-basement-conversions",
+  "name": "How does AKN Design Group handle design and planning for basement conversions?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does AKN Design Group handle design and planning for basement conversions?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our integrated design-build process for basement conversions begins with a thorough consultation to understand your unique vision and lifestyle needs. We utilize CAD-supported layouts to transform concepts into detailed plans, ensuring every element, from space utilization to material selection, is meticulously considered. This managed process ensures design vision and construction execution are harmonized under one accountable team, providing a single point of coordination from initial sketches to the final walkthrough, creating a truly customized space.",
+        "@type": "Answer",
+        "description": "AKN Design Group's integrated design-build process uses CAD-supported layouts to create detailed plans from your vision. This ensures a harmonized design and construction, with a single team managing all aspects."
+      }
+    }
+  ],
+  "description": "AKN Design Group's integrated design-build process uses CAD-supported layouts to create detailed plans from your vision. This ensures a harmonized design and co"
+}

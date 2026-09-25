@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-factors-influence-the-cost-of-an-interior-layout-redesign",
+  "name": "What factors influence the cost of an interior layout redesign?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of an interior layout redesign?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of an interior layout redesign is influenced by several factors, including the project's complexity, the extent of structural changes, material selections, and necessary permit coordination. Moving load-bearing walls, re-routing plumbing or electrical systems, and high-end finishes will impact the overall investment. AKN Design Group provides upfront estimates following a thorough design consultation, offering value engineering solutions where appropriate, to ensure that the design vision aligns with your financial considerations without compromising craftsmanship or quality.",
+        "@type": "Answer",
+        "description": "Cost factors include complexity, structural changes, material choices, and permit needs. AKN offers upfront estimates and value engineering to align design with budget."
+      }
+    }
+  ],
+  "description": "Cost factors include complexity, structural changes, material choices, and permit needs. AKN offers upfront estimates and value engineering to align design with"
+}

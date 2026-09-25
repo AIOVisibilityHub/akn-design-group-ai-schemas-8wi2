@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-factors-influence-the-cost-of-a-luxury-bathroom-renovation",
+  "name": "What factors influence the cost of a luxury bathroom renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of a luxury bathroom renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a luxury bathroom renovation is influenced by several key factors, including the size of the space, the complexity of design changes (such as moving plumbing or walls), and the selection of materials and fixtures. Custom vanities, spa-inspired features like rainfall showers or heated floors, and high-end tile selections contribute significantly to the overall investment. AKN Design Group focuses on value engineering and providing upfront estimates, ensuring our clients understand the scope and investment for their personalized, spa-style retreat, emphasizing enduring quality over merely the lowest price.",
+        "@type": "Answer",
+        "description": "Luxury bathroom renovation costs depend on size, design complexity, and material selections like custom vanities and spa features. We provide upfront estimates and focus on value engineering."
+      }
+    }
+  ],
+  "description": "Luxury bathroom renovation costs depend on size, design complexity, and material selections like custom vanities and spa features. We provide upfront estimates"
+}

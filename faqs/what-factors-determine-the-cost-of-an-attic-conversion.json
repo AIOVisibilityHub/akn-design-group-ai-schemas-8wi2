@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-factors-determine-the-cost-of-an-attic-conversion",
+  "name": "What factors determine the cost of an attic conversion?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors determine the cost of an attic conversion?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of an attic conversion varies based on several factors, including the existing attic's structural integrity, the desired use of the new space, the extent of insulation and HVAC modifications, and the chosen finishes. Projects requiring significant structural reinforcement, dormer additions, or new staircases will naturally incur higher costs. AKN Design Group provides upfront estimates and employs value engineering to ensure your project aligns with your vision and investment goals, focusing on customized solutions.",
+        "@type": "Answer",
+        "description": "Attic conversion costs depend on structural needs, desired use, HVAC modifications, and finishes; significant structural work or dormers increase the investment."
+      }
+    }
+  ],
+  "description": "Attic conversion costs depend on structural needs, desired use, HVAC modifications, and finishes; significant structural work or dormers increase the investment"
+}

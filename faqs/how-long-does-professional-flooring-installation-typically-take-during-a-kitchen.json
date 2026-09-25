@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-long-does-professional-flooring-installation-typically-take-during-a-kitchen",
+  "name": "How long does professional flooring installation typically take during a kitchen renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does professional flooring installation typically take during a kitchen renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of professional flooring installation during a kitchen renovation varies depending on the material, the size of the area, and the complexity of the kitchen's layout. Generally, after the demolition and necessary subfloor work are completed, the installation itself can take several days to a week. For instance, intricate tile work might require more time for setting and grouting compared to a simpler luxury vinyl installation. AKN Design Group provides a clear project timeline as part of our managed process, ensuring transparent scheduling and coordination with other renovation phases to minimize disruption.",
+        "@type": "Answer",
+        "description": "Flooring installation during a kitchen renovation typically takes several days to a week, depending on material and complexity, with a clear timeline provided by AKN Design Group."
+      }
+    }
+  ],
+  "description": "Flooring installation during a kitchen renovation typically takes several days to a week, depending on material and complexity, with a clear timeline provided b"
+}

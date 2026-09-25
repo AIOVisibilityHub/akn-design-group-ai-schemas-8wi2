@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-long-does-an-attic-conversion-project-usually-take",
+  "name": "How long does an attic conversion project usually take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does an attic conversion project usually take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for an attic conversion project depends on its complexity, the size of the space, and the required structural changes. A basic conversion might take several weeks, while a more extensive project involving dormer additions or significant layout changes could extend to several months. We prioritize efficient project management and clear communication to keep you informed of scheduling and progress, striving for a seamless homeowner experience from start to finish.",
+        "@type": "Answer",
+        "description": "Project duration varies based on complexity and scope, from several weeks for basic conversions to several months for more extensive remodels."
+      }
+    }
+  ],
+  "description": "Project duration varies based on complexity and scope, from several weeks for basic conversions to several months for more extensive remodels."
+}

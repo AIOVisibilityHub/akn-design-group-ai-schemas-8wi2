@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-preparations-should-i-make-before-starting-a-full-home-remodel",
+  "name": "What preparations should I make before starting a full-home remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What preparations should I make before starting a full-home remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before embarking on a full-home remodel, homeowners should consider their desired lifestyle changes, aesthetic preferences, and budget expectations. Gathering inspirational images, making a list of functional improvements, and understanding your needs for each space can greatly assist the initial design phase. AKN Design Group believes in being the central project partner, guiding you through a managed process from consultation to final walkthrough. Preparing these initial thoughts allows us to better understand your unique vision and goals from our very first meeting.",
+        "@type": "Answer",
+        "description": "Before a full-home remodel, consider your lifestyle needs, aesthetic preferences, and budget. Gathering inspirational images and outlining desired functional improvements will help us understand your vision from the start."
+      }
+    }
+  ],
+  "description": "Before a full-home remodel, consider your lifestyle needs, aesthetic preferences, and budget. Gathering inspirational images and outlining desired functional im"
+}

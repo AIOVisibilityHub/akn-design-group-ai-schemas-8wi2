@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/when-is-the-best-time-to-undertake-an-open-concept-remodel-to-minimize-disruptio",
+  "name": "When is the best time to undertake an open-concept remodel to minimize disruption?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When is the best time to undertake an open-concept remodel to minimize disruption?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The best time to undertake an open-concept remodel often depends on your family's schedule and specific preferences for minimizing disruption. While construction causes some temporary inconvenience, our focus on a managed process and clear communication helps mitigate challenges. We establish a transparent project timeline upfront, allowing you to plan accordingly. Homeowners frequently find that scheduling projects during periods of lighter household activity or before major holidays can help manage the transition more smoothly.",
+        "@type": "Answer",
+        "description": "The best time for an open-concept remodel depends on your family's schedule. We provide a transparent project timeline to help homeowners plan for minimal disruption."
+      }
+    }
+  ],
+  "description": "The best time for an open-concept remodel depends on your family's schedule. We provide a transparent project timeline to help homeowners plan for minimal disru"
+}

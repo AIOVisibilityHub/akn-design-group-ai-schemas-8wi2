@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/when-is-the-right-time-to-consider-a-whole-home-addition-rather-than-moving",
+  "name": "When is the right time to consider a whole-home addition rather than moving?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When is the right time to consider a whole-home addition rather than moving?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Considering a whole-home addition is ideal when you need more usable space—such as a primary suite, home office, or multigenerational living area—but wish to remain in a neighborhood you value. An addition allows you to expand your living footprint and customize new spaces to your exact lifestyle needs without the disruption and cost associated with relocating. AKN Design Group specializes in seamlessly integrating additions, managing everything from permit coordination and structural changes to exterior finish matching, ensuring the new space visually aligns with your original home while enhancing functionality and value.",
+        "@type": "Answer",
+        "description": "Consider a whole-home addition when you need more space but want to stay in your current neighborhood. AKN Design Group integrates additions seamlessly, enhancing your home's functionality and value."
+      }
+    }
+  ],
+  "description": "Consider a whole-home addition when you need more space but want to stay in your current neighborhood. AKN Design Group integrates additions seamlessly, enhanci"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-does-akn-design-group-ensure-quality-and-craftsmanship-throughout-a-whole-ho",
+  "name": "How does AKN Design Group ensure quality and craftsmanship throughout a whole-home remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does AKN Design Group ensure quality and craftsmanship throughout a whole-home remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "AKN Design Group ensures quality and craftsmanship throughout every whole-home remodel by adhering to Anthony Nusbaumer's core values of honesty, reliability, and meticulous craftsmanship. With over two decades of experience and more than 10,000 jobs completed, our integrated design-build team maintains strict quality control from material selection to final installation. We provide a single point of coordination, ensuring consistent communication and oversight across all phases of the project. Our commitment is to personalized service and delivering customized solutions that enhance your home's functionality, beauty, and long-term value, refusing to compromise on the integrity of our work.",
+        "@type": "Answer",
+        "description": "AKN Design Group ensures quality and craftsmanship through adherence to core values, over two decades of experience, and a single point of coordination for meticulous oversight from design to installation."
+      }
+    }
+  ],
+  "description": "AKN Design Group ensures quality and craftsmanship through adherence to core values, over two decades of experience, and a single point of coordination for meti"
+}

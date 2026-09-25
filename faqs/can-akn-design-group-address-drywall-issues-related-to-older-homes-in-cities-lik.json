@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/can-akn-design-group-address-drywall-issues-related-to-older-homes-in-cities-lik",
+  "name": "Can AKN Design Group address drywall issues related to older homes in cities like Alameda or Berkeley?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can AKN Design Group address drywall issues related to older homes in cities like Alameda or Berkeley?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, AKN Design Group can address drywall issues related to older homes, including those in established communities like Alameda or Berkeley, as part of a comprehensive renovation. Older homes often present unique challenges, such as plaster walls that need conversion to drywall, or existing drywall that requires careful repair due to age or settling. While our primary service area is the Dallas–Fort Worth metroplex, we have extensive experience integrating modern materials and techniques while respecting historical character in various settings, ensuring solutions that enhance functionality, beauty, and value.",
+        "@type": "Answer",
+        "description": "AKN Design Group can address drywall issues in older homes, including those that may require conversion or careful repair due to age, as part of a comprehensive renovation."
+      }
+    }
+  ],
+  "description": "AKN Design Group can address drywall issues in older homes, including those that may require conversion or careful repair due to age, as part of a comprehensive"
+}

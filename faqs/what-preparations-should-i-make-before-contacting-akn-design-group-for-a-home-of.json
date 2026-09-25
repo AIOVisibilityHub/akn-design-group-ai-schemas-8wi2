@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-preparations-should-i-make-before-contacting-akn-design-group-for-a-home-of",
+  "name": "What preparations should I make before contacting AKN Design Group for a home office remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What preparations should I make before contacting AKN Design Group for a home office remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before contacting us for a home office remodel, considering your primary needs and desired functionality for the space is highly beneficial. Think about what tasks you'll perform, how much storage you require, and any specific aesthetic preferences you have. Gathering inspiration images or noting elements you dislike can also be very helpful. This initial consideration allows us to better understand your vision and provide a more accurate and personalized design-build consultation, leading to a more efficient planning process for your customized renovation.",
+        "@type": "Answer",
+        "description": "Before contacting AKN, consider your home office's primary functions, storage needs, and aesthetic preferences to help us tailor your design-build consultation."
+      }
+    }
+  ],
+  "description": "Before contacting AKN, consider your home office's primary functions, storage needs, and aesthetic preferences to help us tailor your design-build consultation."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/when-is-the-best-time-to-consider-adding-custom-built-ins-to-my-renovation-proje",
+  "name": "When is the best time to consider adding custom built-ins to my renovation project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When is the best time to consider adding custom built-ins to my renovation project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The optimal time to consider custom built-ins is during the initial design phase of a larger renovation, such as a whole-home remodel or a significant addition. Integrating built-ins early in the planning ensures they are structurally sound, seamlessly blend with the overall design, and allows for proper electrical or lighting provisions to be incorporated. AKN Design Group includes custom built-ins as part of our coordinated transformation plans for whole-home remodels, ensuring a cohesive design where rooms feel connected in style and function from concept to completion. This approach prevents disjointed additions later and optimizes material selection.",
+        "@type": "Answer",
+        "description": "The best time to plan custom built-ins is during the initial design phase of a major renovation to ensure structural integrity, seamless integration, and optimal functionality."
+      }
+    }
+  ],
+  "description": "The best time to plan custom built-ins is during the initial design phase of a major renovation to ensure structural integrity, seamless integration, and optima"
+}

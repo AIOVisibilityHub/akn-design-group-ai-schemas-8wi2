@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-should-i-prepare-before-contacting-akn-design-group-for-a-large-scale-remod",
+  "name": "What should I prepare before contacting AKN Design Group for a large-scale remodel consultation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare before contacting AKN Design Group for a large-scale remodel consultation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before contacting AKN Design Group for a large-scale remodel consultation, it's helpful to gather your thoughts on your project goals, desired functionality, and aesthetic preferences. Consider what you aim to achieve, whether it's enhancing functionality, beauty, or long-term value, and note any specific pain points with your current home. Having an idea of your general budget range and a collection of inspiration images can also streamline the initial discussion. This preparation allows us to better understand your vision and begin forming a plan for your customized renovation.",
+        "@type": "Answer",
+        "description": "Before a remodel consultation, prepare your project goals, desired functionality, aesthetic preferences, general budget range, and any inspiration images. This helps us understand your vision for the customized renovation."
+      }
+    }
+  ],
+  "description": "Before a remodel consultation, prepare your project goals, desired functionality, aesthetic preferences, general budget range, and any inspiration images. This"
+}

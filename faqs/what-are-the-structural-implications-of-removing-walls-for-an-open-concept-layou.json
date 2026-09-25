@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-are-the-structural-implications-of-removing-walls-for-an-open-concept-layou",
+  "name": "What are the structural implications of removing walls for an open-concept layout?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the structural implications of removing walls for an open-concept layout?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Removing walls for an open-concept layout often involves significant structural implications, especially if they are load-bearing. This typically requires installing new support beams, headers, and potentially new foundation work to redistribute weight safely. Our design-build expertise ensures that all structural modifications are meticulously planned and engineered, maintaining the integrity and safety of your home. We integrate these complex structural solutions seamlessly into the overall design, ensuring a stable and aesthetically pleasing transformation.",
+        "@type": "Answer",
+        "description": "Removing walls for an open-concept layout often requires new support beams or foundation work for structural integrity. Our design-build team expertly plans and engineers these modifications."
+      }
+    }
+  ],
+  "description": "Removing walls for an open-concept layout often requires new support beams or foundation work for structural integrity. Our design-build team expertly plans and"
+}

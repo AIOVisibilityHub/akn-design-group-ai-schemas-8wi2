@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-permits-are-required-for-home-addition-framing",
+  "name": "What permits are required for home addition framing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits are required for home addition framing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Any significant home addition that involves structural changes or expanding the footprint of your home will require building permits from your local municipality. These permits ensure that the framing, along with other construction aspects, adheres to local building codes, zoning regulations, and safety standards. AKN Design Group handles all aspects of permit coordination, submitting detailed plans and managing inspections throughout the framing process. This ensures compliance and provides peace of mind that your addition is built to exacting standards.",
+        "@type": "Answer",
+        "description": "Home addition framing requires building permits from your local municipality to ensure compliance with codes and zoning. AKN Design Group manages all permit coordination and inspections."
+      }
+    }
+  ],
+  "description": "Home addition framing requires building permits from your local municipality to ensure compliance with codes and zoning. AKN Design Group manages all permit coo"
+}

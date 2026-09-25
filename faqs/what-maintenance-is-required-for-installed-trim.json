@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-maintenance-is-required-for-installed-trim",
+  "name": "What maintenance is required for installed trim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What maintenance is required for installed trim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Properly installed and finished trim requires minimal maintenance. Regular dusting and occasional cleaning with a mild, non-abrasive cleaner are generally sufficient. For painted trim, touch-ups may be needed over time due to wear or minor impacts. We advise homeowners to choose durable, high-quality finishes during the design phase of their project to ensure longevity and preserve the craftsmanship of their residential design-build investment.",
+        "@type": "Answer",
+        "description": "Installed trim requires minimal maintenance like dusting and cleaning. Occasional paint touch-ups may be needed. Choosing durable finishes during the design phase ensures longevity."
+      }
+    }
+  ],
+  "description": "Installed trim requires minimal maintenance like dusting and cleaning. Occasional paint touch-ups may be needed. Choosing durable finishes during the design pha"
+}

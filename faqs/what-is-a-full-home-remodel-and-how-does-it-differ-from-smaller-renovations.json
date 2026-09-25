@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-a-full-home-remodel-and-how-does-it-differ-from-smaller-renovations",
+  "name": "What is a full-home remodel, and how does it differ from smaller renovations?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a full-home remodel, and how does it differ from smaller renovations?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A full-home remodel involves a comprehensive transformation of multiple areas within your home, addressing structural changes, aesthetic updates, and functional improvements across kitchens, bathrooms, living spaces, and potentially additions. Unlike isolated projects, a whole-home remodel by AKN Design Group provides a coordinated approach, ensuring consistent style, optimized flow, and integrated systems throughout the entire residence. This unified strategy is designed to enhance functionality, beauty, and long-term value, preventing piecemeal upgrades that can lead to disjointed results and unforeseen complications.",
+        "@type": "Answer",
+        "description": "A full-home remodel is a comprehensive transformation of multiple areas, differing from smaller renovations by offering a coordinated design-build process for consistent style and integrated systems throughout the entire residence."
+      }
+    }
+  ],
+  "description": "A full-home remodel is a comprehensive transformation of multiple areas, differing from smaller renovations by offering a coordinated design-build process for c"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-kind-of-cost-considerations-should-i-prepare-for-with-a-whole-home-renovati",
+  "name": "What kind of cost considerations should I prepare for with a whole-home renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of cost considerations should I prepare for with a whole-home renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For a whole-home renovation, clients should prepare for a significant investment that reflects the scope of work, quality of materials, and customization involved. We specialize in high-value renovations that emphasize craftsmanship and customized solutions, rather than basic or low-cost options. Costs will encompass design, demolition, structural work, high-end finishes for kitchens and luxury bathrooms, new flooring, lighting, custom built-ins, and permit coordination. AKN Design Group provides upfront estimates and explores value engineering options where appropriate to ensure your investment aligns with your vision and enhances your home's long-term value.",
+        "@type": "Answer",
+        "description": "Prepare for a significant investment in a whole-home renovation, covering design, structural work, high-end finishes, and customization, with AKN Design Group providing upfront estimates and value engineering options."
+      }
+    }
+  ],
+  "description": "Prepare for a significant investment in a whole-home renovation, covering design, structural work, high-end finishes, and customization, with AKN Design Group p"
+}

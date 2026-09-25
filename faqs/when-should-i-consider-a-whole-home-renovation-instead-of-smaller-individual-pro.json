@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/when-should-i-consider-a-whole-home-renovation-instead-of-smaller-individual-pro",
+  "name": "When should I consider a whole-home renovation instead of smaller, individual projects?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider a whole-home renovation instead of smaller, individual projects?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider a whole-home renovation when your current residence has inconsistent finishes, inefficient room flow, dated kitchens and bathrooms, or a layout that no longer serves your household's lifestyle. If you're looking for a cohesive aesthetic and improved functionality throughout your entire home, a coordinated transformation makes more sense than piecemeal upgrades. Opting for a whole-home approach allows for better integration of systems, materials, and design elements, often leading to a more impactful and value-enhancing outcome. This also prevents the disruption of multiple renovation phases over time.",
+        "@type": "Answer",
+        "description": "Consider a whole-home renovation when your home has inconsistent finishes, inefficient flow, or dated areas, and you desire a cohesive, integrated transformation rather than disjointed individual projects."
+      }
+    }
+  ],
+  "description": "Consider a whole-home renovation when your home has inconsistent finishes, inefficient flow, or dated areas, and you desire a cohesive, integrated transformatio"
+}

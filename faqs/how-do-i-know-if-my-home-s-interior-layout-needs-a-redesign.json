@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-do-i-know-if-my-home-s-interior-layout-needs-a-redesign",
+  "name": "How do I know if my home's interior layout needs a redesign?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if my home's interior layout needs a redesign?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You might consider an interior layout redesign if your current space feels cramped, lacks functionality, or doesn't support your lifestyle. Common indicators include a disconnected kitchen, underutilized rooms, poor traffic flow, or a desire for more open-concept living. AKN Design Group specializes in identifying these challenges during our initial consultation, helping you envision how a redesigned layout can enhance your home's beauty and value, creating spaces that align with your family's needs.",
+        "@type": "Answer",
+        "description": "Consider a redesign if your home feels cramped, lacks functionality, has poor traffic flow, or doesn't support your lifestyle; a consultation can help identify needs."
+      }
+    }
+  ],
+  "description": "Consider a redesign if your home feels cramped, lacks functionality, has poor traffic flow, or doesn't support your lifestyle; a consultation can help identify"
+}

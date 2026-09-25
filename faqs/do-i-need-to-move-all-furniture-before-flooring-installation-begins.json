@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/do-i-need-to-move-all-furniture-before-flooring-installation-begins",
+  "name": "Do I need to move all furniture before flooring installation begins?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to move all furniture before flooring installation begins?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, homeowners should plan to clear the entire area of furniture, personal belongings, and any decor before flooring installation begins. This preparation is essential for our team to access the space efficiently, perform necessary subfloor work, and ensure a precise and unhindered installation. While AKN Design Group coordinates comprehensive renovations, the organized removal of personal items allows our craftsmen to focus on delivering high-quality results without interruption, contributing to a smoother and more efficient project timeline.",
+        "@type": "Answer",
+        "description": "Yes, all furniture and personal belongings must be moved from the area before flooring installation to allow for efficient and precise work."
+      }
+    }
+  ],
+  "description": "Yes, all furniture and personal belongings must be moved from the area before flooring installation to allow for efficient and precise work."
+}

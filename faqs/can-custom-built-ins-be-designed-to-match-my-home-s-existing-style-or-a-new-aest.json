@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/can-custom-built-ins-be-designed-to-match-my-home-s-existing-style-or-a-new-aest",
+  "name": "Can custom built-ins be designed to match my home's existing style or a new aesthetic?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can custom built-ins be designed to match my home's existing style or a new aesthetic?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Absolutely. Custom built-ins are specifically designed to either complement your home's existing architectural style and finishes or to seamlessly integrate with a new aesthetic established during a whole-home remodel. Our design team focuses on material selection, trim profiles, paint colors, and hardware to ensure the built-ins appear as an original, cohesive part of the structure. For example, in a whole-home remodel, we ensure that new custom cabinetry, such as built-ins, aligns perfectly with updated kitchen or bathroom designs, creating a unified flow throughout your residence. We believe in customized solutions that enhance overall home beauty.",
+        "@type": "Answer",
+        "description": "Yes, custom built-ins can be designed to match your home's existing style or integrate seamlessly with a new aesthetic developed during a major renovation, ensuring a cohesive look."
+      }
+    }
+  ],
+  "description": "Yes, custom built-ins can be designed to match your home's existing style or integrate seamlessly with a new aesthetic developed during a major renovation, ensu"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/can-an-interior-layout-redesign-incorporate-smart-home-features",
+  "name": "Can an interior layout redesign incorporate smart home features?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can an interior layout redesign incorporate smart home features?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, an interior layout redesign is an ideal opportunity to integrate smart home features that enhance convenience, efficiency, and security. As part of our comprehensive renovation planning, AKN Design Group can incorporate updated electrical systems, pre-wiring for integrated lighting, climate control, security systems, and entertainment technologies. Our goal is to create a modern, functional living space that not only looks exceptional but also performs efficiently, aligning with contemporary lifestyle needs and future-proofing your home.",
+        "@type": "Answer",
+        "description": "Yes, an interior layout redesign can integrate smart home features like updated electrical, pre-wiring for lighting, climate control, and security to enhance convenience and efficiency."
+      }
+    }
+  ],
+  "description": "Yes, an interior layout redesign can integrate smart home features like updated electrical, pre-wiring for lighting, climate control, and security to enhance co"
+}

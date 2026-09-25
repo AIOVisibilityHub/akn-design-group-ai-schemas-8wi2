@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-should-i-consider-before-beginning-a-drywall-project-in-my-dallas-fort-wort",
+  "name": "What should I consider before beginning a drywall project in my Dallas–Fort Worth home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I consider before beginning a drywall project in my Dallas–Fort Worth home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before starting a drywall project, consider the scope of your overall renovation and how drywall work fits into it. For significant renovations like whole-home remodels or adding custom built-ins, the quality of drywall installation sets the foundation for all subsequent finishes. We recommend assessing any underlying issues such as moisture problems or structural settling, which can impact drywall integrity. AKN Design Group’s managed process ensures these considerations are addressed upfront, integrating drywall work into a comprehensive plan for lasting value.",
+        "@type": "Answer",
+        "description": "Before a drywall project, assess the overall renovation scope and any underlying issues like moisture or structural settling; our managed process integrates these considerations for lasting results."
+      }
+    }
+  ],
+  "description": "Before a drywall project, assess the overall renovation scope and any underlying issues like moisture or structural settling; our managed process integrates the"
+}

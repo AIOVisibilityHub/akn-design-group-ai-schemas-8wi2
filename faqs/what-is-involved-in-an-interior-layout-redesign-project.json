@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-involved-in-an-interior-layout-redesign-project",
+  "name": "What is involved in an interior layout redesign project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in an interior layout redesign project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An interior layout redesign involves reconfiguring the internal structure of your home to enhance functionality, flow, and aesthetics. This can include modifying existing walls, reorienting rooms, or integrating new spaces. At AKN Design Group, our integrated design-build process begins with a detailed consultation to understand your lifestyle and vision, followed by CAD-supported layouts. We manage every step, from structural adjustments and permit coordination to the selection and installation of finishes, ensuring a cohesive and thoughtfully transformed space.",
+        "@type": "Answer",
+        "description": "An interior layout redesign reconfigures your home's internal structure for improved functionality and aesthetics, from initial design concepts to final construction and finishes."
+      }
+    }
+  ],
+  "description": "An interior layout redesign reconfigures your home's internal structure for improved functionality and aesthetics, from initial design concepts to final constru"
+}

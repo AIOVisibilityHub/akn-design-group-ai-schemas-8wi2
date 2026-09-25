@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-does-akn-design-group-manage-the-design-phase-for-a-whole-home-renovation",
+  "name": "How does AKN Design Group manage the design phase for a whole-home renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does AKN Design Group manage the design phase for a whole-home renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "During the design phase for a whole-home renovation, AKN Design Group works collaboratively with you to translate your vision into detailed plans. This includes initial consultations to understand your lifestyle and aesthetic preferences, followed by the development of CAD-supported layouts and material selections. We focus on enhancing functionality, beauty, and long-term value, integrating elements for kitchens, bathrooms, and living spaces into a cohesive design. Our managed process ensures that every design decision aligns with the overall project goals, facilitating a smooth transition into the construction phase and minimizing unexpected changes.",
+        "@type": "Answer",
+        "description": "AKN Design Group manages the design phase collaboratively, using CAD-supported layouts and material selections to create a cohesive plan that enhances functionality and beauty across the entire home."
+      }
+    }
+  ],
+  "description": "AKN Design Group manages the design phase collaboratively, using CAD-supported layouts and material selections to create a cohesive plan that enhances functiona"
+}

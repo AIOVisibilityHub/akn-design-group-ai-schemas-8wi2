@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-should-i-prepare-or-consider-before-discussing-finish-carpentry-details-wit",
+  "name": "What should I prepare or consider before discussing finish carpentry details with AKN Design Group?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare or consider before discussing finish carpentry details with AKN Design Group?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before discussing finish carpentry details, consider collecting inspiration images of trim styles, door types, or built-in designs that appeal to you. Think about the functionality you need from custom elements, such as specific storage requirements or display purposes. It's helpful to understand the architectural style you wish to achieve or maintain throughout your home. This preparation helps our design-build team understand your vision and preferences, allowing us to present relevant options and integrate these details seamlessly into your comprehensive renovation plan. We prioritize clear communication to ensure your expectations are met.",
+        "@type": "Answer",
+        "description": "Gather inspiration images, consider functional needs for custom elements, and think about your desired architectural style before discussing finish carpentry details with us."
+      }
+    }
+  ],
+  "description": "Gather inspiration images, consider functional needs for custom elements, and think about your desired architectural style before discussing finish carpentry de"
+}

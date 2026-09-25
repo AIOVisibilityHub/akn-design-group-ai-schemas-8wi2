@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-preparation-is-needed-before-starting-an-interior-renovation-project",
+  "name": "What preparation is needed before starting an interior renovation project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What preparation is needed before starting an interior renovation project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before commencing an interior renovation, homeowners should gather inspiration, define their functional needs for the space, and establish a realistic budget. It is helpful to consider your long-term goals for your home, including lifestyle changes and desired aesthetic. During our initial consultation, we discuss these aspects to align your vision with our design and construction capabilities. Having a clear understanding of your priorities will enable AKN Design Group to develop a customized plan that effectively enhances functionality, beauty, and long-term value.",
+        "@type": "Answer",
+        "description": "Prior to renovation, gather inspiration, define functional needs, and establish a budget. A clear understanding of your goals helps us customize your project."
+      }
+    }
+  ],
+  "description": "Prior to renovation, gather inspiration, define functional needs, and establish a budget. A clear understanding of your goals helps us customize your project."
+}

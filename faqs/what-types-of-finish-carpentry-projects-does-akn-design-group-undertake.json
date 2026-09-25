@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-types-of-finish-carpentry-projects-does-akn-design-group-undertake",
+  "name": "What types of finish carpentry projects does AKN Design Group undertake?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of finish carpentry projects does AKN Design Group undertake?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "AKN Design Group focuses on finish carpentry as an integral component of customized renovations, not as standalone, piecemeal repairs. This includes installing detailed crown molding, baseboards, door and window casings, custom built-in shelving, cabinetry, and fireplace surrounds within larger projects like kitchen remodels, bathroom transformations, or whole-home renovations. Our approach is to ensure these elements enhance the overall aesthetic and functionality of your newly designed space, reflecting the craftsmanship and attention to detail inherent in our managed process. We coordinate all aspects of the installation for a cohesive result.",
+        "@type": "Answer",
+        "description": "AKN Design Group integrates finish carpentry, such as custom built-ins, moldings, and trim, into larger customized renovation projects like kitchen or whole-home remodels to ensure aesthetic coherence."
+      }
+    }
+  ],
+  "description": "AKN Design Group integrates finish carpentry, such as custom built-ins, moldings, and trim, into larger customized renovation projects like kitchen or whole-hom"
+}

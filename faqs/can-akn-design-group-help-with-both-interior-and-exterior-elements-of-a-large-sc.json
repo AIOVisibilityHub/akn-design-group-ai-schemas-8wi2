@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/can-akn-design-group-help-with-both-interior-and-exterior-elements-of-a-large-sc",
+  "name": "Can AKN Design Group help with both interior and exterior elements of a large-scale remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can AKN Design Group help with both interior and exterior elements of a large-scale remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, AKN Design Group specializes in coordinating both interior and exterior elements as part of a comprehensive large-scale remodel. Our expertise extends to high-end outdoor living spaces, such as custom patios and outdoor kitchens, seamlessly integrating them with interior renovations like luxury kitchens or whole-home transformations. This integrated design-build approach ensures a cohesive vision across your entire property, enhancing functionality, beauty, and long-term value. We manage everything from foundation work and structural integration to interior finishes and exterior tie-ins, providing a single point of coordination for a unified outcome.",
+        "@type": "Answer",
+        "description": "Yes, AKN Design Group coordinates both interior and exterior elements in large-scale remodels, including high-end outdoor living spaces. Our integrated design-build approach ensures a cohesive vision and unified outcome for your entire property."
+      }
+    }
+  ],
+  "description": "Yes, AKN Design Group coordinates both interior and exterior elements in large-scale remodels, including high-end outdoor living spaces. Our integrated design-b"
+}

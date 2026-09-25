@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/can-i-integrate-new-trim-with-existing-trim-during-a-remodel",
+  "name": "Can I integrate new trim with existing trim during a remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I integrate new trim with existing trim during a remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Integrating new trim with existing trim is possible, but it requires careful consideration to ensure a seamless transition and consistent aesthetic. Factors like wood species, profile matching, and paint or stain finishes must be meticulously coordinated. AKN Design Group's expertise in whole-home remodels includes finish carpentry, where we focus on achieving a cohesive look across all elements, whether blending new with old or installing entirely new trim throughout your property.",
+        "@type": "Answer",
+        "description": "Integrating new and existing trim requires careful matching of profiles, wood species, and finishes. AKN Design Group's finish carpentry expertise ensures a cohesive look during remodels."
+      }
+    }
+  ],
+  "description": "Integrating new and existing trim requires careful matching of profiles, wood species, and finishes. AKN Design Group's finish carpentry expertise ensures a coh"
+}

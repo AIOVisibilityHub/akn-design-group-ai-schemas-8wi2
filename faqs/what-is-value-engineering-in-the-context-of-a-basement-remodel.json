@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-value-engineering-in-the-context-of-a-basement-remodel",
+  "name": "What is value engineering in the context of a basement remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is value engineering in the context of a basement remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Value engineering in a basement remodel is a proactive process where we analyze design choices and material selections to optimize cost without compromising quality, functionality, or the intended aesthetic. This involves evaluating alternative solutions, materials, or construction methods that achieve the desired outcome more efficiently. Our goal is to ensure your project remains within budget while delivering the craftsmanship and lasting impressions you expect.",
+        "@type": "Answer",
+        "description": "Value engineering analyzes design choices and materials to optimize cost without compromising quality or functionality, ensuring your project stays within budget."
+      }
+    }
+  ],
+  "description": "Value engineering analyzes design choices and materials to optimize cost without compromising quality or functionality, ensuring your project stays within budge"
+}

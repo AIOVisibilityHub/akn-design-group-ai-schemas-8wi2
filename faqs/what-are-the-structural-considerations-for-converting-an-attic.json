@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-are-the-structural-considerations-for-converting-an-attic",
+  "name": "What are the structural considerations for converting an attic?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the structural considerations for converting an attic?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Structural considerations are paramount for an attic conversion, primarily focusing on the existing floor joists' ability to support a liveable load and adequate head height. Many attics are not built with sufficient support for living spaces, requiring reinforcement or new framing. AKN Design Group's integrated design-build approach includes a thorough assessment of your home's structural integrity and engineering requirements, ensuring a safe and lasting transformation that enhances functionality and value.",
+        "@type": "Answer",
+        "description": "Structural considerations mainly involve ensuring floor joists can support live loads and verifying adequate head height for a safe, code-compliant living space."
+      }
+    }
+  ],
+  "description": "Structural considerations mainly involve ensuring floor joists can support live loads and verifying adequate head height for a safe, code-compliant living space"
+}

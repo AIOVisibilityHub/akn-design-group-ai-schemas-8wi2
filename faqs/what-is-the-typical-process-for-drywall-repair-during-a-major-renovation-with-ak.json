@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-the-typical-process-for-drywall-repair-during-a-major-renovation-with-ak",
+  "name": "What is the typical process for drywall repair during a major renovation with AKN Design Group?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for drywall repair during a major renovation with AKN Design Group?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When performing drywall repair during a major renovation, our process begins with a thorough assessment of the damage and its root cause. We then carefully remove affected sections, addressing any underlying issues before installing new drywall panels. This is followed by expert taping, mudding, and sanding to achieve a perfectly smooth, seamless surface ready for priming and painting. Our integrated design-build approach ensures these repairs are coordinated with all other renovation phases, delivering a consistent, high-quality finish across your entire project.",
+        "@type": "Answer",
+        "description": "Our drywall repair process in a major renovation involves assessing damage, removing affected sections, installing new drywall, and expert finishing for a seamless surface, all coordinated within the overall project."
+      }
+    }
+  ],
+  "description": "Our drywall repair process in a major renovation involves assessing damage, removing affected sections, installing new drywall, and expert finishing for a seaml"
+}

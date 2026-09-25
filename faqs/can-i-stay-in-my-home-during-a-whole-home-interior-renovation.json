@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/can-i-stay-in-my-home-during-a-whole-home-interior-renovation",
+  "name": "Can I stay in my home during a whole-home interior renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I stay in my home during a whole-home interior renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether you can remain in your home during a whole-home interior renovation depends heavily on the project's scope and the areas being renovated. If the work involves essential services like plumbing, electricity, or extensive structural changes in critical living areas (kitchens, primary bathrooms), it might be more comfortable and safer to arrange temporary accommodation. AKN Design Group will discuss these considerations with you during the planning phase, offering insights into potential disruptions and helping you make an informed decision that balances project efficiency with your family's comfort and safety. We strive to minimize inconvenience while maintaining craftsmanship.",
+        "@type": "Answer",
+        "description": "Staying home during a whole-home renovation depends on the project's scope, especially if essential services or critical living areas are affected. We'll discuss options to balance comfort and efficiency."
+      }
+    }
+  ],
+  "description": "Staying home during a whole-home renovation depends on the project's scope, especially if essential services or critical living areas are affected. We'll discus"
+}

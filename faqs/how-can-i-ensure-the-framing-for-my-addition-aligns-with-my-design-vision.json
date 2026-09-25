@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-can-i-ensure-the-framing-for-my-addition-aligns-with-my-design-vision",
+  "name": "How can I ensure the framing for my addition aligns with my design vision?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I ensure the framing for my addition aligns with my design vision?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Ensuring the framing aligns with your design vision begins with a detailed and collaborative design phase. AKN Design Group uses CAD-supported layouts to translate your vision into precise architectural plans. During framing, these plans serve as the blueprint, dictating the exact placement of walls, windows, and doors. Regular site visits and communication between our team and you are crucial to confirm that the physical structure accurately reflects the approved design. Our integrated design-build approach minimizes discrepancies, guaranteeing your vision is executed reliably.",
+        "@type": "Answer",
+        "description": "Aligning framing with your design vision starts with detailed CAD-supported plans and regular communication. AKN Design Group's integrated design-build process ensures the physical structure precisely reflects the approved design."
+      }
+    }
+  ],
+  "description": "Aligning framing with your design vision starts with detailed CAD-supported plans and regular communication. AKN Design Group's integrated design-build process"
+}

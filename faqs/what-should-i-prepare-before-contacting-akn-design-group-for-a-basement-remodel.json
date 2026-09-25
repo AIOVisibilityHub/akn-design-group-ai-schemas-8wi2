@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-should-i-prepare-before-contacting-akn-design-group-for-a-basement-remodel",
+  "name": "What should I prepare before contacting AKN Design Group for a basement remodel consultation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare before contacting AKN Design Group for a basement remodel consultation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To make the most of your initial consultation, consider outlining your functional needs, aesthetic preferences, and any specific features you envision for your remodeled basement. Gathering inspiration photos, a general idea of your desired budget range, and understanding existing structural elements (like support beams or utility access) can greatly assist our design team. This preparation helps us understand your unique lifestyle and develop a customized renovation plan.",
+        "@type": "Answer",
+        "description": "Before consultation, prepare your functional needs, aesthetic preferences, desired features, and budget, with inspiration photos and any structural information."
+      }
+    }
+  ],
+  "description": "Before consultation, prepare your functional needs, aesthetic preferences, desired features, and budget, with inspiration photos and any structural information."
+}

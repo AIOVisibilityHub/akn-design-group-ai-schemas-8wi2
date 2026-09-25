@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-should-i-consider-before-selecting-new-flooring-for-a-home-addition",
+  "name": "What should I consider before selecting new flooring for a home addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I consider before selecting new flooring for a home addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selecting new flooring for a home addition, it is crucial to consider how the new space will integrate with the existing home's aesthetic and functional needs. Factors include durability, traffic patterns, and material compatibility with adjacent rooms. We also advise homeowners to gather information about their current flooring materials and subfloor conditions to help us recommend options that ensure a seamless transition and consistent elevation. AKN Design Group will guide you through options that enhance functionality and beauty while ensuring a cohesive visual flow throughout your expanded living space.",
+        "@type": "Answer",
+        "description": "Before selecting flooring for a home addition, consider integration with existing aesthetics, durability, traffic, and material compatibility, preparing information on current flooring."
+      }
+    }
+  ],
+  "description": "Before selecting flooring for a home addition, consider integration with existing aesthetics, durability, traffic, and material compatibility, preparing informa"
+}

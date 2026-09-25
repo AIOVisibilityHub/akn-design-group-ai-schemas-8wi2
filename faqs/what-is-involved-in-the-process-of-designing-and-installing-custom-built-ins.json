@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-involved-in-the-process-of-designing-and-installing-custom-built-ins",
+  "name": "What is involved in the process of designing and installing custom built-ins?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in the process of designing and installing custom built-ins?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process of designing and installing custom built-ins with AKN Design Group begins with a detailed design consultation to understand your functional needs and aesthetic preferences. We then develop CAD-supported layouts that integrate the built-ins seamlessly into your space, considering factors like material selection, finishes, and hardware. Following design approval, our team manages the construction and installation, ensuring precise measurements and expert craftsmanship. This integrated design-build approach ensures that the finished built-ins perfectly complement your home's style and provide tailored storage or display solutions, contributing to the managed process we provide.",
+        "@type": "Answer",
+        "description": "Designing custom built-ins involves an initial consultation, CAD-supported design, material selection, and expert installation, all managed by AKN Design Group for seamless integration and craftsmanship."
+      }
+    }
+  ],
+  "description": "Designing custom built-ins involves an initial consultation, CAD-supported design, material selection, and expert installation, all managed by AKN Design Group"
+}

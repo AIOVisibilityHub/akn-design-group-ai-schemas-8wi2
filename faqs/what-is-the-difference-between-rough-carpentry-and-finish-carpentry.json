@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-the-difference-between-rough-carpentry-and-finish-carpentry",
+  "name": "What is the difference between rough carpentry and finish carpentry?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between rough carpentry and finish carpentry?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Rough carpentry involves the structural framework of a building, such as framing walls, roofs, and floors, which are typically hidden once construction is complete. It forms the skeleton of your home. Finish carpentry, in contrast, involves the visible, decorative, and functional elements applied after the structural work, drywall, and painting are done. This includes installing trim, moldings, doors, and built-ins. AKN Design Group, as a design-build firm, oversees both rough and finish carpentry stages, ensuring seamless coordination from the foundational structure to the final aesthetic details, all under a single point of coordination.",
+        "@type": "Answer",
+        "description": "Rough carpentry is the hidden structural framework, while finish carpentry involves the visible, decorative elements like trim, doors, and built-ins."
+      }
+    }
+  ],
+  "description": "Rough carpentry is the hidden structural framework, while finish carpentry involves the visible, decorative elements like trim, doors, and built-ins."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-akn-design-group-s-approach-to-integrating-new-additions-with-the-existi",
+  "name": "What is AKN Design Group's approach to integrating new additions with the existing home during a whole-home renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is AKN Design Group's approach to integrating new additions with the existing home during a whole-home renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When a whole-home renovation includes an addition, AKN Design Group's approach focuses on seamless integration to ensure the new space visually and structurally harmonizes with the original home. We meticulously plan and execute the foundation, framing, roofline integration, window and door installation, and exterior finish matching. Our design-build model ensures that the architectural style, material choices, and interior finishes of the addition complement and enhance the existing structure. This results in a cohesive home that feels like a single, unified design rather than a tacked-on extension.",
+        "@type": "Answer",
+        "description": "AKN Design Group seamlessly integrates new additions by meticulously planning foundation, framing, roofline, and exterior finish matching to ensure visual and structural harmony with the original home."
+      }
+    }
+  ],
+  "description": "AKN Design Group seamlessly integrates new additions by meticulously planning foundation, framing, roofline, and exterior finish matching to ensure visual and s"
+}

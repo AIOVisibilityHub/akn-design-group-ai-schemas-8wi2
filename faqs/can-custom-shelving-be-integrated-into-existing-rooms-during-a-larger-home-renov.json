@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/can-custom-shelving-be-integrated-into-existing-rooms-during-a-larger-home-renov",
+  "name": "Can custom shelving be integrated into existing rooms during a larger home renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can custom shelving be integrated into existing rooms during a larger home renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, custom shelving is frequently integrated as a key component of larger renovation projects, such as kitchen remodels, whole-home renovations, or home additions. When planning a significant renovation, including custom shelving from the outset allows for a cohesive design and efficient installation. This approach, which we manage from design through construction, ensures that new storage solutions blend seamlessly with other updated elements, enhancing both functionality and aesthetic continuity across your transformed space.",
+        "@type": "Answer",
+        "description": "Custom shelving can be integrated into larger renovations like kitchen or whole-home remodels, ensuring a cohesive design and efficient installation as part of our managed process."
+      }
+    }
+  ],
+  "description": "Custom shelving can be integrated into larger renovations like kitchen or whole-home remodels, ensuring a cohesive design and efficient installation as part of"
+}

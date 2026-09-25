@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-long-does-the-framing-process-typically-take-for-a-residential-addition",
+  "name": "How long does the framing process typically take for a residential addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does the framing process typically take for a residential addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of the framing process for a residential addition varies based on the size and complexity of the project. Smaller additions might see framing completed in a few weeks, while larger, multi-story expansions could take significantly longer. Factors like weather conditions and the need for specialized structural components also influence the timeline. AKN Design Group provides a transparent project schedule during the planning phase, integrating framing into the overall managed process, ensuring clear communication about anticipated timelines from concept to completion.",
+        "@type": "Answer",
+        "description": "Framing duration varies by addition size and complexity, typically taking a few weeks to longer for larger projects. AKN Design Group provides a transparent schedule, integrating framing into the overall project timeline."
+      }
+    }
+  ],
+  "description": "Framing duration varies by addition size and complexity, typically taking a few weeks to longer for larger projects. AKN Design Group provides a transparent sch"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-should-i-prepare-or-consider-before-discussing-finish-carpentry-for-my-reno",
+  "name": "What should I prepare or consider before discussing finish carpentry for my renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare or consider before discussing finish carpentry for my renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before discussing finish carpentry for your renovation, consider the specific areas you wish to enhance and the functional needs you have, such as storage or display space for built-ins. Gathering inspiration images of trim styles, paneling, or custom features you admire can be very helpful. Also, think about the overall aesthetic you envision for your home—whether traditional, modern, or transitional. This preparation allows AKN Design Group to better understand your preferences and integrate finish carpentry solutions that truly enhance functionality, beauty, and value, beginning with our initial consultation.",
+        "@type": "Answer",
+        "description": "Before discussing finish carpentry, consider areas for enhancement, functional needs, and gather inspiration images of styles you prefer to guide the design process effectively."
+      }
+    }
+  ],
+  "description": "Before discussing finish carpentry, consider areas for enhancement, functional needs, and gather inspiration images of styles you prefer to guide the design pro"
+}

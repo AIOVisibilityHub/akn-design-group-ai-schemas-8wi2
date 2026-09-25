@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-long-does-a-typical-dining-room-remodeling-project-take",
+  "name": "How long does a typical dining room remodeling project take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical dining room remodeling project take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a dining room remodeling project varies based on the scope of work, material selections, and any structural modifications required. While minor cosmetic updates might take a few weeks, a comprehensive renovation involving layout changes or custom built-ins could extend to several months. AKN Design Group provides a transparent project timeline upfront, managing expectations and coordinating all trades to ensure efficiency. Our integrated design-build process is designed to streamline the project and minimize delays.",
+        "@type": "Answer",
+        "description": "Dining room remodel timelines vary from weeks for minor updates to several months for comprehensive renovations, depending on scope and complexity."
+      }
+    }
+  ],
+  "description": "Dining room remodel timelines vary from weeks for minor updates to several months for comprehensive renovations, depending on scope and complexity."
+}

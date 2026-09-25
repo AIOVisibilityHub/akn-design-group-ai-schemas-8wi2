@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-does-akn-design-group-ensure-quality-and-craftsmanship-in-large-scale-remode",
+  "name": "How does AKN Design Group ensure quality and craftsmanship in large-scale remodels?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does AKN Design Group ensure quality and craftsmanship in large-scale remodels?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "AKN Design Group ensures quality and craftsmanship through our integrated design-build process and unwavering commitment to core values. With over two decades of experience and more than 10,000 jobs completed, our team manages every phase, from detailed CAD-supported layouts to construction and final finishes. Anthony Nusbaumer's leadership emphasizes honesty, reliability, and craftsmanship, which are foundational to every project. This approach provides a single, accountable team dedicated to delivering customized renovations that reflect our high standards, building trust and lasting impressions with every homeowner.",
+        "@type": "Answer",
+        "description": "AKN Design Group ensures quality through an integrated design-build process and core values like honesty and craftsmanship. Our experienced team manages every phase, providing a single accountable point for high-standard customized renovations."
+      }
+    }
+  ],
+  "description": "AKN Design Group ensures quality through an integrated design-build process and core values like honesty and craftsmanship. Our experienced team manages every p"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-long-does-an-open-concept-remodel-typically-take-from-design-to-completion",
+  "name": "How long does an open-concept remodel typically take from design to completion?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does an open-concept remodel typically take from design to completion?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for an open-concept remodel varies significantly based on the project's scope, structural changes required, and material selections. A typical project might range from 3 to 6 months after the design phase is finalized and permits are secured. We prioritize clear communication and provide scheduling transparency throughout the managed process. Factors like the age of the home and any unexpected structural findings during demolition can also influence the overall duration, making an integrated design-build approach beneficial for efficient problem-solving.",
+        "@type": "Answer",
+        "description": "Open-concept remodels typically take 3 to 6 months after design and permitting, depending on scope and structural changes. Transparency and clear communication are priorities throughout the process."
+      }
+    }
+  ],
+  "description": "Open-concept remodels typically take 3 to 6 months after design and permitting, depending on scope and structural changes. Transparency and clear communication"
+}

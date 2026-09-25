@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-the-typical-cost-range-for-an-open-concept-kitchen-and-living-area-remod",
+  "name": "What is the typical cost range for an open-concept kitchen and living area remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost range for an open-concept kitchen and living area remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of an open-concept remodel for a kitchen and living area is highly variable, depending on factors such as the extent of wall removal, structural modifications, new flooring, custom cabinetry, appliance upgrades, and luxury finishes. While we focus on customized solutions that enhance long-term value, we emphasize value engineering within our comprehensive service. An initial consultation helps us understand your vision and provide a detailed, upfront estimate, ensuring transparency and alignment with your project goals.",
+        "@type": "Answer",
+        "description": "Costs for open-concept kitchen and living area remodels vary based on structural changes, materials, and finishes. We provide detailed estimates after understanding your project vision."
+      }
+    }
+  ],
+  "description": "Costs for open-concept kitchen and living area remodels vary based on structural changes, materials, and finishes. We provide detailed estimates after understan"
+}

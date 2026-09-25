@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-are-the-common-materials-used-for-framing-a-home-addition",
+  "name": "What are the common materials used for framing a home addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common materials used for framing a home addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The most common materials for framing a home addition are dimensional lumber (typically spruce, pine, or fir) and engineered wood products like LVL (laminated veneer lumber) or I-joists. Dimensional lumber is cost-effective and widely available, suitable for many standard applications. Engineered wood provides greater strength and stability for longer spans or heavier loads, often reducing the need for interior support columns. The choice of material impacts structural integrity, span capabilities, and long-term performance, making material selection a critical design decision.",
+        "@type": "Answer",
+        "description": "Common framing materials include dimensional lumber for standard use and engineered wood products for greater strength and longer spans. Material choice impacts structural integrity and performance."
+      }
+    }
+  ],
+  "description": "Common framing materials include dimensional lumber for standard use and engineered wood products for greater strength and longer spans. Material choice impacts"
+}

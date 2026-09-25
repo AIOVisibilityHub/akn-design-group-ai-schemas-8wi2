@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-does-interior-finish-carpentry-encompass-in-a-residential-renovation",
+  "name": "What does interior finish carpentry encompass in a residential renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What does interior finish carpentry encompass in a residential renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Interior finish carpentry focuses on the aesthetic and functional elements that define the interior of your home, after the main construction is complete. This includes installing baseboards, crown molding, door and window casings, wainscoting, custom built-ins, and other decorative trim. These details contribute significantly to the overall architectural style and perceived quality of a space. As part of a larger residential design-build project, we ensure these elements are thoughtfully integrated into the overall design plan, enhancing functionality, beauty, and value. Our craftsmanship ensures seamless transitions and a cohesive look throughout your home.",
+        "@type": "Answer",
+        "description": "Interior finish carpentry involves installing decorative and functional elements like trim, moldings, and built-ins to define your home's aesthetic."
+      }
+    }
+  ],
+  "description": "Interior finish carpentry involves installing decorative and functional elements like trim, moldings, and built-ins to define your home's aesthetic."
+}

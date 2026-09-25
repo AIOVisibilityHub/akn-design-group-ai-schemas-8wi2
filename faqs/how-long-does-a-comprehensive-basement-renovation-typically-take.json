@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-long-does-a-comprehensive-basement-renovation-typically-take",
+  "name": "How long does a comprehensive basement renovation typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a comprehensive basement renovation typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for a comprehensive basement renovation varies based on the project's scale, design complexity, and necessary permitting. Projects involving significant structural changes, new plumbing, or electrical systems will naturally require more time than cosmetic updates. We prioritize clear communication, providing transparent scheduling and milestone updates from design planning through construction and final walkthrough to keep you informed.",
+        "@type": "Answer",
+        "description": "Comprehensive basement renovations vary in length depending on scale, design complexity, and permitting, with clear communication on scheduling."
+      }
+    }
+  ],
+  "description": "Comprehensive basement renovations vary in length depending on scale, design complexity, and permitting, with clear communication on scheduling."
+}

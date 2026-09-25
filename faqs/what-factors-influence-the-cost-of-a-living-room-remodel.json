@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-factors-influence-the-cost-of-a-living-room-remodel",
+  "name": "What factors influence the cost of a living room remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of a living room remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a living room remodel is influenced by several key factors, including the project's scope, the quality of materials selected, and the complexity of any custom features. For instance, incorporating custom built-ins, elaborate millwork, or high-end flooring will increase costs compared to simpler updates. Value engineering is a critical component of our process; we work to balance your design aspirations with your budget, ensuring optimal material and design choices that enhance functionality, beauty, and value. Our upfront estimates provide a transparent understanding of the investment required.",
+        "@type": "Answer",
+        "description": "Living room remodel costs depend on project scope, material quality, and custom features like built-ins. We use value engineering to balance design aspirations with your budget."
+      }
+    }
+  ],
+  "description": "Living room remodel costs depend on project scope, material quality, and custom features like built-ins. We use value engineering to balance design aspirations"
+}

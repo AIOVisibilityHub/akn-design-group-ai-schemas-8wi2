@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-the-typical-cost-range-for-custom-shelving",
+  "name": "What is the typical cost range for custom shelving?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost range for custom shelving?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of custom shelving varies widely based on factors such as materials chosen, complexity of the design, overall size, and any integrated features like lighting or special hardware. Projects range from modest built-in units to extensive library systems or sophisticated closet organization, impacting the overall investment. During our initial consultation, we provide an upfront estimate after understanding your specific requirements and design preferences, ensuring transparency in project costs and aligning with your overall renovation budget.",
+        "@type": "Answer",
+        "description": "Custom shelving costs vary based on materials, design complexity, size, and features. We provide an upfront estimate after understanding your specific needs."
+      }
+    }
+  ],
+  "description": "Custom shelving costs vary based on materials, design complexity, size, and features. We provide an upfront estimate after understanding your specific needs."
+}

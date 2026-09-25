@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-an-attic-conversion-and-how-does-it-add-value-to-my-home",
+  "name": "What is an attic conversion and how does it add value to my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is an attic conversion and how does it add value to my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An attic conversion transforms unused attic space into functional living areas such as an extra bedroom, home office, or playroom. This type of renovation significantly enhances functionality, beauty, and the long-term value of your home by adding usable square footage without the need for a traditional ground-level addition. AKN Design Group coordinates the entire process, integrating new spaces seamlessly into your existing home’s structure and aesthetic.",
+        "@type": "Answer",
+        "description": "An attic conversion transforms unused attic space into functional living areas, adding value by increasing usable square footage."
+      }
+    }
+  ],
+  "description": "An attic conversion transforms unused attic space into functional living areas, adding value by increasing usable square footage."
+}

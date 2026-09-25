@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-long-does-a-typical-full-home-remodeling-project-take-with-akn-design-group",
+  "name": "How long does a typical full-home remodeling project take with AKN Design Group?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical full-home remodeling project take with AKN Design Group?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a full-home remodeling project varies significantly based on its scope, complexity, and the extent of structural changes, but it typically ranges from several months to over a year. Our integrated design-build process, which includes initial consultations, detailed design planning with CAD-supported layouts, permit coordination, material selection, and construction, allows for a managed process. We prioritize clear communication and scheduling transparency throughout, ensuring you understand the project timeline and key milestones from concept to final walkthrough.",
+        "@type": "Answer",
+        "description": "Project duration varies by scope, typically ranging from several months to over a year. Our integrated design-build process, including design, permitting, and construction, is managed with clear communication."
+      }
+    }
+  ],
+  "description": "Project duration varies by scope, typically ranging from several months to over a year. Our integrated design-build process, including design, permitting, and c"
+}

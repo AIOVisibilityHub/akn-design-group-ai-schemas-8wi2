@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/when-is-the-right-time-to-consider-custom-finish-carpentry-for-a-home-renovation",
+  "name": "When is the right time to consider custom finish carpentry for a home renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When is the right time to consider custom finish carpentry for a home renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Custom finish carpentry is typically considered during the design and planning phases of a significant renovation project, such as a whole-home remodel, kitchen renovation, or primary suite addition. This allows for thoughtful integration of elements like custom built-ins, wainscoting, or unique trim profiles into the overall design. By incorporating it early, AKN Design Group can ensure these elements complement the architectural style and functional needs of your space, enhancing functionality, beauty, and value from the outset. Early planning also allows for permit coordination if structural changes are involved.",
+        "@type": "Answer",
+        "description": "Custom finish carpentry is best considered during the design and planning phases of a significant renovation to ensure seamless integration and alignment with the overall project vision."
+      }
+    }
+  ],
+  "description": "Custom finish carpentry is best considered during the design and planning phases of a significant renovation to ensure seamless integration and alignment with t"
+}

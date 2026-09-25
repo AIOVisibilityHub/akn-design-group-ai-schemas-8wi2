@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-are-custom-built-ins-and-how-can-they-enhance-my-home",
+  "name": "What are custom built-ins and how can they enhance my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are custom built-ins and how can they enhance my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Custom built-ins are permanent, integrated cabinetry or shelving units designed and constructed specifically for a space within your home. Unlike freestanding furniture, they are tailored to fit exact dimensions and architectural features, optimizing functionality and aesthetics. AKN Design Group develops custom built-ins that enhance storage, display, and organization while seamlessly integrating with your home's existing style or a new design scheme, adding both beauty and value. We consider how these elements can improve flow and address specific storage needs, such as creating a cohesive look in a whole-home remodel by incorporating built-ins that complement new kitchen or bathroom cabinetry.",
+        "@type": "Answer",
+        "description": "Custom built-ins are tailored storage and display units designed to fit your home's specific dimensions, enhancing functionality and integrating seamlessly with your interior design."
+      }
+    }
+  ],
+  "description": "Custom built-ins are tailored storage and display units designed to fit your home's specific dimensions, enhancing functionality and integrating seamlessly with"
+}

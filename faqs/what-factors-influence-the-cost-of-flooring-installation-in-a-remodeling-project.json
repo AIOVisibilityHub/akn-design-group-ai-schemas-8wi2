@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-factors-influence-the-cost-of-flooring-installation-in-a-remodeling-project",
+  "name": "What factors influence the cost of flooring installation in a remodeling project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of flooring installation in a remodeling project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of flooring installation within a remodeling project is influenced by several key factors. These include the type and quality of material chosen (e.g., premium hardwood versus standard tile), the square footage of the area, the complexity of the installation pattern, and any necessary subfloor preparation or remediation. Additional considerations are the removal and disposal of old flooring, as well as finish work like baseboard installation. AKN Design Group provides upfront estimates as part of our transparent process, detailing these components to align with your comprehensive renovation budget.",
+        "@type": "Answer",
+        "description": "Flooring installation costs are influenced by material type, area size, installation complexity, subfloor preparation, and disposal, all detailed in our upfront estimates."
+      }
+    }
+  ],
+  "description": "Flooring installation costs are influenced by material type, area size, installation complexity, subfloor preparation, and disposal, all detailed in our upfront"
+}

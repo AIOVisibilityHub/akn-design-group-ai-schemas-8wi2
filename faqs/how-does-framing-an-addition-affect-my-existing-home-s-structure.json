@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-does-framing-an-addition-affect-my-existing-home-s-structure",
+  "name": "How does framing an addition affect my existing home's structure?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does framing an addition affect my existing home's structure?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Framing an addition requires careful structural integration to ensure the stability and safety of both the new and existing portions of your home. This process involves engineering calculations to confirm that the existing foundation and load-bearing elements can support the added weight and structure. Our design-build team meticulously plans how the new framing connects to and distributes loads across the original structure, preventing issues like uneven settling or structural stress. AKN Design Group prioritizes a seamless integration that maintains the integrity of your entire property.",
+        "@type": "Answer",
+        "description": "Framing an addition necessitates careful structural integration and engineering calculations to ensure stability. AKN Design Group plans how the new framing connects to the original structure, maintaining overall integrity."
+      }
+    }
+  ],
+  "description": "Framing an addition necessitates careful structural integration and engineering calculations to ensure stability. AKN Design Group plans how the new framing con"
+}

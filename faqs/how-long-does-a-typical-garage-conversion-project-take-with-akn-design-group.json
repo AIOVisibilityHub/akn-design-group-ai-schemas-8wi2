@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-long-does-a-typical-garage-conversion-project-take-with-akn-design-group",
+  "name": "How long does a typical garage conversion project take with AKN Design Group?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical garage conversion project take with AKN Design Group?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for a garage conversion varies based on the scope, complexity, and specific design elements involved. A standard conversion, transforming the garage into a finished living space, can range from 8 to 16 weeks after design finalization and permit acquisition. Factors like structural modifications, the extent of utility installations (plumbing for a bathroom, new HVAC zones), and custom finishes will influence the duration. AKN Design Group provides upfront estimates and scheduling transparency, aiming to minimize disruption while ensuring the highest level of craftsmanship and attention to detail throughout the managed process.",
+        "@type": "Answer",
+        "description": "Garage conversion timelines vary by scope, typically 8-16 weeks after design and permits. Factors like structural changes and utility installations impact duration."
+      }
+    }
+  ],
+  "description": "Garage conversion timelines vary by scope, typically 8-16 weeks after design and permits. Factors like structural changes and utility installations impact durat"
+}

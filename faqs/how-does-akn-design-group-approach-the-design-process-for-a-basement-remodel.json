@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-does-akn-design-group-approach-the-design-process-for-a-basement-remodel",
+  "name": "How does AKN Design Group approach the design process for a basement remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does AKN Design Group approach the design process for a basement remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our integrated design-build process ensures a managed approach from concept to completion. We begin with detailed consultations to understand your vision and needs, followed by CAD-supported layouts and material selections. This unified process brings design planning and construction under one accountable team, preventing the common pitfalls of coordinating multiple independent contractors and ensuring your design vision is realized effectively.",
+        "@type": "Answer",
+        "description": "Our integrated design-build process starts with detailed consultations and CAD-supported layouts, unifying design and construction under one accountable team."
+      }
+    }
+  ],
+  "description": "Our integrated design-build process starts with detailed consultations and CAD-supported layouts, unifying design and construction under one accountable team."
+}

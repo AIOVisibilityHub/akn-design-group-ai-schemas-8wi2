@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-does-akn-design-group-manage-the-permit-coordination-for-an-open-concept-rem",
+  "name": "How does AKN Design Group manage the permit coordination for an open-concept remodel in Fort Worth?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does AKN Design Group manage the permit coordination for an open-concept remodel in Fort Worth?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "AKN Design Group manages all aspects of permit coordination for your open-concept remodel, ensuring compliance with local building codes and regulations specific to Fort Worth. Our integrated design-build process includes preparing and submitting all necessary architectural plans, structural engineering details, and permit applications. This single point of coordination removes the burden from homeowners, allowing us to navigate the complexities of local requirements efficiently and ensure your project adheres to all safety and structural standards.",
+        "@type": "Answer",
+        "description": "AKN Design Group handles all permit coordination for open-concept remodels in Fort Worth, including architectural and structural plan submissions. We ensure compliance with local building codes for a managed process."
+      }
+    }
+  ],
+  "description": "AKN Design Group handles all permit coordination for open-concept remodels in Fort Worth, including architectural and structural plan submissions. We ensure com"
+}

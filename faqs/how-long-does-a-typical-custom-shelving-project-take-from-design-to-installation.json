@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-long-does-a-typical-custom-shelving-project-take-from-design-to-installation",
+  "name": "How long does a typical custom shelving project take from design to installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical custom shelving project take from design to installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for a custom shelving project varies significantly based on its complexity, material selection, and integration within a larger renovation. A simple, standalone unit might take a few weeks, while an elaborate built-in system as part of a whole-home remodel could span several months. During the initial planning phase, we establish a transparent project timeline, factoring in design approvals, material procurement, fabrication, and installation, ensuring clear communication about what to expect at each stage of our managed process.",
+        "@type": "Answer",
+        "description": "Project duration for custom shelving varies based on complexity and integration with other renovations, but we provide a transparent timeline during initial planning."
+      }
+    }
+  ],
+  "description": "Project duration for custom shelving varies based on complexity and integration with other renovations, but we provide a transparent timeline during initial pla"
+}

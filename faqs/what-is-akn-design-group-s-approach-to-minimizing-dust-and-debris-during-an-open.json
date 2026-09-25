@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-akn-design-group-s-approach-to-minimizing-dust-and-debris-during-an-open",
+  "name": "What is AKN Design Group's approach to minimizing dust and debris during an open-concept renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is AKN Design Group's approach to minimizing dust and debris during an open-concept renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "During an open-concept renovation, AKN Design Group employs rigorous measures to minimize dust and debris, prioritizing the homeowner experience and maintaining a clean work environment. This includes utilizing dust barriers, sealing off work areas, employing specialized air filtration, and conducting daily site cleanups. Our managed process extends to meticulous site protection and waste removal, ensuring that while your home is undergoing a substantial transformation, disruption to your living space is controlled and kept to a minimum.",
+        "@type": "Answer",
+        "description": "AKN Design Group minimizes dust and debris during open-concept renovations using dust barriers, air filtration, and daily site cleanups. This controlled approach prioritizes the homeowner experience."
+      }
+    }
+  ],
+  "description": "AKN Design Group minimizes dust and debris during open-concept renovations using dust barriers, air filtration, and daily site cleanups. This controlled approac"
+}

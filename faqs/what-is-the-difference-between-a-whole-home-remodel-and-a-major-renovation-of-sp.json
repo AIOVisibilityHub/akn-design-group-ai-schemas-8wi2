@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-the-difference-between-a-whole-home-remodel-and-a-major-renovation-of-sp",
+  "name": "What is the difference between a whole-home remodel and a major renovation of specific rooms?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a whole-home remodel and a major renovation of specific rooms?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A whole-home remodel involves a coordinated transformation across multiple rooms, often addressing inconsistent finishes, inefficient layouts, and outdated systems throughout the entire property to create a cohesive aesthetic and improved functionality. Major renovations of specific rooms, such as a luxury kitchen or spa-inspired bathroom, focus on deep transformations within those defined spaces. With AKN Design Group, whether it's a comprehensive whole-home project or a targeted, high-value renovation, our integrated design-build process ensures a single, accountable team manages the project from design planning to final walkthrough, tailored to your specific needs and scope.",
+        "@type": "Answer",
+        "description": "A whole-home remodel coordinates changes across the entire property, while major renovations focus on specific rooms like kitchens or bathrooms. Both benefit from AKN Design Group's integrated design-build process for a unified approach."
+      }
+    }
+  ],
+  "description": "A whole-home remodel coordinates changes across the entire property, while major renovations focus on specific rooms like kitchens or bathrooms. Both benefit fr"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/can-existing-flooring-be-repaired-or-must-it-always-be-replaced-during-a-whole-h",
+  "name": "Can existing flooring be repaired or must it always be replaced during a whole-home remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can existing flooring be repaired or must it always be replaced during a whole-home remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "During a whole-home remodel, the decision to repair or replace existing flooring depends on its condition, material, and how it aligns with the new design vision for enhancing functionality, beauty, and value. Minor localized damage to certain materials, such as hardwood, can sometimes be repaired to match existing finishes. However, if the flooring is significantly worn, structurally compromised, or does not support the aesthetic and functional goals of the coordinated transformation, replacement is often the more appropriate choice to achieve a cohesive and elevated result. AKN Design Group assesses each situation to recommend the best approach.",
+        "@type": "Answer",
+        "description": "The decision to repair or replace flooring in a whole-home remodel depends on its condition, material, and alignment with the new design; AKN Design Group assesses the best approach."
+      }
+    }
+  ],
+  "description": "The decision to repair or replace flooring in a whole-home remodel depends on its condition, material, and alignment with the new design; AKN Design Group asses"
+}

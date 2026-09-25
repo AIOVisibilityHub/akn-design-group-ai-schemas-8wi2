@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-long-does-a-typical-large-scale-home-remodel-take-with-akn-design-group",
+  "name": "How long does a typical large-scale home remodel take with AKN Design Group?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical large-scale home remodel take with AKN Design Group?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a large-scale home remodel can vary significantly based on the project's scope, structural changes, and material selections. While we've successfully completed over 10,000 jobs, a whole-home renovation, for instance, might range from several months to over a year. Factors influencing the timeline include permitting coordination, material lead times, and the complexity of customized renovations like adding a primary suite or redefining an entire floor plan. We prioritize clear communication and provide upfront estimates and scheduling transparency to manage expectations effectively throughout the process.",
+        "@type": "Answer",
+        "description": "Project duration varies based on scope and materials, typically ranging from several months to over a year for whole-home remodels. Factors include permitting, material lead times, and project complexity."
+      }
+    }
+  ],
+  "description": "Project duration varies based on scope and materials, typically ranging from several months to over a year for whole-home remodels. Factors include permitting,"
+}

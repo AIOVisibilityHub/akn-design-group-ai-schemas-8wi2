@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-types-of-trim-styles-are-suitable-for-modern-home-renovations",
+  "name": "What types of trim styles are suitable for modern home renovations?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of trim styles are suitable for modern home renovations?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Modern home renovations often feature clean, minimalist trim styles, such as flat stock or simple profiles, which complement contemporary aesthetics. However, the best choice depends on your home's architectural style and your personal design vision. AKN Design Group's integrated design-build process allows us to help you select trim profiles that enhance the functionality and beauty of your space, ensuring it aligns with the overall design of your customized renovation.",
+        "@type": "Answer",
+        "description": "Modern renovations often use clean, minimalist trim styles. The best choice depends on your home's architecture and design vision, which we help coordinate through our design-build process."
+      }
+    }
+  ],
+  "description": "Modern renovations often use clean, minimalist trim styles. The best choice depends on your home's architecture and design vision, which we help coordinate thro"
+}

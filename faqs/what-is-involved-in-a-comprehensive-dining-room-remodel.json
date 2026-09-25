@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-involved-in-a-comprehensive-dining-room-remodel",
+  "name": "What is involved in a comprehensive dining room remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in a comprehensive dining room remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A comprehensive dining room remodel by AKN Design Group involves a managed process from initial design to final walkthrough. This includes reimagining the layout to enhance flow and functionality, selecting finishes such as flooring, lighting, and paint, and integrating custom features like built-in cabinetry or unique millwork. Our approach ensures that the dining space not only meets aesthetic desires but also serves your lifestyle, creating a cohesive and inviting area for gatherings. We coordinate all aspects, including permit coordination, to ensure a seamless transformation.",
+        "@type": "Answer",
+        "description": "A comprehensive dining room remodel with AKN Design Group involves redesigning the layout, selecting finishes, and integrating custom features, managed from design to completion."
+      }
+    }
+  ],
+  "description": "A comprehensive dining room remodel with AKN Design Group involves redesigning the layout, selecting finishes, and integrating custom features, managed from des"
+}

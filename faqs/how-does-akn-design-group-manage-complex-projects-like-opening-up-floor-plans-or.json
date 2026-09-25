@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-does-akn-design-group-manage-complex-projects-like-opening-up-floor-plans-or",
+  "name": "How does AKN Design Group manage complex projects like opening up floor plans or structural changes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does AKN Design Group manage complex projects like opening up floor plans or structural changes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Managing complex projects, such as opening up floor plans or structural changes, is a core strength of AKN Design Group. Our integrated design-build process brings engineering and construction expertise together from the outset. We conduct thorough assessments, develop detailed CAD-supported layouts, and manage all necessary structural integrations to ensure safety and integrity. Our experience, built over more than two decades and 10,000 jobs, allows us to meticulously plan and execute these challenging aspects, providing homeowners with a single, accountable team that minimizes disruption and delivers a well-engineered, customized renovation.",
+        "@type": "Answer",
+        "description": "AKN Design Group manages complex projects, including structural changes and open floor plans, through our integrated design-build process. We use detailed CAD layouts and engineering expertise to ensure safety, integrity, and a well-engineered customized renovation."
+      }
+    }
+  ],
+  "description": "AKN Design Group manages complex projects, including structural changes and open floor plans, through our integrated design-build process. We use detailed CAD l"
+}

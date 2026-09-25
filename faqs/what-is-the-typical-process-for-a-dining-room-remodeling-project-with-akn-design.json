@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-the-typical-process-for-a-dining-room-remodeling-project-with-akn-design",
+  "name": "What is the typical process for a dining room remodeling project with AKN Design Group?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for a dining room remodeling project with AKN Design Group?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The typical process for a dining room remodeling project with AKN Design Group begins with an initial consultation to understand your vision and needs. Following this, we move into design planning, often utilizing CAD-supported layouts to visualize the proposed changes. Once the design is finalized and approved, we handle all aspects of permit coordination and construction, maintaining clear communication throughout. The project culminates in a final walkthrough, ensuring every detail meets our high standards of craftsmanship and your complete satisfaction.",
+        "@type": "Answer",
+        "description": "Our dining room remodel process involves an initial consultation, CAD-supported design planning, permit coordination, construction, and a final walkthrough to ensure satisfaction."
+      }
+    }
+  ],
+  "description": "Our dining room remodel process involves an initial consultation, CAD-supported design planning, permit coordination, construction, and a final walkthrough to e"
+}

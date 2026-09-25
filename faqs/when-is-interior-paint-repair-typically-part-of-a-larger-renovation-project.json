@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/when-is-interior-paint-repair-typically-part-of-a-larger-renovation-project",
+  "name": "When is interior paint repair typically part of a larger renovation project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When is interior paint repair typically part of a larger renovation project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Interior paint repair often becomes an integral part of a larger renovation when existing surfaces have significant damage beyond minor scuffs, such as large cracks, water stains, or drywall imperfections. For instance, in a whole-home remodel, new layouts or structural changes necessitate extensive drywall work, making comprehensive repainting essential for a cohesive finish. AKN Design Group integrates these painting and finishing steps into the overall project plan, ensuring that all surfaces are prepared and painted to a high standard, aligning with the new design. This managed process avoids piecemeal repairs and guarantees a consistent, high-quality aesthetic throughout your updated home.",
+        "@type": "Answer",
+        "description": "Interior paint repair is typically part of larger renovations when significant damage like cracks or water stains are present, or after structural changes in a whole-home remodel. AKN Design Group incorporates this into a managed process for a cohesive finish."
+      }
+    }
+  ],
+  "description": "Interior paint repair is typically part of larger renovations when significant damage like cracks or water stains are present, or after structural changes in a"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-does-akn-design-group-s-design-build-process-streamline-a-full-home-remodel",
+  "name": "How does AKN Design Group's design-build process streamline a full-home remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does AKN Design Group's design-build process streamline a full-home remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "AKN Design Group's integrated design-build process unifies design planning and construction under one single point of coordination. This approach eliminates the complexities of managing separate architects, designers, and contractors, ensuring that your vision is translated seamlessly from concept to completion. By having one accountable team, we enhance clear communication, reduce potential for miscommunication between parties, and often improve efficiency, allowing for a managed process where design vision and construction execution are harmonized, ultimately providing a smoother homeowner experience.",
+        "@type": "Answer",
+        "description": "Our design-build process unifies design and construction under one team, acting as a single point of coordination. This streamlines communication and ensures a smoother, more efficient remodeling experience."
+      }
+    }
+  ],
+  "description": "Our design-build process unifies design and construction under one team, acting as a single point of coordination. This streamlines communication and ensures a"
+}

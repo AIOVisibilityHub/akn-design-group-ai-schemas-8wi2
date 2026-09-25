@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-kind-of-preparations-are-needed-before-framing-can-begin-on-an-addition",
+  "name": "What kind of preparations are needed before framing can begin on an addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of preparations are needed before framing can begin on an addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before framing commences, several crucial preparations are essential to ensure a smooth construction process. This includes securing all necessary permits, which AKN Design Group handles as part of our permit coordination. The foundation must be fully inspected and approved, and utilities like water, sewer, and electrical may need to be strategically rerouted or capped. Homeowners should also ensure clear access for construction equipment and materials. Our integrated design-build approach streamlines these preparatory steps, ensuring everything is in place for efficient and compliant framing.",
+        "@type": "Answer",
+        "description": "Preparations for framing include securing permits, inspecting the foundation, and managing utility reroutes. Homeowners should ensure clear site access. AKN Design Group handles permit coordination and integrates these steps into the design-build process."
+      }
+    }
+  ],
+  "description": "Preparations for framing include securing permits, inspecting the foundation, and managing utility reroutes. Homeowners should ensure clear site access. AKN Des"
+}

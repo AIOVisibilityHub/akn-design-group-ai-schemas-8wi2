@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-the-typical-process-for-trim-installation-during-a-renovation",
+  "name": "What is the typical process for trim installation during a renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for trim installation during a renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Trim installation occurs as part of the finishing stages of a comprehensive renovation, typically after drywall installation and initial painting, but before final flooring and fixture placement. Our managed process begins with design and material selection, followed by precise measurement, cutting, fitting, and secure installation of baseboards, crown molding, and door/window casings. We ensure all finish carpentry contributes to the overall craftsmanship and refined aesthetic of your project.",
+        "@type": "Answer",
+        "description": "Trim installation is a finishing stage in renovations, following drywall and initial painting. Our process involves design, material selection, precise cutting, fitting, and secure installation."
+      }
+    }
+  ],
+  "description": "Trim installation is a finishing stage in renovations, following drywall and initial painting. Our process involves design, material selection, precise cutting,"
+}

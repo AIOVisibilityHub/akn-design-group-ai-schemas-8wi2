@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-types-of-materials-are-typically-used-for-custom-shelving-projects",
+  "name": "What types of materials are typically used for custom shelving projects?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of materials are typically used for custom shelving projects?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For custom shelving, we primarily utilize high-quality materials such as solid hardwoods, furniture-grade plywood, and durable laminates, often combined with premium hardware. The choice of material impacts not only the aesthetic but also the longevity and strength of the shelving. For instance, solid wood offers classic beauty and strength, while certain laminates provide excellent durability and a wide range of finishes. During our consultation, we discuss material options to align with your design vision and functional requirements, ensuring a lasting and beautiful result.",
+        "@type": "Answer",
+        "description": "We use high-quality materials like solid hardwoods, furniture-grade plywood, and durable laminates for custom shelving, chosen for aesthetics, longevity, and strength."
+      }
+    }
+  ],
+  "description": "We use high-quality materials like solid hardwoods, furniture-grade plywood, and durable laminates for custom shelving, chosen for aesthetics, longevity, and st"
+}

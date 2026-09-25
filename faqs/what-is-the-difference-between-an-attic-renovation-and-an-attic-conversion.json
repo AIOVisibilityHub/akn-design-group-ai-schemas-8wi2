@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-the-difference-between-an-attic-renovation-and-an-attic-conversion",
+  "name": "What is the difference between an attic renovation and an attic conversion?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between an attic renovation and an attic conversion?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An attic renovation generally involves updating the existing attic space without changing its primary use, such as improving insulation or adding storage solutions. An attic conversion, however, transforms the attic into a fully functional, habitable room, typically requiring structural modifications, adding windows, and integrating HVAC and electrical systems to meet living space codes. AKN Design Group specializes in these comprehensive conversions, enhancing functionality, beauty, and value.",
+        "@type": "Answer",
+        "description": "An attic renovation updates existing space, while an attic conversion transforms it into a fully functional, habitable room, requiring more extensive structural and system changes."
+      }
+    }
+  ],
+  "description": "An attic renovation updates existing space, while an attic conversion transforms it into a fully functional, habitable room, requiring more extensive structural"
+}

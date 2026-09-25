@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-the-typical-timeline-for-designing-and-installing-custom-built-ins",
+  "name": "What is the typical timeline for designing and installing custom built-ins?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical timeline for designing and installing custom built-ins?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for custom built-ins varies significantly depending on their complexity, size, and whether they are part of a larger renovation project. For standalone custom built-ins, the design, fabrication, and installation process can take several weeks. When integrated into a comprehensive project like a whole-home remodel or addition, the built-ins are coordinated within the master project timeline, often overlapping with other finish work to maintain efficiency. AKN Design Group provides scheduling transparency for all project phases, ensuring you are informed about the progress from initial concept through final installation, reflecting our commitment to clear communication and managed processes.",
+        "@type": "Answer",
+        "description": "The timeline for custom built-ins varies based on complexity and project scope. When part of a larger renovation, their installation is coordinated within the master project timeline for efficiency."
+      }
+    }
+  ],
+  "description": "The timeline for custom built-ins varies based on complexity and project scope. When part of a larger renovation, their installation is coordinated within the m"
+}
