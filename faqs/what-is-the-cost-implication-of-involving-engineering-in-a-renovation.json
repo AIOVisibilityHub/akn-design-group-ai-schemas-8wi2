@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-the-cost-implication-of-involving-engineering-in-a-renovation",
+  "name": "What is the cost implication of involving engineering in a renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the cost implication of involving engineering in a renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of involving engineering in a renovation is an investment in the project's safety, longevity, and regulatory compliance. While it adds to the overall project budget, engineering services prevent costly errors, delays, and potential structural issues down the line. For complex projects, these costs are typically a necessary component to ensure the design vision is structurally sound and functionally efficient. AKN Design Group provides transparent, upfront estimates that incorporate all necessary engineering fees, offering value engineering where possible to optimize costs without compromising safety or quality. This integrated approach ensures you understand the complete financial scope from the outset.",
+        "@type": "Answer",
+        "description": "Engineering costs are an investment in safety and compliance, preventing future issues. AKN Design Group includes these in upfront estimates."
+      }
+    }
+  ],
+  "description": "Engineering costs are an investment in safety and compliance, preventing future issues. AKN Design Group includes these in upfront estimates."
+}

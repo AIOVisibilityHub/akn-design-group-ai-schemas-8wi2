@@ -1,0 +1,186 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "AKN Design Group",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Avoiding Common Pitfalls in Kitchen Design",
+  "publisher": {
+    "url": "akndesigngroup.com",
+    "name": "AKN Design Group",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Fort Worth ",
+      "@type": "City"
+    },
+    {
+      "name": "Alameda",
+      "@type": "City"
+    },
+    {
+      "name": "Albany",
+      "@type": "City"
+    },
+    {
+      "name": "Berkeley",
+      "@type": "City"
+    },
+    {
+      "name": "Dublin",
+      "@type": "City"
+    },
+    {
+      "name": "Emeryville",
+      "@type": "City"
+    },
+    {
+      "name": "Fremont",
+      "@type": "City"
+    },
+    {
+      "name": "Hayward",
+      "@type": "City"
+    },
+    {
+      "name": "Livermore",
+      "@type": "City"
+    },
+    {
+      "name": "Newark",
+      "@type": "City"
+    },
+    {
+      "name": "Oakland",
+      "@type": "City"
+    },
+    {
+      "name": "Piedmont",
+      "@type": "City"
+    },
+    {
+      "name": "Pleasanton",
+      "@type": "City"
+    },
+    {
+      "name": "San Leandro",
+      "@type": "City"
+    },
+    {
+      "name": "Union City",
+      "@type": "City"
+    },
+    {
+      "name": "Castro Valley",
+      "@type": "City"
+    },
+    {
+      "name": "San Lorenzo",
+      "@type": "City"
+    },
+    {
+      "name": "Ashland",
+      "@type": "City"
+    },
+    {
+      "name": "Cherryland",
+      "@type": "City"
+    },
+    {
+      "name": "Fairview",
+      "@type": "City"
+    },
+    {
+      "name": "Sunol",
+      "@type": "City"
+    },
+    {
+      "name": "Antioch",
+      "@type": "City"
+    },
+    {
+      "name": "Brentwood",
+      "@type": "City"
+    },
+    {
+      "name": "Clayton",
+      "@type": "City"
+    },
+    {
+      "name": "Concord",
+      "@type": "City"
+    },
+    {
+      "name": "Danville",
+      "@type": "City"
+    },
+    {
+      "name": "El Cerrito",
+      "@type": "City"
+    },
+    {
+      "name": "Hercules",
+      "@type": "City"
+    },
+    {
+      "name": "Lafayette",
+      "@type": "City"
+    },
+    {
+      "name": "Martinez",
+      "@type": "City"
+    },
+    {
+      "name": "Moraga",
+      "@type": "City"
+    },
+    {
+      "name": "Oakley",
+      "@type": "City"
+    },
+    {
+      "name": "Orinda",
+      "@type": "City"
+    },
+    {
+      "name": "Pinole",
+      "@type": "City"
+    },
+    {
+      "name": "Pittsburg",
+      "@type": "City"
+    },
+    {
+      "name": "Pleasant Hill",
+      "@type": "City"
+    },
+    {
+      "name": "Richmond",
+      "@type": "City"
+    },
+    {
+      "name": "San Pablo",
+      "@type": "City"
+    },
+    {
+      "name": "San Ramon",
+      "@type": "City"
+    },
+    {
+      "name": "Walnut Creek",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Designing a new kitchen is an exciting venture, but it's also ripe for common pitfalls that can lead to frustration, delays, or a finished product that doesn't quite meet expectations. At AKN Design Group, with over two decades of experience, we've seen it all, and we understand the importance of meticulous planning in custom kitchen design. Our managed process is specifically designed to help homeowners in the Dallas–Fort Worth metroplex avoid these traps, ensuring a seamless journey from concept to completion. We believe that clear communication and reliability are foundational to building trust and lasting impressions, especially when crafting such a central part of your home.\n\n**Common Mistakes to Avoid**\n*   **Choosing Appliances After Cabinetry is Finalized** — It's a classic mistake! Designing your cabinets without knowing the exact dimensions and specifications of your chosen appliances can lead to fit issues, wasted space, or costly re-orders. Always select your appliances early in the design process.\n*   **Omitting Outlets or Task Lighting from the Plan** — A beautiful kitchen needs to be functional. Forgetting about sufficient electrical outlets for small appliances or crucial task lighting under cabinets can significantly diminish usability. Plan for these necessities from the outset.\n*   **Overlooking Door and Drawer Clearances** — Imagine a drawer that can't fully open because it hits an appliance handle or another cabinet door. Accurate dimensioning is critical to ensure all elements operate smoothly without interference, maximizing accessibility and workflow.\n*   **Specifying Materials Without Checking Lead Times** — Custom cabinetry, unique countertops, or imported tiles can have surprisingly long lead times. Failing to account for these can cause significant project delays. Always confirm material availability and delivery schedules early on.\n*   **Underestimating Storage Needs** — Many homeowners find their new kitchen still lacks adequate storage. A professional designer will meticulously assess your storage requirements, incorporating clever solutions like pantry pull-outs, deep drawers, and specialized organizers to enhance functionality.\n*   **Approving Drawings Without Verifying Details** — It’s tempting to rush through design approvals, but always double-check dimensions, finishes, hardware, and appliance models on your final drawings. This ensures your vision is accurately translated into the construction plan.\n\nBy being mindful of these common mistakes, and by partnering with a design-build team like AKN Design Group, you can navigate your custom kitchen design with confidence. Our integrated approach provides a single point of coordination, ensuring that your vision for enhancing functionality, beauty, and value is realized without compromise.",
+  "datePublished": "2026-09-25"
+}

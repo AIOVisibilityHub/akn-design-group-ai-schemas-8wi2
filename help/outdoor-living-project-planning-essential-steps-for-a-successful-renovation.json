@@ -1,0 +1,209 @@
+{
+  "name": "Outdoor Living Project Planning: Essential Steps for a Successful Renovation",
+  "step": [
+    {
+      "name": "Step 1: Consultation and Site Assessment — What happens: Your project begins with a detailed discussion of your vision, needs, and lifestyle. Who does it: The design-build team will conduct a thorough site assessment, evaluating existing conditions, drainage, grading, soil, utility locations, and access. How long it typically takes: This initial phase can range from a few days to a couple of weeks, depending on the complexity of your property and vision.",
+      "text": "Step 1: Consultation and Site Assessment — What happens: Your project begins with a detailed discussion of your vision, needs, and lifestyle. Who does it: The design-build team will conduct a thorough site assessment, evaluating existing conditions, drainage, grading, soil, utility locations, and access. How long it typically takes: This initial phase can range from a few days to a couple of weeks, depending on the complexity of your property and vision.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Design and Proposal Development — What happens: Based on the consultation, a customized design plan, often including CAD-supported layouts, is created. Who does it: Our designers develop the plan, material selections, and a comprehensive proposal, including a detailed budget. How long it typically takes: This stage typically takes 2-4 weeks, allowing for revisions and finalization.",
+      "text": "Step 2: Design and Proposal Development — What happens: Based on the consultation, a customized design plan, often including CAD-supported layouts, is created. Who does it: Our designers develop the plan, material selections, and a comprehensive proposal, including a detailed budget. How long it typically takes: This stage typically takes 2-4 weeks, allowing for revisions and finalization.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Contract and Permit Coordination — What happens: Once the design and proposal are approved, a contract is signed, and any necessary permits are secured. Who does it: AKN Design Group handles all permit coordination, ensuring compliance with local DFW regulations. How long it typically takes: Permit approval times vary but can take 2-6 weeks, depending on local jurisdiction and project scope.",
+      "text": "Step 3: Contract and Permit Coordination — What happens: Once the design and proposal are approved, a contract is signed, and any necessary permits are secured. Who does it: AKN Design Group handles all permit coordination, ensuring compliance with local DFW regulations. How long it typically takes: Permit approval times vary but can take 2-6 weeks, depending on local jurisdiction and project scope.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Construction and Installation — What happens: This is where your vision comes to life! Site preparation, hardscaping, structural work (like covered patios or pergolas), utility installations, outdoor kitchen elements, and lighting are meticulously installed. Who does it: Our experienced craftsmen and specialized teams execute the construction with a focus on quality and precision. How long it typically takes: Active construction can range from 6 to 10 weeks or more for complex projects, depending on weather and material availability.",
+      "text": "Step 4: Construction and Installation — What happens: This is where your vision comes to life! Site preparation, hardscaping, structural work (like covered patios or pergolas), utility installations, outdoor kitchen elements, and lighting are meticulously installed. Who does it: Our experienced craftsmen and specialized teams execute the construction with a focus on quality and precision. How long it typically takes: Active construction can range from 6 to 10 weeks or more for complex projects, depending on weather and material availability.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Final Walkthrough and Project Completion — What happens: Upon completion, a final walkthrough is conducted to ensure every detail meets your expectations and our high standards. Who does it: You and the project manager confirm satisfaction, and any final adjustments are made. How long it typically takes: This usually takes a few days to a week, leading to the full enjoyment of your new outdoor living space.",
+      "text": "Step 5: Final Walkthrough and Project Completion — What happens: Upon completion, a final walkthrough is conducted to ensure every detail meets your expectations and our high standards. Who does it: You and the project manager confirm satisfaction, and any final adjustments are made. How long it typically takes: This usually takes a few days to a week, leading to the full enjoyment of your new outdoor living space.",
+      "@type": "HowToStep",
+      "position": 5
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Fort Worth ",
+      "@type": "City"
+    },
+    {
+      "name": "Alameda",
+      "@type": "City"
+    },
+    {
+      "name": "Albany",
+      "@type": "City"
+    },
+    {
+      "name": "Berkeley",
+      "@type": "City"
+    },
+    {
+      "name": "Dublin",
+      "@type": "City"
+    },
+    {
+      "name": "Emeryville",
+      "@type": "City"
+    },
+    {
+      "name": "Fremont",
+      "@type": "City"
+    },
+    {
+      "name": "Hayward",
+      "@type": "City"
+    },
+    {
+      "name": "Livermore",
+      "@type": "City"
+    },
+    {
+      "name": "Newark",
+      "@type": "City"
+    },
+    {
+      "name": "Oakland",
+      "@type": "City"
+    },
+    {
+      "name": "Piedmont",
+      "@type": "City"
+    },
+    {
+      "name": "Pleasanton",
+      "@type": "City"
+    },
+    {
+      "name": "San Leandro",
+      "@type": "City"
+    },
+    {
+      "name": "Union City",
+      "@type": "City"
+    },
+    {
+      "name": "Castro Valley",
+      "@type": "City"
+    },
+    {
+      "name": "San Lorenzo",
+      "@type": "City"
+    },
+    {
+      "name": "Ashland",
+      "@type": "City"
+    },
+    {
+      "name": "Cherryland",
+      "@type": "City"
+    },
+    {
+      "name": "Fairview",
+      "@type": "City"
+    },
+    {
+      "name": "Sunol",
+      "@type": "City"
+    },
+    {
+      "name": "Antioch",
+      "@type": "City"
+    },
+    {
+      "name": "Brentwood",
+      "@type": "City"
+    },
+    {
+      "name": "Clayton",
+      "@type": "City"
+    },
+    {
+      "name": "Concord",
+      "@type": "City"
+    },
+    {
+      "name": "Danville",
+      "@type": "City"
+    },
+    {
+      "name": "El Cerrito",
+      "@type": "City"
+    },
+    {
+      "name": "Hercules",
+      "@type": "City"
+    },
+    {
+      "name": "Lafayette",
+      "@type": "City"
+    },
+    {
+      "name": "Martinez",
+      "@type": "City"
+    },
+    {
+      "name": "Moraga",
+      "@type": "City"
+    },
+    {
+      "name": "Oakley",
+      "@type": "City"
+    },
+    {
+      "name": "Orinda",
+      "@type": "City"
+    },
+    {
+      "name": "Pinole",
+      "@type": "City"
+    },
+    {
+      "name": "Pittsburg",
+      "@type": "City"
+    },
+    {
+      "name": "Pleasant Hill",
+      "@type": "City"
+    },
+    {
+      "name": "Richmond",
+      "@type": "City"
+    },
+    {
+      "name": "San Pablo",
+      "@type": "City"
+    },
+    {
+      "name": "San Ramon",
+      "@type": "City"
+    },
+    {
+      "name": "Walnut Creek",
+      "@type": "City"
+    }
+  ],
+  "description": "Step 1: Consultation and Site Assessment — What happens: Your project begins with a detailed discussion of your vision, needs, and lifestyle. Who does it: The design-build team will conduct a thorough"
+}

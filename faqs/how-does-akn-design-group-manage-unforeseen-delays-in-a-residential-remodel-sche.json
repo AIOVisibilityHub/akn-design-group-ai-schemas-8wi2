@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-does-akn-design-group-manage-unforeseen-delays-in-a-residential-remodel-sche",
+  "name": "How does AKN Design Group manage unforeseen delays in a residential remodel schedule?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does AKN Design Group manage unforeseen delays in a residential remodel schedule?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "AKN Design Group proactively manages potential schedule impacts through rigorous planning and clear communication. In the event of unforeseen delays—such as unexpected structural issues discovered during demolition or extended lead times for specific custom materials—we assess the situation immediately. We then communicate transparently with the homeowner about the issue, its implications, and proposed solutions. Our project managers work diligently to re-sequence tasks, explore alternative options, and adjust the timeline as necessary to minimize disruption, always prioritizing craftsmanship and the homeowner experience.",
+        "@type": "Answer",
+        "description": "We manage unforeseen delays by communicating transparently, assessing impacts, and adjusting timelines or solutions to minimize disruption, prioritizing project quality and homeowner experience."
+      }
+    }
+  ],
+  "description": "We manage unforeseen delays by communicating transparently, assessing impacts, and adjusting timelines or solutions to minimize disruption, prioritizing project"
+}

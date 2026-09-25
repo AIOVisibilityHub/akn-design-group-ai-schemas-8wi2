@@ -1,0 +1,237 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "AKN Design Group",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Checklist: Preparing for Your Cabinet Refacing Project",
+  "publisher": {
+    "url": "akndesigngroup.com",
+    "name": "AKN Design Group",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      ".checklist",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Fort Worth ",
+      "@type": "City"
+    },
+    {
+      "name": "Alameda",
+      "@type": "City"
+    },
+    {
+      "name": "Albany",
+      "@type": "City"
+    },
+    {
+      "name": "Berkeley",
+      "@type": "City"
+    },
+    {
+      "name": "Dublin",
+      "@type": "City"
+    },
+    {
+      "name": "Emeryville",
+      "@type": "City"
+    },
+    {
+      "name": "Fremont",
+      "@type": "City"
+    },
+    {
+      "name": "Hayward",
+      "@type": "City"
+    },
+    {
+      "name": "Livermore",
+      "@type": "City"
+    },
+    {
+      "name": "Newark",
+      "@type": "City"
+    },
+    {
+      "name": "Oakland",
+      "@type": "City"
+    },
+    {
+      "name": "Piedmont",
+      "@type": "City"
+    },
+    {
+      "name": "Pleasanton",
+      "@type": "City"
+    },
+    {
+      "name": "San Leandro",
+      "@type": "City"
+    },
+    {
+      "name": "Union City",
+      "@type": "City"
+    },
+    {
+      "name": "Castro Valley",
+      "@type": "City"
+    },
+    {
+      "name": "San Lorenzo",
+      "@type": "City"
+    },
+    {
+      "name": "Ashland",
+      "@type": "City"
+    },
+    {
+      "name": "Cherryland",
+      "@type": "City"
+    },
+    {
+      "name": "Fairview",
+      "@type": "City"
+    },
+    {
+      "name": "Sunol",
+      "@type": "City"
+    },
+    {
+      "name": "Antioch",
+      "@type": "City"
+    },
+    {
+      "name": "Brentwood",
+      "@type": "City"
+    },
+    {
+      "name": "Clayton",
+      "@type": "City"
+    },
+    {
+      "name": "Concord",
+      "@type": "City"
+    },
+    {
+      "name": "Danville",
+      "@type": "City"
+    },
+    {
+      "name": "El Cerrito",
+      "@type": "City"
+    },
+    {
+      "name": "Hercules",
+      "@type": "City"
+    },
+    {
+      "name": "Lafayette",
+      "@type": "City"
+    },
+    {
+      "name": "Martinez",
+      "@type": "City"
+    },
+    {
+      "name": "Moraga",
+      "@type": "City"
+    },
+    {
+      "name": "Oakley",
+      "@type": "City"
+    },
+    {
+      "name": "Orinda",
+      "@type": "City"
+    },
+    {
+      "name": "Pinole",
+      "@type": "City"
+    },
+    {
+      "name": "Pittsburg",
+      "@type": "City"
+    },
+    {
+      "name": "Pleasant Hill",
+      "@type": "City"
+    },
+    {
+      "name": "Richmond",
+      "@type": "City"
+    },
+    {
+      "name": "San Pablo",
+      "@type": "City"
+    },
+    {
+      "name": "San Ramon",
+      "@type": "City"
+    },
+    {
+      "name": "Walnut Creek",
+      "@type": "City"
+    }
+  ],
+  "mainEntity": {
+    "name": "Checklist: Preparing for Your Cabinet Refacing Project",
+    "@type": "ItemList",
+    "itemListOrder": "https://schema.org/ItemListOrderAscending",
+    "numberOfItems": 7,
+    "itemListElement": [
+      {
+        "name": "Assess cabinet box condition — why it matters: Structurally sound, well-mounted cabinet boxes are crucial f…",
+        "@type": "ListItem",
+        "position": 1,
+        "description": "Assess cabinet box condition — why it matters: Structurally sound, well-mounted cabinet boxes are crucial for successful refacing; damaged boxes might need repair or replacement first."
+      },
+      {
+        "name": "Confirm your ideal layout — why it matters: Refacing retains your existing layout, so be certain you're hap…",
+        "@type": "ListItem",
+        "position": 2,
+        "description": "Confirm your ideal layout — why it matters: Refacing retains your existing layout, so be certain you're happy with the current functionality and flow of your kitchen or bathroom."
+      },
+      {
+        "name": "Research door and drawer styles — why it matters: These will define the new aesthetic of your cabinets, so…",
+        "@type": "ListItem",
+        "position": 3,
+        "description": "Research door and drawer styles — why it matters: These will define the new aesthetic of your cabinets, so explore options like shaker, slab, or raised panel to find your perfect match."
+      },
+      {
+        "name": "Select preferred materials and finishes — why it matters: Consider veneer, laminate, or other coverings, al…",
+        "@type": "ListItem",
+        "position": 4,
+        "description": "Select preferred materials and finishes — why it matters: Consider veneer, laminate, or other coverings, along with their durability, moisture resistance, and how they complement your home's overall design."
+      },
+      {
+        "name": "Identify new hardware choices — why it matters: Knobs, pulls, and hinges are integral to both the look and…",
+        "@type": "ListItem",
+        "position": 5,
+        "description": "Identify new hardware choices — why it matters: Knobs, pulls, and hinges are integral to both the look and functionality of your refaced cabinets; choose them early to ensure compatibility."
+      },
+      {
+        "name": "Clear cabinet interiors — why it matters: Emptying your cabinets before work begins allows for easy access…",
+        "@type": "ListItem",
+        "position": 6,
+        "description": "Clear cabinet interiors — why it matters: Emptying your cabinets before work begins allows for easy access and protects your belongings from dust and debris during the process."
+      },
+      {
+        "name": "Plan for temporary kitchen use — why it matters: While refacing is less disruptive than a full remodel, you…",
+        "@type": "ListItem",
+        "position": 7,
+        "description": "Plan for temporary kitchen use — why it matters: While refacing is less disruptive than a full remodel, your kitchen might be partially out of commission, so plan meals accordingly."
+      }
+    ]
+  },
+  "articleBody": "Getting ready for a cabinet refacing project means you're on your way to a beautifully refreshed kitchen or bathroom without the full overhaul. To ensure a smooth, managed process and a result that perfectly matches your vision, a little preparation goes a long way. Use this checklist to set yourself up for success.\n\n- [ ] Assess cabinet box condition — why it matters: Structurally sound, well-mounted cabinet boxes are crucial for successful refacing; damaged boxes might need repair or replacement first.\n- [ ] Confirm your ideal layout — why it matters: Refacing retains your existing layout, so be certain you're happy with the current functionality and flow of your kitchen or bathroom.\n- [ ] Research door and drawer styles — why it matters: These will define the new aesthetic of your cabinets, so explore options like shaker, slab, or raised panel to find your perfect match.\n- [ ] Select preferred materials and finishes — why it matters: Consider veneer, laminate, or other coverings, along with their durability, moisture resistance, and how they complement your home's overall design.\n- [ ] Identify new hardware choices — why it matters: Knobs, pulls, and hinges are integral to both the look and functionality of your refaced cabinets; choose them early to ensure compatibility.\n- [ ] Clear cabinet interiors — why it matters: Emptying your cabinets before work begins allows for easy access and protects your belongings from dust and debris during the process.\n- [ ] Plan for temporary kitchen use — why it matters: While refacing is less disruptive than a full remodel, your kitchen might be partially out of commission, so plan meals accordingly.\n\nHow to use this checklist: Go through each item and ensure you've addressed it before your project starts. This helps streamline the design-build process and ensures clear communication every step of the way.\n\nReady to get started on your cabinet refacing journey? Contact AKN Design Group to ensure your project is handled with expertise and care.",
+  "datePublished": "2026-09-25"
+}

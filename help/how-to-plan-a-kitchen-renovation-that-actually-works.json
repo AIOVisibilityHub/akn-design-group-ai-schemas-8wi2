@@ -1,0 +1,215 @@
+{
+  "name": "How to Plan a Kitchen Renovation That Actually Works",
+  "step": [
+    {
+      "name": "Step 1: Document Your Current Kitchen and Lifestyle Needs",
+      "text": "Begin by taking photos and measurements of your existing kitchen. More importantly, think about how you *actually* use the space. What do you love, what do you loathe? Do you entertain often? Do you need more storage, a larger island, or better traffic flow? Documenting these functional requirements is key to a design that truly serves your household.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Establish a Realistic Budget and Timeline",
+      "text": "Before you get too deep into design ideas, define your budget. Be clear on what you’re willing to invest, and remember to factor in potential contingencies. A good contractor can help with value engineering. Discuss realistic timelines for design, material ordering, and construction, as kitchen renovations can involve several trades and permit coordination.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Develop Your Layout and Material Specifications",
+      "text": "This is where your vision starts to take shape. Work with designers to create CAD-supported layouts that optimize flow and functionality. Select finishes like cabinetry, countertops, backsplashes, and flooring. Consider appliance dimensions and utility locations to ensure everything fits perfectly and works efficiently.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Select Your Contractor and Finalize Plans",
+      "text": "Choose a reputable design-build contractor like AKN Design Group, who has demonstrated kitchen-remodel experience. Review itemized pricing for all elements—labor, materials, permits, and disposal. Confirm responsibility for subcontractors and inspections. Once you’re confident, finalize your contract and plans, ensuring all details are captured.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Manage Approvals, Material Orders, and Scheduling",
+      "text": "Your chosen contractor should coordinate all necessary permits and ensure materials are ordered in a timely manner. Delays in material delivery can significantly impact the schedule. This managed process ensures your kitchen is ready for demolition and subsequent construction steps without unnecessary waiting.",
+      "@type": "HowToStep",
+      "position": 5
+    },
+    {
+      "name": "Step 6: Construction, Installation, and Final Walkthrough",
+      "text": "This phase involves demolition, rough plumbing/electrical/mechanical work, inspections, and then the installation of cabinets, appliances, and finishes. Stay in clear communication with your team throughout. Finally, conduct a thorough walkthrough with your contractor to ensure every detail meets your expectations and the agreed-upon scope.",
+      "@type": "HowToStep",
+      "position": 6
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Fort Worth ",
+      "@type": "City"
+    },
+    {
+      "name": "Alameda",
+      "@type": "City"
+    },
+    {
+      "name": "Albany",
+      "@type": "City"
+    },
+    {
+      "name": "Berkeley",
+      "@type": "City"
+    },
+    {
+      "name": "Dublin",
+      "@type": "City"
+    },
+    {
+      "name": "Emeryville",
+      "@type": "City"
+    },
+    {
+      "name": "Fremont",
+      "@type": "City"
+    },
+    {
+      "name": "Hayward",
+      "@type": "City"
+    },
+    {
+      "name": "Livermore",
+      "@type": "City"
+    },
+    {
+      "name": "Newark",
+      "@type": "City"
+    },
+    {
+      "name": "Oakland",
+      "@type": "City"
+    },
+    {
+      "name": "Piedmont",
+      "@type": "City"
+    },
+    {
+      "name": "Pleasanton",
+      "@type": "City"
+    },
+    {
+      "name": "San Leandro",
+      "@type": "City"
+    },
+    {
+      "name": "Union City",
+      "@type": "City"
+    },
+    {
+      "name": "Castro Valley",
+      "@type": "City"
+    },
+    {
+      "name": "San Lorenzo",
+      "@type": "City"
+    },
+    {
+      "name": "Ashland",
+      "@type": "City"
+    },
+    {
+      "name": "Cherryland",
+      "@type": "City"
+    },
+    {
+      "name": "Fairview",
+      "@type": "City"
+    },
+    {
+      "name": "Sunol",
+      "@type": "City"
+    },
+    {
+      "name": "Antioch",
+      "@type": "City"
+    },
+    {
+      "name": "Brentwood",
+      "@type": "City"
+    },
+    {
+      "name": "Clayton",
+      "@type": "City"
+    },
+    {
+      "name": "Concord",
+      "@type": "City"
+    },
+    {
+      "name": "Danville",
+      "@type": "City"
+    },
+    {
+      "name": "El Cerrito",
+      "@type": "City"
+    },
+    {
+      "name": "Hercules",
+      "@type": "City"
+    },
+    {
+      "name": "Lafayette",
+      "@type": "City"
+    },
+    {
+      "name": "Martinez",
+      "@type": "City"
+    },
+    {
+      "name": "Moraga",
+      "@type": "City"
+    },
+    {
+      "name": "Oakley",
+      "@type": "City"
+    },
+    {
+      "name": "Orinda",
+      "@type": "City"
+    },
+    {
+      "name": "Pinole",
+      "@type": "City"
+    },
+    {
+      "name": "Pittsburg",
+      "@type": "City"
+    },
+    {
+      "name": "Pleasant Hill",
+      "@type": "City"
+    },
+    {
+      "name": "Richmond",
+      "@type": "City"
+    },
+    {
+      "name": "San Pablo",
+      "@type": "City"
+    },
+    {
+      "name": "San Ramon",
+      "@type": "City"
+    },
+    {
+      "name": "Walnut Creek",
+      "@type": "City"
+    }
+  ],
+  "description": "Begin by taking photos and measurements of your existing kitchen. More importantly, think about how you *actually* use the space. What do you love, what do you loathe? Do you entertain often? Do you n"
+}

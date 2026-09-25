@@ -1,0 +1,209 @@
+{
+  "name": "Is a Design-Build Approach Right for Your Kitchen Update?",
+  "step": [
+    {
+      "name": "Step 1: Initial Consultation and Visioning — Start by meeting with the design-build team to discuss your goals, lifestyle, budget, and aesthetic preferences. This is where you articulate what you want your new kitchen to achieve, whether it's a more open concept, improved storage, or spa-inspired features. The team will assess your existing space and begin to understand its potential.",
+      "text": "Step 1: Initial Consultation and Visioning — Start by meeting with the design-build team to discuss your goals, lifestyle, budget, and aesthetic preferences. This is where you articulate what you want your new kitchen to achieve, whether it's a more open concept, improved storage, or spa-inspired features. The team will assess your existing space and begin to understand its potential.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Detailed Design and Material Selection — The design team develops CAD-supported layouts, material palettes, and appliance specifications. This includes everything from custom cabinetry and countertops to flooring, lighting, and backsplash tile. You'll review and refine these plans, ensuring every element aligns with your vision and budget. This phase also includes value engineering to maximize your investment.",
+      "text": "Step 2: Detailed Design and Material Selection — The design team develops CAD-supported layouts, material palettes, and appliance specifications. This includes everything from custom cabinetry and countertops to flooring, lighting, and backsplash tile. You'll review and refine these plans, ensuring every element aligns with your vision and budget. This phase also includes value engineering to maximize your investment.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Permit Coordination and Project Planning — Once the design is finalized, the design-build firm handles all necessary permit applications and approvals with local DFW authorities. Simultaneously, they'll create a detailed project schedule, coordinating material orders, subcontractor timelines, and inspection points. This managed process ensures compliance and minimizes delays.",
+      "text": "Step 3: Permit Coordination and Project Planning — Once the design is finalized, the design-build firm handles all necessary permit applications and approvals with local DFW authorities. Simultaneously, they'll create a detailed project schedule, coordinating material orders, subcontractor timelines, and inspection points. This managed process ensures compliance and minimizes delays.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Construction and Installation — With permits secured and materials on order, the construction phase begins. This involves demolition, rough plumbing and electrical work, inspections, and then the careful installation of cabinetry, countertops, appliances, and finishes. The design-build team manages all trades, ensuring craftsmanship and adherence to the agreed-upon plans.",
+      "text": "Step 4: Construction and Installation — With permits secured and materials on order, the construction phase begins. This involves demolition, rough plumbing and electrical work, inspections, and then the careful installation of cabinetry, countertops, appliances, and finishes. The design-build team manages all trades, ensuring craftsmanship and adherence to the agreed-upon plans.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Final Walkthrough and Project Completion — As construction winds down, a comprehensive final walkthrough is conducted. This is your opportunity to inspect the finished kitchen, confirm all details are to your satisfaction, and learn about the operation and maintenance of new features. Any final adjustments are made, and the project is formally completed, leaving you with a beautiful, functional, and value-enhancing kitchen.",
+      "text": "Step 5: Final Walkthrough and Project Completion — As construction winds down, a comprehensive final walkthrough is conducted. This is your opportunity to inspect the finished kitchen, confirm all details are to your satisfaction, and learn about the operation and maintenance of new features. Any final adjustments are made, and the project is formally completed, leaving you with a beautiful, functional, and value-enhancing kitchen.",
+      "@type": "HowToStep",
+      "position": 5
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Fort Worth ",
+      "@type": "City"
+    },
+    {
+      "name": "Alameda",
+      "@type": "City"
+    },
+    {
+      "name": "Albany",
+      "@type": "City"
+    },
+    {
+      "name": "Berkeley",
+      "@type": "City"
+    },
+    {
+      "name": "Dublin",
+      "@type": "City"
+    },
+    {
+      "name": "Emeryville",
+      "@type": "City"
+    },
+    {
+      "name": "Fremont",
+      "@type": "City"
+    },
+    {
+      "name": "Hayward",
+      "@type": "City"
+    },
+    {
+      "name": "Livermore",
+      "@type": "City"
+    },
+    {
+      "name": "Newark",
+      "@type": "City"
+    },
+    {
+      "name": "Oakland",
+      "@type": "City"
+    },
+    {
+      "name": "Piedmont",
+      "@type": "City"
+    },
+    {
+      "name": "Pleasanton",
+      "@type": "City"
+    },
+    {
+      "name": "San Leandro",
+      "@type": "City"
+    },
+    {
+      "name": "Union City",
+      "@type": "City"
+    },
+    {
+      "name": "Castro Valley",
+      "@type": "City"
+    },
+    {
+      "name": "San Lorenzo",
+      "@type": "City"
+    },
+    {
+      "name": "Ashland",
+      "@type": "City"
+    },
+    {
+      "name": "Cherryland",
+      "@type": "City"
+    },
+    {
+      "name": "Fairview",
+      "@type": "City"
+    },
+    {
+      "name": "Sunol",
+      "@type": "City"
+    },
+    {
+      "name": "Antioch",
+      "@type": "City"
+    },
+    {
+      "name": "Brentwood",
+      "@type": "City"
+    },
+    {
+      "name": "Clayton",
+      "@type": "City"
+    },
+    {
+      "name": "Concord",
+      "@type": "City"
+    },
+    {
+      "name": "Danville",
+      "@type": "City"
+    },
+    {
+      "name": "El Cerrito",
+      "@type": "City"
+    },
+    {
+      "name": "Hercules",
+      "@type": "City"
+    },
+    {
+      "name": "Lafayette",
+      "@type": "City"
+    },
+    {
+      "name": "Martinez",
+      "@type": "City"
+    },
+    {
+      "name": "Moraga",
+      "@type": "City"
+    },
+    {
+      "name": "Oakley",
+      "@type": "City"
+    },
+    {
+      "name": "Orinda",
+      "@type": "City"
+    },
+    {
+      "name": "Pinole",
+      "@type": "City"
+    },
+    {
+      "name": "Pittsburg",
+      "@type": "City"
+    },
+    {
+      "name": "Pleasant Hill",
+      "@type": "City"
+    },
+    {
+      "name": "Richmond",
+      "@type": "City"
+    },
+    {
+      "name": "San Pablo",
+      "@type": "City"
+    },
+    {
+      "name": "San Ramon",
+      "@type": "City"
+    },
+    {
+      "name": "Walnut Creek",
+      "@type": "City"
+    }
+  ],
+  "description": "Step 1: Initial Consultation and Visioning — Start by meeting with the design-build team to discuss your goals, lifestyle, budget, and aesthetic preferences. This is where you articulate what you want"
+}

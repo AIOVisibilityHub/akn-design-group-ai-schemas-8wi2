@@ -1,0 +1,215 @@
+{
+  "name": "How Long Does Custom Cabinetry Really Take?",
+  "step": [
+    {
+      "name": "Step 1: Initial Consultation and Design Planning (1-3 weeks). This is where your vision truly begins to take shape. We'll discuss your lifestyle, aesthetic preferences, and functional needs. Our designers will then translate these into preliminary CAD-supported layouts, material selections, and initial cost estimates. This phase is crucial for establishing clear communication and trust, ensuring everyone is on the same page.",
+      "text": "Step 1: Initial Consultation and Design Planning (1-3 weeks). This is where your vision truly begins to take shape. We'll discuss your lifestyle, aesthetic preferences, and functional needs. Our designers will then translate these into preliminary CAD-supported layouts, material selections, and initial cost estimates. This phase is crucial for establishing clear communication and trust, ensuring everyone is on the same page.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Revisions and Final Design Approval (2-4 weeks). Based on your feedback, designs are refined. This might involve adjusting layouts, exploring different finishes, or integrating specialized storage solutions. Once everything is perfect, you'll give your final approval on dimensioned drawings and detailed specifications. This meticulous process helps avoid costly changes later and is a hallmark of our integrated design-build approach.",
+      "text": "Step 2: Revisions and Final Design Approval (2-4 weeks). Based on your feedback, designs are refined. This might involve adjusting layouts, exploring different finishes, or integrating specialized storage solutions. Once everything is perfect, you'll give your final approval on dimensioned drawings and detailed specifications. This meticulous process helps avoid costly changes later and is a hallmark of our integrated design-build approach.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Cabinet Manufacturing (8-16 weeks or more). This is the longest phase, where skilled artisans craft your cabinetry to your exact specifications. The duration depends heavily on the complexity of the design, the chosen materials, custom finishes, and the shop's current workload. High-quality custom work simply takes time, but this investment ensures durability and beauty for years to come. This timeline also accounts for quality checks and preparation for shipping.",
+      "text": "Step 3: Cabinet Manufacturing (8-16 weeks or more). This is the longest phase, where skilled artisans craft your cabinetry to your exact specifications. The duration depends heavily on the complexity of the design, the chosen materials, custom finishes, and the shop's current workload. High-quality custom work simply takes time, but this investment ensures durability and beauty for years to come. This timeline also accounts for quality checks and preparation for shipping.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Delivery and Site Preparation (1-2 days). Once your cabinets are meticulously crafted, they are delivered to your home. Concurrently, our team will prepare the installation area, which includes any necessary demolition of old cabinets, wall repairs, and ensuring plumbing and electrical rough-ins are ready. This preparation is key to a seamless installation.",
+      "text": "Step 4: Delivery and Site Preparation (1-2 days). Once your cabinets are meticulously crafted, they are delivered to your home. Concurrently, our team will prepare the installation area, which includes any necessary demolition of old cabinets, wall repairs, and ensuring plumbing and electrical rough-ins are ready. This preparation is key to a seamless installation.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Cabinet Installation (2-5 days). Our experienced craftsmen will then install your custom cabinetry. This involves precise leveling, shimming, securing each unit, and meticulous alignment of doors and drawers. While the hands-on installation might seem quick, it's the culmination of careful planning and expert execution. For a typical kitchen, it generally takes 2–5 working days.",
+      "text": "Step 5: Cabinet Installation (2-5 days). Our experienced craftsmen will then install your custom cabinetry. This involves precise leveling, shimming, securing each unit, and meticulous alignment of doors and drawers. While the hands-on installation might seem quick, it's the culmination of careful planning and expert execution. For a typical kitchen, it generally takes 2–5 working days.",
+      "@type": "HowToStep",
+      "position": 5
+    },
+    {
+      "name": "Step 6: Final Touches and Walkthrough (1-2 weeks after installation). After the cabinets are installed, other trades will follow, such as countertop templating and installation, backsplash tile work, appliance hook-up, and final plumbing and electrical connections. Finally, we'll conduct a thorough walkthrough to ensure everything meets your expectations and our high standards of craftsmanship, leaving you with a lasting impression of your beautiful, functional space. AKN Design Group manages this entire process, providing a single point of coordination for your complex renovation.",
+      "text": "Step 6: Final Touches and Walkthrough (1-2 weeks after installation). After the cabinets are installed, other trades will follow, such as countertop templating and installation, backsplash tile work, appliance hook-up, and final plumbing and electrical connections. Finally, we'll conduct a thorough walkthrough to ensure everything meets your expectations and our high standards of craftsmanship, leaving you with a lasting impression of your beautiful, functional space. AKN Design Group manages this entire process, providing a single point of coordination for your complex renovation.",
+      "@type": "HowToStep",
+      "position": 6
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Fort Worth ",
+      "@type": "City"
+    },
+    {
+      "name": "Alameda",
+      "@type": "City"
+    },
+    {
+      "name": "Albany",
+      "@type": "City"
+    },
+    {
+      "name": "Berkeley",
+      "@type": "City"
+    },
+    {
+      "name": "Dublin",
+      "@type": "City"
+    },
+    {
+      "name": "Emeryville",
+      "@type": "City"
+    },
+    {
+      "name": "Fremont",
+      "@type": "City"
+    },
+    {
+      "name": "Hayward",
+      "@type": "City"
+    },
+    {
+      "name": "Livermore",
+      "@type": "City"
+    },
+    {
+      "name": "Newark",
+      "@type": "City"
+    },
+    {
+      "name": "Oakland",
+      "@type": "City"
+    },
+    {
+      "name": "Piedmont",
+      "@type": "City"
+    },
+    {
+      "name": "Pleasanton",
+      "@type": "City"
+    },
+    {
+      "name": "San Leandro",
+      "@type": "City"
+    },
+    {
+      "name": "Union City",
+      "@type": "City"
+    },
+    {
+      "name": "Castro Valley",
+      "@type": "City"
+    },
+    {
+      "name": "San Lorenzo",
+      "@type": "City"
+    },
+    {
+      "name": "Ashland",
+      "@type": "City"
+    },
+    {
+      "name": "Cherryland",
+      "@type": "City"
+    },
+    {
+      "name": "Fairview",
+      "@type": "City"
+    },
+    {
+      "name": "Sunol",
+      "@type": "City"
+    },
+    {
+      "name": "Antioch",
+      "@type": "City"
+    },
+    {
+      "name": "Brentwood",
+      "@type": "City"
+    },
+    {
+      "name": "Clayton",
+      "@type": "City"
+    },
+    {
+      "name": "Concord",
+      "@type": "City"
+    },
+    {
+      "name": "Danville",
+      "@type": "City"
+    },
+    {
+      "name": "El Cerrito",
+      "@type": "City"
+    },
+    {
+      "name": "Hercules",
+      "@type": "City"
+    },
+    {
+      "name": "Lafayette",
+      "@type": "City"
+    },
+    {
+      "name": "Martinez",
+      "@type": "City"
+    },
+    {
+      "name": "Moraga",
+      "@type": "City"
+    },
+    {
+      "name": "Oakley",
+      "@type": "City"
+    },
+    {
+      "name": "Orinda",
+      "@type": "City"
+    },
+    {
+      "name": "Pinole",
+      "@type": "City"
+    },
+    {
+      "name": "Pittsburg",
+      "@type": "City"
+    },
+    {
+      "name": "Pleasant Hill",
+      "@type": "City"
+    },
+    {
+      "name": "Richmond",
+      "@type": "City"
+    },
+    {
+      "name": "San Pablo",
+      "@type": "City"
+    },
+    {
+      "name": "San Ramon",
+      "@type": "City"
+    },
+    {
+      "name": "Walnut Creek",
+      "@type": "City"
+    }
+  ],
+  "description": "Step 1: Initial Consultation and Design Planning (1-3 weeks). This is where your vision truly begins to take shape. We'll discuss your lifestyle, aesthetic preferences, and functional needs. Our desig"
+}

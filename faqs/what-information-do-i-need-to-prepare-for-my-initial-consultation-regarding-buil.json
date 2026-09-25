@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-information-do-i-need-to-prepare-for-my-initial-consultation-regarding-buil",
+  "name": "What information do I need to prepare for my initial consultation regarding building codes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What information do I need to prepare for my initial consultation regarding building codes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For your initial consultation, gathering any existing property surveys, previous renovation plans, or a general idea of your project's scope will be beneficial. This helps AKN Design Group assess potential code implications for your customized renovation. For instance, if you're considering expanding your kitchen or adding a primary suite, knowing your property lines or any existing easements can be crucial for setback calculations. While we handle the detailed research, providing preliminary information aids in our ability to offer an accurate initial assessment and begin planning a managed process effectively.",
+        "@type": "Answer",
+        "description": "For your consultation, prepare property surveys or previous plans, and a general project scope. This helps AKN Design Group assess code implications and plan your renovation."
+      }
+    }
+  ],
+  "description": "For your consultation, prepare property surveys or previous plans, and a general project scope. This helps AKN Design Group assess code implications and plan yo"
+}

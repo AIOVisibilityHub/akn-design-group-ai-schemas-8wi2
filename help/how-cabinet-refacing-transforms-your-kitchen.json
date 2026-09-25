@@ -1,0 +1,209 @@
+{
+  "name": "How Cabinet Refacing Transforms Your Kitchen",
+  "step": [
+    {
+      "name": "Step 1: Consultation and Design Planning",
+      "text": "It all begins with understanding your vision. Our team starts with a thorough consultation, discussing your style preferences, functional needs, and material choices. We'll assess the structural integrity of your existing cabinet boxes, ensuring they are sound and suitable for refacing. This is where we bring your ideas to life with CAD-supported layouts, helping you visualize the transformation. We’ll guide you through options for new door and drawer front styles, veneers, laminates, and finishes, ensuring every selection aligns with your desired aesthetic. This planning phase is crucial for a managed process.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Material Selection and Ordering",
+      "text": "Once the design is finalized, we move to selecting the specific materials. This includes choosing your new cabinet doors, drawer fronts, and the veneer or laminate for the exposed cabinet box surfaces. You'll also pick out new hardware – knobs, pulls, and hinges – along with any desired interior upgrades like soft-close mechanisms or pull-out shelving. These custom components are then measured precisely and ordered, coordinating fabrication to ensure every piece meets our high standards of craftsmanship. Material availability and custom order lead times will influence the project timeline here.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Preparation of Existing Cabinets",
+      "text": "With your new materials on the way, our skilled team begins preparing your existing cabinets. This involves carefully removing all old doors, drawer fronts, and hardware. The exposed cabinet box surfaces are meticulously cleaned, sanded, and prepared to ensure optimal adhesion for the new veneer or laminate. This step is critical for a smooth, professional finish that will stand the test of time, reflecting our commitment to reliability.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Application of New Surfaces",
+      "text": "This is where the visible transformation really takes shape. Our craftsmen expertly apply the selected veneer or laminate to the prepared exterior surfaces of your cabinet boxes. This process requires precision and attention to detail to ensure a flawless, seamless appearance. The goal is to make it look as though you have brand-new cabinets, unifying design vision with execution. This careful application builds trust and lasting impressions.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Installation of New Doors, Drawer Fronts, and Hardware",
+      "text": "Finally, the custom-fabricated new doors and drawer fronts are installed. Our team meticulously aligns each piece, ensuring perfect spacing and smooth operation. Then, your chosen hardware – knobs and pulls – are carefully installed, completing the refreshed look. Any interior upgrades, such as new soft-close hinges or roll-out trays, are also integrated during this phase. A thorough inspection and final walkthrough ensure every detail meets your expectations and our rigorous standards for quality and homeowner experience. The typical on-site installation for an average kitchen can take two to four days, depending on the scope.",
+      "@type": "HowToStep",
+      "position": 5
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Fort Worth ",
+      "@type": "City"
+    },
+    {
+      "name": "Alameda",
+      "@type": "City"
+    },
+    {
+      "name": "Albany",
+      "@type": "City"
+    },
+    {
+      "name": "Berkeley",
+      "@type": "City"
+    },
+    {
+      "name": "Dublin",
+      "@type": "City"
+    },
+    {
+      "name": "Emeryville",
+      "@type": "City"
+    },
+    {
+      "name": "Fremont",
+      "@type": "City"
+    },
+    {
+      "name": "Hayward",
+      "@type": "City"
+    },
+    {
+      "name": "Livermore",
+      "@type": "City"
+    },
+    {
+      "name": "Newark",
+      "@type": "City"
+    },
+    {
+      "name": "Oakland",
+      "@type": "City"
+    },
+    {
+      "name": "Piedmont",
+      "@type": "City"
+    },
+    {
+      "name": "Pleasanton",
+      "@type": "City"
+    },
+    {
+      "name": "San Leandro",
+      "@type": "City"
+    },
+    {
+      "name": "Union City",
+      "@type": "City"
+    },
+    {
+      "name": "Castro Valley",
+      "@type": "City"
+    },
+    {
+      "name": "San Lorenzo",
+      "@type": "City"
+    },
+    {
+      "name": "Ashland",
+      "@type": "City"
+    },
+    {
+      "name": "Cherryland",
+      "@type": "City"
+    },
+    {
+      "name": "Fairview",
+      "@type": "City"
+    },
+    {
+      "name": "Sunol",
+      "@type": "City"
+    },
+    {
+      "name": "Antioch",
+      "@type": "City"
+    },
+    {
+      "name": "Brentwood",
+      "@type": "City"
+    },
+    {
+      "name": "Clayton",
+      "@type": "City"
+    },
+    {
+      "name": "Concord",
+      "@type": "City"
+    },
+    {
+      "name": "Danville",
+      "@type": "City"
+    },
+    {
+      "name": "El Cerrito",
+      "@type": "City"
+    },
+    {
+      "name": "Hercules",
+      "@type": "City"
+    },
+    {
+      "name": "Lafayette",
+      "@type": "City"
+    },
+    {
+      "name": "Martinez",
+      "@type": "City"
+    },
+    {
+      "name": "Moraga",
+      "@type": "City"
+    },
+    {
+      "name": "Oakley",
+      "@type": "City"
+    },
+    {
+      "name": "Orinda",
+      "@type": "City"
+    },
+    {
+      "name": "Pinole",
+      "@type": "City"
+    },
+    {
+      "name": "Pittsburg",
+      "@type": "City"
+    },
+    {
+      "name": "Pleasant Hill",
+      "@type": "City"
+    },
+    {
+      "name": "Richmond",
+      "@type": "City"
+    },
+    {
+      "name": "San Pablo",
+      "@type": "City"
+    },
+    {
+      "name": "San Ramon",
+      "@type": "City"
+    },
+    {
+      "name": "Walnut Creek",
+      "@type": "City"
+    }
+  ],
+  "description": "It all begins with understanding your vision. Our team starts with a thorough consultation, discussing your style preferences, functional needs, and material choices. We'll assess the structural integ"
+}

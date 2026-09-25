@@ -1,0 +1,215 @@
+{
+  "name": "How to Plan Your Kitchen Island Installation",
+  "step": [
+    {
+      "name": "Step 1: Define Your Island's Purpose and Measure Your Space",
+      "text": "Start by determining what functions your island will serve. Will it be for food prep, casual dining, extra storage, or all three? Then, carefully measure your room, noting existing cabinets, appliances, doors, and windows. This helps ensure your island fits perfectly without obstructing flow or existing features.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Plan Clearances and Create a Mock-Up",
+      "text": "Once you have an idea of size, test clearances. The National Kitchen and Bath Association (NKBA) recommends at least 42 inches for a work aisle with one cook and 48 inches for multiple cooks. For non-work walkways, aim for at least 36 inches. A simple mock-up with cardboard boxes can help you visualize the space and test traffic patterns.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Select Materials and Finishes",
+      "text": "This is where your design vision comes to life. Choose cabinetry that complements your home, a durable countertop material, and appropriate lighting. Consider how these elements will integrate with your existing kitchen aesthetic. AKN Design Group focuses on customized solutions that enhance functionality, beauty, and long-term value.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Coordinate Utilities and Permitting",
+      "text": "If your island will include a sink, cooktop, or electrical outlets, you'll need to plan for plumbing, gas, and electrical work. Verify any necessary permits with local authorities before installation begins. A qualified designer or contractor can navigate these requirements, especially for structural changes or significant flooring work. This helps avoid frequent mistakes like adding utilities without proper planning.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Oversee Installation and Final Walkthrough",
+      "text": "With design and utility planning complete, the physical installation begins. This includes positioning the island, installing cabinetry, templating and setting countertops, and connecting any appliances or fixtures. A final walkthrough ensures everything is installed to your satisfaction and functions as intended, embodying the craftsmanship and reliability AKN Design Group is known for.",
+      "@type": "HowToStep",
+      "position": 5
+    },
+    {
+      "name": "Step 6: Enjoy Your New Kitchen Island!",
+      "text": "Once the installation is complete, it's time to enjoy your newly enhanced kitchen. Your custom island will not only provide added functionality but also serve as a beautiful focal point in your Dallas–Fort Worth home. This managed process, from concept to completion, reflects our commitment to a high-touch homeowner experience. Ready to bring your kitchen island vision to life? Contact AKN Design Group to begin your project.",
+      "@type": "HowToStep",
+      "position": 6
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Fort Worth ",
+      "@type": "City"
+    },
+    {
+      "name": "Alameda",
+      "@type": "City"
+    },
+    {
+      "name": "Albany",
+      "@type": "City"
+    },
+    {
+      "name": "Berkeley",
+      "@type": "City"
+    },
+    {
+      "name": "Dublin",
+      "@type": "City"
+    },
+    {
+      "name": "Emeryville",
+      "@type": "City"
+    },
+    {
+      "name": "Fremont",
+      "@type": "City"
+    },
+    {
+      "name": "Hayward",
+      "@type": "City"
+    },
+    {
+      "name": "Livermore",
+      "@type": "City"
+    },
+    {
+      "name": "Newark",
+      "@type": "City"
+    },
+    {
+      "name": "Oakland",
+      "@type": "City"
+    },
+    {
+      "name": "Piedmont",
+      "@type": "City"
+    },
+    {
+      "name": "Pleasanton",
+      "@type": "City"
+    },
+    {
+      "name": "San Leandro",
+      "@type": "City"
+    },
+    {
+      "name": "Union City",
+      "@type": "City"
+    },
+    {
+      "name": "Castro Valley",
+      "@type": "City"
+    },
+    {
+      "name": "San Lorenzo",
+      "@type": "City"
+    },
+    {
+      "name": "Ashland",
+      "@type": "City"
+    },
+    {
+      "name": "Cherryland",
+      "@type": "City"
+    },
+    {
+      "name": "Fairview",
+      "@type": "City"
+    },
+    {
+      "name": "Sunol",
+      "@type": "City"
+    },
+    {
+      "name": "Antioch",
+      "@type": "City"
+    },
+    {
+      "name": "Brentwood",
+      "@type": "City"
+    },
+    {
+      "name": "Clayton",
+      "@type": "City"
+    },
+    {
+      "name": "Concord",
+      "@type": "City"
+    },
+    {
+      "name": "Danville",
+      "@type": "City"
+    },
+    {
+      "name": "El Cerrito",
+      "@type": "City"
+    },
+    {
+      "name": "Hercules",
+      "@type": "City"
+    },
+    {
+      "name": "Lafayette",
+      "@type": "City"
+    },
+    {
+      "name": "Martinez",
+      "@type": "City"
+    },
+    {
+      "name": "Moraga",
+      "@type": "City"
+    },
+    {
+      "name": "Oakley",
+      "@type": "City"
+    },
+    {
+      "name": "Orinda",
+      "@type": "City"
+    },
+    {
+      "name": "Pinole",
+      "@type": "City"
+    },
+    {
+      "name": "Pittsburg",
+      "@type": "City"
+    },
+    {
+      "name": "Pleasant Hill",
+      "@type": "City"
+    },
+    {
+      "name": "Richmond",
+      "@type": "City"
+    },
+    {
+      "name": "San Pablo",
+      "@type": "City"
+    },
+    {
+      "name": "San Ramon",
+      "@type": "City"
+    },
+    {
+      "name": "Walnut Creek",
+      "@type": "City"
+    }
+  ],
+  "description": "Start by determining what functions your island will serve. Will it be for food prep, casual dining, extra storage, or all three? Then, carefully measure your room, noting existing cabinets, appliance"
+}

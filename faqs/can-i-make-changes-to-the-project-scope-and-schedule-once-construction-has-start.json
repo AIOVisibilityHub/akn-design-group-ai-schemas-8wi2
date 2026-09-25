@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/can-i-make-changes-to-the-project-scope-and-schedule-once-construction-has-start",
+  "name": "Can I make changes to the project scope and schedule once construction has started?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I make changes to the project scope and schedule once construction has started?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While AKN Design Group strives for comprehensive planning before construction begins, we understand that adjustments may arise. Changes to the project scope once construction has started are possible, but they will likely impact the original schedule and budget. We facilitate clear communication about any desired modifications, evaluate their implications on materials and labor, and provide revised timelines and cost estimates transparently. Our focus is on achieving your vision while ensuring you are fully informed about how such changes affect the managed process and overall project completion.",
+        "@type": "Answer",
+        "description": "Scope changes during construction are possible but will impact the schedule and budget. We communicate transparently about any revisions and their effects."
+      }
+    }
+  ],
+  "description": "Scope changes during construction are possible but will impact the schedule and budget. We communicate transparently about any revisions and their effects."
+}

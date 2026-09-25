@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/when-do-i-need-to-involve-akn-design-group-for-building-code-coordination",
+  "name": "When do I need to involve AKN Design Group for building code coordination?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When do I need to involve AKN Design Group for building code coordination?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "It is best to involve AKN Design Group at the earliest stages of your project, ideally during the initial design and planning phase. This allows us to integrate code requirements directly into the architectural drawings and material selections. For instance, when planning a primary suite addition or an outdoor kitchen in the Dallas–Fort Worth metroplex, early engagement ensures that structural considerations, setbacks, and utility connections meet local codes before construction begins. Early coordination prevents the need for redesigns and ensures a managed process from concept to completion.",
+        "@type": "Answer",
+        "description": "Involve AKN Design Group early in the design and planning phase to integrate code requirements from the start, especially for significant remodels or additions in the Dallas–Fort Worth metroplex."
+      }
+    }
+  ],
+  "description": "Involve AKN Design Group early in the design and planning phase to integrate code requirements from the start, especially for significant remodels or additions"
+}

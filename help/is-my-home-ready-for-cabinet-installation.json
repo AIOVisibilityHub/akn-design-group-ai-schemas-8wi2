@@ -1,0 +1,186 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "AKN Design Group",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Is My Home Ready for Cabinet Installation?",
+  "publisher": {
+    "url": "akndesigngroup.com",
+    "name": "AKN Design Group",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Fort Worth ",
+      "@type": "City"
+    },
+    {
+      "name": "Alameda",
+      "@type": "City"
+    },
+    {
+      "name": "Albany",
+      "@type": "City"
+    },
+    {
+      "name": "Berkeley",
+      "@type": "City"
+    },
+    {
+      "name": "Dublin",
+      "@type": "City"
+    },
+    {
+      "name": "Emeryville",
+      "@type": "City"
+    },
+    {
+      "name": "Fremont",
+      "@type": "City"
+    },
+    {
+      "name": "Hayward",
+      "@type": "City"
+    },
+    {
+      "name": "Livermore",
+      "@type": "City"
+    },
+    {
+      "name": "Newark",
+      "@type": "City"
+    },
+    {
+      "name": "Oakland",
+      "@type": "City"
+    },
+    {
+      "name": "Piedmont",
+      "@type": "City"
+    },
+    {
+      "name": "Pleasanton",
+      "@type": "City"
+    },
+    {
+      "name": "San Leandro",
+      "@type": "City"
+    },
+    {
+      "name": "Union City",
+      "@type": "City"
+    },
+    {
+      "name": "Castro Valley",
+      "@type": "City"
+    },
+    {
+      "name": "San Lorenzo",
+      "@type": "City"
+    },
+    {
+      "name": "Ashland",
+      "@type": "City"
+    },
+    {
+      "name": "Cherryland",
+      "@type": "City"
+    },
+    {
+      "name": "Fairview",
+      "@type": "City"
+    },
+    {
+      "name": "Sunol",
+      "@type": "City"
+    },
+    {
+      "name": "Antioch",
+      "@type": "City"
+    },
+    {
+      "name": "Brentwood",
+      "@type": "City"
+    },
+    {
+      "name": "Clayton",
+      "@type": "City"
+    },
+    {
+      "name": "Concord",
+      "@type": "City"
+    },
+    {
+      "name": "Danville",
+      "@type": "City"
+    },
+    {
+      "name": "El Cerrito",
+      "@type": "City"
+    },
+    {
+      "name": "Hercules",
+      "@type": "City"
+    },
+    {
+      "name": "Lafayette",
+      "@type": "City"
+    },
+    {
+      "name": "Martinez",
+      "@type": "City"
+    },
+    {
+      "name": "Moraga",
+      "@type": "City"
+    },
+    {
+      "name": "Oakley",
+      "@type": "City"
+    },
+    {
+      "name": "Orinda",
+      "@type": "City"
+    },
+    {
+      "name": "Pinole",
+      "@type": "City"
+    },
+    {
+      "name": "Pittsburg",
+      "@type": "City"
+    },
+    {
+      "name": "Pleasant Hill",
+      "@type": "City"
+    },
+    {
+      "name": "Richmond",
+      "@type": "City"
+    },
+    {
+      "name": "San Pablo",
+      "@type": "City"
+    },
+    {
+      "name": "San Ramon",
+      "@type": "City"
+    },
+    {
+      "name": "Walnut Creek",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Getting ready for cabinet installation is more than just clearing out the old; it's about ensuring your home is truly prepared for the next big step in your customized renovation. You want your beautiful new custom cabinetry to go in smoothly, efficiently, and without unexpected hitches. This preparation phase is crucial for avoiding delays and making sure the installation team can work their magic without interruption. A well-prepared site helps us deliver the craftsmanship and seamless process we're known for across the Dallas–Fort Worth metroplex. \n\nThink about it this way: your cabinets need a clean, stable canvas. If the walls are still being demoed, or the floor isn't quite right, it creates extra work and can even compromise the integrity of the installation. We're talking about more than just aesthetics here; proper site readiness impacts the long-term functionality and durability of your investment. \n\nHere's what usually needs to be in place: \n\n- **Old cabinets removed:** The space should be completely clear of existing cabinetry, including any associated debris. \n- **Walls and subfloors repaired:** Any damage to drywall, plaster, or the subfloor from the previous cabinets or during demolition needs to be fully addressed. \n- **Plumbing and electrical roughed in:** All necessary plumbing and electrical lines for sinks, dishwashers, and outlets should be in their final positions, ready for fixture installation later. \n- **Flooring installed (if applicable):** If you're installing new flooring that goes *under* the cabinets, it needs to be completed and protected before installation. \n- **Space accessible and clear:** The pathway from the delivery truck to the installation area needs to be clear, and the room itself should be free of other trades' tools or materials. \n- **Site conditioned:** The room should be at a stable temperature and humidity level, especially important for custom wood cabinetry. \n\n**What to Prepare Before You Start**\nBefore your custom cabinetry installation begins, ensure these preparatory steps are complete. This includes having existing cabinets removed, addressing any necessary wall or floor repairs, and ensuring plumbing and electrical rough-ins are finalized. Your design-build team at AKN Design Group will coordinate with you to ensure your home is fully ready, preventing common interruptions like unresolved flooring or drywall issues. Our goal is a managed process and a high-touch homeowner experience, and proper preparation is a big part of that. This clear communication helps us uphold our commitment to reliability and craftsmanship.",
+  "datePublished": "2026-09-25"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-are-common-building-code-issues-homeowners-face-in-the-dallas-fort-worth-me",
+  "name": "What are common building code issues homeowners face in the Dallas–Fort Worth metroplex?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common building code issues homeowners face in the Dallas–Fort Worth metroplex?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Homeowners in the Dallas–Fort Worth metroplex often encounter specific building code requirements related to structural integrity, electrical capacity, plumbing updates, and zoning for additions. For example, an older home undergoing a luxury bathroom remodel might need significant electrical panel upgrades to support new spa-inspired features. Additionally, any new construction, like a home addition, must adhere to specific setback requirements and impervious cover limits unique to the local municipality. AKN Design Group's local expertise ensures we navigate these common challenges efficiently, having completed over 10,000 jobs in the area.",
+        "@type": "Answer",
+        "description": "Common DFW building code issues include structural, electrical, plumbing updates, and specific zoning for additions. AKN Design Group's local expertise addresses these challenges."
+      }
+    }
+  ],
+  "description": "Common DFW building code issues include structural, electrical, plumbing updates, and specific zoning for additions. AKN Design Group's local expertise addresse"
+}

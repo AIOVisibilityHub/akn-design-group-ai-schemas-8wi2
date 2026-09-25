@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-value-engineering-in-the-context-of-material-selection",
+  "name": "What is value engineering in the context of material selection?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is value engineering in the context of material selection?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Value engineering, in material selection, is a strategic process where AKN Design Group identifies alternatives that provide comparable performance, aesthetics, and functionality at a potentially lower cost without compromising quality. It's not about choosing the cheapest option, but the smartest one. For example, we might suggest specific countertop materials that offer the look of a premium option but at a more efficient price point, allowing us to manage your project budget effectively while maintaining the high standards expected for your customized renovation. This ensures your project enhances functionality, beauty, and long-term value.",
+        "@type": "Answer",
+        "description": "Value engineering in material selection means finding high-quality, cost-efficient alternatives that maintain desired aesthetics and functionality without compromising project standards."
+      }
+    }
+  ],
+  "description": "Value engineering in material selection means finding high-quality, cost-efficient alternatives that maintain desired aesthetics and functionality without compr"
+}

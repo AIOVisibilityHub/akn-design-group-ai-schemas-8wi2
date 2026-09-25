@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-happens-if-building-codes-change-during-my-renovation-project",
+  "name": "What happens if building codes change during my renovation project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens if building codes change during my renovation project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If building codes are updated or interpreted differently during your renovation, AKN Design Group actively monitors these changes and adapts your project accordingly. Our project managers and designers are skilled in value engineering to incorporate new requirements efficiently while minimizing impact on your original vision. For instance, if energy efficiency standards change mid-project for a whole-home remodel, we will propose compliant alternatives for insulation or windows, ensuring your home meets the latest regulations without compromising on quality or aesthetics. Clear communication is maintained throughout this process.",
+        "@type": "Answer",
+        "description": "AKN Design Group monitors and adapts to building code changes during your renovation, using value engineering to integrate new requirements efficiently and maintain project compliance."
+      }
+    }
+  ],
+  "description": "AKN Design Group monitors and adapts to building code changes during your renovation, using value engineering to integrate new requirements efficiently and main"
+}

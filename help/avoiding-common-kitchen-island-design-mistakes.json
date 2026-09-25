@@ -1,0 +1,186 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "AKN Design Group",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Avoiding Common Kitchen Island Design Mistakes",
+  "publisher": {
+    "url": "akndesigngroup.com",
+    "name": "AKN Design Group",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Fort Worth ",
+      "@type": "City"
+    },
+    {
+      "name": "Alameda",
+      "@type": "City"
+    },
+    {
+      "name": "Albany",
+      "@type": "City"
+    },
+    {
+      "name": "Berkeley",
+      "@type": "City"
+    },
+    {
+      "name": "Dublin",
+      "@type": "City"
+    },
+    {
+      "name": "Emeryville",
+      "@type": "City"
+    },
+    {
+      "name": "Fremont",
+      "@type": "City"
+    },
+    {
+      "name": "Hayward",
+      "@type": "City"
+    },
+    {
+      "name": "Livermore",
+      "@type": "City"
+    },
+    {
+      "name": "Newark",
+      "@type": "City"
+    },
+    {
+      "name": "Oakland",
+      "@type": "City"
+    },
+    {
+      "name": "Piedmont",
+      "@type": "City"
+    },
+    {
+      "name": "Pleasanton",
+      "@type": "City"
+    },
+    {
+      "name": "San Leandro",
+      "@type": "City"
+    },
+    {
+      "name": "Union City",
+      "@type": "City"
+    },
+    {
+      "name": "Castro Valley",
+      "@type": "City"
+    },
+    {
+      "name": "San Lorenzo",
+      "@type": "City"
+    },
+    {
+      "name": "Ashland",
+      "@type": "City"
+    },
+    {
+      "name": "Cherryland",
+      "@type": "City"
+    },
+    {
+      "name": "Fairview",
+      "@type": "City"
+    },
+    {
+      "name": "Sunol",
+      "@type": "City"
+    },
+    {
+      "name": "Antioch",
+      "@type": "City"
+    },
+    {
+      "name": "Brentwood",
+      "@type": "City"
+    },
+    {
+      "name": "Clayton",
+      "@type": "City"
+    },
+    {
+      "name": "Concord",
+      "@type": "City"
+    },
+    {
+      "name": "Danville",
+      "@type": "City"
+    },
+    {
+      "name": "El Cerrito",
+      "@type": "City"
+    },
+    {
+      "name": "Hercules",
+      "@type": "City"
+    },
+    {
+      "name": "Lafayette",
+      "@type": "City"
+    },
+    {
+      "name": "Martinez",
+      "@type": "City"
+    },
+    {
+      "name": "Moraga",
+      "@type": "City"
+    },
+    {
+      "name": "Oakley",
+      "@type": "City"
+    },
+    {
+      "name": "Orinda",
+      "@type": "City"
+    },
+    {
+      "name": "Pinole",
+      "@type": "City"
+    },
+    {
+      "name": "Pittsburg",
+      "@type": "City"
+    },
+    {
+      "name": "Pleasant Hill",
+      "@type": "City"
+    },
+    {
+      "name": "Richmond",
+      "@type": "City"
+    },
+    {
+      "name": "San Pablo",
+      "@type": "City"
+    },
+    {
+      "name": "San Ramon",
+      "@type": "City"
+    },
+    {
+      "name": "Walnut Creek",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "A kitchen island can be a true centerpiece, transforming your kitchen into a highly functional and beautiful space for cooking, entertaining, and daily life. But we've seen homeowners stumble over some common pitfalls during the design phase that can turn a dream feature into a frustrating one. At AKN Design Group, we believe in a managed process that anticipates and avoids these issues, ensuring your custom kitchen island enhances your home's functionality, beauty, and value.\n\nHere are some frequent mistakes and how our design-build approach helps you sidestep them:\n\n*   **Designing Before Confirming Clearances:** This is a big one. An island that’s too large or poorly placed can choke off traffic flow, making your kitchen feel cramped. We meticulously plan for adequate aisle widths – at least 42-48 inches between counter fronts – to ensure comfortable movement, even when appliance doors are open. Our CAD-supported layouts are invaluable here, letting you visualize the space before construction begins.\n*   **Blocking Appliance or Room Doors:** It sounds obvious, but it’s easy to overlook how a new island might interfere with the full swing of your refrigerator, oven, or even a pantry door. We map out all appliance and room door clearances during the design phase to prevent these frustrating blockages.\n*   **Insufficient Seating Overhang:** If you plan for seating, make sure there’s enough knee room. A common guideline is 12–15 inches of overhang for comfortable seating. Less than that, and stools become awkward and uncomfortable, turning a potential gathering spot into an unused feature.\n*   **Failing to Plan for Outlets and Services:** Forget where to plug in your stand mixer or charge your phone? An island with no outlets is a missed opportunity. If you include a sink or cooktop, planning for electrical, plumbing, and ventilation rough-ins is critical *before* the island is set, not as an afterthought.\n*   **Ignoring Floor Protection or Subfloor Preparation:** Especially with heavier countertop materials or when rerouting utilities, proper floor reinforcement and protection are crucial. We ensure the subfloor can adequately support the new weight and that existing flooring is protected or seamlessly repaired.\n*   **Assuming Generic Utility Installation:** Electrical, plumbing, and gas work must adhere to local building codes. Never assume a generic guide covers all requirements. We coordinate all utility work with applicable local requirements and necessary permits, providing a single point of coordination for a complex renovation.\n\nOur integrated design-build process means we catch these details from the start, ensuring your kitchen island is a perfectly crafted, functional addition to your Dallas–Fort Worth home.",
+  "datePublished": "2026-09-25"
+}

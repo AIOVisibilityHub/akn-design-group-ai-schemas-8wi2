@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-should-homeowners-prepare-before-their-initial-consultation-with-akn-design",
+  "name": "What should homeowners prepare before their initial consultation with AKN Design Group for a renovation project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should homeowners prepare before their initial consultation with AKN Design Group for a renovation project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before your initial consultation with AKN Design Group, it is beneficial to gather any inspirations you have, such as photos, architectural styles you admire, or a preliminary list of desired functionalities for your space. Considering your approximate budget range and an ideal timeline for project completion can also be very helpful. While not exhaustive, having a general understanding of your needs allows us to have a more productive discussion about the scope of your customized renovation and how our managed process can bring your vision to life. This preparation helps us tailor our initial recommendations and focus on enhancing functionality, beauty, and value.",
+        "@type": "Answer",
+        "description": "Before an initial consultation, homeowners should prepare renovation inspirations, a general budget, and an ideal timeline to help AKN Design Group understand their vision."
+      }
+    }
+  ],
+  "description": "Before an initial consultation, homeowners should prepare renovation inspirations, a general budget, and an ideal timeline to help AKN Design Group understand t"
+}

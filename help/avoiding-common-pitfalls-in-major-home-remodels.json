@@ -1,0 +1,186 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "AKN Design Group",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Avoiding Common Pitfalls in Major Home Remodels",
+  "publisher": {
+    "url": "akndesigngroup.com",
+    "name": "AKN Design Group",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Fort Worth ",
+      "@type": "City"
+    },
+    {
+      "name": "Alameda",
+      "@type": "City"
+    },
+    {
+      "name": "Albany",
+      "@type": "City"
+    },
+    {
+      "name": "Berkeley",
+      "@type": "City"
+    },
+    {
+      "name": "Dublin",
+      "@type": "City"
+    },
+    {
+      "name": "Emeryville",
+      "@type": "City"
+    },
+    {
+      "name": "Fremont",
+      "@type": "City"
+    },
+    {
+      "name": "Hayward",
+      "@type": "City"
+    },
+    {
+      "name": "Livermore",
+      "@type": "City"
+    },
+    {
+      "name": "Newark",
+      "@type": "City"
+    },
+    {
+      "name": "Oakland",
+      "@type": "City"
+    },
+    {
+      "name": "Piedmont",
+      "@type": "City"
+    },
+    {
+      "name": "Pleasanton",
+      "@type": "City"
+    },
+    {
+      "name": "San Leandro",
+      "@type": "City"
+    },
+    {
+      "name": "Union City",
+      "@type": "City"
+    },
+    {
+      "name": "Castro Valley",
+      "@type": "City"
+    },
+    {
+      "name": "San Lorenzo",
+      "@type": "City"
+    },
+    {
+      "name": "Ashland",
+      "@type": "City"
+    },
+    {
+      "name": "Cherryland",
+      "@type": "City"
+    },
+    {
+      "name": "Fairview",
+      "@type": "City"
+    },
+    {
+      "name": "Sunol",
+      "@type": "City"
+    },
+    {
+      "name": "Antioch",
+      "@type": "City"
+    },
+    {
+      "name": "Brentwood",
+      "@type": "City"
+    },
+    {
+      "name": "Clayton",
+      "@type": "City"
+    },
+    {
+      "name": "Concord",
+      "@type": "City"
+    },
+    {
+      "name": "Danville",
+      "@type": "City"
+    },
+    {
+      "name": "El Cerrito",
+      "@type": "City"
+    },
+    {
+      "name": "Hercules",
+      "@type": "City"
+    },
+    {
+      "name": "Lafayette",
+      "@type": "City"
+    },
+    {
+      "name": "Martinez",
+      "@type": "City"
+    },
+    {
+      "name": "Moraga",
+      "@type": "City"
+    },
+    {
+      "name": "Oakley",
+      "@type": "City"
+    },
+    {
+      "name": "Orinda",
+      "@type": "City"
+    },
+    {
+      "name": "Pinole",
+      "@type": "City"
+    },
+    {
+      "name": "Pittsburg",
+      "@type": "City"
+    },
+    {
+      "name": "Pleasant Hill",
+      "@type": "City"
+    },
+    {
+      "name": "Richmond",
+      "@type": "City"
+    },
+    {
+      "name": "San Pablo",
+      "@type": "City"
+    },
+    {
+      "name": "San Ramon",
+      "@type": "City"
+    },
+    {
+      "name": "Walnut Creek",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Major home remodels, especially in the vibrant Dallas–Fort Worth metroplex, are exciting opportunities to enhance your home's functionality, beauty, and value. However, they can also come with potential pitfalls if not managed carefully. We believe in a transparent, managed process where design vision and construction execution are harmonized, helping you avoid common headaches and ensure a lasting impression.\n\nCommon Mistakes to Avoid:\n\n*   **- [ ] Accepting an unusually low bid without reviewing exclusions — why:** An offer that seems too good to be true often is. Such bids might exclude critical aspects of the project, leading to costly change orders down the line. Always request a detailed scope of work and compare bids thoroughly, understanding exactly what's included.\n*   **- [ ] Paying too much upfront — why:** While an initial deposit is standard, paying a large percentage of the project cost upfront can leave you vulnerable if issues arise or the project stalls. A reasonable payment schedule tied to project milestones protects both you and the contractor.\n*   **- [ ] Failing to verify active insurance — why:** Your contractor should carry both workers’ compensation and general liability insurance. Without it, you could be held liable for accidents or damages that occur on your property during the renovation. Always ask for proof of current coverage.\n*   **- [ ] Relying on verbal changes — why:** Any modifications to the project scope, materials, or timeline should always be documented in a written change order. Verbal agreements are easily misunderstood and can lead to disputes or unexpected costs. Clear communication through written agreements is essential.\n*   **- [ ] Assuming the homeowner will handle permits without a clear written agreement — why:** Permit coordination is a critical, often complex, part of any major renovation. If your contract doesn't explicitly state that the contractor is responsible for obtaining all necessary permits and arranging inspections, you might find yourself burdened with this task. AKN Design Group includes permit coordination in its managed process.\n\nHow to use this checklist:\nUse these points as a guide when you're evaluating potential contractors and reviewing project proposals. A reputable design-build firm like AKN Design Group will welcome these questions and provide clear, comprehensive answers, fostering trust and transparency throughout your customized renovation journey. Our commitment to core values—honesty, reliability, and craftsmanship—means we prioritize your homeowner experience and ensure clear communication every step of the way.\n\nWhat to Do Next:\nReview this checklist with any potential contractor. For a detailed discussion on how AKN Design Group manages complex renovations with full transparency, contact us for a consultation today.",
+  "datePublished": "2026-09-25"
+}

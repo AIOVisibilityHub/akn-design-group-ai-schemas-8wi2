@@ -1,0 +1,186 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "AKN Design Group",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Why aren't my custom cabinets fitting perfectly?",
+  "publisher": {
+    "url": "akndesigngroup.com",
+    "name": "AKN Design Group",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Fort Worth ",
+      "@type": "City"
+    },
+    {
+      "name": "Alameda",
+      "@type": "City"
+    },
+    {
+      "name": "Albany",
+      "@type": "City"
+    },
+    {
+      "name": "Berkeley",
+      "@type": "City"
+    },
+    {
+      "name": "Dublin",
+      "@type": "City"
+    },
+    {
+      "name": "Emeryville",
+      "@type": "City"
+    },
+    {
+      "name": "Fremont",
+      "@type": "City"
+    },
+    {
+      "name": "Hayward",
+      "@type": "City"
+    },
+    {
+      "name": "Livermore",
+      "@type": "City"
+    },
+    {
+      "name": "Newark",
+      "@type": "City"
+    },
+    {
+      "name": "Oakland",
+      "@type": "City"
+    },
+    {
+      "name": "Piedmont",
+      "@type": "City"
+    },
+    {
+      "name": "Pleasanton",
+      "@type": "City"
+    },
+    {
+      "name": "San Leandro",
+      "@type": "City"
+    },
+    {
+      "name": "Union City",
+      "@type": "City"
+    },
+    {
+      "name": "Castro Valley",
+      "@type": "City"
+    },
+    {
+      "name": "San Lorenzo",
+      "@type": "City"
+    },
+    {
+      "name": "Ashland",
+      "@type": "City"
+    },
+    {
+      "name": "Cherryland",
+      "@type": "City"
+    },
+    {
+      "name": "Fairview",
+      "@type": "City"
+    },
+    {
+      "name": "Sunol",
+      "@type": "City"
+    },
+    {
+      "name": "Antioch",
+      "@type": "City"
+    },
+    {
+      "name": "Brentwood",
+      "@type": "City"
+    },
+    {
+      "name": "Clayton",
+      "@type": "City"
+    },
+    {
+      "name": "Concord",
+      "@type": "City"
+    },
+    {
+      "name": "Danville",
+      "@type": "City"
+    },
+    {
+      "name": "El Cerrito",
+      "@type": "City"
+    },
+    {
+      "name": "Hercules",
+      "@type": "City"
+    },
+    {
+      "name": "Lafayette",
+      "@type": "City"
+    },
+    {
+      "name": "Martinez",
+      "@type": "City"
+    },
+    {
+      "name": "Moraga",
+      "@type": "City"
+    },
+    {
+      "name": "Oakley",
+      "@type": "City"
+    },
+    {
+      "name": "Orinda",
+      "@type": "City"
+    },
+    {
+      "name": "Pinole",
+      "@type": "City"
+    },
+    {
+      "name": "Pittsburg",
+      "@type": "City"
+    },
+    {
+      "name": "Pleasant Hill",
+      "@type": "City"
+    },
+    {
+      "name": "Richmond",
+      "@type": "City"
+    },
+    {
+      "name": "San Pablo",
+      "@type": "City"
+    },
+    {
+      "name": "San Ramon",
+      "@type": "City"
+    },
+    {
+      "name": "Walnut Creek",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "It's frustrating when you envision perfectly aligned custom cabinetry, only to find gaps or issues during installation. The truth is, very few rooms are perfectly square or level, especially in older Dallas–Fort Worth homes. This isn't a flaw in your cabinets, but a common challenge in residential remodeling that requires careful planning and experienced hands.\n\nWhat to Expect During the Process:\nWhen AKN Design Group approaches custom cabinetry, we start with precise site measurements, taking into account every wall, opening, and even potential out-of-square areas. This isn't just about measuring length and width; it's about understanding the nuances of your space. During installation, our team establishes level and plumb reference lines, shimming cabinet boxes as needed to ensure everything is perfectly aligned despite any imperfections in your walls or floors. We also carefully install fillers and trim to bridge any small gaps, creating that seamless, built-in look. This meticulous process ensures your custom cabinetry integrates beautifully, enhancing functionality, beauty, and value, even in challenging spaces. It's a key part of our managed process, bringing design vision and construction execution together.\n\nCommon Mistakes to Avoid:\nA common mistake homeowners or less experienced installers make is assuming a room is perfectly regular. This can lead to cabinets that don't fit snugly or appear uneven. Another is not properly coordinating appliance dimensions or utility locations, causing headaches later on. Without accurate measurements and a detailed plan, you might find yourself with clearances that are too tight or, conversely, wasted space. Overlooking necessary fillers or not verifying finished ends can also detract from the aesthetic. Our approach ensures these details are handled upfront, minimizing surprises and ensuring a high-quality outcome.\n\nWhen Professional Guidance Helps:\nFor significant custom cabinetry projects, especially those involving large runs of cabinets, islands, integrated appliances, or irregular room shapes, professional guidance is crucial. An experienced design-build team like AKN Design Group handles the complexities of utility coordination, structural integration, and ensuring dimensional accuracy. Incorrect leveling or fastening can impact door operation, countertop fit, and overall appearance, making expert installation invaluable. We provide a single point of coordination, ensuring your custom cabinetry is a true asset to your home.",
+  "datePublished": "2026-09-25"
+}

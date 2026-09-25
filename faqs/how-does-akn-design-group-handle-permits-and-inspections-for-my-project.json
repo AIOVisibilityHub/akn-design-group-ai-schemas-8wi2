@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-does-akn-design-group-handle-permits-and-inspections-for-my-project",
+  "name": "How does AKN Design Group handle permits and inspections for my project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does AKN Design Group handle permits and inspections for my project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "AKN Design Group manages the complete permit coordination process, from preparing and submitting detailed plans to scheduling and overseeing all necessary inspections. Our integrated design-build approach means we handle the bureaucracy so you don't have to. For example, during a custom kitchen renovation, we ensure all electrical, plumbing, and structural modifications meet current codes and pass inspection. This comprehensive service is part of our commitment to a seamless, managed process, allowing you to focus on the exciting aspects of your renovation without the stress of navigating complex municipal requirements.",
+        "@type": "Answer",
+        "description": "AKN Design Group handles all permit coordination, including plan submission and inspection scheduling, as part of our integrated design-build process to ensure compliance."
+      }
+    }
+  ],
+  "description": "AKN Design Group handles all permit coordination, including plan submission and inspection scheduling, as part of our integrated design-build process to ensure"
+}

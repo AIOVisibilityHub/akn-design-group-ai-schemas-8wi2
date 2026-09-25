@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/can-i-make-changes-to-my-project-plan-after-permits-have-been-approved",
+  "name": "Can I make changes to my project plan after permits have been approved?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I make changes to my project plan after permits have been approved?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While minor adjustments may sometimes be accommodated, significant changes to your project plan after permit approval typically require a permit revision, which can add time and cost to your renovation. For instance, if you decide to substantially alter the footprint of an addition or relocate a major plumbing stack in a luxury bathroom, amended plans must often be resubmitted and re-approved by the city. AKN Design Group works diligently during the design phase to finalize plans and minimize such revisions, emphasizing clear communication and detailed planning to ensure a seamless homeowner experience and avoid unnecessary delays.",
+        "@type": "Answer",
+        "description": "Significant project changes after permit approval usually require a permit revision, adding time and cost. AKN Design Group minimizes this through detailed upfront planning."
+      }
+    }
+  ],
+  "description": "Significant project changes after permit approval usually require a permit revision, adding time and cost. AKN Design Group minimizes this through detailed upfr"
+}

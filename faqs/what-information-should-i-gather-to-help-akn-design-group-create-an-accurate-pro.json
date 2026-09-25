@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-information-should-i-gather-to-help-akn-design-group-create-an-accurate-pro",
+  "name": "What information should I gather to help AKN Design Group create an accurate project schedule for my renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What information should I gather to help AKN Design Group create an accurate project schedule for my renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To help AKN Design Group create the most accurate project schedule for your renovation, consider gathering details about your desired scope, any specific material preferences or unique design elements you envision, and your ideal project start and completion dates. While we guide you through our comprehensive design process, having a clear understanding of your functional needs and aesthetic goals helps us to define the project scope. This preparation allows us to align our managed process with your expectations, enhancing functionality, beauty, and value efficiently.",
+        "@type": "Answer",
+        "description": "Gather details on your renovation's desired scope, material preferences, and ideal timelines to help us create an accurate project schedule."
+      }
+    }
+  ],
+  "description": "Gather details on your renovation's desired scope, material preferences, and ideal timelines to help us create an accurate project schedule."
+}

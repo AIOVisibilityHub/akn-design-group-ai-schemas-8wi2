@@ -1,0 +1,215 @@
+{
+  "name": "Opening Up Your Kitchen: What to Expect",
+  "step": [
+    {
+      "name": "Step 1: Initial Consultation and Feasibility Review",
+      "text": "Your journey begins with an experienced design-build team, like AKN Design Group. We’ll discuss your vision, assess your existing space, and determine the feasibility of removing walls, particularly if they’re structural. This phase often includes existing-condition measurement and an initial structural assessment to understand the scope.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Structural Engineering and Design Planning",
+      "text": "If a wall is structural, stamped structural engineering plans will be required. Our team works with qualified engineers to design the necessary supports, like beams or posts. Concurrently, we develop concept and space plans, creating detailed construction drawings that show how your new open space will integrate with the rest of your home, including how to handle plumbing, electrical, and HVAC.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Permit Acquisition and Approvals",
+      "text": "Removing structural walls or significantly altering utilities typically requires building department approval. We'll handle permit submission and coordination. This review process can take several weeks, so patience is key. It's a critical step to ensure safety and compliance, and we don't start demolition until approvals are secured.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Demolition and Structural Installation",
+      "text": "Once permits are in hand, demolition begins. This phase involves carefully removing walls and installing new structural framing, beams, or posts to support your home. Our skilled craftsmen ensure this is done safely and precisely, laying the foundation for your open space.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Rough-Ins and Inspections",
+      "text": "With the new structure in place, rough plumbing, electrical, and HVAC work commences. All new wiring, pipes, and ductwork are run before walls are sealed. Throughout this stage, various inspections will occur to ensure everything meets code. This is a crucial checkpoint in our managed process.",
+      "@type": "HowToStep",
+      "position": 5
+    },
+    {
+      "name": "Step 6: Finishes, Installation, and Final Walkthrough",
+      "text": "Finally, the space takes shape with material and appliance selections coming to life. This includes drywall, flooring, cabinetry, countertops, and lighting. We conduct a final walkthrough with you, ensuring every detail aligns with your vision and our commitment to craftsmanship, reliability, and lasting impressions. This comprehensive approach means we are the single point of coordination from start to finish.",
+      "@type": "HowToStep",
+      "position": 6
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Fort Worth ",
+      "@type": "City"
+    },
+    {
+      "name": "Alameda",
+      "@type": "City"
+    },
+    {
+      "name": "Albany",
+      "@type": "City"
+    },
+    {
+      "name": "Berkeley",
+      "@type": "City"
+    },
+    {
+      "name": "Dublin",
+      "@type": "City"
+    },
+    {
+      "name": "Emeryville",
+      "@type": "City"
+    },
+    {
+      "name": "Fremont",
+      "@type": "City"
+    },
+    {
+      "name": "Hayward",
+      "@type": "City"
+    },
+    {
+      "name": "Livermore",
+      "@type": "City"
+    },
+    {
+      "name": "Newark",
+      "@type": "City"
+    },
+    {
+      "name": "Oakland",
+      "@type": "City"
+    },
+    {
+      "name": "Piedmont",
+      "@type": "City"
+    },
+    {
+      "name": "Pleasanton",
+      "@type": "City"
+    },
+    {
+      "name": "San Leandro",
+      "@type": "City"
+    },
+    {
+      "name": "Union City",
+      "@type": "City"
+    },
+    {
+      "name": "Castro Valley",
+      "@type": "City"
+    },
+    {
+      "name": "San Lorenzo",
+      "@type": "City"
+    },
+    {
+      "name": "Ashland",
+      "@type": "City"
+    },
+    {
+      "name": "Cherryland",
+      "@type": "City"
+    },
+    {
+      "name": "Fairview",
+      "@type": "City"
+    },
+    {
+      "name": "Sunol",
+      "@type": "City"
+    },
+    {
+      "name": "Antioch",
+      "@type": "City"
+    },
+    {
+      "name": "Brentwood",
+      "@type": "City"
+    },
+    {
+      "name": "Clayton",
+      "@type": "City"
+    },
+    {
+      "name": "Concord",
+      "@type": "City"
+    },
+    {
+      "name": "Danville",
+      "@type": "City"
+    },
+    {
+      "name": "El Cerrito",
+      "@type": "City"
+    },
+    {
+      "name": "Hercules",
+      "@type": "City"
+    },
+    {
+      "name": "Lafayette",
+      "@type": "City"
+    },
+    {
+      "name": "Martinez",
+      "@type": "City"
+    },
+    {
+      "name": "Moraga",
+      "@type": "City"
+    },
+    {
+      "name": "Oakley",
+      "@type": "City"
+    },
+    {
+      "name": "Orinda",
+      "@type": "City"
+    },
+    {
+      "name": "Pinole",
+      "@type": "City"
+    },
+    {
+      "name": "Pittsburg",
+      "@type": "City"
+    },
+    {
+      "name": "Pleasant Hill",
+      "@type": "City"
+    },
+    {
+      "name": "Richmond",
+      "@type": "City"
+    },
+    {
+      "name": "San Pablo",
+      "@type": "City"
+    },
+    {
+      "name": "San Ramon",
+      "@type": "City"
+    },
+    {
+      "name": "Walnut Creek",
+      "@type": "City"
+    }
+  ],
+  "description": "Your journey begins with an experienced design-build team, like AKN Design Group. We’ll discuss your vision, assess your existing space, and determine the feasibility of removing walls, particularly i"
+}

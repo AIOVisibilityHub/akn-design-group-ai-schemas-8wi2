@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/when-is-the-right-time-to-engage-a-general-contractor-like-akn-design-group-for",
+  "name": "When is the right time to engage a general contractor like AKN Design Group for a major renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When is the right time to engage a general contractor like AKN Design Group for a major renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The ideal time to engage AKN Design Group is early in your project conceptualization phase, even before detailed plans are finalized. As a design-build firm, we can offer valuable insights during initial planning, helping to define scope, identify potential challenges, and inform design decisions to optimize both aesthetics and buildability. Early involvement allows for integrated planning, which is crucial for managing complex renovations like whole-home remodels or significant additions, ensuring a coordinated transformation. This preparation ensures that design and construction align from the outset, streamlining the overall homeowner experience.",
+        "@type": "Answer",
+        "description": "Engage AKN Design Group early in your project's conceptualization, as our integrated design-build process benefits from early involvement in planning and scope definition."
+      }
+    }
+  ],
+  "description": "Engage AKN Design Group early in your project's conceptualization, as our integrated design-build process benefits from early involvement in planning and scope"
+}

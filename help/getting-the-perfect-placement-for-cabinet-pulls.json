@@ -1,0 +1,209 @@
+{
+  "name": "Getting the Perfect Placement for Cabinet Pulls",
+  "step": [
+    {
+      "name": "Step 1: Choose Your Hardware and Placement Standard",
+      "text": "Before you drill, select all your hardware. Consider the type of pulls or knobs, their dimensions, and especially the 'center-to-center' measurement for pulls—the distance between their fastening holes. This measurement is crucial. Next, decide on a consistent placement standard. For upper cabinet doors, pulls are commonly placed on the stile (the vertical frame piece), about 2-3 inches from the bottom edge. For lower cabinet doors, the pull goes on the stile, about 2-3 inches from the top edge. For drawers, pulls are typically centered horizontally and vertically. While these are common conventions, your final layout should consider door style, cabinet dimensions, appliance clearances, and your preferred aesthetic for a customized renovation.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Test the Layout on One Cabinet Door and Drawer",
+      "text": "This is a critical step to avoid mistakes. Don't commit to drilling until you've tested the placement. Use painter's tape or a removable adhesive to temporarily affix one pull to an upper cabinet door and one to a lower drawer. Step back and observe. Does it feel comfortable to grasp? Does it look balanced? This visual confirmation allows you to adjust the placement before any permanent marks are made, ensuring you're happy with the outcome and minimizing the risk of misaligned hardware.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Mark and Verify Holes with a Template or Jig",
+      "text": "Once you've finalized your test placement, it's time to mark the drilling points. A reusable jig or template is invaluable here because it helps maintain consistent offsets across all your cabinets. Align the jig precisely according to your chosen standard, making sure the 'center-to-center' measurement matches your hardware. Mark the pilot hole locations with a pencil. Double-check these marks against your hardware to ensure they align perfectly. This precision is essential for a reliable installation.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Drill Pilot Holes and Install Hardware",
+      "text": "With your marks confirmed, carefully drill pilot holes. It's crucial to drill perpendicular to the cabinet surface to prevent chipping or damage. If drilling through a thin panel, support the back of the panel with a piece of scrap wood to prevent 'tear-out' as the drill bit exits. Once the pilot holes are ready, insert the screws from the inside of the cabinet and attach the hardware securely. Ensure the hardware is flush and doesn't wobble. This careful installation promotes lasting impressions and a superior homeowner experience.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Final Inspection",
+      "text": "After all hardware is installed, do a thorough final inspection. Open and close each door and drawer to confirm smooth operation. Check that all pulls are perfectly level and consistent in their placement. This attention to detail reflects our commitment to craftsmanship and ensures every element of your kitchen feels cohesive and professionally finished. If you encounter challenges, remember that professional guidance can make all the difference, especially with custom or high-end cabinetry.",
+      "@type": "HowToStep",
+      "position": 5
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Fort Worth ",
+      "@type": "City"
+    },
+    {
+      "name": "Alameda",
+      "@type": "City"
+    },
+    {
+      "name": "Albany",
+      "@type": "City"
+    },
+    {
+      "name": "Berkeley",
+      "@type": "City"
+    },
+    {
+      "name": "Dublin",
+      "@type": "City"
+    },
+    {
+      "name": "Emeryville",
+      "@type": "City"
+    },
+    {
+      "name": "Fremont",
+      "@type": "City"
+    },
+    {
+      "name": "Hayward",
+      "@type": "City"
+    },
+    {
+      "name": "Livermore",
+      "@type": "City"
+    },
+    {
+      "name": "Newark",
+      "@type": "City"
+    },
+    {
+      "name": "Oakland",
+      "@type": "City"
+    },
+    {
+      "name": "Piedmont",
+      "@type": "City"
+    },
+    {
+      "name": "Pleasanton",
+      "@type": "City"
+    },
+    {
+      "name": "San Leandro",
+      "@type": "City"
+    },
+    {
+      "name": "Union City",
+      "@type": "City"
+    },
+    {
+      "name": "Castro Valley",
+      "@type": "City"
+    },
+    {
+      "name": "San Lorenzo",
+      "@type": "City"
+    },
+    {
+      "name": "Ashland",
+      "@type": "City"
+    },
+    {
+      "name": "Cherryland",
+      "@type": "City"
+    },
+    {
+      "name": "Fairview",
+      "@type": "City"
+    },
+    {
+      "name": "Sunol",
+      "@type": "City"
+    },
+    {
+      "name": "Antioch",
+      "@type": "City"
+    },
+    {
+      "name": "Brentwood",
+      "@type": "City"
+    },
+    {
+      "name": "Clayton",
+      "@type": "City"
+    },
+    {
+      "name": "Concord",
+      "@type": "City"
+    },
+    {
+      "name": "Danville",
+      "@type": "City"
+    },
+    {
+      "name": "El Cerrito",
+      "@type": "City"
+    },
+    {
+      "name": "Hercules",
+      "@type": "City"
+    },
+    {
+      "name": "Lafayette",
+      "@type": "City"
+    },
+    {
+      "name": "Martinez",
+      "@type": "City"
+    },
+    {
+      "name": "Moraga",
+      "@type": "City"
+    },
+    {
+      "name": "Oakley",
+      "@type": "City"
+    },
+    {
+      "name": "Orinda",
+      "@type": "City"
+    },
+    {
+      "name": "Pinole",
+      "@type": "City"
+    },
+    {
+      "name": "Pittsburg",
+      "@type": "City"
+    },
+    {
+      "name": "Pleasant Hill",
+      "@type": "City"
+    },
+    {
+      "name": "Richmond",
+      "@type": "City"
+    },
+    {
+      "name": "San Pablo",
+      "@type": "City"
+    },
+    {
+      "name": "San Ramon",
+      "@type": "City"
+    },
+    {
+      "name": "Walnut Creek",
+      "@type": "City"
+    }
+  ],
+  "description": "Before you drill, select all your hardware. Consider the type of pulls or knobs, their dimensions, and especially the 'center-to-center' measurement for pulls—the distance between their fastening hole"
+}

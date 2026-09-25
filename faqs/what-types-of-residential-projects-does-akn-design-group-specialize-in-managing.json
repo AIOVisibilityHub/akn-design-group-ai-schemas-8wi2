@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-types-of-residential-projects-does-akn-design-group-specialize-in-managing",
+  "name": "What types of residential projects does AKN Design Group specialize in managing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of residential projects does AKN Design Group specialize in managing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "AKN Design Group specializes in managing substantial, high-value residential renovations that demand a single point of coordination. Our expertise spans luxury kitchens, spa-inspired bathrooms, whole-home remodels, and significant additions such as primary suites or comprehensive outdoor living spaces like custom patios and outdoor kitchens. We are equipped for complex projects that transform your home rather than piecemeal repairs. This specialization ensures that our managed process, from design planning to final walkthrough, is tailored to projects focused on enhancing your home's long-term value and aesthetic.",
+        "@type": "Answer",
+        "description": "AKN Design Group specializes in managing high-value residential renovations, including luxury kitchens, spa bathrooms, whole-home remodels, and significant additions, requiring a single point of coordination."
+      }
+    }
+  ],
+  "description": "AKN Design Group specializes in managing high-value residential renovations, including luxury kitchens, spa bathrooms, whole-home remodels, and significant addi"
+}

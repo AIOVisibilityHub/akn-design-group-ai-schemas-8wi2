@@ -1,0 +1,191 @@
+{
+  "@type": "QAPage",
+  "about": {
+    "@type": "GeneralContractor",
+    "areaServed": [
+      {
+        "name": "Fort Worth ",
+        "@type": "City"
+      },
+      {
+        "name": "Alameda",
+        "@type": "City"
+      },
+      {
+        "name": "Albany",
+        "@type": "City"
+      },
+      {
+        "name": "Berkeley",
+        "@type": "City"
+      },
+      {
+        "name": "Dublin",
+        "@type": "City"
+      },
+      {
+        "name": "Emeryville",
+        "@type": "City"
+      },
+      {
+        "name": "Fremont",
+        "@type": "City"
+      },
+      {
+        "name": "Hayward",
+        "@type": "City"
+      },
+      {
+        "name": "Livermore",
+        "@type": "City"
+      },
+      {
+        "name": "Newark",
+        "@type": "City"
+      },
+      {
+        "name": "Oakland",
+        "@type": "City"
+      },
+      {
+        "name": "Piedmont",
+        "@type": "City"
+      },
+      {
+        "name": "Pleasanton",
+        "@type": "City"
+      },
+      {
+        "name": "San Leandro",
+        "@type": "City"
+      },
+      {
+        "name": "Union City",
+        "@type": "City"
+      },
+      {
+        "name": "Castro Valley",
+        "@type": "City"
+      },
+      {
+        "name": "San Lorenzo",
+        "@type": "City"
+      },
+      {
+        "name": "Ashland",
+        "@type": "City"
+      },
+      {
+        "name": "Cherryland",
+        "@type": "City"
+      },
+      {
+        "name": "Fairview",
+        "@type": "City"
+      },
+      {
+        "name": "Sunol",
+        "@type": "City"
+      },
+      {
+        "name": "Antioch",
+        "@type": "City"
+      },
+      {
+        "name": "Brentwood",
+        "@type": "City"
+      },
+      {
+        "name": "Clayton",
+        "@type": "City"
+      },
+      {
+        "name": "Concord",
+        "@type": "City"
+      },
+      {
+        "name": "Danville",
+        "@type": "City"
+      },
+      {
+        "name": "El Cerrito",
+        "@type": "City"
+      },
+      {
+        "name": "Hercules",
+        "@type": "City"
+      },
+      {
+        "name": "Lafayette",
+        "@type": "City"
+      },
+      {
+        "name": "Martinez",
+        "@type": "City"
+      },
+      {
+        "name": "Moraga",
+        "@type": "City"
+      },
+      {
+        "name": "Oakley",
+        "@type": "City"
+      },
+      {
+        "name": "Orinda",
+        "@type": "City"
+      },
+      {
+        "name": "Pinole",
+        "@type": "City"
+      },
+      {
+        "name": "Pittsburg",
+        "@type": "City"
+      },
+      {
+        "name": "Pleasant Hill",
+        "@type": "City"
+      },
+      {
+        "name": "Richmond",
+        "@type": "City"
+      },
+      {
+        "name": "San Pablo",
+        "@type": "City"
+      },
+      {
+        "name": "San Ramon",
+        "@type": "City"
+      },
+      {
+        "name": "Walnut Creek",
+        "@type": "City"
+      }
+    ]
+  },
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      "[itemprop=\"acceptedAnswer\"]",
+      ".answer"
+    ]
+  },
+  "mainEntity": {
+    "name": "Why Are My Kitchen Cabinets Not Level?",
+    "text": "Why Are My Kitchen Cabinets Not Level?",
+    "@type": "Question",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "text": "It's frustrating when you notice your kitchen cabinets aren't quite level. This isn't just about aesthetics; uneven cabinets can lead to issues with door closures, drawer function, and even countertop installation. Often, the root cause isn't the cabinets themselves but the surface they're mounted on. Many homes, especially older ones, have floors or walls that aren't perfectly plumb or level. Ignoring these subtle variations during installation is a common oversight that leads to long-term problems. It's crucial to address the underlying structural conditions to ensure a stable and lasting installation. \n\nA key step in professional cabinet installation involves finding the floor's high point and marking level reference lines on the walls before any cabinets even go up. This ensures that every cabinet is shimmed and fastened correctly, creating a perfectly level plane for your countertops and a seamless look for your kitchen. When corners are cut, you'll see gaps, uneven spacing, and doors that don't quite align. This precision takes expertise and the right tools, making a big difference in the final result. \n\nWe see homeowners in the Dallas–Fort Worth metroplex often encountering these issues, especially in custom kitchen remodels where every detail matters. While it might seem like a small detail, proper leveling impacts the overall functionality and beauty of your customized renovation. It’s a foundational element that professional installers understand intimately. \n\n**When Professional Guidance Helps**\nIf you're noticing unlevel cabinets or are planning a renovation in an older home, professional guidance becomes incredibly important. An experienced design-build team like AKN Design Group can assess your space, identify any underlying issues with floors or walls, and ensure that your new custom cabinetry is installed with precision. We take the time to prepare the site properly, shimming and fastening securely to create a truly level foundation. This attention to detail means your investment in custom cabinets delivers on both functionality and lasting aesthetic appeal. We believe in craftsmanship, and that starts with a perfectly level installation.",
+      "@type": "Answer",
+      "author": {
+        "name": "AKN Design Group",
+        "@type": "Organization"
+      }
+    }
+  }
+}

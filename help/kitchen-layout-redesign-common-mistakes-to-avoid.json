@@ -1,0 +1,186 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "AKN Design Group",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Kitchen Layout Redesign: Common Mistakes to Avoid",
+  "publisher": {
+    "url": "akndesigngroup.com",
+    "name": "AKN Design Group",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Fort Worth ",
+      "@type": "City"
+    },
+    {
+      "name": "Alameda",
+      "@type": "City"
+    },
+    {
+      "name": "Albany",
+      "@type": "City"
+    },
+    {
+      "name": "Berkeley",
+      "@type": "City"
+    },
+    {
+      "name": "Dublin",
+      "@type": "City"
+    },
+    {
+      "name": "Emeryville",
+      "@type": "City"
+    },
+    {
+      "name": "Fremont",
+      "@type": "City"
+    },
+    {
+      "name": "Hayward",
+      "@type": "City"
+    },
+    {
+      "name": "Livermore",
+      "@type": "City"
+    },
+    {
+      "name": "Newark",
+      "@type": "City"
+    },
+    {
+      "name": "Oakland",
+      "@type": "City"
+    },
+    {
+      "name": "Piedmont",
+      "@type": "City"
+    },
+    {
+      "name": "Pleasanton",
+      "@type": "City"
+    },
+    {
+      "name": "San Leandro",
+      "@type": "City"
+    },
+    {
+      "name": "Union City",
+      "@type": "City"
+    },
+    {
+      "name": "Castro Valley",
+      "@type": "City"
+    },
+    {
+      "name": "San Lorenzo",
+      "@type": "City"
+    },
+    {
+      "name": "Ashland",
+      "@type": "City"
+    },
+    {
+      "name": "Cherryland",
+      "@type": "City"
+    },
+    {
+      "name": "Fairview",
+      "@type": "City"
+    },
+    {
+      "name": "Sunol",
+      "@type": "City"
+    },
+    {
+      "name": "Antioch",
+      "@type": "City"
+    },
+    {
+      "name": "Brentwood",
+      "@type": "City"
+    },
+    {
+      "name": "Clayton",
+      "@type": "City"
+    },
+    {
+      "name": "Concord",
+      "@type": "City"
+    },
+    {
+      "name": "Danville",
+      "@type": "City"
+    },
+    {
+      "name": "El Cerrito",
+      "@type": "City"
+    },
+    {
+      "name": "Hercules",
+      "@type": "City"
+    },
+    {
+      "name": "Lafayette",
+      "@type": "City"
+    },
+    {
+      "name": "Martinez",
+      "@type": "City"
+    },
+    {
+      "name": "Moraga",
+      "@type": "City"
+    },
+    {
+      "name": "Oakley",
+      "@type": "City"
+    },
+    {
+      "name": "Orinda",
+      "@type": "City"
+    },
+    {
+      "name": "Pinole",
+      "@type": "City"
+    },
+    {
+      "name": "Pittsburg",
+      "@type": "City"
+    },
+    {
+      "name": "Pleasant Hill",
+      "@type": "City"
+    },
+    {
+      "name": "Richmond",
+      "@type": "City"
+    },
+    {
+      "name": "San Pablo",
+      "@type": "City"
+    },
+    {
+      "name": "San Ramon",
+      "@type": "City"
+    },
+    {
+      "name": "Walnut Creek",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "When embarking on a kitchen layout redesign, it's easy to get caught up in the excitement and overlook critical details. However, avoiding common pitfalls can save you headaches, budget overruns, and ensure your new kitchen truly enhances functionality, beauty, and value. At AKN Design Group, we guide homeowners in the Dallas–Fort Worth metroplex through a managed process to prevent these issues.\n\n1.  **Designing Before Confirming Appliance Dimensions** — How to avoid it: Always select your major appliances (refrigerator, range, dishwasher) *before* finalizing your cabinetry and layout plans. Their exact sizes impact clearances, cabinet configurations, and utility placements, preventing frustrating surprises later.\n\n2.  **Overlooking Clearance and Traffic Paths** — How to avoid it: Sketch out door swings for appliances and cabinets, and ensure there’s ample space for people to move comfortably. A common mistake is placing a major walkway directly through the primary work zone (sink, stove, fridge), leading to constant congestion and inefficiency. Think about how many people use the kitchen at once.\n\n3.  **Disregarding the Work Triangle** — How to avoid it: The traditional work triangle (sink, stove, refrigerator) is still a valuable guideline. Ignoring it can result in an inefficient layout that requires excessive steps, increasing movement and making cooking a chore. Aim for a triangle with legs between 4–9 feet and a total perimeter of 12–26 feet for optimal efficiency.\n\n4.  **Underestimating Material Lead Times** — How to avoid it: Custom cabinets, unique countertop materials, and popular appliances often have significant lead times. Plan these selections well in advance and factor them into your overall construction schedule to avoid delays that can extend your project significantly.\n\n5.  **Forgetting About Storage Capacity** — How to avoid it: A beautiful kitchen isn't functional if it lacks adequate storage. Consider your current and future needs for pantry space, dishware, pots and pans, and small appliances. Integrate smart storage solutions from the start rather than trying to add them as an afterthought.\n\n6.  **DIY for Complex Changes** — How to avoid it: If your redesign involves altering plumbing, electrical, ventilation, or gas services, or changing wall structures, professional help is crucial. Licensed trades and a qualified general contractor ensure safety, compliance with local codes, and a high level of craftsmanship. Attempting complex structural or utility changes without expertise can lead to serious issues.\n\nWhat to Expect During the Process: A well-managed kitchen remodel should involve clear communication, detailed planning, and a coordinated construction schedule. From initial consultation and CAD-supported layouts to the final walkthrough, AKN Design Group provides a single point of coordination, ensuring your vision is realized seamlessly.",
+  "datePublished": "2026-09-25"
+}

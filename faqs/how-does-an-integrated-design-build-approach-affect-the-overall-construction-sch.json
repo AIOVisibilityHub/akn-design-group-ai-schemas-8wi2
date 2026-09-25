@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-does-an-integrated-design-build-approach-affect-the-overall-construction-sch",
+  "name": "How does an integrated design-build approach affect the overall construction schedule compared to traditional methods?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does an integrated design-build approach affect the overall construction schedule compared to traditional methods?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An integrated design-build approach significantly streamlines the overall construction schedule compared to traditional methods that separate design and construction. By unifying these phases under AKN Design Group, we eliminate the delays often caused by communication gaps or disagreements between separate designers and contractors. Our team collaborates from the outset, allowing for concurrent planning and construction activities where possible, value engineering discussions, and proactive problem-solving. This single point of coordination ensures a more efficient, managed process and often leads to a faster project completion.",
+        "@type": "Answer",
+        "description": "Integrated design-build streamlines schedules by unifying design and construction, eliminating communication gaps and allowing for more efficient, concurrent processes."
+      }
+    }
+  ],
+  "description": "Integrated design-build streamlines schedules by unifying design and construction, eliminating communication gaps and allowing for more efficient, concurrent pr"
+}

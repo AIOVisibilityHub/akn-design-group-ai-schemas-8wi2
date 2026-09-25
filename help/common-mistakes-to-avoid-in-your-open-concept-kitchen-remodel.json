@@ -1,0 +1,186 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "AKN Design Group",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Common Mistakes to Avoid in Your Open-Concept Kitchen Remodel",
+  "publisher": {
+    "url": "akndesigngroup.com",
+    "name": "AKN Design Group",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Fort Worth ",
+      "@type": "City"
+    },
+    {
+      "name": "Alameda",
+      "@type": "City"
+    },
+    {
+      "name": "Albany",
+      "@type": "City"
+    },
+    {
+      "name": "Berkeley",
+      "@type": "City"
+    },
+    {
+      "name": "Dublin",
+      "@type": "City"
+    },
+    {
+      "name": "Emeryville",
+      "@type": "City"
+    },
+    {
+      "name": "Fremont",
+      "@type": "City"
+    },
+    {
+      "name": "Hayward",
+      "@type": "City"
+    },
+    {
+      "name": "Livermore",
+      "@type": "City"
+    },
+    {
+      "name": "Newark",
+      "@type": "City"
+    },
+    {
+      "name": "Oakland",
+      "@type": "City"
+    },
+    {
+      "name": "Piedmont",
+      "@type": "City"
+    },
+    {
+      "name": "Pleasanton",
+      "@type": "City"
+    },
+    {
+      "name": "San Leandro",
+      "@type": "City"
+    },
+    {
+      "name": "Union City",
+      "@type": "City"
+    },
+    {
+      "name": "Castro Valley",
+      "@type": "City"
+    },
+    {
+      "name": "San Lorenzo",
+      "@type": "City"
+    },
+    {
+      "name": "Ashland",
+      "@type": "City"
+    },
+    {
+      "name": "Cherryland",
+      "@type": "City"
+    },
+    {
+      "name": "Fairview",
+      "@type": "City"
+    },
+    {
+      "name": "Sunol",
+      "@type": "City"
+    },
+    {
+      "name": "Antioch",
+      "@type": "City"
+    },
+    {
+      "name": "Brentwood",
+      "@type": "City"
+    },
+    {
+      "name": "Clayton",
+      "@type": "City"
+    },
+    {
+      "name": "Concord",
+      "@type": "City"
+    },
+    {
+      "name": "Danville",
+      "@type": "City"
+    },
+    {
+      "name": "El Cerrito",
+      "@type": "City"
+    },
+    {
+      "name": "Hercules",
+      "@type": "City"
+    },
+    {
+      "name": "Lafayette",
+      "@type": "City"
+    },
+    {
+      "name": "Martinez",
+      "@type": "City"
+    },
+    {
+      "name": "Moraga",
+      "@type": "City"
+    },
+    {
+      "name": "Oakley",
+      "@type": "City"
+    },
+    {
+      "name": "Orinda",
+      "@type": "City"
+    },
+    {
+      "name": "Pinole",
+      "@type": "City"
+    },
+    {
+      "name": "Pittsburg",
+      "@type": "City"
+    },
+    {
+      "name": "Pleasant Hill",
+      "@type": "City"
+    },
+    {
+      "name": "Richmond",
+      "@type": "City"
+    },
+    {
+      "name": "San Pablo",
+      "@type": "City"
+    },
+    {
+      "name": "San Ramon",
+      "@type": "City"
+    },
+    {
+      "name": "Walnut Creek",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "An open-concept kitchen can dramatically transform your Dallas–Fort Worth home, creating a more spacious and connected living experience. However, these complex renovations come with unique challenges. Being aware of common mistakes can save you time, money, and stress, ensuring your project enhances functionality, beauty, and value rather than creating new problems. At AKN Design Group, we’ve seen how crucial it is to get these details right.\n\nCommon Mistakes to Avoid\n\n**Starting Demolition Without Proper Assessment** — Many homeowners assume every wall is nonstructural. This is a frequent mistake. Removing a load-bearing wall without professional assessment and temporary support can lead to serious structural issues. Always get a structural engineer to evaluate walls before any demolition begins.\n\n**Ignoring the Impact on Other Systems** — When you remove a wall, you're not just creating open space. You're potentially rerouting electrical, plumbing, gas lines, and HVAC ducts that were hidden within that wall. Failing to plan for these relocations properly can lead to significant delays and unexpected costs. Ensure your design-build team coordinates all systems.\n\n**Underestimating Noise, Odor, and Visual Clutter** — An open floor plan means less separation. Cooking smells and sounds will travel further, and a cluttered kitchen island becomes a focal point for your entire living area. Plan for powerful ventilation, smart storage solutions, and design elements that help maintain visual order in an open space.\n\n**Poor Lighting Design** — Lighting an open-concept area requires a more layered approach than traditional separate rooms. Relying on a single overhead fixture will leave areas dark. Think about task lighting for prep areas, ambient lighting for overall brightness, and accent lighting to highlight features.\n\n**Not Planning for Floor Continuity** — When you remove a wall, you expose the floor underneath. If your flooring doesn't seamlessly transition, it can look disjointed. Plan for new flooring throughout the combined space or find a creative way to integrate the existing and new surfaces.\n\n**Failing to Secure Necessary Permits** — Any structural alterations, significant plumbing, or electrical work will require building permits. Starting work before permits are approved can result in fines, forced rework, and project delays. A professional design-build contractor will handle permit coordination for you.\n\nWhat to Do Next\n\nAvoiding these pitfalls ensures a smoother and more successful open-concept kitchen remodel. If you're planning such a transformation for your Dallas–Fort Worth metroplex home, partner with an experienced team. Contact AKN Design Group to ensure your project is managed expertly from concept to completion.",
+  "datePublished": "2026-09-25"
+}

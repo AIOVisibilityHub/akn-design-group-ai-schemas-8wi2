@@ -1,0 +1,186 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "AKN Design Group",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "What's the Difference Between Custom and Stock Cabinets?",
+  "publisher": {
+    "url": "akndesigngroup.com",
+    "name": "AKN Design Group",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Fort Worth ",
+      "@type": "City"
+    },
+    {
+      "name": "Alameda",
+      "@type": "City"
+    },
+    {
+      "name": "Albany",
+      "@type": "City"
+    },
+    {
+      "name": "Berkeley",
+      "@type": "City"
+    },
+    {
+      "name": "Dublin",
+      "@type": "City"
+    },
+    {
+      "name": "Emeryville",
+      "@type": "City"
+    },
+    {
+      "name": "Fremont",
+      "@type": "City"
+    },
+    {
+      "name": "Hayward",
+      "@type": "City"
+    },
+    {
+      "name": "Livermore",
+      "@type": "City"
+    },
+    {
+      "name": "Newark",
+      "@type": "City"
+    },
+    {
+      "name": "Oakland",
+      "@type": "City"
+    },
+    {
+      "name": "Piedmont",
+      "@type": "City"
+    },
+    {
+      "name": "Pleasanton",
+      "@type": "City"
+    },
+    {
+      "name": "San Leandro",
+      "@type": "City"
+    },
+    {
+      "name": "Union City",
+      "@type": "City"
+    },
+    {
+      "name": "Castro Valley",
+      "@type": "City"
+    },
+    {
+      "name": "San Lorenzo",
+      "@type": "City"
+    },
+    {
+      "name": "Ashland",
+      "@type": "City"
+    },
+    {
+      "name": "Cherryland",
+      "@type": "City"
+    },
+    {
+      "name": "Fairview",
+      "@type": "City"
+    },
+    {
+      "name": "Sunol",
+      "@type": "City"
+    },
+    {
+      "name": "Antioch",
+      "@type": "City"
+    },
+    {
+      "name": "Brentwood",
+      "@type": "City"
+    },
+    {
+      "name": "Clayton",
+      "@type": "City"
+    },
+    {
+      "name": "Concord",
+      "@type": "City"
+    },
+    {
+      "name": "Danville",
+      "@type": "City"
+    },
+    {
+      "name": "El Cerrito",
+      "@type": "City"
+    },
+    {
+      "name": "Hercules",
+      "@type": "City"
+    },
+    {
+      "name": "Lafayette",
+      "@type": "City"
+    },
+    {
+      "name": "Martinez",
+      "@type": "City"
+    },
+    {
+      "name": "Moraga",
+      "@type": "City"
+    },
+    {
+      "name": "Oakley",
+      "@type": "City"
+    },
+    {
+      "name": "Orinda",
+      "@type": "City"
+    },
+    {
+      "name": "Pinole",
+      "@type": "City"
+    },
+    {
+      "name": "Pittsburg",
+      "@type": "City"
+    },
+    {
+      "name": "Pleasant Hill",
+      "@type": "City"
+    },
+    {
+      "name": "Richmond",
+      "@type": "City"
+    },
+    {
+      "name": "San Pablo",
+      "@type": "City"
+    },
+    {
+      "name": "San Ramon",
+      "@type": "City"
+    },
+    {
+      "name": "Walnut Creek",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "When you're embarking on a kitchen or bathroom renovation in the Dallas–Fort Worth metroplex, one of the biggest decisions you'll face is about your cabinetry. It often boils down to custom versus stock, and understanding the core differences can really shape your project's outcome. Stock cabinets are mass-produced, pre-sized units, often available off-the-shelf or with a short lead time. They come in standard dimensions, limited styles, and finishes, making them a quicker and typically less expensive option. Think of them as a 'good enough' solution when your space fits standard measurements.\n\nCustom cabinetry, on the other hand, is built to your exact specifications. Every dimension, every finish, every storage accessory is tailored to your home's unique layout and your personal lifestyle. This means it can accommodate unusual room dimensions, integrate seamlessly with specific appliances, and maximize every inch of storage, transforming a challenging space into a highly functional and beautiful one. While custom options require a longer timeline for design, manufacturing, and installation—often 8–16 weeks or more—they offer unparalleled personalization and craftsmanship. AKN Design Group specializes in these customized renovations, focusing on enhancing functionality, beauty, and long-term value through thoughtful design and precise execution.\n\n**When to Choose Which**\nChoose stock cabinets if your space is perfectly standard, your budget is tight, and you're not seeking a highly personalized look or unique storage solutions. They're a practical choice for smaller updates where specific dimensions aren't an issue. However, opt for custom cabinetry if you have an irregularly shaped room, specific appliance requirements, desire a unique aesthetic that standard options can't provide, or need specialized storage. It's also the clear choice if you're undertaking a substantial renovation like a whole-home remodel or a luxury bathroom where a cohesive, integrated design is paramount. While the initial investment for custom work is higher, the enduring quality, perfect fit, and tailored functionality often provide greater long-term value and homeowner satisfaction. When dealing with complex projects or unique spaces, professional guidance becomes incredibly important to ensure your vision translates into a perfectly executed reality, accounting for every detail from material selection to warranty coverage.",
+  "datePublished": "2026-09-25"
+}

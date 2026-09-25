@@ -1,0 +1,221 @@
+{
+  "name": "What to Expect During Your Open-Concept Kitchen Remodel Timeline",
+  "step": [
+    {
+      "name": "Step 1: Initial Consultation & Design Development — This phase starts with AKN Design Group surveying your existing conditions and discussing your vision. We'll determine if walls are structural and develop proposed floor plans for the kitchen and adjacent areas. This can take several weeks, depending on the complexity of the design and your feedback.",
+      "text": "Step 1: Initial Consultation & Design Development — This phase starts with AKN Design Group surveying your existing conditions and discussing your vision. We'll determine if walls are structural and develop proposed floor plans for the kitchen and adjacent areas. This can take several weeks, depending on the complexity of the design and your feedback.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Structural Assessment & Engineering — If your project involves removing a load-bearing wall, a structural engineer will be engaged. This step includes detailed calculations and drawings for beams, posts, and temporary supports. Expect this to add 1-2 weeks for assessment, plus additional time for engineering plans.",
+      "text": "Step 2: Structural Assessment & Engineering — If your project involves removing a load-bearing wall, a structural engineer will be engaged. This step includes detailed calculations and drawings for beams, posts, and temporary supports. Expect this to add 1-2 weeks for assessment, plus additional time for engineering plans.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Permit Preparation & Approval — With structural plans in hand, we'll prepare and submit all required permit documents to your local municipality. Permit timing varies significantly by jurisdiction in the DFW metroplex, typically ranging from 2 to 6 weeks, sometimes longer.",
+      "text": "Step 3: Permit Preparation & Approval — With structural plans in hand, we'll prepare and submit all required permit documents to your local municipality. Permit timing varies significantly by jurisdiction in the DFW metroplex, typically ranging from 2 to 6 weeks, sometimes longer.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Demolition & Rough-In Work — Once permits are secured, demolition begins. This is when walls come down, and the rough-in work for plumbing, electrical, gas, and mechanical systems is completed. Temporary supports are put in place, followed by permanent structural elements. This phase usually spans a few weeks.",
+      "text": "Step 4: Demolition & Rough-In Work — Once permits are secured, demolition begins. This is when walls come down, and the rough-in work for plumbing, electrical, gas, and mechanical systems is completed. Temporary supports are put in place, followed by permanent structural elements. This phase usually spans a few weeks.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Inspections & Enclosure — After rough-in work, critical inspections are performed by local authorities to ensure everything meets code. Once approved, the new framing is enclosed, drywall is installed, and surfaces are prepared for finishes. This stage can take 1-2 weeks.",
+      "text": "Step 5: Inspections & Enclosure — After rough-in work, critical inspections are performed by local authorities to ensure everything meets code. Once approved, the new framing is enclosed, drywall is installed, and surfaces are prepared for finishes. This stage can take 1-2 weeks.",
+      "@type": "HowToStep",
+      "position": 5
+    },
+    {
+      "name": "Step 6: Cabinetry, Finishes & Appliance Installation — This is where your vision truly comes to life. Cabinets are installed, followed by countertops, backsplashes, flooring, lighting fixtures, and finally, your new appliances. This meticulous process often takes several weeks.",
+      "text": "Step 6: Cabinetry, Finishes & Appliance Installation — This is where your vision truly comes to life. Cabinets are installed, followed by countertops, backsplashes, flooring, lighting fixtures, and finally, your new appliances. This meticulous process often takes several weeks.",
+      "@type": "HowToStep",
+      "position": 6
+    },
+    {
+      "name": "Step 7: Final Walkthrough & Punch List — We'll conduct a comprehensive final walkthrough with you, addressing any last details and ensuring everything meets our high standards of craftsmanship and your complete satisfaction. This usually happens over a few days.",
+      "text": "What to Do Next Ready to transform your home with an open-concept kitchen? Contact AKN Design Group to discuss your project and begin our managed design-build process.",
+      "@type": "HowToStep",
+      "position": 7
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Fort Worth ",
+      "@type": "City"
+    },
+    {
+      "name": "Alameda",
+      "@type": "City"
+    },
+    {
+      "name": "Albany",
+      "@type": "City"
+    },
+    {
+      "name": "Berkeley",
+      "@type": "City"
+    },
+    {
+      "name": "Dublin",
+      "@type": "City"
+    },
+    {
+      "name": "Emeryville",
+      "@type": "City"
+    },
+    {
+      "name": "Fremont",
+      "@type": "City"
+    },
+    {
+      "name": "Hayward",
+      "@type": "City"
+    },
+    {
+      "name": "Livermore",
+      "@type": "City"
+    },
+    {
+      "name": "Newark",
+      "@type": "City"
+    },
+    {
+      "name": "Oakland",
+      "@type": "City"
+    },
+    {
+      "name": "Piedmont",
+      "@type": "City"
+    },
+    {
+      "name": "Pleasanton",
+      "@type": "City"
+    },
+    {
+      "name": "San Leandro",
+      "@type": "City"
+    },
+    {
+      "name": "Union City",
+      "@type": "City"
+    },
+    {
+      "name": "Castro Valley",
+      "@type": "City"
+    },
+    {
+      "name": "San Lorenzo",
+      "@type": "City"
+    },
+    {
+      "name": "Ashland",
+      "@type": "City"
+    },
+    {
+      "name": "Cherryland",
+      "@type": "City"
+    },
+    {
+      "name": "Fairview",
+      "@type": "City"
+    },
+    {
+      "name": "Sunol",
+      "@type": "City"
+    },
+    {
+      "name": "Antioch",
+      "@type": "City"
+    },
+    {
+      "name": "Brentwood",
+      "@type": "City"
+    },
+    {
+      "name": "Clayton",
+      "@type": "City"
+    },
+    {
+      "name": "Concord",
+      "@type": "City"
+    },
+    {
+      "name": "Danville",
+      "@type": "City"
+    },
+    {
+      "name": "El Cerrito",
+      "@type": "City"
+    },
+    {
+      "name": "Hercules",
+      "@type": "City"
+    },
+    {
+      "name": "Lafayette",
+      "@type": "City"
+    },
+    {
+      "name": "Martinez",
+      "@type": "City"
+    },
+    {
+      "name": "Moraga",
+      "@type": "City"
+    },
+    {
+      "name": "Oakley",
+      "@type": "City"
+    },
+    {
+      "name": "Orinda",
+      "@type": "City"
+    },
+    {
+      "name": "Pinole",
+      "@type": "City"
+    },
+    {
+      "name": "Pittsburg",
+      "@type": "City"
+    },
+    {
+      "name": "Pleasant Hill",
+      "@type": "City"
+    },
+    {
+      "name": "Richmond",
+      "@type": "City"
+    },
+    {
+      "name": "San Pablo",
+      "@type": "City"
+    },
+    {
+      "name": "San Ramon",
+      "@type": "City"
+    },
+    {
+      "name": "Walnut Creek",
+      "@type": "City"
+    }
+  ],
+  "description": "Step 1: Initial Consultation & Design Development — This phase starts with AKN Design Group surveying your existing conditions and discussing your vision. We'll determine if walls are structural and d"
+}

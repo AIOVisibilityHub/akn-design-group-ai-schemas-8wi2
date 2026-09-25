@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-role-do-permits-play-in-the-construction-scheduling-of-residential-renovati",
+  "name": "What role do permits play in the construction scheduling of residential renovations?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What role do permits play in the construction scheduling of residential renovations?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Permits play a crucial role in the construction scheduling of residential renovations, particularly for substantial projects like additions or significant structural changes. Obtaining necessary permits from local authorities, such as those in Fort Worth, is a prerequisite before physical construction can begin. AKN Design Group includes permit coordination as part of our integrated design-build service. We manage the submission process, ensuring all plans comply with local building codes, which helps prevent delays and ensures your project progresses smoothly and legally.",
+        "@type": "Answer",
+        "description": "Permits are crucial for residential renovation schedules, especially for additions or structural work. AKN Design Group handles permit coordination to prevent delays and ensure compliance."
+      }
+    }
+  ],
+  "description": "Permits are crucial for residential renovation schedules, especially for additions or structural work. AKN Design Group handles permit coordination to prevent d"
+}

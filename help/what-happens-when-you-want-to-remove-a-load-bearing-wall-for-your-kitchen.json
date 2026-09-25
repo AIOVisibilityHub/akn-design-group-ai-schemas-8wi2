@@ -1,0 +1,215 @@
+{
+  "name": "What Happens When You Want to Remove a Load-Bearing Wall for Your Kitchen?",
+  "step": [
+    {
+      "name": "Step 1: Feasibility Review & Structural Assessment. This initial phase involves a qualified general contractor or structural engineer evaluating the wall. They’ll determine if it’s load-bearing, assess potential utility routes (electrical, plumbing, HVAC, gas), and discuss the overall feasibility of your open-concept vision. This usually takes 1-3 weeks, and provides crucial insights for the next steps.",
+      "text": "Step 1: Feasibility Review & Structural Assessment. This initial phase involves a qualified general contractor or structural engineer evaluating the wall. They’ll determine if it’s load-bearing, assess potential utility routes (electrical, plumbing, HVAC, gas), and discuss the overall feasibility of your open-concept vision. This usually takes 1-3 weeks, and provides crucial insights for the next steps.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Design, Engineering & Permit Planning. If the wall is load-bearing, a structural engineer will create sealed engineering plans for the beam or post installation. AKN Design Group handles design, incorporating these structural elements seamlessly into your new layout. Concurrently, we’ll prepare and submit all necessary documentation for local building permits. Plan for 1-4 weeks for plan review and approval, though this can vary by jurisdiction.",
+      "text": "Step 2: Design, Engineering & Permit Planning. If the wall is load-bearing, a structural engineer will create sealed engineering plans for the beam or post installation. AKN Design Group handles design, incorporating these structural elements seamlessly into your new layout. Concurrently, we’ll prepare and submit all necessary documentation for local building permits. Plan for 1-4 weeks for plan review and approval, though this can vary by jurisdiction.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Utility Mapping & Relocation. Before any demolition, existing utilities within the wall must be precisely mapped. This ensures that electrical lines, plumbing pipes, and HVAC ducts are safely rerouted to avoid damage during demolition and integrated into your new design. This is a critical step that often overlaps with permit review and can take 1-2 weeks for planning.",
+      "text": "Step 3: Utility Mapping & Relocation. Before any demolition, existing utilities within the wall must be precisely mapped. This ensures that electrical lines, plumbing pipes, and HVAC ducts are safely rerouted to avoid damage during demolition and integrated into your new design. This is a critical step that often overlaps with permit review and can take 1-2 weeks for planning.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Demolition & Temporary Shoring. Once permits are secured and utilities are planned, demolition can begin. If the wall is load-bearing, temporary shoring will be installed to support the structure above before the wall is removed. This ensures the integrity of your home throughout the process. This phase, including setup and initial demolition, typically lasts 1-2 weeks.",
+      "text": "Step 4: Demolition & Temporary Shoring. Once permits are secured and utilities are planned, demolition can begin. If the wall is load-bearing, temporary shoring will be installed to support the structure above before the wall is removed. This ensures the integrity of your home throughout the process. This phase, including setup and initial demolition, typically lasts 1-2 weeks.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Beam/Post Installation & Rough-In Inspections. The new structural beam or posts are installed according to the engineered plans. After installation and utility rerouting are complete, rough-in inspections (electrical, plumbing, structural, mechanical) are performed by local building authorities. These inspections are essential for safety and compliance, and scheduling them can take 1-3 weeks depending on availability.",
+      "text": "Step 5: Beam/Post Installation & Rough-In Inspections. The new structural beam or posts are installed according to the engineered plans. After installation and utility rerouting are complete, rough-in inspections (electrical, plumbing, structural, mechanical) are performed by local building authorities. These inspections are essential for safety and compliance, and scheduling them can take 1-3 weeks depending on availability.",
+      "@type": "HowToStep",
+      "position": 5
+    },
+    {
+      "name": "Step 6: Drywall, Finish Work & Final Inspection. After successful inspections, the new framing is enclosed with drywall, and finish work begins. This includes patching ceilings and floors, painting, and preparing the area for your new cabinets and countertops. Finally, all elements are completed, and a final inspection ensures everything meets code. This finishing phase generally takes 3-6 weeks.",
+      "text": "What to Expect During the Process: Throughout this managed process, clear communication and a single point of coordination from your design-build team are vital. AKN Design Group emphasizes transparency, ensuring you're informed every step of the way, from concept to completion, for your complex renovation.",
+      "@type": "HowToStep",
+      "position": 6
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Fort Worth ",
+      "@type": "City"
+    },
+    {
+      "name": "Alameda",
+      "@type": "City"
+    },
+    {
+      "name": "Albany",
+      "@type": "City"
+    },
+    {
+      "name": "Berkeley",
+      "@type": "City"
+    },
+    {
+      "name": "Dublin",
+      "@type": "City"
+    },
+    {
+      "name": "Emeryville",
+      "@type": "City"
+    },
+    {
+      "name": "Fremont",
+      "@type": "City"
+    },
+    {
+      "name": "Hayward",
+      "@type": "City"
+    },
+    {
+      "name": "Livermore",
+      "@type": "City"
+    },
+    {
+      "name": "Newark",
+      "@type": "City"
+    },
+    {
+      "name": "Oakland",
+      "@type": "City"
+    },
+    {
+      "name": "Piedmont",
+      "@type": "City"
+    },
+    {
+      "name": "Pleasanton",
+      "@type": "City"
+    },
+    {
+      "name": "San Leandro",
+      "@type": "City"
+    },
+    {
+      "name": "Union City",
+      "@type": "City"
+    },
+    {
+      "name": "Castro Valley",
+      "@type": "City"
+    },
+    {
+      "name": "San Lorenzo",
+      "@type": "City"
+    },
+    {
+      "name": "Ashland",
+      "@type": "City"
+    },
+    {
+      "name": "Cherryland",
+      "@type": "City"
+    },
+    {
+      "name": "Fairview",
+      "@type": "City"
+    },
+    {
+      "name": "Sunol",
+      "@type": "City"
+    },
+    {
+      "name": "Antioch",
+      "@type": "City"
+    },
+    {
+      "name": "Brentwood",
+      "@type": "City"
+    },
+    {
+      "name": "Clayton",
+      "@type": "City"
+    },
+    {
+      "name": "Concord",
+      "@type": "City"
+    },
+    {
+      "name": "Danville",
+      "@type": "City"
+    },
+    {
+      "name": "El Cerrito",
+      "@type": "City"
+    },
+    {
+      "name": "Hercules",
+      "@type": "City"
+    },
+    {
+      "name": "Lafayette",
+      "@type": "City"
+    },
+    {
+      "name": "Martinez",
+      "@type": "City"
+    },
+    {
+      "name": "Moraga",
+      "@type": "City"
+    },
+    {
+      "name": "Oakley",
+      "@type": "City"
+    },
+    {
+      "name": "Orinda",
+      "@type": "City"
+    },
+    {
+      "name": "Pinole",
+      "@type": "City"
+    },
+    {
+      "name": "Pittsburg",
+      "@type": "City"
+    },
+    {
+      "name": "Pleasant Hill",
+      "@type": "City"
+    },
+    {
+      "name": "Richmond",
+      "@type": "City"
+    },
+    {
+      "name": "San Pablo",
+      "@type": "City"
+    },
+    {
+      "name": "San Ramon",
+      "@type": "City"
+    },
+    {
+      "name": "Walnut Creek",
+      "@type": "City"
+    }
+  ],
+  "description": "Step 1: Feasibility Review & Structural Assessment. This initial phase involves a qualified general contractor or structural engineer evaluating the wall. They’ll determine if it’s load-bearing, asses"
+}

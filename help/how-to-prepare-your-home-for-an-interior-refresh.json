@@ -1,0 +1,209 @@
+{
+  "name": "How to Prepare Your Home for an Interior Refresh",
+  "step": [
+    {
+      "name": "Step 1: Clear the Space and Protect Surfaces",
+      "text": "Before any work begins, remove as much furniture, decor, and wall hangings as possible from the room. For larger items, move them to the center of the room and cover them thoroughly with plastic sheeting or drop cloths. Ensure floors are completely covered with sturdy drop cloths or paper to protect against spills and drips. This step is crucial for keeping your belongings safe and giving the team ample space to work efficiently.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Clean and Inspect Walls and Ceilings",
+      "text": "Thoroughly clean all surfaces to be painted. Use a mild detergent and water to remove dirt, grease, and grime. Pay special attention to high-traffic areas like entryways and kitchens. After cleaning, inspect the walls and ceilings for any cracks, holes, or imperfections. Mark these areas so they can be addressed in the next step. A clean surface is essential for proper paint adhesion.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Repair and Smooth Imperfections",
+      "text": "Fill any holes or cracks with spackle or joint compound, then sand them smooth once dry. For glossy surfaces, a light sanding will help the new paint adhere better. Don’t forget to caulk any gaps around trim or molding. For significant damage, or if you notice stains or moisture issues, this is when professional insight becomes important; painting alone won't solve underlying problems.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Tape Off and Prime",
+      "text": "Use painter’s tape to create crisp lines around trim, windows, and ceilings. Apply primer to any patched areas, bare drywall, or surfaces with stains. Primer ensures a uniform base, prevents bleed-through, and promotes better paint adhesion and a more consistent final color. Don't skip this if you want a professional-looking finish.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Ensure Proper Ventilation and Environment",
+      "text": "Throughout the process, especially during painting and drying, maintain good ventilation by opening windows or using fans. Avoid painting in extremely cold or humid conditions, as this can negatively impact how the paint cures and its overall durability. Following the paint product's stated recoat times is also vital for the longevity of your finish. This careful preparation is key to achieving the high-end craftsmanship we value, ensuring your newly refreshed interiors stand the test of time.",
+      "@type": "HowToStep",
+      "position": 5
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Fort Worth ",
+      "@type": "City"
+    },
+    {
+      "name": "Alameda",
+      "@type": "City"
+    },
+    {
+      "name": "Albany",
+      "@type": "City"
+    },
+    {
+      "name": "Berkeley",
+      "@type": "City"
+    },
+    {
+      "name": "Dublin",
+      "@type": "City"
+    },
+    {
+      "name": "Emeryville",
+      "@type": "City"
+    },
+    {
+      "name": "Fremont",
+      "@type": "City"
+    },
+    {
+      "name": "Hayward",
+      "@type": "City"
+    },
+    {
+      "name": "Livermore",
+      "@type": "City"
+    },
+    {
+      "name": "Newark",
+      "@type": "City"
+    },
+    {
+      "name": "Oakland",
+      "@type": "City"
+    },
+    {
+      "name": "Piedmont",
+      "@type": "City"
+    },
+    {
+      "name": "Pleasanton",
+      "@type": "City"
+    },
+    {
+      "name": "San Leandro",
+      "@type": "City"
+    },
+    {
+      "name": "Union City",
+      "@type": "City"
+    },
+    {
+      "name": "Castro Valley",
+      "@type": "City"
+    },
+    {
+      "name": "San Lorenzo",
+      "@type": "City"
+    },
+    {
+      "name": "Ashland",
+      "@type": "City"
+    },
+    {
+      "name": "Cherryland",
+      "@type": "City"
+    },
+    {
+      "name": "Fairview",
+      "@type": "City"
+    },
+    {
+      "name": "Sunol",
+      "@type": "City"
+    },
+    {
+      "name": "Antioch",
+      "@type": "City"
+    },
+    {
+      "name": "Brentwood",
+      "@type": "City"
+    },
+    {
+      "name": "Clayton",
+      "@type": "City"
+    },
+    {
+      "name": "Concord",
+      "@type": "City"
+    },
+    {
+      "name": "Danville",
+      "@type": "City"
+    },
+    {
+      "name": "El Cerrito",
+      "@type": "City"
+    },
+    {
+      "name": "Hercules",
+      "@type": "City"
+    },
+    {
+      "name": "Lafayette",
+      "@type": "City"
+    },
+    {
+      "name": "Martinez",
+      "@type": "City"
+    },
+    {
+      "name": "Moraga",
+      "@type": "City"
+    },
+    {
+      "name": "Oakley",
+      "@type": "City"
+    },
+    {
+      "name": "Orinda",
+      "@type": "City"
+    },
+    {
+      "name": "Pinole",
+      "@type": "City"
+    },
+    {
+      "name": "Pittsburg",
+      "@type": "City"
+    },
+    {
+      "name": "Pleasant Hill",
+      "@type": "City"
+    },
+    {
+      "name": "Richmond",
+      "@type": "City"
+    },
+    {
+      "name": "San Pablo",
+      "@type": "City"
+    },
+    {
+      "name": "San Ramon",
+      "@type": "City"
+    },
+    {
+      "name": "Walnut Creek",
+      "@type": "City"
+    }
+  ],
+  "description": "Before any work begins, remove as much furniture, decor, and wall hangings as possible from the room. For larger items, move them to the center of the room and cover them thoroughly with plastic sheet"
+}

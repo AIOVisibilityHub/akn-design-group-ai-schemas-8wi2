@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/when-in-the-renovation-process-do-we-typically-select-materials",
+  "name": "When in the renovation process do we typically select materials?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When in the renovation process do we typically select materials?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Material selection is a critical component of the design phase, which precedes construction. At AKN Design Group, once the overall layout and design plans, often CAD-supported, are established, we move into detailed material choices. This sequence ensures that the selected materials integrate seamlessly with the architectural and functional aspects of your project, avoiding costly changes later. Coordinating these selections early allows for accurate ordering, lead time management, and keeps your project on a streamlined timeline.",
+        "@type": "Answer",
+        "description": "Material selection typically occurs during the design phase, after layout plans are finalized, to ensure seamless integration and efficient project coordination."
+      }
+    }
+  ],
+  "description": "Material selection typically occurs during the design phase, after layout plans are finalized, to ensure seamless integration and efficient project coordination"
+}

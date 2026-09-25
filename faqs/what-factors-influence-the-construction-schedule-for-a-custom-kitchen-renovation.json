@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-factors-influence-the-construction-schedule-for-a-custom-kitchen-renovation",
+  "name": "What factors influence the construction schedule for a custom kitchen renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the construction schedule for a custom kitchen renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The construction schedule for a custom kitchen renovation is influenced by several factors, including the complexity of the design, the extent of layout modifications, and the lead times for custom cabinetry and specialized appliances. Structural changes, such as opening up walls for an open-concept layout, will also impact the timeline. AKN Design Group works with homeowners to define the scope and coordinate material selections early, providing clear communication about the schedule. Our expertise in managing these elements from design through installation helps maintain efficiency and ensures a brighter, more efficient kitchen on schedule.",
+        "@type": "Answer",
+        "description": "Factors like design complexity, layout changes, and lead times for custom materials influence kitchen renovation schedules. Our design-build approach streamlines coordination."
+      }
+    }
+  ],
+  "description": "Factors like design complexity, layout changes, and lead times for custom materials influence kitchen renovation schedules. Our design-build approach streamline"
+}

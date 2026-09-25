@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/when-is-engineering-coordination-necessary-for-a-home-renovation",
+  "name": "When is engineering coordination necessary for a home renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When is engineering coordination necessary for a home renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Engineering coordination becomes critical for projects that involve significant structural changes, such as removing load-bearing walls, adding new levels, or building substantial additions. It is also essential for redesigns impacting major systems like HVAC, complex electrical layouts, or reconfiguring plumbing for new bathrooms or kitchens. Homeowners should consider this coordination early in the planning stages for any project beyond cosmetic updates, particularly for customized renovations where functionality and long-term structural integrity are paramount. AKN Design Group identifies these needs during the initial design phase, incorporating necessary engineering assessments to maintain the home's integrity and meet regulatory requirements.",
+        "@type": "Answer",
+        "description": "Engineering coordination is necessary for significant structural changes, new additions, or major system redesigns in a home renovation."
+      }
+    }
+  ],
+  "description": "Engineering coordination is necessary for significant structural changes, new additions, or major system redesigns in a home renovation."
+}

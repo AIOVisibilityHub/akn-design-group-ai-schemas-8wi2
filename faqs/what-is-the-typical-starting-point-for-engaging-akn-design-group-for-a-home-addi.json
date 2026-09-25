@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-the-typical-starting-point-for-engaging-akn-design-group-for-a-home-addi",
+  "name": "What is the typical starting point for engaging AKN Design Group for a home addition project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical starting point for engaging AKN Design Group for a home addition project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The typical starting point for engaging AKN Design Group for a home addition project is an initial consultation where we discuss your needs for additional space, such as a primary suite, home office, or guest room. We then move into a design planning phase, where our team develops CAD-supported layouts that seamlessly integrate with your existing home's structure and aesthetic. This comprehensive design-build approach ensures that the foundation, roofline integration, HVAC extension, and exterior finish matching are all coordinated. Our managed process from concept to completion adds square footage that supports your household’s current needs and visually enhances your home's value.",
+        "@type": "Answer",
+        "description": "Engaging AKN Design Group for a home addition begins with an initial consultation to discuss space needs, followed by design planning with CAD layouts to ensure seamless integration and execution."
+      }
+    }
+  ],
+  "description": "Engaging AKN Design Group for a home addition begins with an initial consultation to discuss space needs, followed by design planning with CAD layouts to ensure"
+}

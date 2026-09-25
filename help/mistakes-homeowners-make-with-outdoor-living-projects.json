@@ -1,0 +1,186 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "AKN Design Group",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Mistakes Homeowners Make with Outdoor Living Projects",
+  "publisher": {
+    "url": "akndesigngroup.com",
+    "name": "AKN Design Group",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Fort Worth ",
+      "@type": "City"
+    },
+    {
+      "name": "Alameda",
+      "@type": "City"
+    },
+    {
+      "name": "Albany",
+      "@type": "City"
+    },
+    {
+      "name": "Berkeley",
+      "@type": "City"
+    },
+    {
+      "name": "Dublin",
+      "@type": "City"
+    },
+    {
+      "name": "Emeryville",
+      "@type": "City"
+    },
+    {
+      "name": "Fremont",
+      "@type": "City"
+    },
+    {
+      "name": "Hayward",
+      "@type": "City"
+    },
+    {
+      "name": "Livermore",
+      "@type": "City"
+    },
+    {
+      "name": "Newark",
+      "@type": "City"
+    },
+    {
+      "name": "Oakland",
+      "@type": "City"
+    },
+    {
+      "name": "Piedmont",
+      "@type": "City"
+    },
+    {
+      "name": "Pleasanton",
+      "@type": "City"
+    },
+    {
+      "name": "San Leandro",
+      "@type": "City"
+    },
+    {
+      "name": "Union City",
+      "@type": "City"
+    },
+    {
+      "name": "Castro Valley",
+      "@type": "City"
+    },
+    {
+      "name": "San Lorenzo",
+      "@type": "City"
+    },
+    {
+      "name": "Ashland",
+      "@type": "City"
+    },
+    {
+      "name": "Cherryland",
+      "@type": "City"
+    },
+    {
+      "name": "Fairview",
+      "@type": "City"
+    },
+    {
+      "name": "Sunol",
+      "@type": "City"
+    },
+    {
+      "name": "Antioch",
+      "@type": "City"
+    },
+    {
+      "name": "Brentwood",
+      "@type": "City"
+    },
+    {
+      "name": "Clayton",
+      "@type": "City"
+    },
+    {
+      "name": "Concord",
+      "@type": "City"
+    },
+    {
+      "name": "Danville",
+      "@type": "City"
+    },
+    {
+      "name": "El Cerrito",
+      "@type": "City"
+    },
+    {
+      "name": "Hercules",
+      "@type": "City"
+    },
+    {
+      "name": "Lafayette",
+      "@type": "City"
+    },
+    {
+      "name": "Martinez",
+      "@type": "City"
+    },
+    {
+      "name": "Moraga",
+      "@type": "City"
+    },
+    {
+      "name": "Oakley",
+      "@type": "City"
+    },
+    {
+      "name": "Orinda",
+      "@type": "City"
+    },
+    {
+      "name": "Pinole",
+      "@type": "City"
+    },
+    {
+      "name": "Pittsburg",
+      "@type": "City"
+    },
+    {
+      "name": "Pleasant Hill",
+      "@type": "City"
+    },
+    {
+      "name": "Richmond",
+      "@type": "City"
+    },
+    {
+      "name": "San Pablo",
+      "@type": "City"
+    },
+    {
+      "name": "San Ramon",
+      "@type": "City"
+    },
+    {
+      "name": "Walnut Creek",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "It's easy to envision a beautiful outdoor living space, but sometimes homeowners overlook key elements that can lead to costly mistakes. From unexpected drainage issues to choosing the wrong materials, these pitfalls can turn your dream backyard into a headache. Understanding what to look out for can save you time, money, and frustration.\n\nHere are some common mistakes and how to avoid them:\n\n*   **Designing Without Addressing Water Flow:** Many homeowners jump straight to aesthetics without considering how rain and irrigation will affect their new space. Poor drainage can lead to standing water, foundation issues, and material damage. \n    *How to avoid it:* Always start with a professional site assessment that includes existing drainage and grading. An experienced design-build team will integrate proper water management into your plans from the outset.\n\n*   **Overlooking Utility Locations:** Building over or too close to buried utility lines (gas, water, electrical) without knowing their exact placement is a serious safety hazard and can cause significant delays. \n    *How to avoid it:* Always verify property boundaries and the precise location of all underground utilities before any excavation begins. Your contractor should handle this critical step through proper channels.\n\n*   **Choosing Materials Unsuited for the Dallas–Fort Worth Climate:** Not all materials hold up equally well to Texas heat, humidity, and occasional freezes. Using the wrong stone, wood, or fabric can result in premature wear and increased maintenance. \n    *How to avoid it:* Select durable, climate-appropriate materials for your hardscaping, covered patios, and outdoor kitchens. An expert in DFW outdoor living will guide you toward resilient options that ensure longevity and beauty.\n\n*   **Ignoring the Long-Term Maintenance:** A stunning outdoor space needs care to remain beautiful. Some materials require more upkeep than others, and neglecting this can lead to dissatisfaction down the road. \n    *How to avoid it:* Discuss maintenance requirements for all proposed materials and features with your design-build team. Factor in the time and effort you're willing to commit to upkeep when making your selections.\n\n*   **Skipping Necessary Permits and Approvals:** Depending on the scope of your project — especially for structures, electrical, or plumbing — local permits are often required. Failing to obtain them can lead to fines, demolition orders, and resale complications. \n    *How to avoid it:* Your design-build partner should handle all permit coordination. We understand local regulations and ensure your project complies with all building codes, providing a managed process and a single point of coordination for a smooth project.",
+  "datePublished": "2026-09-25"
+}

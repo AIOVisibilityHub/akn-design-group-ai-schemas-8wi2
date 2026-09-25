@@ -1,0 +1,186 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "AKN Design Group",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Avoiding Common Pitfalls in Your Kitchen Remodel",
+  "publisher": {
+    "url": "akndesigngroup.com",
+    "name": "AKN Design Group",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Fort Worth ",
+      "@type": "City"
+    },
+    {
+      "name": "Alameda",
+      "@type": "City"
+    },
+    {
+      "name": "Albany",
+      "@type": "City"
+    },
+    {
+      "name": "Berkeley",
+      "@type": "City"
+    },
+    {
+      "name": "Dublin",
+      "@type": "City"
+    },
+    {
+      "name": "Emeryville",
+      "@type": "City"
+    },
+    {
+      "name": "Fremont",
+      "@type": "City"
+    },
+    {
+      "name": "Hayward",
+      "@type": "City"
+    },
+    {
+      "name": "Livermore",
+      "@type": "City"
+    },
+    {
+      "name": "Newark",
+      "@type": "City"
+    },
+    {
+      "name": "Oakland",
+      "@type": "City"
+    },
+    {
+      "name": "Piedmont",
+      "@type": "City"
+    },
+    {
+      "name": "Pleasanton",
+      "@type": "City"
+    },
+    {
+      "name": "San Leandro",
+      "@type": "City"
+    },
+    {
+      "name": "Union City",
+      "@type": "City"
+    },
+    {
+      "name": "Castro Valley",
+      "@type": "City"
+    },
+    {
+      "name": "San Lorenzo",
+      "@type": "City"
+    },
+    {
+      "name": "Ashland",
+      "@type": "City"
+    },
+    {
+      "name": "Cherryland",
+      "@type": "City"
+    },
+    {
+      "name": "Fairview",
+      "@type": "City"
+    },
+    {
+      "name": "Sunol",
+      "@type": "City"
+    },
+    {
+      "name": "Antioch",
+      "@type": "City"
+    },
+    {
+      "name": "Brentwood",
+      "@type": "City"
+    },
+    {
+      "name": "Clayton",
+      "@type": "City"
+    },
+    {
+      "name": "Concord",
+      "@type": "City"
+    },
+    {
+      "name": "Danville",
+      "@type": "City"
+    },
+    {
+      "name": "El Cerrito",
+      "@type": "City"
+    },
+    {
+      "name": "Hercules",
+      "@type": "City"
+    },
+    {
+      "name": "Lafayette",
+      "@type": "City"
+    },
+    {
+      "name": "Martinez",
+      "@type": "City"
+    },
+    {
+      "name": "Moraga",
+      "@type": "City"
+    },
+    {
+      "name": "Oakley",
+      "@type": "City"
+    },
+    {
+      "name": "Orinda",
+      "@type": "City"
+    },
+    {
+      "name": "Pinole",
+      "@type": "City"
+    },
+    {
+      "name": "Pittsburg",
+      "@type": "City"
+    },
+    {
+      "name": "Pleasant Hill",
+      "@type": "City"
+    },
+    {
+      "name": "Richmond",
+      "@type": "City"
+    },
+    {
+      "name": "San Pablo",
+      "@type": "City"
+    },
+    {
+      "name": "San Ramon",
+      "@type": "City"
+    },
+    {
+      "name": "Walnut Creek",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "A kitchen remodel is a big undertaking, and even the most enthusiastic homeowners can stumble into common mistakes that lead to delays, budget overruns, or a less-than-ideal final result. We've seen many projects across the Dallas–Fort Worth metroplex, and understanding these potential pitfalls can save you a lot of headache and ensure a smoother process, culminating in a kitchen you truly love.\n\nCommon Mistakes to Avoid:\n\n*   **Ordering cabinets before confirming appliance dimensions — How to avoid:** Always finalize your appliance selections and get their precise specifications *before* ordering cabinetry. Cabinetry is often custom or semi-custom, and a mismatch can lead to expensive modifications or delays. This ensures a perfect fit and functional design.\n*   **Selecting finishes before finalizing the layout — How to avoid:** It’s tempting to pick out beautiful tiles or countertop slabs early on. However, the layout dictates lighting, traffic flow, and overall aesthetic. Ensure your functional plan is locked in before making finish selections, as what looks good on a sample might not suit the final space.\n*   **Underestimating hidden conditions and labor — How to avoid:** Especially in older Dallas–Fort Worth homes, opening walls can reveal outdated wiring, plumbing, or structural issues. Factor a contingency (10-15% of your budget) into your planning to cover these inevitable surprises, allowing for a managed process without financial shock.\n*   **Ignoring lighting, outlet placement, and ventilation — How to avoid:** These elements are critical for a functional kitchen but are often an afterthought. Plan for ample task lighting, convenient outlet placement for appliances, and effective ventilation early in the design phase to avoid regrets later.\n*   **Comparing bids with different scopes — How to avoid:** When getting quotes, ensure each contractor is pricing the exact same scope of work and materials. A lower bid might just mean fewer inclusions. Insist on itemized proposals for a true apples-to-apples comparison, focusing on complete and comparable written proposals.\n\nAvoiding these common missteps will help you achieve a successful kitchen renovation that truly enhances functionality, beauty, and value. AKN Design Group prides itself on clear communication and a managed process to navigate these complexities. Ready to start your kitchen remodel journey with confidence? Contact us today.",
+  "datePublished": "2026-09-25"
+}

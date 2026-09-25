@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-the-typical-scheduling-process-for-a-luxury-bathroom-renovation",
+  "name": "What is the typical scheduling process for a luxury bathroom renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical scheduling process for a luxury bathroom renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our scheduling process for a luxury bathroom renovation begins with detailed design planning, where we finalize layouts, material selections, and fixtures. Once design and permits are secured, the construction phase is scheduled, starting with demolition, followed by rough-ins for plumbing and electrical, then tiling, fixture installation, and final finishes. The timeline is carefully managed to coordinate trades and material deliveries efficiently, ensuring smooth progress. We aim to transform your everyday bath into a spa-inspired retreat with minimal inconvenience, providing a managed process from concept to completion.",
+        "@type": "Answer",
+        "description": "Our luxury bathroom renovation schedule moves from detailed design and permitting to demolition, rough-ins, tiling, and final finishes, coordinating trades for efficiency."
+      }
+    }
+  ],
+  "description": "Our luxury bathroom renovation schedule moves from detailed design and permitting to demolition, rough-ins, tiling, and final finishes, coordinating trades for"
+}

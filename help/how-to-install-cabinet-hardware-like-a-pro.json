@@ -1,0 +1,221 @@
+{
+  "name": "How to Install Cabinet Hardware Like a Pro",
+  "step": [
+    {
+      "name": "Step 1: Decide on Consistent Placement",
+      "text": "Before you drill anything, determine exactly where each knob or pull will go. Will all knobs be centered on the stile? Will pulls on upper cabinets be placed differently than those on lower cabinets or drawers? Consistency is crucial for a cohesive look. Map out your plan, perhaps even drawing temporary marks with a pencil.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Measure Each Piece and Your Cabinets",
+      "text": "Don't assume all hardware is identical or that standard measurements will work for every cabinet. Measure the center-to-center spacing of your pulls, not just their overall length. Also, measure the thickness of your cabinet doors and drawer fronts. This informs the correct screw length needed and helps confirm if existing holes can be reused or will need filling.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Create or Use a Drilling Template",
+      "text": "This step is a game-changer for consistency. You can buy an adjustable cabinet hardware jig or create your own template from a piece of scrap wood, cardboard, or plastic. Mark your chosen hardware placement on the template. This ensures every hole is drilled in the exact same spot, reducing errors across multiple cabinets.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Test the Layout and Mark Drilling Points",
+      "text": "Before drilling into your actual cabinets, always test your template on a scrap piece of wood or, for an inconspicuous area, the back of a less visible cabinet door. Once confident, use your template to mark the precise drilling points on each door and drawer front. A light dimple with an awl can help prevent the drill bit from wandering.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Drill with the Correct Bit and Depth",
+      "text": "Select a drill bit slightly larger than your hardware screws. For wood, a twist bit works well; for other materials, you might need a specialized bit. Ensure you drill straight, not at an angle. If drilling through thin material, place a scrap wood block behind the drilling area to prevent splintering. Check for any hinge clearance issues before drilling.",
+      "@type": "HowToStep",
+      "position": 5
+    },
+    {
+      "name": "Step 6: Install Screws and Hardware",
+      "text": "Carefully thread the screws through the back of the cabinet door or drawer front and attach the knob or pull. Don't overtighten, as this can strip screws or damage the cabinet finish. Snug is good. Check that the hardware is level and firmly in place, then make any minor adjustments.",
+      "@type": "HowToStep",
+      "position": 6
+    },
+    {
+      "name": "Step 7: Check Alignment, Clearance, and Operation",
+      "text": "After installation, stand back and visually inspect all your newly installed hardware. Do the knobs and pulls look consistent? Do they align properly? Open and close each door and drawer to ensure the hardware doesn't snag or obstruct anything. This final check ensures smooth operation and a professional finish that enhances your home's lasting value.",
+      "@type": "HowToStep",
+      "position": 7
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Fort Worth ",
+      "@type": "City"
+    },
+    {
+      "name": "Alameda",
+      "@type": "City"
+    },
+    {
+      "name": "Albany",
+      "@type": "City"
+    },
+    {
+      "name": "Berkeley",
+      "@type": "City"
+    },
+    {
+      "name": "Dublin",
+      "@type": "City"
+    },
+    {
+      "name": "Emeryville",
+      "@type": "City"
+    },
+    {
+      "name": "Fremont",
+      "@type": "City"
+    },
+    {
+      "name": "Hayward",
+      "@type": "City"
+    },
+    {
+      "name": "Livermore",
+      "@type": "City"
+    },
+    {
+      "name": "Newark",
+      "@type": "City"
+    },
+    {
+      "name": "Oakland",
+      "@type": "City"
+    },
+    {
+      "name": "Piedmont",
+      "@type": "City"
+    },
+    {
+      "name": "Pleasanton",
+      "@type": "City"
+    },
+    {
+      "name": "San Leandro",
+      "@type": "City"
+    },
+    {
+      "name": "Union City",
+      "@type": "City"
+    },
+    {
+      "name": "Castro Valley",
+      "@type": "City"
+    },
+    {
+      "name": "San Lorenzo",
+      "@type": "City"
+    },
+    {
+      "name": "Ashland",
+      "@type": "City"
+    },
+    {
+      "name": "Cherryland",
+      "@type": "City"
+    },
+    {
+      "name": "Fairview",
+      "@type": "City"
+    },
+    {
+      "name": "Sunol",
+      "@type": "City"
+    },
+    {
+      "name": "Antioch",
+      "@type": "City"
+    },
+    {
+      "name": "Brentwood",
+      "@type": "City"
+    },
+    {
+      "name": "Clayton",
+      "@type": "City"
+    },
+    {
+      "name": "Concord",
+      "@type": "City"
+    },
+    {
+      "name": "Danville",
+      "@type": "City"
+    },
+    {
+      "name": "El Cerrito",
+      "@type": "City"
+    },
+    {
+      "name": "Hercules",
+      "@type": "City"
+    },
+    {
+      "name": "Lafayette",
+      "@type": "City"
+    },
+    {
+      "name": "Martinez",
+      "@type": "City"
+    },
+    {
+      "name": "Moraga",
+      "@type": "City"
+    },
+    {
+      "name": "Oakley",
+      "@type": "City"
+    },
+    {
+      "name": "Orinda",
+      "@type": "City"
+    },
+    {
+      "name": "Pinole",
+      "@type": "City"
+    },
+    {
+      "name": "Pittsburg",
+      "@type": "City"
+    },
+    {
+      "name": "Pleasant Hill",
+      "@type": "City"
+    },
+    {
+      "name": "Richmond",
+      "@type": "City"
+    },
+    {
+      "name": "San Pablo",
+      "@type": "City"
+    },
+    {
+      "name": "San Ramon",
+      "@type": "City"
+    },
+    {
+      "name": "Walnut Creek",
+      "@type": "City"
+    }
+  ],
+  "description": "Before you drill anything, determine exactly where each knob or pull will go. Will all knobs be centered on the stile? Will pulls on upper cabinets be placed differently than those on lower cabinets o"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-building-code-coordination-and-why-is-it-important-for-my-renovation-pro",
+  "name": "What is building code coordination and why is it important for my renovation project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is building code coordination and why is it important for my renovation project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Building code coordination involves ensuring your renovation plans and construction work comply with all local safety, structural, and zoning regulations. For significant projects like whole-home remodels or additions, this coordination is crucial to protect your investment, ensure safety, and prevent costly delays or rework. AKN Design Group manages this entire process, integrating code requirements from the initial design phase through final inspection. This proactive approach minimizes unforeseen issues and ensures your project progresses smoothly and legally, avoiding potential fines or complications later.",
+        "@type": "Answer",
+        "description": "Building code coordination ensures your renovation complies with local regulations, preventing issues and protecting your investment. AKN Design Group manages this process from design to inspection."
+      }
+    }
+  ],
+  "description": "Building code coordination ensures your renovation complies with local regulations, preventing issues and protecting your investment. AKN Design Group manages t"
+}

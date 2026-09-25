@@ -1,0 +1,186 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "AKN Design Group",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "What to Expect During Your Kitchen Design Process",
+  "publisher": {
+    "url": "akndesigngroup.com",
+    "name": "AKN Design Group",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Fort Worth ",
+      "@type": "City"
+    },
+    {
+      "name": "Alameda",
+      "@type": "City"
+    },
+    {
+      "name": "Albany",
+      "@type": "City"
+    },
+    {
+      "name": "Berkeley",
+      "@type": "City"
+    },
+    {
+      "name": "Dublin",
+      "@type": "City"
+    },
+    {
+      "name": "Emeryville",
+      "@type": "City"
+    },
+    {
+      "name": "Fremont",
+      "@type": "City"
+    },
+    {
+      "name": "Hayward",
+      "@type": "City"
+    },
+    {
+      "name": "Livermore",
+      "@type": "City"
+    },
+    {
+      "name": "Newark",
+      "@type": "City"
+    },
+    {
+      "name": "Oakland",
+      "@type": "City"
+    },
+    {
+      "name": "Piedmont",
+      "@type": "City"
+    },
+    {
+      "name": "Pleasanton",
+      "@type": "City"
+    },
+    {
+      "name": "San Leandro",
+      "@type": "City"
+    },
+    {
+      "name": "Union City",
+      "@type": "City"
+    },
+    {
+      "name": "Castro Valley",
+      "@type": "City"
+    },
+    {
+      "name": "San Lorenzo",
+      "@type": "City"
+    },
+    {
+      "name": "Ashland",
+      "@type": "City"
+    },
+    {
+      "name": "Cherryland",
+      "@type": "City"
+    },
+    {
+      "name": "Fairview",
+      "@type": "City"
+    },
+    {
+      "name": "Sunol",
+      "@type": "City"
+    },
+    {
+      "name": "Antioch",
+      "@type": "City"
+    },
+    {
+      "name": "Brentwood",
+      "@type": "City"
+    },
+    {
+      "name": "Clayton",
+      "@type": "City"
+    },
+    {
+      "name": "Concord",
+      "@type": "City"
+    },
+    {
+      "name": "Danville",
+      "@type": "City"
+    },
+    {
+      "name": "El Cerrito",
+      "@type": "City"
+    },
+    {
+      "name": "Hercules",
+      "@type": "City"
+    },
+    {
+      "name": "Lafayette",
+      "@type": "City"
+    },
+    {
+      "name": "Martinez",
+      "@type": "City"
+    },
+    {
+      "name": "Moraga",
+      "@type": "City"
+    },
+    {
+      "name": "Oakley",
+      "@type": "City"
+    },
+    {
+      "name": "Orinda",
+      "@type": "City"
+    },
+    {
+      "name": "Pinole",
+      "@type": "City"
+    },
+    {
+      "name": "Pittsburg",
+      "@type": "City"
+    },
+    {
+      "name": "Pleasant Hill",
+      "@type": "City"
+    },
+    {
+      "name": "Richmond",
+      "@type": "City"
+    },
+    {
+      "name": "San Pablo",
+      "@type": "City"
+    },
+    {
+      "name": "San Ramon",
+      "@type": "City"
+    },
+    {
+      "name": "Walnut Creek",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Embarking on a custom kitchen design project for your Dallas–Fort Worth home is an exciting venture, but understanding the process upfront helps set clear expectations. It's not just about picking pretty colors; it's a detailed journey from initial ideas to a perfectly tailored space. At AKN Design Group, we believe a managed process with clear communication is key to a smooth and successful homeowner experience.\n\n**Process Clarity**\nYour custom kitchen design journey typically kicks off with an in-depth consultation where your designer gathers all your needs and desires. This isn't just about aesthetics; it's about understanding your cooking habits, storage requirements, household dynamics, and aesthetic preferences. Next, the design team will conduct a thorough survey of your existing room, meticulously noting dimensions, windows, doors, utility locations, and any architectural constraints. This precise measurement phase is crucial. From there, preliminary layouts are created, often using CAD-supported designs, allowing you to visualize different configurations for appliances, storage, and circulation. This is followed by detailed material selections for cabinetry, countertops, flooring, lighting, and fixtures. There will be revision rounds to fine-tune the design based on your feedback, ensuring every detail aligns with your vision before final specifications are produced. This collaborative back-and-forth ensures your customized renovation truly reflects your lifestyle and enhances functionality.\n\n**What to Prepare Before You Start**\nTo make the design process as efficient and effective as possible, a little preparation on your part goes a long way. Start by gathering inspiration images – photos of kitchens you love, specific features, or material palettes that catch your eye. Think about your current kitchen's pain points and what you wish was different. How do you cook? Do you entertain often? Who uses the kitchen, and what are their specific needs? Also, consider your budget range for the entire project. Having these ideas and parameters ready will help your designer understand your vision and practical requirements from day one, allowing them to create a design that’s not just beautiful but also highly functional and aligned with your expectations. This collaboration is what makes a custom kitchen truly yours.\n\n**What to Do Next**\nReady to transform your kitchen with a thoughtful, managed design process? Contact AKN Design Group to begin your custom kitchen journey.",
+  "datePublished": "2026-09-25"
+}

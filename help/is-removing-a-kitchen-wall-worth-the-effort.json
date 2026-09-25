@@ -1,0 +1,221 @@
+{
+  "name": "Is Removing a Kitchen Wall Worth the Effort?",
+  "step": [
+    {
+      "name": "Step 1: Identify if the wall is load-bearing — Before any demolition, it's crucial to determine if the wall supports the structure above. This isn't something you can guess; a professional contractor, structural engineer, or architect needs to assess it. Assuming a wall is nonstructural without proper evaluation is a frequent mistake that can lead to serious safety and structural issues.",
+      "text": "Step 1: Identify if the wall is load-bearing — Before any demolition, it's crucial to determine if the wall supports the structure above. This isn't something you can guess; a professional contractor, structural engineer, or architect needs to assess it. Assuming a wall is nonstructural without proper evaluation is a frequent mistake that can lead to serious safety and structural issues.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Prepare engineering or construction plans — If the wall is load-bearing, engineering plans detailing the required beam and post specifications are essential. Even for non-load-bearing walls, detailed construction plans help define the new layout and ensure all elements like new cabinetry, flooring, and lighting integrate seamlessly. These plans are also vital for permit applications.",
+      "text": "Step 2: Prepare engineering or construction plans — If the wall is load-bearing, engineering plans detailing the required beam and post specifications are essential. Even for non-load-bearing walls, detailed construction plans help define the new layout and ensure all elements like new cabinetry, flooring, and lighting integrate seamlessly. These plans are also vital for permit applications.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Obtain applicable approvals and permits — Structural modifications, electrical rerouting, and plumbing changes commonly require permits and inspections from local building departments. Your contractor should verify all requirements before demolition begins. Skipping this step can lead to costly delays and rework later on. This ensures your project is compliant and safe.",
+      "text": "Step 3: Obtain applicable approvals and permits — Structural modifications, electrical rerouting, and plumbing changes commonly require permits and inspections from local building departments. Your contractor should verify all requirements before demolition begins. Skipping this step can lead to costly delays and rework later on. This ensures your project is compliant and safe.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Install temporary supports — If the wall is load-bearing, temporary supports are put in place before demolition. This critical step ensures the structural integrity of your home throughout the removal process. Our skilled craftsmen handle this with precision, protecting your home and all workers on site.",
+      "text": "Step 4: Install temporary supports — If the wall is load-bearing, temporary supports are put in place before demolition. This critical step ensures the structural integrity of your home throughout the removal process. Our skilled craftsmen handle this with precision, protecting your home and all workers on site.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Complete framing, beams, posts, and utility relocations — Once the wall is removed and temporary supports are in place, permanent beams and posts are installed to properly support the structure. Any necessary relocations of electrical, plumbing, or HVAC lines are also completed at this stage, setting the foundation for your new open space.",
+      "text": "Step 5: Complete framing, beams, posts, and utility relocations — Once the wall is removed and temporary supports are in place, permanent beams and posts are installed to properly support the structure. Any necessary relocations of electrical, plumbing, or HVAC lines are also completed at this stage, setting the foundation for your new open space.",
+      "@type": "HowToStep",
+      "position": 5
+    },
+    {
+      "name": "Step 6: Pass rough inspections — After the structural and utility work is done but before walls or ceilings are closed, local building inspectors will need to verify that everything meets code. This is a critical milestone in the process, ensuring safety and compliance. We coordinate these inspections as part of our managed process.",
+      "text": "Step 6: Pass rough inspections — After the structural and utility work is done but before walls or ceilings are closed, local building inspectors will need to verify that everything meets code. This is a critical milestone in the process, ensuring safety and compliance. We coordinate these inspections as part of our managed process.",
+      "@type": "HowToStep",
+      "position": 6
+    },
+    {
+      "name": "Step 7: Install drywall, cabinets, counters, flooring, and fixtures — With the structural and utility work approved, the finishing stages begin. New drywall is installed, followed by your chosen cabinets, countertops, flooring, and all the final fixtures and appliances. This is where your open-concept vision truly comes to life.",
+      "text": "What to Expect During the Process An open-concept kitchen remodel, especially one involving wall removal, typically extends beyond the active construction time of 6–12 weeks due to planning, approvals, engineering, material lead times, and inspections. Expect the planning and design phase alone to take several weeks, and lead times for custom cabinets can be up to 10 weeks. Your AKN Design Group project manager will provide a detailed, written schedule and clear communication, keeping you informed every step of the way, minimizing disruptions, and coordinating all trades to deliver exceptional results.",
+      "@type": "HowToStep",
+      "position": 7
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Fort Worth ",
+      "@type": "City"
+    },
+    {
+      "name": "Alameda",
+      "@type": "City"
+    },
+    {
+      "name": "Albany",
+      "@type": "City"
+    },
+    {
+      "name": "Berkeley",
+      "@type": "City"
+    },
+    {
+      "name": "Dublin",
+      "@type": "City"
+    },
+    {
+      "name": "Emeryville",
+      "@type": "City"
+    },
+    {
+      "name": "Fremont",
+      "@type": "City"
+    },
+    {
+      "name": "Hayward",
+      "@type": "City"
+    },
+    {
+      "name": "Livermore",
+      "@type": "City"
+    },
+    {
+      "name": "Newark",
+      "@type": "City"
+    },
+    {
+      "name": "Oakland",
+      "@type": "City"
+    },
+    {
+      "name": "Piedmont",
+      "@type": "City"
+    },
+    {
+      "name": "Pleasanton",
+      "@type": "City"
+    },
+    {
+      "name": "San Leandro",
+      "@type": "City"
+    },
+    {
+      "name": "Union City",
+      "@type": "City"
+    },
+    {
+      "name": "Castro Valley",
+      "@type": "City"
+    },
+    {
+      "name": "San Lorenzo",
+      "@type": "City"
+    },
+    {
+      "name": "Ashland",
+      "@type": "City"
+    },
+    {
+      "name": "Cherryland",
+      "@type": "City"
+    },
+    {
+      "name": "Fairview",
+      "@type": "City"
+    },
+    {
+      "name": "Sunol",
+      "@type": "City"
+    },
+    {
+      "name": "Antioch",
+      "@type": "City"
+    },
+    {
+      "name": "Brentwood",
+      "@type": "City"
+    },
+    {
+      "name": "Clayton",
+      "@type": "City"
+    },
+    {
+      "name": "Concord",
+      "@type": "City"
+    },
+    {
+      "name": "Danville",
+      "@type": "City"
+    },
+    {
+      "name": "El Cerrito",
+      "@type": "City"
+    },
+    {
+      "name": "Hercules",
+      "@type": "City"
+    },
+    {
+      "name": "Lafayette",
+      "@type": "City"
+    },
+    {
+      "name": "Martinez",
+      "@type": "City"
+    },
+    {
+      "name": "Moraga",
+      "@type": "City"
+    },
+    {
+      "name": "Oakley",
+      "@type": "City"
+    },
+    {
+      "name": "Orinda",
+      "@type": "City"
+    },
+    {
+      "name": "Pinole",
+      "@type": "City"
+    },
+    {
+      "name": "Pittsburg",
+      "@type": "City"
+    },
+    {
+      "name": "Pleasant Hill",
+      "@type": "City"
+    },
+    {
+      "name": "Richmond",
+      "@type": "City"
+    },
+    {
+      "name": "San Pablo",
+      "@type": "City"
+    },
+    {
+      "name": "San Ramon",
+      "@type": "City"
+    },
+    {
+      "name": "Walnut Creek",
+      "@type": "City"
+    }
+  ],
+  "description": "Step 1: Identify if the wall is load-bearing — Before any demolition, it's crucial to determine if the wall supports the structure above. This isn't something you can guess; a professional contractor,"
+}

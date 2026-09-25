@@ -1,0 +1,215 @@
+{
+  "name": "How to Plan for a Whole-Home Interior Refresh",
+  "step": [
+    {
+      "name": "Step 1: Define Your Vision and Scope",
+      "text": "Start by thinking about what you want to achieve for each room. Is it new paint, updated flooring, modern light fixtures, or perhaps new hardware and trim? A common mistake is starting without an overall room-by-room plan. Document your ideas, gather inspiration, and consider how each room connects to the next visually. This initial stage sets the stage for a successful transformation, ensuring that your interior upgrades feel unified, not piecemeal.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Coordinate Materials and Colors",
+      "text": "Once you have your vision, start selecting materials. This includes paint colors, flooring samples, lighting styles, and hardware. A critical step often overlooked is ensuring these selections are coordinated and compatible, both visually and dimensionally, with your existing features or any new elements. AKN Design Group emphasizes this to avoid conflicts down the line. Having material samples on hand is crucial.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Account for Disruptive Work First",
+      "text": "If your refresh involves new flooring or any work that generates dust or requires demolition, schedule these items first. It makes sense to complete the most disruptive tasks before you move onto finishes like painting. For instance, you definitely don’t want to install new, beautiful flooring only to have it damaged by subsequent demolition or heavy foot traffic.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Rough-In and Prep Work",
+      "text": "Any rough electrical work or wall repairs should happen before priming and painting. This includes addressing any moisture or water damage, if present, which shouldn't be treated as purely cosmetic. Getting these foundational elements right ensures your finishes have a smooth, lasting base. This is also where a qualified professional becomes important, especially for electrical or structural considerations.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Install Finishes and Fixtures",
+      "text": "Once the prep work is done, it's time for the exciting part: installing your chosen finishes. This typically follows a sequence: primer and paint, then flooring, followed by trim, and finally finish electrical work (like light fixtures and outlets). This order helps protect newly installed elements and ensures a polished result. Remember to confirm whether furniture moving, surface preparation, disposal, and touch-ups are included in your agreements.",
+      "@type": "HowToStep",
+      "position": 5
+    },
+    {
+      "name": "Step 6: Final Touches and Walkthrough",
+      "text": "With all the main components in place, complete any final touch-ups, hardware installation, and cleaning. Take a careful walkthrough to ensure every detail meets your expectations. This managed process, coordinated under one experienced team, delivers not just an aesthetic upgrade but also enhances functionality, beauty, and value for your Dallas–Fort Worth metroplex home.",
+      "@type": "HowToStep",
+      "position": 6
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Fort Worth ",
+      "@type": "City"
+    },
+    {
+      "name": "Alameda",
+      "@type": "City"
+    },
+    {
+      "name": "Albany",
+      "@type": "City"
+    },
+    {
+      "name": "Berkeley",
+      "@type": "City"
+    },
+    {
+      "name": "Dublin",
+      "@type": "City"
+    },
+    {
+      "name": "Emeryville",
+      "@type": "City"
+    },
+    {
+      "name": "Fremont",
+      "@type": "City"
+    },
+    {
+      "name": "Hayward",
+      "@type": "City"
+    },
+    {
+      "name": "Livermore",
+      "@type": "City"
+    },
+    {
+      "name": "Newark",
+      "@type": "City"
+    },
+    {
+      "name": "Oakland",
+      "@type": "City"
+    },
+    {
+      "name": "Piedmont",
+      "@type": "City"
+    },
+    {
+      "name": "Pleasanton",
+      "@type": "City"
+    },
+    {
+      "name": "San Leandro",
+      "@type": "City"
+    },
+    {
+      "name": "Union City",
+      "@type": "City"
+    },
+    {
+      "name": "Castro Valley",
+      "@type": "City"
+    },
+    {
+      "name": "San Lorenzo",
+      "@type": "City"
+    },
+    {
+      "name": "Ashland",
+      "@type": "City"
+    },
+    {
+      "name": "Cherryland",
+      "@type": "City"
+    },
+    {
+      "name": "Fairview",
+      "@type": "City"
+    },
+    {
+      "name": "Sunol",
+      "@type": "City"
+    },
+    {
+      "name": "Antioch",
+      "@type": "City"
+    },
+    {
+      "name": "Brentwood",
+      "@type": "City"
+    },
+    {
+      "name": "Clayton",
+      "@type": "City"
+    },
+    {
+      "name": "Concord",
+      "@type": "City"
+    },
+    {
+      "name": "Danville",
+      "@type": "City"
+    },
+    {
+      "name": "El Cerrito",
+      "@type": "City"
+    },
+    {
+      "name": "Hercules",
+      "@type": "City"
+    },
+    {
+      "name": "Lafayette",
+      "@type": "City"
+    },
+    {
+      "name": "Martinez",
+      "@type": "City"
+    },
+    {
+      "name": "Moraga",
+      "@type": "City"
+    },
+    {
+      "name": "Oakley",
+      "@type": "City"
+    },
+    {
+      "name": "Orinda",
+      "@type": "City"
+    },
+    {
+      "name": "Pinole",
+      "@type": "City"
+    },
+    {
+      "name": "Pittsburg",
+      "@type": "City"
+    },
+    {
+      "name": "Pleasant Hill",
+      "@type": "City"
+    },
+    {
+      "name": "Richmond",
+      "@type": "City"
+    },
+    {
+      "name": "San Pablo",
+      "@type": "City"
+    },
+    {
+      "name": "San Ramon",
+      "@type": "City"
+    },
+    {
+      "name": "Walnut Creek",
+      "@type": "City"
+    }
+  ],
+  "description": "Start by thinking about what you want to achieve for each room. Is it new paint, updated flooring, modern light fixtures, or perhaps new hardware and trim? A common mistake is starting without an over"
+}

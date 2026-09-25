@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/is-engineering-coordination-more-critical-for-certain-types-of-renovations-such",
+  "name": "Is engineering coordination more critical for certain types of renovations, such as additions or kitchen remodels?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is engineering coordination more critical for certain types of renovations, such as additions or kitchen remodels?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Engineering coordination is indeed more critical for renovations that alter a home’s fundamental structure or major systems, such as substantial additions or comprehensive kitchen and bathroom remodels. For an addition, structural engineering is paramount to integrate the new space safely and seamlessly. In a kitchen remodel, reconfiguring layouts often involves plumbing and electrical engineering for new appliance placements and ensuring adequate power and water supply. Luxury bathrooms frequently require plumbing engineering for spa-inspired features like rainfall showers or freestanding tubs. AKN Design Group assesses each project's unique requirements, ensuring all necessary engineering is meticulously planned and executed for a safe, functional, and beautiful result.",
+        "@type": "Answer",
+        "description": "Engineering coordination is highly critical for additions and extensive kitchen/bathroom remodels that involve structural or major system changes."
+      }
+    }
+  ],
+  "description": "Engineering coordination is highly critical for additions and extensive kitchen/bathroom remodels that involve structural or major system changes."
+}

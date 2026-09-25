@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-does-professional-building-code-coordination-affect-project-costs",
+  "name": "How does professional building code coordination affect project costs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does professional building code coordination affect project costs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While professional building code coordination involves an investment, it ultimately provides significant cost savings by preventing expensive rework, fines, and delays. Our managed process includes thorough planning that accounts for code requirements upfront, reducing the likelihood of unexpected expenses during construction. For example, ensuring proper foundation and framing for a substantial addition according to code avoids structural issues that would be far more costly to correct post-construction. AKN Design Group emphasizes value engineering to meet codes effectively within your project scope, enhancing functionality and long-term value.",
+        "@type": "Answer",
+        "description": "Professional building code coordination is an investment that saves costs by preventing rework, fines, and delays. AKN Design Group's upfront planning integrates code compliance efficiently."
+      }
+    }
+  ],
+  "description": "Professional building code coordination is an investment that saves costs by preventing rework, fines, and delays. AKN Design Group's upfront planning integrate"
+}

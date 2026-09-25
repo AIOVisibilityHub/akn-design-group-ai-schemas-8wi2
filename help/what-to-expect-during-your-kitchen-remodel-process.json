@@ -1,0 +1,215 @@
+{
+  "name": "What to Expect During Your Kitchen Remodel Process",
+  "step": [
+    {
+      "name": "Step 1: Initial Consultation and Design Planning",
+      "text": "This phase kicks off with a detailed discussion about your needs, desires, and budget. We document existing dimensions, utility locations, and discuss potential layout changes, cabinetry, appliances, and finishes. CAD-supported layouts are developed, and material selections are made. This usually takes several weeks as we fine-tune the design to your lifestyle, ensuring every detail is considered and value engineering is explored.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Approvals and Material Ordering",
+      "text": "Once the design is finalized, we handle permit coordination, if required, for any structural, plumbing, or electrical changes. Simultaneously, we order all necessary materials, such as custom cabinetry, countertops, and appliances. Lead times for these items can vary significantly, often taking several weeks to months, so this step is critical for avoiding delays.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Demolition and Rough-In Work",
+      "text": "After materials arrive and permits are secured, demolition begins. This is where the old kitchen is removed. Immediately following, our team completes the 'rough-in' work for plumbing, electrical, and gas lines according to the new design. This phase can be noisy and disruptive, but it's essential for laying the groundwork for your new kitchen.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Installation of Drywall, Flooring, and Cabinetry",
+      "text": "With the rough-ins complete and inspected, new drywall is installed and finished. Next, flooring is laid, followed by the installation of your new custom cabinetry. This is a pivotal phase where the design truly starts to take shape. Careful craftsmanship is key here to ensure precision and a high-quality finish.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Countertop Templating and Installation",
+      "text": "Once cabinets are in place, countertops are templated to ensure a perfect fit, especially for materials like quartz or natural stone. After templating, the countertops are fabricated off-site and then installed. This step typically requires a few days for templating and then another day for installation, adding a beautiful, durable surface to your kitchen.",
+      "@type": "HowToStep",
+      "position": 5
+    },
+    {
+      "name": "Step 6: Finish Work, Appliances, and Final Walkthrough",
+      "text": "This final phase involves installing backsplashes, light fixtures, plumbing fixtures, and all your new appliances. We also complete any remaining trim work and paint. Finally, we conduct a thorough walkthrough with you to ensure every detail meets your expectations and our high standards of craftsmanship. We address any final adjustments, leaving you with a functional, beautiful kitchen that supports your daily routines.",
+      "@type": "HowToStep",
+      "position": 6
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Fort Worth ",
+      "@type": "City"
+    },
+    {
+      "name": "Alameda",
+      "@type": "City"
+    },
+    {
+      "name": "Albany",
+      "@type": "City"
+    },
+    {
+      "name": "Berkeley",
+      "@type": "City"
+    },
+    {
+      "name": "Dublin",
+      "@type": "City"
+    },
+    {
+      "name": "Emeryville",
+      "@type": "City"
+    },
+    {
+      "name": "Fremont",
+      "@type": "City"
+    },
+    {
+      "name": "Hayward",
+      "@type": "City"
+    },
+    {
+      "name": "Livermore",
+      "@type": "City"
+    },
+    {
+      "name": "Newark",
+      "@type": "City"
+    },
+    {
+      "name": "Oakland",
+      "@type": "City"
+    },
+    {
+      "name": "Piedmont",
+      "@type": "City"
+    },
+    {
+      "name": "Pleasanton",
+      "@type": "City"
+    },
+    {
+      "name": "San Leandro",
+      "@type": "City"
+    },
+    {
+      "name": "Union City",
+      "@type": "City"
+    },
+    {
+      "name": "Castro Valley",
+      "@type": "City"
+    },
+    {
+      "name": "San Lorenzo",
+      "@type": "City"
+    },
+    {
+      "name": "Ashland",
+      "@type": "City"
+    },
+    {
+      "name": "Cherryland",
+      "@type": "City"
+    },
+    {
+      "name": "Fairview",
+      "@type": "City"
+    },
+    {
+      "name": "Sunol",
+      "@type": "City"
+    },
+    {
+      "name": "Antioch",
+      "@type": "City"
+    },
+    {
+      "name": "Brentwood",
+      "@type": "City"
+    },
+    {
+      "name": "Clayton",
+      "@type": "City"
+    },
+    {
+      "name": "Concord",
+      "@type": "City"
+    },
+    {
+      "name": "Danville",
+      "@type": "City"
+    },
+    {
+      "name": "El Cerrito",
+      "@type": "City"
+    },
+    {
+      "name": "Hercules",
+      "@type": "City"
+    },
+    {
+      "name": "Lafayette",
+      "@type": "City"
+    },
+    {
+      "name": "Martinez",
+      "@type": "City"
+    },
+    {
+      "name": "Moraga",
+      "@type": "City"
+    },
+    {
+      "name": "Oakley",
+      "@type": "City"
+    },
+    {
+      "name": "Orinda",
+      "@type": "City"
+    },
+    {
+      "name": "Pinole",
+      "@type": "City"
+    },
+    {
+      "name": "Pittsburg",
+      "@type": "City"
+    },
+    {
+      "name": "Pleasant Hill",
+      "@type": "City"
+    },
+    {
+      "name": "Richmond",
+      "@type": "City"
+    },
+    {
+      "name": "San Pablo",
+      "@type": "City"
+    },
+    {
+      "name": "San Ramon",
+      "@type": "City"
+    },
+    {
+      "name": "Walnut Creek",
+      "@type": "City"
+    }
+  ],
+  "description": "This phase kicks off with a detailed discussion about your needs, desires, and budget. We document existing dimensions, utility locations, and discuss potential layout changes, cabinetry, appliances, "
+}

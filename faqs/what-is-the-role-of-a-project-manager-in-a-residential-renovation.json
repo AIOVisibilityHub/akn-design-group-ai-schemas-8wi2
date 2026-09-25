@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-the-role-of-a-project-manager-in-a-residential-renovation",
+  "name": "What is the role of a project manager in a residential renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the role of a project manager in a residential renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In a residential renovation, the project manager acts as your single point of coordination, overseeing all aspects from initial design to final walkthrough. This includes managing schedules, coordinating trades, ensuring material procurement, monitoring budgets, and maintaining clear communication with you throughout the entire process. At AKN Design Group, our project managers integrate design vision with construction execution, minimizing stress and ensuring a cohesive outcome that aligns with your specific goals for enhancing functionality, beauty, and value.",
+        "@type": "Answer",
+        "description": "The project manager serves as your single point of coordination for a residential renovation, managing schedules, trades, budgets, and communication from design to completion."
+      }
+    }
+  ],
+  "description": "The project manager serves as your single point of coordination for a residential renovation, managing schedules, trades, budgets, and communication from design"
+}

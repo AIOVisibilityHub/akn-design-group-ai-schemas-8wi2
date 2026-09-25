@@ -1,0 +1,186 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "AKN Design Group",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "My Kitchen Cabinets Look Tired – Should I Reface or Replace Them?",
+  "publisher": {
+    "url": "akndesigngroup.com",
+    "name": "AKN Design Group",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Fort Worth ",
+      "@type": "City"
+    },
+    {
+      "name": "Alameda",
+      "@type": "City"
+    },
+    {
+      "name": "Albany",
+      "@type": "City"
+    },
+    {
+      "name": "Berkeley",
+      "@type": "City"
+    },
+    {
+      "name": "Dublin",
+      "@type": "City"
+    },
+    {
+      "name": "Emeryville",
+      "@type": "City"
+    },
+    {
+      "name": "Fremont",
+      "@type": "City"
+    },
+    {
+      "name": "Hayward",
+      "@type": "City"
+    },
+    {
+      "name": "Livermore",
+      "@type": "City"
+    },
+    {
+      "name": "Newark",
+      "@type": "City"
+    },
+    {
+      "name": "Oakland",
+      "@type": "City"
+    },
+    {
+      "name": "Piedmont",
+      "@type": "City"
+    },
+    {
+      "name": "Pleasanton",
+      "@type": "City"
+    },
+    {
+      "name": "San Leandro",
+      "@type": "City"
+    },
+    {
+      "name": "Union City",
+      "@type": "City"
+    },
+    {
+      "name": "Castro Valley",
+      "@type": "City"
+    },
+    {
+      "name": "San Lorenzo",
+      "@type": "City"
+    },
+    {
+      "name": "Ashland",
+      "@type": "City"
+    },
+    {
+      "name": "Cherryland",
+      "@type": "City"
+    },
+    {
+      "name": "Fairview",
+      "@type": "City"
+    },
+    {
+      "name": "Sunol",
+      "@type": "City"
+    },
+    {
+      "name": "Antioch",
+      "@type": "City"
+    },
+    {
+      "name": "Brentwood",
+      "@type": "City"
+    },
+    {
+      "name": "Clayton",
+      "@type": "City"
+    },
+    {
+      "name": "Concord",
+      "@type": "City"
+    },
+    {
+      "name": "Danville",
+      "@type": "City"
+    },
+    {
+      "name": "El Cerrito",
+      "@type": "City"
+    },
+    {
+      "name": "Hercules",
+      "@type": "City"
+    },
+    {
+      "name": "Lafayette",
+      "@type": "City"
+    },
+    {
+      "name": "Martinez",
+      "@type": "City"
+    },
+    {
+      "name": "Moraga",
+      "@type": "City"
+    },
+    {
+      "name": "Oakley",
+      "@type": "City"
+    },
+    {
+      "name": "Orinda",
+      "@type": "City"
+    },
+    {
+      "name": "Pinole",
+      "@type": "City"
+    },
+    {
+      "name": "Pittsburg",
+      "@type": "City"
+    },
+    {
+      "name": "Pleasant Hill",
+      "@type": "City"
+    },
+    {
+      "name": "Richmond",
+      "@type": "City"
+    },
+    {
+      "name": "San Pablo",
+      "@type": "City"
+    },
+    {
+      "name": "San Ramon",
+      "@type": "City"
+    },
+    {
+      "name": "Walnut Creek",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "It’s a common dilemma for homeowners in the Dallas–Fort Worth metroplex: your kitchen cabinets are looking a bit worn, but you're not sure if a full replacement is necessary. The good news is, you often have options beyond a complete overhaul, and refacing can be a fantastic way to refresh your space. Cabinet refacing involves keeping your existing cabinet boxes while replacing or covering the exposed surfaces, doors, and drawer fronts. This approach can save both time and money compared to a full demolition and installation of new cabinets.\n\nWhat Can Change the Right Choice:\nThe condition of your existing cabinet boxes is a huge factor. If they’re structurally sound, not warped, and well-secured, refacing is definitely on the table. However, if your boxes are severely damaged, uneven, or have water damage, then a full replacement might be the more sensible, long-term solution. Also consider your layout: if you love your kitchen's current flow and don't need major structural changes, refacing works beautifully. But if you’re dreaming of a completely new kitchen footprint or adding custom elements like a large island that requires relocating appliances, then new cabinetry gives you more flexibility. AKN Design Group specializes in understanding these nuances, helping homeowners make informed decisions that enhance functionality, beauty, and value.\n\nAnother point to consider is the level of customization you’re seeking. While refacing offers a wide array of new door styles, veneers, and finishes, completely new cabinets allow for unique custom sizes and configurations that might not be possible with existing box dimensions. We focus on bringing your design vision to life, whether it’s through a strategic refacing project or a comprehensive kitchen remodel.\n\nWhat to Do Next:\nBefore making any decisions, it's wise to have a professional evaluate your current cabinetry. They can assess the structural integrity, discuss your design goals, and provide an upfront estimate for both options. This will help you understand the full scope, timeline, and investment for each path, ensuring you choose the best solution for your Dallas–Fort Worth home. Reach out to AKN Design Group for a consultation to explore your options.",
+  "datePublished": "2026-09-25"
+}

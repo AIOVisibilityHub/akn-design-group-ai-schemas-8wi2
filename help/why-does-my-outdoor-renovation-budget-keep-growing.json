@@ -1,0 +1,186 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "AKN Design Group",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Why does my outdoor renovation budget keep growing?",
+  "publisher": {
+    "url": "akndesigngroup.com",
+    "name": "AKN Design Group",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Fort Worth ",
+      "@type": "City"
+    },
+    {
+      "name": "Alameda",
+      "@type": "City"
+    },
+    {
+      "name": "Albany",
+      "@type": "City"
+    },
+    {
+      "name": "Berkeley",
+      "@type": "City"
+    },
+    {
+      "name": "Dublin",
+      "@type": "City"
+    },
+    {
+      "name": "Emeryville",
+      "@type": "City"
+    },
+    {
+      "name": "Fremont",
+      "@type": "City"
+    },
+    {
+      "name": "Hayward",
+      "@type": "City"
+    },
+    {
+      "name": "Livermore",
+      "@type": "City"
+    },
+    {
+      "name": "Newark",
+      "@type": "City"
+    },
+    {
+      "name": "Oakland",
+      "@type": "City"
+    },
+    {
+      "name": "Piedmont",
+      "@type": "City"
+    },
+    {
+      "name": "Pleasanton",
+      "@type": "City"
+    },
+    {
+      "name": "San Leandro",
+      "@type": "City"
+    },
+    {
+      "name": "Union City",
+      "@type": "City"
+    },
+    {
+      "name": "Castro Valley",
+      "@type": "City"
+    },
+    {
+      "name": "San Lorenzo",
+      "@type": "City"
+    },
+    {
+      "name": "Ashland",
+      "@type": "City"
+    },
+    {
+      "name": "Cherryland",
+      "@type": "City"
+    },
+    {
+      "name": "Fairview",
+      "@type": "City"
+    },
+    {
+      "name": "Sunol",
+      "@type": "City"
+    },
+    {
+      "name": "Antioch",
+      "@type": "City"
+    },
+    {
+      "name": "Brentwood",
+      "@type": "City"
+    },
+    {
+      "name": "Clayton",
+      "@type": "City"
+    },
+    {
+      "name": "Concord",
+      "@type": "City"
+    },
+    {
+      "name": "Danville",
+      "@type": "City"
+    },
+    {
+      "name": "El Cerrito",
+      "@type": "City"
+    },
+    {
+      "name": "Hercules",
+      "@type": "City"
+    },
+    {
+      "name": "Lafayette",
+      "@type": "City"
+    },
+    {
+      "name": "Martinez",
+      "@type": "City"
+    },
+    {
+      "name": "Moraga",
+      "@type": "City"
+    },
+    {
+      "name": "Oakley",
+      "@type": "City"
+    },
+    {
+      "name": "Orinda",
+      "@type": "City"
+    },
+    {
+      "name": "Pinole",
+      "@type": "City"
+    },
+    {
+      "name": "Pittsburg",
+      "@type": "City"
+    },
+    {
+      "name": "Pleasant Hill",
+      "@type": "City"
+    },
+    {
+      "name": "Richmond",
+      "@type": "City"
+    },
+    {
+      "name": "San Pablo",
+      "@type": "City"
+    },
+    {
+      "name": "San Ramon",
+      "@type": "City"
+    },
+    {
+      "name": "Walnut Creek",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "It’s frustrating when your outdoor renovation budget in the Dallas–Fort Worth metroplex starts to creep up. What seemed like a clear plan for a high-end outdoor living space can quickly become a moving target if not managed carefully. Understanding the common reasons for budget overruns can help you avoid them and maintain control over your investment.\n\nOne frequent culprit is starting construction without adequately resolving grading and drainage issues. If the site isn't properly prepared, subsequent hardscaping or planting work can be compromised, leading to costly corrections. Another factor is underestimating the complexity of soil or site-preparation work, especially if existing utilities need to be relocated or substantial earthmoving is required. Choosing plants without accounting for local conditions and their mature size can lead to premature replacement or design mismatches. Failing to coordinate irrigation and lighting before hardscape installation often results in tearing up newly laid patios or pathways. Moreover, approving a vague proposal without defined materials, quantities, exclusions, and cleanup responsibilities leaves too much room for interpretation and unexpected costs. Lastly, unforeseen site conditions, though sometimes unavoidable, can be minimized with thorough initial assessments.\n\nCommon mistakes to avoid: To keep your budget on track, ensure your project includes a detailed site assessment that covers grading, drainage, and utility locations upfront. Work with a design-build team that provides a comprehensive, transparent proposal specifying every detail. AKN Design Group’s managed process means we handle everything from concept design and permit coordination to construction and final walkthrough, providing a single point of coordination. This integrated approach minimizes surprises and keeps your customized renovation focused on enhancing functionality, beauty, and value within your planned budget.",
+  "datePublished": "2026-09-25"
+}

@@ -1,0 +1,215 @@
+{
+  "name": "How to ensure your cabinet installation goes smoothly",
+  "step": [
+    {
+      "name": "Step 1: Verify Cabinet Quantities and Dimensions — As soon as your custom cabinetry arrives, check that all pieces match your approved design drawings and that nothing is missing or damaged. This helps catch any discrepancies before installation begins, saving time and avoiding delays later.",
+      "text": "Step 1: Verify Cabinet Quantities and Dimensions — As soon as your custom cabinetry arrives, check that all pieces match your approved design drawings and that nothing is missing or damaged. This helps catch any discrepancies before installation begins, saving time and avoiding delays later.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Inspect Walls and Floors — Before any installation, a thorough inspection of your walls and floors is critical. Look for significant unevenness, check for plumb and level, and identify the highest point on the floor; this will be the reference for leveling your base cabinets. Ensuring a stable and level starting point is essential for the entire installation.",
+      "text": "Step 2: Inspect Walls and Floors — Before any installation, a thorough inspection of your walls and floors is critical. Look for significant unevenness, check for plumb and level, and identify the highest point on the floor; this will be the reference for leveling your base cabinets. Ensuring a stable and level starting point is essential for the entire installation.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Locate Framing and Utilities — Clearly mark the locations of wall studs for secure fastening. Also, pinpoint all electrical outlets, plumbing lines, and HVAC vents. Confirm these locations align with your cabinet design, especially for integrated appliances or custom features, to prevent obstructions during installation.",
+      "text": "Step 3: Locate Framing and Utilities — Clearly mark the locations of wall studs for secure fastening. Also, pinpoint all electrical outlets, plumbing lines, and HVAC vents. Confirm these locations align with your cabinet design, especially for integrated appliances or custom features, to prevent obstructions during installation.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Mark Reference Lines — Using the highest point of your floor as a guide, establish a precise level line on the walls where the top of your base cabinets will sit. For upper cabinets, mark their bottom reference line. These lines are your blueprint, ensuring all cabinets are installed level and properly aligned throughout the space.",
+      "text": "Step 4: Mark Reference Lines — Using the highest point of your floor as a guide, establish a precise level line on the walls where the top of your base cabinets will sit. For upper cabinets, mark their bottom reference line. These lines are your blueprint, ensuring all cabinets are installed level and properly aligned throughout the space.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Prepare for Appliance and Sink Openings — Double-check that all cutouts or spaces reserved for appliances (refrigerators, dishwashers, ovens) and your sink are correctly sized and positioned. This prevents last-minute adjustments during installation and ensures a seamless fit for all your kitchen or bathroom components.",
+      "text": "Step 5: Prepare for Appliance and Sink Openings — Double-check that all cutouts or spaces reserved for appliances (refrigerators, dishwashers, ovens) and your sink are correctly sized and positioned. This prevents last-minute adjustments during installation and ensures a seamless fit for all your kitchen or bathroom components.",
+      "@type": "HowToStep",
+      "position": 5
+    },
+    {
+      "name": "Step 6: Confirm Site Readiness — Before the installation team arrives, ensure the room is clear of debris, existing cabinets are removed (unless AKN is handling demolition), and all rough-in plumbing and electrical work is complete and inspected. This ensures a safe, efficient workspace and prevents project slowdowns.",
+      "text": "How to use this checklist: This checklist provides a framework for preparing your space for custom cabinet installation. Following these steps helps ensure your project moves forward efficiently and smoothly, leading to the lasting impressions of quality and craftsmanship that AKN Design Group is known for. It’s part of ensuring a managed process from start to finish.",
+      "@type": "HowToStep",
+      "position": 6
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Fort Worth ",
+      "@type": "City"
+    },
+    {
+      "name": "Alameda",
+      "@type": "City"
+    },
+    {
+      "name": "Albany",
+      "@type": "City"
+    },
+    {
+      "name": "Berkeley",
+      "@type": "City"
+    },
+    {
+      "name": "Dublin",
+      "@type": "City"
+    },
+    {
+      "name": "Emeryville",
+      "@type": "City"
+    },
+    {
+      "name": "Fremont",
+      "@type": "City"
+    },
+    {
+      "name": "Hayward",
+      "@type": "City"
+    },
+    {
+      "name": "Livermore",
+      "@type": "City"
+    },
+    {
+      "name": "Newark",
+      "@type": "City"
+    },
+    {
+      "name": "Oakland",
+      "@type": "City"
+    },
+    {
+      "name": "Piedmont",
+      "@type": "City"
+    },
+    {
+      "name": "Pleasanton",
+      "@type": "City"
+    },
+    {
+      "name": "San Leandro",
+      "@type": "City"
+    },
+    {
+      "name": "Union City",
+      "@type": "City"
+    },
+    {
+      "name": "Castro Valley",
+      "@type": "City"
+    },
+    {
+      "name": "San Lorenzo",
+      "@type": "City"
+    },
+    {
+      "name": "Ashland",
+      "@type": "City"
+    },
+    {
+      "name": "Cherryland",
+      "@type": "City"
+    },
+    {
+      "name": "Fairview",
+      "@type": "City"
+    },
+    {
+      "name": "Sunol",
+      "@type": "City"
+    },
+    {
+      "name": "Antioch",
+      "@type": "City"
+    },
+    {
+      "name": "Brentwood",
+      "@type": "City"
+    },
+    {
+      "name": "Clayton",
+      "@type": "City"
+    },
+    {
+      "name": "Concord",
+      "@type": "City"
+    },
+    {
+      "name": "Danville",
+      "@type": "City"
+    },
+    {
+      "name": "El Cerrito",
+      "@type": "City"
+    },
+    {
+      "name": "Hercules",
+      "@type": "City"
+    },
+    {
+      "name": "Lafayette",
+      "@type": "City"
+    },
+    {
+      "name": "Martinez",
+      "@type": "City"
+    },
+    {
+      "name": "Moraga",
+      "@type": "City"
+    },
+    {
+      "name": "Oakley",
+      "@type": "City"
+    },
+    {
+      "name": "Orinda",
+      "@type": "City"
+    },
+    {
+      "name": "Pinole",
+      "@type": "City"
+    },
+    {
+      "name": "Pittsburg",
+      "@type": "City"
+    },
+    {
+      "name": "Pleasant Hill",
+      "@type": "City"
+    },
+    {
+      "name": "Richmond",
+      "@type": "City"
+    },
+    {
+      "name": "San Pablo",
+      "@type": "City"
+    },
+    {
+      "name": "San Ramon",
+      "@type": "City"
+    },
+    {
+      "name": "Walnut Creek",
+      "@type": "City"
+    }
+  ],
+  "description": "Step 1: Verify Cabinet Quantities and Dimensions — As soon as your custom cabinetry arrives, check that all pieces match your approved design drawings and that nothing is missing or damaged. This help"
+}

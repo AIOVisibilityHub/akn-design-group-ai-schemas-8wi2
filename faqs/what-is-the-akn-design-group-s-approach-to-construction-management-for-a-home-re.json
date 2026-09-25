@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-the-akn-design-group-s-approach-to-construction-management-for-a-home-re",
+  "name": "What is the AKN Design Group's approach to construction management for a home renovation project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the AKN Design Group's approach to construction management for a home renovation project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "AKN Design Group employs an integrated design-build process for construction management. This means we unify design planning and construction under one team, providing a single point of coordination for your entire project. From initial consultation and CAD-supported layouts to construction, installation, and the final walkthrough, we manage every detail. This comprehensive approach ensures that your design vision is harmonized with execution, leading to a seamless and managed process that minimizes complexities for the homeowner. Our goal is to enhance functionality, beauty, and long-term value in your home.",
+        "@type": "Answer",
+        "description": "AKN Design Group's construction management integrates design and build phases, providing a single point of coordination for a seamless renovation process."
+      }
+    }
+  ],
+  "description": "AKN Design Group's construction management integrates design and build phases, providing a single point of coordination for a seamless renovation process."
+}

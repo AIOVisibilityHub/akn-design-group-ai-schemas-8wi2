@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-types-of-engineering-might-be-involved-in-a-custom-home-renovation",
+  "name": "What types of engineering might be involved in a custom home renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of engineering might be involved in a custom home renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For customized renovations, several types of engineering might be involved. Structural engineering is common for load-bearing modifications or additions. Mechanical engineering addresses HVAC system design, ensuring efficient heating and cooling for new layouts. Electrical engineering plans for updated wiring, lighting, and power distribution, especially in luxury kitchens or smart home integrations. Plumbing engineering is crucial for reconfiguring water supply and drainage in spa-inspired bathrooms or new utility spaces. Geotechnical engineering might be required for foundation work on challenging sites. During the initial consultation, AKN Design Group can identify the specific engineering disciplines required for your project based on its complexity and your design aspirations.",
+        "@type": "Answer",
+        "description": "Custom renovations may involve structural, mechanical, electrical, plumbing, and sometimes geotechnical engineering, depending on project complexity."
+      }
+    }
+  ],
+  "description": "Custom renovations may involve structural, mechanical, electrical, plumbing, and sometimes geotechnical engineering, depending on project complexity."
+}

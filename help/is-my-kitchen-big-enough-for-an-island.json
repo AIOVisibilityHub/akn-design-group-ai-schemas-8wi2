@@ -1,0 +1,186 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "AKN Design Group",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Is My Kitchen Big Enough for an Island?",
+  "publisher": {
+    "url": "akndesigngroup.com",
+    "name": "AKN Design Group",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Fort Worth ",
+      "@type": "City"
+    },
+    {
+      "name": "Alameda",
+      "@type": "City"
+    },
+    {
+      "name": "Albany",
+      "@type": "City"
+    },
+    {
+      "name": "Berkeley",
+      "@type": "City"
+    },
+    {
+      "name": "Dublin",
+      "@type": "City"
+    },
+    {
+      "name": "Emeryville",
+      "@type": "City"
+    },
+    {
+      "name": "Fremont",
+      "@type": "City"
+    },
+    {
+      "name": "Hayward",
+      "@type": "City"
+    },
+    {
+      "name": "Livermore",
+      "@type": "City"
+    },
+    {
+      "name": "Newark",
+      "@type": "City"
+    },
+    {
+      "name": "Oakland",
+      "@type": "City"
+    },
+    {
+      "name": "Piedmont",
+      "@type": "City"
+    },
+    {
+      "name": "Pleasanton",
+      "@type": "City"
+    },
+    {
+      "name": "San Leandro",
+      "@type": "City"
+    },
+    {
+      "name": "Union City",
+      "@type": "City"
+    },
+    {
+      "name": "Castro Valley",
+      "@type": "City"
+    },
+    {
+      "name": "San Lorenzo",
+      "@type": "City"
+    },
+    {
+      "name": "Ashland",
+      "@type": "City"
+    },
+    {
+      "name": "Cherryland",
+      "@type": "City"
+    },
+    {
+      "name": "Fairview",
+      "@type": "City"
+    },
+    {
+      "name": "Sunol",
+      "@type": "City"
+    },
+    {
+      "name": "Antioch",
+      "@type": "City"
+    },
+    {
+      "name": "Brentwood",
+      "@type": "City"
+    },
+    {
+      "name": "Clayton",
+      "@type": "City"
+    },
+    {
+      "name": "Concord",
+      "@type": "City"
+    },
+    {
+      "name": "Danville",
+      "@type": "City"
+    },
+    {
+      "name": "El Cerrito",
+      "@type": "City"
+    },
+    {
+      "name": "Hercules",
+      "@type": "City"
+    },
+    {
+      "name": "Lafayette",
+      "@type": "City"
+    },
+    {
+      "name": "Martinez",
+      "@type": "City"
+    },
+    {
+      "name": "Moraga",
+      "@type": "City"
+    },
+    {
+      "name": "Oakley",
+      "@type": "City"
+    },
+    {
+      "name": "Orinda",
+      "@type": "City"
+    },
+    {
+      "name": "Pinole",
+      "@type": "City"
+    },
+    {
+      "name": "Pittsburg",
+      "@type": "City"
+    },
+    {
+      "name": "Pleasant Hill",
+      "@type": "City"
+    },
+    {
+      "name": "Richmond",
+      "@type": "City"
+    },
+    {
+      "name": "San Pablo",
+      "@type": "City"
+    },
+    {
+      "name": "San Ramon",
+      "@type": "City"
+    },
+    {
+      "name": "Walnut Creek",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "It's a common dream to add a beautiful, functional kitchen island to your Dallas–Fort Worth home, but the big question is often, 'Do I actually have the space for one?' We get it; nobody wants to invest in a feature that ends up making their kitchen feel cramped or difficult to navigate. The good news is, with careful planning, many kitchens can accommodate an island, enhancing functionality, beauty, and value.\n\nFirst, let's talk about clearance. You need enough room around your island for comfortable movement, especially when multiple people are cooking or an appliance door is open. Generally, we recommend at least a 42-inch work aisle for a single cook, and if you have a bustling household with multiple chefs, aim for 48 inches. This measurement is taken between opposing counter fronts, not just the cabinet boxes, which is a crucial detail many homeowners miss. Failing to confirm these clearances is one of the most frequent mistakes we see.\n\nWhat Can Change the Right Choice\n\nThe optimal size and placement of your kitchen island really depend on its intended purpose and your kitchen's existing layout. Are you looking for extra prep space, a casual dining spot, or a place to integrate a cooktop or sink? Each of these uses has different spatial demands. For instance, an island with a sink or cooktop will require more complex utility considerations and dedicated clearance. Also, consider the swing of appliance doors – refrigerator, oven, and dishwasher – to ensure they don't hit the island.\n\nNext, think about the traffic flow. Your island shouldn't block pathways to high-traffic areas like your refrigerator, stove, or primary sink. We often use CAD-supported layouts to visualize these elements, ensuring a seamless flow throughout your kitchen. Finally, don't forget the seating. If you plan to have stools, make sure there's enough overhang – typically 12–15 inches for comfortable knee room. Our comprehensive design-build process helps homeowners navigate these complexities, ensuring your custom kitchen island truly enhances your space without compromise.",
+  "datePublished": "2026-09-25"
+}
