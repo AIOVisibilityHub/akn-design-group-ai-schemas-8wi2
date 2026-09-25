@@ -4,123 +4,1035 @@
   "noindex": [
     {
       "path": "webpages/kitchen-remodeling-fort-worth-hub.html",
-      "status": "needs_review"
+      "status": "needs_evidence"
     },
     {
       "path": "webpages/hire-general-contractor-dallas-hub.html",
-      "status": "needs_review"
+      "status": "needs_evidence"
     },
     {
       "path": "webpages/bathroom-remodel-cost-dallas-fort-worth-hub.html",
-      "status": "needs_review"
+      "status": "needs_evidence"
     },
     {
       "path": "webpages/custom-home-improvements-fort-worth-tx-hub.html",
-      "status": "needs_review"
+      "status": "needs_evidence"
     },
     {
       "path": "webpages/outdoor-space-renovation-quote-dfw-hub.html",
-      "status": "needs_review"
+      "status": "needs_evidence"
     },
     {
-      "path": "webpages/kitchen-modernization-fort-worth-hub.html",
-      "status": "needs_review"
+      "path": "webpages/kitchen-modernization-services-fort-worth-hub.html",
+      "status": "needs_evidence"
     },
     {
       "path": "webpages/full-home-renovation-contractors-dallas-hub.html",
-      "status": "needs_review"
+      "status": "needs_evidence"
     },
     {
-      "path": "webpages/best-bathroom-remodeling-fort-worth-hub.html",
-      "status": "needs_review"
+      "path": "webpages/best-bathroom-remodeling-company-fort-worth-hub.html",
+      "status": "needs_evidence"
     },
     {
       "path": "webpages/adu-construction-fort-worth-prices-hub.html",
-      "status": "needs_review"
+      "status": "needs_evidence"
     },
     {
       "path": "webpages/garage-conversion-contractor-dallas-hub.html",
-      "status": "needs_review"
+      "status": "needs_evidence"
     },
     {
       "path": "webpages/home-additions-cost-fort-worth-hub.html",
-      "status": "needs_review"
+      "status": "needs_evidence"
     },
     {
       "path": "webpages/whole-home-remodels-dallas-tx-hub.html",
-      "status": "needs_review"
+      "status": "needs_evidence"
     },
     {
-      "path": "webpages/basement-remodeling-fort-worth-hub.html",
-      "status": "needs_review"
+      "path": "webpages/basement-remodeling-company-fort-worth-hub.html",
+      "status": "needs_evidence"
     },
     {
       "path": "webpages/outdoor-kitchen-installation-fort-worth-hub.html",
-      "status": "needs_review"
+      "status": "needs_evidence"
     },
     {
-      "path": "webpages/patio-design-build-dallas-hub.html",
-      "status": "needs_review"
+      "path": "webpages/patio-design-and-build-dallas-hub.html",
+      "status": "needs_evidence"
     },
     {
-      "path": "webpages/window-replacement-fort-worth-hub.html",
-      "status": "needs_review"
+      "path": "webpages/window-replacement-services-fort-worth-hub.html",
+      "status": "needs_evidence"
     },
     {
       "path": "webpages/new-home-construction-dallas-quote-hub.html",
-      "status": "needs_review"
+      "status": "needs_evidence"
     },
     {
       "path": "webpages/residential-general-contractor-fort-worth-hub.html",
-      "status": "needs_review"
+      "status": "needs_evidence"
     },
     {
       "path": "webpages/design-build-firm-fort-worth-reviews-hub.html",
-      "status": "needs_review"
+      "status": "needs_evidence"
     },
     {
       "path": "webpages/kitchen-renovation-estimate-dallas-hub.html",
-      "status": "needs_review"
+      "status": "needs_evidence"
     },
     {
       "path": "webpages/custom-bathroom-design-fort-worth-hub.html",
-      "status": "needs_review"
+      "status": "needs_evidence"
     },
     {
       "path": "webpages/add-a-room-to-house-fort-worth-hub.html",
-      "status": "needs_review"
+      "status": "needs_evidence"
     },
     {
       "path": "webpages/adu-builders-dallas-hub.html",
-      "status": "needs_review"
+      "status": "needs_evidence"
     },
     {
       "path": "webpages/outdoor-living-space-contractor-fort-worth-hub.html",
-      "status": "needs_review"
+      "status": "needs_evidence"
     },
     {
       "path": "webpages/luxury-bathroom-remodel-fort-worth-hub.html",
-      "status": "needs_review"
+      "status": "needs_evidence"
     },
     {
       "path": "webpages/home-remodeling-company-fort-worth-hub.html",
-      "status": "needs_review"
+      "status": "needs_evidence"
     },
     {
       "path": "webpages/kitchen-island-installation-dallas-hub.html",
-      "status": "needs_review"
+      "status": "needs_evidence"
     },
     {
       "path": "webpages/guest-house-construction-fort-worth-hub.html",
-      "status": "needs_review"
+      "status": "needs_evidence"
     },
     {
       "path": "webpages/residential-design-build-dallas-hub.html",
-      "status": "needs_review"
+      "status": "needs_evidence"
     },
     {
       "path": "webpages/full-kitchen-renovations-fort-worth-hub.html",
-      "status": "needs_review"
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/bathroom-remodeling-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/outdoor-space-renovation-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/custom-home-improvements-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/kitchen-modernization-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/interior-refreshing-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/kitchen-remodeling-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/full-kitchen-renovations-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/custom-kitchen-design-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/kitchen-layout-redesign-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/open-concept-kitchen-remodeling-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/custom-cabinetry-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/cabinet-installation-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/cabinet-refacing-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/cabinet-hardware-installation-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/kitchen-island-design-and-installation-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/pantry-design-and-installation-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/countertop-installation-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/backsplash-installation-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/kitchen-tile-work-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/kitchen-flooring-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/kitchen-lighting-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/under-cabinet-lighting-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/appliance-installation-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/range-hood-installation-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/smart-home-kitchen-upgrades-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/kitchen-accessibility-upgrades-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/primary-bathroom-remodeling-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/guest-bathroom-remodeling-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/powder-room-remodeling-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/luxury-spa-bathroom-remodeling-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/custom-bathroom-design-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/custom-vanities-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/bathroom-cabinetry-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/bathroom-countertop-installation-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/bathroom-lighting-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/bathroom-tile-installation-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/bathroom-flooring-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/bathroom-fixture-installation-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/toilet-installation-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/shower-replacement-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/walk-in-shower-installation-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/custom-shower-design-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/shower-enclosure-installation-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/tub-to-shower-conversions-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/bathtub-installation-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/freestanding-tub-installation-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/walk-in-tub-installation-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/steam-shower-installation-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/rain-shower-systems-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/body-spray-systems-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/heated-bathroom-flooring-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/heated-towel-rack-installation-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/bathroom-accessibility-upgrades-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/aging-in-place-bathroom-remodeling-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/wellness-oriented-bathroom-features-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/sanctuary-style-bathroom-design-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/adu-construction-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/accessory-dwelling-unit-construction-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/detached-adus-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/attached-adus-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/junior-adus-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/backyard-adus-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/backyard-cottages-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/guest-house-construction-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/granny-flat-construction-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/in-law-suite-construction-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/multi-generational-living-units-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/rental-unit-construction-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/garage-conversions-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/garage-to-livable-room-conversions-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/garage-to-bedroom-conversions-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/garage-to-home-office-conversions-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/garage-to-guest-suite-conversions-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/garage-to-recreation-room-conversions-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/backyard-office-sheds-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/studio-office-construction-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/tiny-home-construction-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/pool-house-construction-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/home-additions-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/custom-home-additions-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/home-extensions-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/room-additions-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/primary-suite-additions-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/second-story-additions-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/in-law-suite-additions-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/sunroom-additions-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/home-office-additions-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/garage-additions-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/bedroom-additions-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/bathroom-additions-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/kitchen-additions-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/living-room-additions-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/family-room-additions-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/bump-out-additions-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/house-lifting-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/structural-modifications-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/load-bearing-wall-removal-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/beam-installation-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/foundation-construction-for-additions-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/framing-for-additions-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/full-home-remodeling-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/whole-home-renovations-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/large-scale-home-remodels-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/interior-layout-redesign-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/open-concept-remodeling-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/living-room-remodeling-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/dining-room-remodeling-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/bedroom-remodeling-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/home-office-remodeling-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/laundry-room-remodeling-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/basement-remodeling-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/basement-finishing-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/basement-conversions-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/attic-conversions-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/garage-remodeling-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/interior-renovations-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/flooring-installation-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/interior-paint-repair-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/drywall-installation-and-repair-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/custom-built-ins-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/interior-finish-carpentry-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/finish-carpentry-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/custom-shelving-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/trim-installation-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/crown-molding-installation-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/baseboard-installation-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/interior-door-installation-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/smart-home-upgrades-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/home-automation-installation-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/investor-fix-and-flip-renovations-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/custom-patios-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/patio-design-and-installation-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/patio-covers-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/patio-enclosures-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/deck-construction-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/deck-design-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/large-backyard-decks-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/deck-replacement-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/deck-repair-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/pergolas-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/gazebos-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/outdoor-kitchens-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/built-in-grills-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/outdoor-countertops-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/outdoor-storage-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/outdoor-seating-areas-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/outdoor-dining-areas-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/outdoor-fireplaces-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/fire-pits-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/fire-features-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/paver-installation-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/hardscaping-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/retaining-walls-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/outdoor-lighting-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/landscape-style-lighting-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/walkway-construction-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/outdoor-stairs-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/privacy-screens-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/fence-installation-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/gate-installation-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/window-installation-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/window-replacement-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/energy-efficient-windows-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/window-glass-replacement-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/sliding-glass-door-installation-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/exterior-door-installation-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/french-door-installation-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/skylight-installation-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/insulation-upgrades-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/air-sealing-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/weatherization-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/green-building-upgrades-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/energy-efficient-home-upgrades-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/solar-ready-construction-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/smart-thermostat-installation-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/energy-efficient-lighting-upgrades-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/ground-up-construction-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/custom-home-construction-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/new-home-construction-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/custom-home-design-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/residential-construction-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/general-contracting-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/foundation-construction-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/structural-framing-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/roof-framing-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/site-preparation-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/grading-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/excavation-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/demolition-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/site-utilities-coordination-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/garage-construction-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/carport-construction-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/porch-construction-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/balcony-construction-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/architectural-design-coordination-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/engineering-coordination-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/property-restoration-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/home-restoration-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/fire-damage-restoration-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/water-damage-restoration-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/smoke-damage-restoration-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/mold-damage-repair-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/structural-damage-repair-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/dry-rot-repair-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/termite-damage-repair-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/emergency-property-repairs-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/storm-damage-repair-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/insurance-restoration-coordination-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/design-build-services-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/design-build-additions-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/design-consultation-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/architectural-drawings-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/space-planning-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/construction-planning-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/construction-budget-planning-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/value-engineering-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/project-estimating-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/cost-estimating-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/feasibility-assessments-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/site-evaluation-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/full-permitting-support-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/permit-and-plan-coordination-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/permit-expediting-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/building-code-coordination-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/construction-management-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/project-management-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/material-selection-support-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/construction-scheduling-hub.html",
+      "status": "needs_evidence"
     }
   ]
 }
