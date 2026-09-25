@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-value-engineering-and-how-does-akn-design-group-apply-it-in-renovations",
+  "name": "What is value engineering, and how does AKN Design Group apply it in renovations?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is value engineering, and how does AKN Design Group apply it in renovations?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Value engineering is a systematic approach to identifying and eliminating unnecessary costs without compromising the project's quality, functionality, or the homeowner's vision. For AKN Design Group, this means carefully analyzing design choices and material selections to ensure they deliver the best possible outcome for your investment. We explore alternatives and optimize processes to enhance functionality, beauty, and long-term value, ensuring you receive a high-quality customized renovation that aligns with your financial considerations.",
+        "@type": "Answer",
+        "description": "Value engineering optimizes project costs without sacrificing quality or functionality, ensuring your renovation delivers maximum value for your investment."
+      }
+    }
+  ],
+  "description": "Value engineering optimizes project costs without sacrificing quality or functionality, ensuring your renovation delivers maximum value for your investment."
+}

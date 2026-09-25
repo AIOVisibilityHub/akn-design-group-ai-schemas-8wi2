@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-types-of-garage-construction-projects-does-akn-design-group-specialize-in",
+  "name": "What types of garage construction projects does AKN Design Group specialize in?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of garage construction projects does AKN Design Group specialize in?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "AKN Design Group specializes in customized garage construction projects that integrate seamlessly with your existing home. This includes attached or detached new garage builds, garage extensions to add space, and garage conversions into functional living areas such as home offices, guest suites, or dedicated workshops. Our focus is on enhancing both the functionality and aesthetic value of your property in the Dallas–Fort Worth metroplex, ensuring a cohesive design that aligns with your lifestyle needs. We manage the entire process from initial design to final construction.",
+        "@type": "Answer",
+        "description": "We specialize in new attached or detached garages, garage extensions, and conversions into functional living spaces, focusing on integrated design and enhanced functionality."
+      }
+    }
+  ],
+  "description": "We specialize in new attached or detached garages, garage extensions, and conversions into functional living spaces, focusing on integrated design and enhanced"
+}

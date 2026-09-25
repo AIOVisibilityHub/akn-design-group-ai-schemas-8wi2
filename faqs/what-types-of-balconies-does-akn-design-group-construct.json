@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-types-of-balconies-does-akn-design-group-construct",
+  "name": "What types of balconies does AKN Design Group construct?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of balconies does AKN Design Group construct?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "AKN Design Group specializes in constructing custom balconies designed to integrate seamlessly with your home's existing architecture and enhance your outdoor living experience. Our residential design-build approach ensures that whether you envision a small Juliet balcony or a spacious deck-style balcony for entertaining, it is thoughtfully planned and executed. We focus on enhancing functionality, beauty, and long-term value, considering structural integrity, material selection, and aesthetic alignment during the design phase.",
+        "@type": "Answer",
+        "description": "We construct custom balconies, from Juliet balconies to spacious deck-style designs, ensuring they integrate with your home and enhance outdoor living."
+      }
+    }
+  ],
+  "description": "We construct custom balconies, from Juliet balconies to spacious deck-style designs, ensuring they integrate with your home and enhance outdoor living."
+}

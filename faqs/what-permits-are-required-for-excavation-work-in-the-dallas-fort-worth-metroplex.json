@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-permits-are-required-for-excavation-work-in-the-dallas-fort-worth-metroplex",
+  "name": "What permits are required for excavation work in the Dallas–Fort Worth metroplex?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits are required for excavation work in the Dallas–Fort Worth metroplex?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Excavation work in the Dallas–Fort Worth metroplex typically requires specific permits, especially if it involves structural changes, significant grading, or disturbing existing utilities. These permits ensure compliance with local building codes and safety regulations. AKN Design Group handles all necessary permit coordination as an integral part of our design-build process, ensuring your project adheres to local requirements from concept to completion.",
+        "@type": "Answer",
+        "description": "Excavation in the Dallas–Fort Worth metroplex often requires permits for structural changes or utility work, which AKN Design Group coordinates."
+      }
+    }
+  ],
+  "description": "Excavation in the Dallas–Fort Worth metroplex often requires permits for structural changes or utility work, which AKN Design Group coordinates."
+}

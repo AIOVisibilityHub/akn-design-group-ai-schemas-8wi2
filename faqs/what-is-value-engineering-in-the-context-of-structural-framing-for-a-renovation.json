@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-value-engineering-in-the-context-of-structural-framing-for-a-renovation",
+  "name": "What is value engineering in the context of structural framing for a renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is value engineering in the context of structural framing for a renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Value engineering in structural framing involves finding the most efficient and cost-effective ways to achieve the necessary structural integrity without compromising safety or design vision. This might include optimizing beam sizes, material choices, or construction methods. AKN Design Group applies value engineering principles during the design phase to ensure that while we deliver a high-quality, lasting result for your customized renovation, we also explore smart solutions that respect your investment and enhance functionality, beauty, and value.",
+        "@type": "Answer",
+        "description": "Value engineering optimizes structural framing solutions for cost-effectiveness and efficiency without compromising safety or design. AKN Design Group uses this to deliver high-quality, lasting results."
+      }
+    }
+  ],
+  "description": "Value engineering optimizes structural framing solutions for cost-effectiveness and efficiency without compromising safety or design. AKN Design Group uses this"
+}

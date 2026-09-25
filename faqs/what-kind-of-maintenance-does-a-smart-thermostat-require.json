@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-kind-of-maintenance-does-a-smart-thermostat-require",
+  "name": "What kind of maintenance does a smart thermostat require?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of maintenance does a smart thermostat require?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Smart thermostats generally require minimal maintenance, primarily involving occasional cleaning to ensure sensors are clear and checking battery levels if your model uses them. Unlike older thermostats, they often provide alerts for HVAC system issues, acting as an early warning system. Our philosophy at AKN Design Group is to provide lasting solutions that enhance functionality. While smart thermostats are reliable, proactive care, such as ensuring your HVAC system itself is regularly serviced, will maximize its efficiency and the thermostat's performance. We focus on durable, high-quality installations designed for longevity.",
+        "@type": "Answer",
+        "description": "Smart thermostats require minimal maintenance, mainly occasional cleaning and battery checks, and can even alert you to HVAC issues, supporting long-term home efficiency."
+      }
+    }
+  ],
+  "description": "Smart thermostats require minimal maintenance, mainly occasional cleaning and battery checks, and can even alert you to HVAC issues, supporting long-term home e"
+}

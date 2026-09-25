@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-excavation-and-when-is-it-needed-for-a-home-renovation-project",
+  "name": "What is excavation and when is it needed for a home renovation project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is excavation and when is it needed for a home renovation project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Excavation involves the digging and removal of earth to prepare a site for construction or landscaping work. For AKN Design Group's projects, it is typically essential for home additions, creating new foundations, installing comprehensive outdoor living spaces like patios and outdoor kitchens, or re-grading for drainage. We coordinate this critical first step as part of our integrated design-build process to ensure the ground conditions are properly prepared for the planned structural changes.",
+        "@type": "Answer",
+        "description": "Excavation is earth removal for construction, essential for projects like home additions or new outdoor living spaces."
+      }
+    }
+  ],
+  "description": "Excavation is earth removal for construction, essential for projects like home additions or new outdoor living spaces."
+}

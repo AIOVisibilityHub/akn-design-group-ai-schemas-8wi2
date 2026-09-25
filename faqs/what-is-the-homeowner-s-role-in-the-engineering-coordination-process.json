@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-the-homeowner-s-role-in-the-engineering-coordination-process",
+  "name": "What is the homeowner's role in the engineering coordination process?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the homeowner's role in the engineering coordination process?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "As a homeowner, your primary role in the engineering coordination process with AKN Design Group is to communicate your vision and needs clearly during the initial design phase. We handle the technical aspects, including engaging the appropriate engineers and integrating their input into the project plans. This managed process means you are not burdened with coordinating multiple specialists; instead, you provide feedback on design iterations while we ensure the technical feasibility and compliance. Our clear communication strategy keeps you informed without requiring you to navigate complex engineering details.",
+        "@type": "Answer",
+        "description": "Homeowners communicate their vision; AKN Design Group manages engineering coordination, handling technical details and communicating progress."
+      }
+    }
+  ],
+  "description": "Homeowners communicate their vision; AKN Design Group manages engineering coordination, handling technical details and communicating progress."
+}

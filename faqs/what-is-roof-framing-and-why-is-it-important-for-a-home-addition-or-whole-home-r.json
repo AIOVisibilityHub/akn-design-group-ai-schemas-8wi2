@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-roof-framing-and-why-is-it-important-for-a-home-addition-or-whole-home-r",
+  "name": "What is roof framing and why is it important for a home addition or whole-home remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is roof framing and why is it important for a home addition or whole-home remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Roof framing is the structural framework that supports the roof system, distributing its weight and the load from external forces like wind and snow down to the building's walls and foundation. For a home addition or whole-home remodel, correctly engineered and installed roof framing is critical for the structural integrity of the entire structure. AKN Design Group emphasizes meticulous planning and craftsmanship in roof framing as part of our integrated design-build process, ensuring seamless integration with existing structures and compliance with local building codes, which can vary across the Dallas–Fort Worth metroplex. This foundational step prevents future issues and contributes to the long-term value and safety of your property.",
+        "@type": "Answer",
+        "description": "Roof framing is the structural framework supporting your roof, vital for stability in remodels and additions. It distributes weight and external loads, ensuring the integrity of your home."
+      }
+    }
+  ],
+  "description": "Roof framing is the structural framework supporting your roof, vital for stability in remodels and additions. It distributes weight and external loads, ensuring"
+}

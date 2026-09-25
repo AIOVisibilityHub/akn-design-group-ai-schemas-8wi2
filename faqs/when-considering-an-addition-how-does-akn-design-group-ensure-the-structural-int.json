@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/when-considering-an-addition-how-does-akn-design-group-ensure-the-structural-int",
+  "name": "When considering an addition, how does AKN Design Group ensure the structural integration with the existing home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When considering an addition, how does AKN Design Group ensure the structural integration with the existing home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When building an addition, AKN Design Group ensures seamless structural integration by meticulously planning how the new foundation and framing connect to the existing structure. This involves detailed engineering to match or properly transfer loads, ensuring the addition acts as a cohesive part of the home rather than a separate unit. Our process includes assessing soil conditions, matching rooflines, and extending utility systems, all coordinated under one accountable team to provide a seamless addition that adds significant square footage and functionality.",
+        "@type": "Answer",
+        "description": "AKN Design Group ensures seamless structural integration for additions by meticulous planning, engineering connections to the existing home, and coordinating all aspects under one team."
+      }
+    }
+  ],
+  "description": "AKN Design Group ensures seamless structural integration for additions by meticulous planning, engineering connections to the existing home, and coordinating al"
+}

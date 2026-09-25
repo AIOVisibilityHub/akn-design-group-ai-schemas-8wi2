@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/do-i-need-to-vacate-my-home-during-the-demolition-phase-of-a-renovation",
+  "name": "Do I need to vacate my home during the demolition phase of a renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to vacate my home during the demolition phase of a renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether you need to vacate your home during the demolition phase depends on the extent and nature of the renovation. For minor, contained demolition in one area, staying in your home might be feasible with proper containment and safety measures. However, for extensive projects like whole-home remodels, large additions, or significant interior structural changes, AKN Design Group often recommends temporary relocation. This ensures your safety, minimizes daily disruptions from noise, dust, and utility interruptions, and allows our team to work most efficiently. We discuss these considerations transparently during the initial planning stages to align with your comfort and project requirements.",
+        "@type": "Answer",
+        "description": "Temporary relocation during demolition depends on the project's scale; minor demolition may allow you to stay, but extensive projects often warrant vacating for safety and efficiency. We discuss this upfront with homeowners."
+      }
+    }
+  ],
+  "description": "Temporary relocation during demolition depends on the project's scale; minor demolition may allow you to stay, but extensive projects often warrant vacating for"
+}

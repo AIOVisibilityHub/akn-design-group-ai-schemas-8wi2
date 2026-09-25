@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/can-solar-ready-construction-be-included-in-any-type-of-home-renovation-such-as",
+  "name": "Can solar-ready construction be included in any type of home renovation, such as an addition or whole-home remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can solar-ready construction be included in any type of home renovation, such as an addition or whole-home remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, solar-ready construction can be seamlessly integrated into various types of significant home renovations, including substantial additions, whole-home remodels, and even extensive outdoor living space projects. For additions, we can design the new roofline with optimal solar orientation and integrate the necessary electrical pathways. In a whole-home remodel, we address structural and electrical system-wide. AKN Design Group specializes in these high-value, coordinated transformations, ensuring that solar readiness enhances the overall functionality and value of your entire property, rather than being an isolated add-on.",
+        "@type": "Answer",
+        "description": "Yes, solar-ready construction integrates seamlessly into major renovations like additions or whole-home remodels. AKN Design Group ensures it enhances overall property value and functionality."
+      }
+    }
+  ],
+  "description": "Yes, solar-ready construction integrates seamlessly into major renovations like additions or whole-home remodels. AKN Design Group ensures it enhances overall p"
+}

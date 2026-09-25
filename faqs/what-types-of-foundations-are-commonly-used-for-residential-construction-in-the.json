@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-types-of-foundations-are-commonly-used-for-residential-construction-in-the",
+  "name": "What types of foundations are commonly used for residential construction in the Dallas–Fort Worth metroplex?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of foundations are commonly used for residential construction in the Dallas–Fort Worth metroplex?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In the Dallas–Fort Worth metroplex, common foundation types for residential construction typically include slab-on-grade, pier-and-beam, and sometimes crawl space foundations. Slab-on-grade is popular due to its cost-effectiveness and direct contact with the ground, while pier-and-beam offers easier access for plumbing and electrical repairs beneath the home. The best choice for your project depends on several factors, including local soil conditions, drainage, elevation, and the specific structural demands of your home design. AKN Design Group's local expertise in DFW building codes and geological characteristics helps us recommend the most appropriate and resilient foundation for your customized renovation.",
+        "@type": "Answer",
+        "description": "Common residential foundations in DFW include slab-on-grade and pier-and-beam, chosen based on soil, drainage, and specific home design requirements."
+      }
+    }
+  ],
+  "description": "Common residential foundations in DFW include slab-on-grade and pier-and-beam, chosen based on soil, drainage, and specific home design requirements."
+}

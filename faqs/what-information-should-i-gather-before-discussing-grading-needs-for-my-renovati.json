@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-information-should-i-gather-before-discussing-grading-needs-for-my-renovati",
+  "name": "What information should I gather before discussing grading needs for my renovation project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What information should I gather before discussing grading needs for my renovation project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before discussing grading needs for your renovation project, gathering certain information can significantly streamline the planning process. It is helpful to have a survey of your property, if available, which can show existing elevations and property lines. Consider any known drainage issues, such as areas where water consistently pools, or if your home has experienced water intrusion. Document any immediate goals for your outdoor space, like a desire for a level patio area or plans for an outdoor kitchen. Sharing your vision for new structures or landscape elements will enable AKN Design Group to better assess the grading requirements and integrate them effectively into your overall design.",
+        "@type": "Answer",
+        "description": "Before discussing grading, gather property surveys, note any existing drainage issues or water pooling, and outline your vision for new outdoor structures or landscape elements."
+      }
+    }
+  ],
+  "description": "Before discussing grading, gather property surveys, note any existing drainage issues or water pooling, and outline your vision for new outdoor structures or la"
+}

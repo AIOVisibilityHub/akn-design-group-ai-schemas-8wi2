@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-should-i-prepare-before-discussing-a-major-home-renovation-or-addition-proj",
+  "name": "What should I prepare before discussing a major home renovation or addition project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare before discussing a major home renovation or addition project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before an initial consultation for a major renovation or addition, considering your primary goals, desired functionality, and aesthetic preferences can be beneficial. Gathering any inspirational images, rough ideas of layout changes, or a general understanding of your budget range will help us better understand your vision. AKN Design Group will guide you through the detailed planning process, but having a preliminary concept helps frame our discussions and ensures we focus on solutions that align with your unique lifestyle.",
+        "@type": "Answer",
+        "description": "Before discussing a major renovation, consider your goals, desired functionality, aesthetic preferences, and a general budget range."
+      }
+    }
+  ],
+  "description": "Before discussing a major renovation, consider your goals, desired functionality, aesthetic preferences, and a general budget range."
+}

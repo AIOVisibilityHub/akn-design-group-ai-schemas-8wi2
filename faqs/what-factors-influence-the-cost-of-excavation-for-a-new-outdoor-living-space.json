@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-factors-influence-the-cost-of-excavation-for-a-new-outdoor-living-space",
+  "name": "What factors influence the cost of excavation for a new outdoor living space?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of excavation for a new outdoor living space?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of excavation for a new outdoor living space is influenced by several factors, including the volume of earth to be moved, the type of soil encountered, and site accessibility. Projects involving extensive grading, concrete slab removal, or significant trenching for utilities (like gas lines for an outdoor kitchen) will incur higher costs. We provide upfront estimates as part of our transparent homeowner experience, factoring these elements into your overall project investment.",
+        "@type": "Answer",
+        "description": "Excavation costs for outdoor living spaces depend on earth volume, soil type, and site accessibility, included in our upfront estimates."
+      }
+    }
+  ],
+  "description": "Excavation costs for outdoor living spaces depend on earth volume, soil type, and site accessibility, included in our upfront estimates."
+}

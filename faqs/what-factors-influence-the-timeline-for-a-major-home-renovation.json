@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-factors-influence-the-timeline-for-a-major-home-renovation",
+  "name": "What factors influence the timeline for a major home renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the timeline for a major home renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for a major home renovation is influenced by several factors, including the project's scope, the complexity of structural changes, material selection, and permitting requirements. For instance, a whole-home remodel or a significant addition will naturally take longer than a single-room update due to the extensive work involved in demolition, framing, and finish installations. Material lead times, especially for customized elements, can also affect the schedule. AKN Design Group prioritizes clear communication and scheduling transparency, providing realistic timelines upfront and keeping homeowners informed throughout the managed process.",
+        "@type": "Answer",
+        "description": "Project scope, structural complexity, material selection, and permitting requirements are key factors influencing a major home renovation timeline."
+      }
+    }
+  ],
+  "description": "Project scope, structural complexity, material selection, and permitting requirements are key factors influencing a major home renovation timeline."
+}

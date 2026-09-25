@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-the-typical-fire-damage-restoration-process-and-where-does-akn-design-gr",
+  "name": "What is the typical fire damage restoration process, and where does AKN Design Group fit in?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical fire damage restoration process, and where does AKN Design Group fit in?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Fire damage restoration is a comprehensive process that begins with assessing the extent of damage, securing the property, and mitigating further loss. This typically involves removing debris, drying out areas affected by water used to extinguish the fire, and cleaning smoke and soot residues. AKN Design Group specializes in the reconstruction and renovation phase, working closely with homeowners once initial stabilization is complete. Our role is to rebuild, remodel, and restore your home to its pre-loss condition, or better, through our integrated design-build process, ensuring structural integrity and aesthetic harmony. We coordinate all necessary trades, from framing and electrical to finish carpentry and custom installations, providing a single point of coordination for this complex project.",
+        "@type": "Answer",
+        "description": "Fire damage restoration involves assessment, debris removal, and cleaning; AKN Design Group focuses on the subsequent reconstruction and renovation phase to rebuild and restore your home."
+      }
+    }
+  ],
+  "description": "Fire damage restoration involves assessment, debris removal, and cleaning; AKN Design Group focuses on the subsequent reconstruction and renovation phase to reb"
+}

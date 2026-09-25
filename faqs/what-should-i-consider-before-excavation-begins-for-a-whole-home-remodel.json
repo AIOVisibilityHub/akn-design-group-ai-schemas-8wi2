@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-should-i-consider-before-excavation-begins-for-a-whole-home-remodel",
+  "name": "What should I consider before excavation begins for a whole-home remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I consider before excavation begins for a whole-home remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before excavation begins for a whole-home remodel, homeowners should consider several preparatory steps. This includes clearing personal belongings from areas adjacent to the work zone and discussing any concerns about existing landscaping or specific site features with our team. We ensure clear communication regarding access routes and potential temporary disruptions, which are all part of our high-touch homeowner experience.",
+        "@type": "Answer",
+        "description": "Before excavation, clear adjacent areas and discuss site features with our team; we'll communicate access routes and disruptions."
+      }
+    }
+  ],
+  "description": "Before excavation, clear adjacent areas and discuss site features with our team; we'll communicate access routes and disruptions."
+}

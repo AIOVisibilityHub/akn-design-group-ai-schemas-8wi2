@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-should-i-do-immediately-after-a-fire-to-prepare-for-restoration",
+  "name": "What should I do immediately after a fire to prepare for restoration?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do immediately after a fire to prepare for restoration?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Immediately after a fire, your priority is personal safety and contacting emergency services. Once the fire department deems the property safe, contact your insurance provider to initiate a claim. Documenting the damage with photographs and videos before any cleanup begins is crucial for your claim. Secure your property to prevent further damage or theft. While AKN Design Group does not handle initial emergency services like boarding up or water extraction, these steps are vital prerequisites. Preparing by gathering insurance information and preliminary documentation allows us to seamlessly transition into the design-build phase for your reconstruction, helping to restore your home and enhance its functionality and value.",
+        "@type": "Answer",
+        "description": "After ensuring safety and contacting emergency services, document fire damage for insurance and secure your property. These initial steps are crucial before AKN Design Group begins reconstruction."
+      }
+    }
+  ],
+  "description": "After ensuring safety and contacting emergency services, document fire damage for insurance and secure your property. These initial steps are crucial before AKN"
+}

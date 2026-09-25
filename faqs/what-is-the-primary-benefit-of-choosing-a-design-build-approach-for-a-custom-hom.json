@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-the-primary-benefit-of-choosing-a-design-build-approach-for-a-custom-hom",
+  "name": "What is the primary benefit of choosing a design-build approach for a custom home renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the primary benefit of choosing a design-build approach for a custom home renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The primary benefit of a design-build approach for a custom home renovation is having a single point of coordination. AKN Design Group manages both the design and construction phases, ensuring seamless integration and communication. This managed process reduces the complexities often associated with coordinating multiple vendors, streamlining the project from initial concept to final walkthrough and leading to a more efficient and harmonized outcome.",
+        "@type": "Answer",
+        "description": "A design-build approach provides a single point of coordination, integrating design and construction for a seamless and efficient renovation process."
+      }
+    }
+  ],
+  "description": "A design-build approach provides a single point of coordination, integrating design and construction for a seamless and efficient renovation process."
+}

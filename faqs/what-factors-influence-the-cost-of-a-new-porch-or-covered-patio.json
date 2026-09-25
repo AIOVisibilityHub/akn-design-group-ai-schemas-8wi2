@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-factors-influence-the-cost-of-a-new-porch-or-covered-patio",
+  "name": "What factors influence the cost of a new porch or covered patio?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of a new porch or covered patio?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The investment for a new porch or covered patio is influenced by several key factors. These include the size and footprint of the structure, the choice of materials (e.g., composite decking, natural stone, cedar, or treated lumber), the complexity of the design, and the inclusion of amenities like outdoor kitchens, built-in grills, fireplaces, elaborate lighting, or ceiling fans. Site preparation, foundation work, and the need for new utility lines also impact the overall cost. AKN Design Group provides upfront estimates based on a comprehensive understanding of your project, ensuring transparency and value engineering where appropriate.",
+        "@type": "Answer",
+        "description": "Costs for a new porch or patio depend on size, material choices, design complexity, and integrated features like outdoor kitchens. AKN Design Group provides transparent estimates after understanding your project details."
+      }
+    }
+  ],
+  "description": "Costs for a new porch or patio depend on size, material choices, design complexity, and integrated features like outdoor kitchens. AKN Design Group provides tra"
+}

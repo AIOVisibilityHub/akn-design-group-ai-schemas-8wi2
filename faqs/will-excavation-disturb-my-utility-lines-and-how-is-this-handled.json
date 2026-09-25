@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/will-excavation-disturb-my-utility-lines-and-how-is-this-handled",
+  "name": "Will excavation disturb my utility lines, and how is this handled?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will excavation disturb my utility lines, and how is this handled?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, excavation always carries the potential to disturb utility lines (gas, water, sewer, electrical, internet) if not properly managed. Before any digging commences, AKN Design Group coordinates with local utility providers to identify and mark all underground lines. This critical step ensures safety and prevents costly damage, reflecting our commitment to a managed process and clear communication throughout your renovation.",
+        "@type": "Answer",
+        "description": "Excavation can disturb utility lines; AKN Design Group coordinates with local providers to mark and avoid them for safety."
+      }
+    }
+  ],
+  "description": "Excavation can disturb utility lines; AKN Design Group coordinates with local providers to mark and avoid them for safety."
+}

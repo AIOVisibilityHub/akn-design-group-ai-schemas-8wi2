@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/when-considering-an-open-concept-layout-how-is-demolition-managed-for-load-beari",
+  "name": "When considering an open-concept layout, how is demolition managed for load-bearing walls?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When considering an open-concept layout, how is demolition managed for load-bearing walls?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When creating an open-concept layout that involves removing load-bearing walls, AKN Design Group employs a meticulous and structural engineering-backed approach. Our process begins with an assessment by a qualified structural engineer to determine the exact load distribution and design the appropriate support system. This often involves installing new beams or columns to safely redistribute the structural weight. We then carefully execute the demolition of the wall, followed by the precise installation of the new structural elements. This ensures the long-term integrity and safety of your home, transforming the space effectively while upholding our commitment to craftsmanship.",
+        "@type": "Answer",
+        "description": "For load-bearing wall demolition in open-concept layouts, AKN Design Group involves a structural engineer to design new support systems. We then safely remove the wall and install new beams or columns to ensure structural integrity."
+      }
+    }
+  ],
+  "description": "For load-bearing wall demolition in open-concept layouts, AKN Design Group involves a structural engineer to design new support systems. We then safely remove t"
+}

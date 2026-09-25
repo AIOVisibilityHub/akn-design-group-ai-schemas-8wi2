@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-does-akn-design-group-ensure-craftsmanship-and-quality-in-garage-constructio",
+  "name": "How does AKN Design Group ensure craftsmanship and quality in garage construction?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does AKN Design Group ensure craftsmanship and quality in garage construction?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "AKN Design Group ensures craftsmanship and quality in garage construction through our commitment to meticulous planning, skilled execution, and supervision by Anthony Nusbaumer, who emphasizes honesty, reliability, and craftsmanship. We utilize high-quality materials, employ experienced tradespeople, and maintain rigorous quality control throughout every phase of the project. Our integrated design-build approach means that from the initial designs and material selections to the final finishes, every detail is managed to deliver a durable, aesthetically pleasing, and highly functional structure that stands the test of time.",
+        "@type": "Answer",
+        "description": "We ensure craftsmanship through meticulous planning, skilled execution, high-quality materials, experienced tradespeople, and rigorous quality control, all managed by our design-build team."
+      }
+    }
+  ],
+  "description": "We ensure craftsmanship through meticulous planning, skilled execution, high-quality materials, experienced tradespeople, and rigorous quality control, all mana"
+}

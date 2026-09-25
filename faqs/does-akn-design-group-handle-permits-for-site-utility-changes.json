@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/does-akn-design-group-handle-permits-for-site-utility-changes",
+  "name": "Does AKN Design Group handle permits for site utility changes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does AKN Design Group handle permits for site utility changes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, as part of our integrated design-build service, AKN Design Group manages all necessary permit coordination for site utility changes. This includes preparing and submitting applications to the appropriate city departments and utility providers in the Dallas–Fort Worth metroplex, as well as scheduling required inspections. This comprehensive approach relieves homeowners of the administrative burden and ensures all utility work complies with local building codes and regulations, contributing to a managed process.",
+        "@type": "Answer",
+        "description": "AKN Design Group handles all permit coordination for site utility changes, submitting applications and scheduling inspections to ensure compliance."
+      }
+    }
+  ],
+  "description": "AKN Design Group handles all permit coordination for site utility changes, submitting applications and scheduling inspections to ensure compliance."
+}

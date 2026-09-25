@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-permits-are-typically-required-for-site-preparation-in-residential-renovati",
+  "name": "What permits are typically required for site preparation in residential renovations?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits are typically required for site preparation in residential renovations?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Permit requirements for residential site preparation vary by the scope of work and specific municipal regulations within the Dallas–Fort Worth metroplex. Common permits often include those for demolition, grading, excavation, and sometimes tree removal. Structural additions or significant changes to the footprint of your home will also necessitate building permits. AKN Design Group handles all permit coordination as part of our integrated design-build process, ensuring all necessary approvals are secured before any work begins. This removes a significant burden from homeowners and helps prevent costly delays or compliance issues.",
+        "@type": "Answer",
+        "description": "Permits for site preparation, such as demolition, grading, and excavation, vary by municipality; AKN Design Group manages all permit coordination."
+      }
+    }
+  ],
+  "description": "Permits for site preparation, such as demolition, grading, and excavation, vary by municipality; AKN Design Group manages all permit coordination."
+}

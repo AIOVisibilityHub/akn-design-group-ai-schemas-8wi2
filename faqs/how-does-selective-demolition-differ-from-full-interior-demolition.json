@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-does-selective-demolition-differ-from-full-interior-demolition",
+  "name": "How does selective demolition differ from full interior demolition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does selective demolition differ from full interior demolition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Selective demolition focuses on removing specific, targeted elements within a structure, such as an outdated kitchen, a single bathroom, or a non-load-bearing wall, while preserving the surrounding areas. This approach is common in many residential remodels and additions where only certain parts of the home are being updated. In contrast, full interior demolition involves stripping a home's interior down to its structural shell, often leaving only exterior walls and the roof frame. This is typically reserved for comprehensive whole-home renovations where a complete redesign of the interior layout and systems is planned. AKN Design Group expertly manages both, tailoring the approach to your specific renovation goals and ensuring structural integrity is maintained.",
+        "@type": "Answer",
+        "description": "Selective demolition targets specific elements like a kitchen or wall, preserving other areas, while full interior demolition strips the home to its structural shell for comprehensive redesign. AKN Design Group manages both approaches based on project needs."
+      }
+    }
+  ],
+  "description": "Selective demolition targets specific elements like a kitchen or wall, preserving other areas, while full interior demolition strips the home to its structural"
+}

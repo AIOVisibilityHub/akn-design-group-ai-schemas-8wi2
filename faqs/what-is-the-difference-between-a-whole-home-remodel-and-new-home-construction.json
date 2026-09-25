@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-the-difference-between-a-whole-home-remodel-and-new-home-construction",
+  "name": "What is the difference between a whole-home remodel and new home construction?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a whole-home remodel and new home construction?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A whole-home remodel, which AKN Design Group specializes in, transforms an existing residence by updating its structure, layout, and finishes to meet current needs and aesthetics, often without altering the original foundation or exterior footprint significantly. New home construction involves building a house from the ground up on a vacant lot. The primary difference lies in leveraging existing infrastructure versus starting fresh, impacting factors like permitting, structural considerations, and the timeline for project completion.",
+        "@type": "Answer",
+        "description": "A whole-home remodel updates an existing house, while new home construction builds from the ground up on a vacant lot."
+      }
+    }
+  ],
+  "description": "A whole-home remodel updates an existing house, while new home construction builds from the ground up on a vacant lot."
+}

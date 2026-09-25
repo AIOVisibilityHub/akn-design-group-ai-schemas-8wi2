@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-are-the-common-challenges-with-roof-framing-during-a-remodel-and-how-are-th",
+  "name": "What are the common challenges with roof framing during a remodel and how are they addressed?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common challenges with roof framing during a remodel and how are they addressed?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common challenges with roof framing during a remodel often include encountering unforeseen structural issues within existing framing, ensuring proper integration with varying existing rooflines, and managing weather exposure during construction. Additionally, achieving specific aesthetic goals, such as open-concept designs or vaulted ceilings, can present framing complexities. AKN Design Group addresses these by employing a proactive design-build methodology, which includes thorough initial assessments and flexible problem-solving on-site. Our experienced team plans for potential contingencies, maintains clear communication throughout the project, and leverages our craftsmanship to overcome challenges, ensuring the final result meets our high standards for reliability and structural integrity.",
+        "@type": "Answer",
+        "description": "Challenges in roof framing during remodels include unforeseen structural issues and integration complexities, which AKN Design Group addresses with proactive design-build planning and on-site problem-solving."
+      }
+    }
+  ],
+  "description": "Challenges in roof framing during remodels include unforeseen structural issues and integration complexities, which AKN Design Group addresses with proactive de"
+}

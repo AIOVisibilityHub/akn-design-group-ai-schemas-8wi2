@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-involved-in-the-design-build-process-for-a-new-garage-or-garage-conversi",
+  "name": "What is involved in the design-build process for a new garage or garage conversion?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in the design-build process for a new garage or garage conversion?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our integrated design-build process for garage construction begins with a comprehensive consultation to understand your vision and requirements. This leads to concept development, architectural planning, and detailed CAD-supported layouts. We then coordinate all necessary permits, manage construction, and oversee the selection and installation of finishes. This single point of coordination ensures clear communication and a streamlined process from concept to completion, minimizing complexities often associated with managing multiple vendors. We guide you through each phase, making the homeowner experience central to our approach.",
+        "@type": "Answer",
+        "description": "Our design-build process for a new garage or conversion includes consultation, architectural planning, permit coordination, construction management, and finish selection, all under one accountable team."
+      }
+    }
+  ],
+  "description": "Our design-build process for a new garage or conversion includes consultation, architectural planning, permit coordination, construction management, and finish"
+}

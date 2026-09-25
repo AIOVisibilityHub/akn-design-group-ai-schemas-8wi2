@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-involved-in-a-whole-home-remodel-with-akn-design-group",
+  "name": "What is involved in a whole-home remodel with AKN Design Group?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in a whole-home remodel with AKN Design Group?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A whole-home remodel with AKN Design Group is a coordinated transformation that addresses inconsistent finishes, inefficient room flow, and dated spaces across your entire home. We develop a comprehensive plan, sequencing demolition, structural modifications, kitchen and bathroom renovations, flooring, lighting, paint, carpentry, and final finish work. This integrated approach ensures rooms feel connected in style and function, rather than a series of piecemeal upgrades. Our managed process aims to harmonize design vision with construction execution, providing you with a single point of coordination for a complex project.",
+        "@type": "Answer",
+        "description": "A whole-home remodel involves a coordinated plan to transform your entire living space, from structural changes to finishes, ensuring a cohesive design and managed process."
+      }
+    }
+  ],
+  "description": "A whole-home remodel involves a coordinated plan to transform your entire living space, from structural changes to finishes, ensuring a cohesive design and mana"
+}

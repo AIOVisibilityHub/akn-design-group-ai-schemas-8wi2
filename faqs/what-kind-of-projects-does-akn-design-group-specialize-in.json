@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-kind-of-projects-does-akn-design-group-specialize-in",
+  "name": "What kind of projects does AKN Design Group specialize in?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of projects does AKN Design Group specialize in?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "AKN Design Group specializes in substantial, coordinated residential renovations, focusing on projects that significantly enhance a home’s functionality, beauty, and long-term value. Our expertise includes luxury kitchens, spa-inspired bathrooms, whole-home remodels, significant additions, and high-end outdoor living spaces such as custom patios and outdoor kitchens. We are not structured for small handyman-style repairs or piecemeal installations; instead, we excel at complex transformations that require integrated design planning and construction execution, providing a managed process for homeowners in the Dallas–Fort Worth metroplex.",
+        "@type": "Answer",
+        "description": "We specialize in substantial residential renovations like luxury kitchens, spa-inspired bathrooms, whole-home remodels, additions, and high-end outdoor living spaces."
+      }
+    }
+  ],
+  "description": "We specialize in substantial residential renovations like luxury kitchens, spa-inspired bathrooms, whole-home remodels, additions, and high-end outdoor living s"
+}

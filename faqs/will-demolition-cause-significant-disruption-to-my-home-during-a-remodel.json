@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/will-demolition-cause-significant-disruption-to-my-home-during-a-remodel",
+  "name": "Will demolition cause significant disruption to my home during a remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will demolition cause significant disruption to my home during a remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Demolition is inherently a disruptive phase due to the nature of removing existing structures, but AKN Design Group employs strategies to minimize its impact on your daily life. We establish clear project timelines, communicate anticipated noise and dust levels, and implement protective measures like dust barriers and temporary utility cut-offs. Our goal is to complete the demolition efficiently, ensuring a swift transition to the construction phase. For homeowners undertaking whole-home remodels or significant additions, temporary relocation might be considered to fully avoid the active demolition and construction environment. We aim for clear communication and a managed process to keep you informed every step of the way.",
+        "@type": "Answer",
+        "description": "While demolition is disruptive, AKN Design Group minimizes impact through clear timelines, dust barriers, and efficient work. For extensive projects, temporary relocation might be advised for homeowner comfort."
+      }
+    }
+  ],
+  "description": "While demolition is disruptive, AKN Design Group minimizes impact through clear timelines, dust barriers, and efficient work. For extensive projects, temporary"
+}

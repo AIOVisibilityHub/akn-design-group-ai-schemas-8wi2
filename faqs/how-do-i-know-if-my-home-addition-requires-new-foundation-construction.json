@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-do-i-know-if-my-home-addition-requires-new-foundation-construction",
+  "name": "How do I know if my home addition requires new foundation construction?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if my home addition requires new foundation construction?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Any significant expansion of your home's footprint, such as a primary suite, home office, or family room addition, will necessitate new foundation construction. This is because the new structure requires its own stable base to support its weight and integrate properly with your existing home. During the initial design consultation, AKN Design Group will assess your project's scope and conduct necessary site evaluations, including soil analysis, to confirm the foundation requirements. Understanding these needs early in the process prevents costly delays and ensures a safe, structurally sound outcome for your customized renovation.",
+        "@type": "Answer",
+        "description": "Most home additions expanding your home's footprint require new foundation construction to support the new structure. AKN Design Group assesses this during initial design consultations."
+      }
+    }
+  ],
+  "description": "Most home additions expanding your home's footprint require new foundation construction to support the new structure. AKN Design Group assesses this during init"
+}

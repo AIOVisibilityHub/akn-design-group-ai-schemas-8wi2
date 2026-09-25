@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-engineering-coordination-in-a-residential-renovation-project",
+  "name": "What is engineering coordination in a residential renovation project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is engineering coordination in a residential renovation project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Engineering coordination ensures that all structural, mechanical, electrical, and plumbing elements of a renovation are harmonized with the architectural design and local building codes. For complex projects like whole-home remodels or additions, this involves integrating specialized plans from various engineering disciplines into a cohesive master plan. AKN Design Group manages this integration, ensuring that structural modifications support the new design, HVAC systems are correctly sized and routed, and electrical and plumbing layouts meet functional requirements and safety standards. Our approach provides a single point of coordination, minimizing conflicts and ensuring a seamless execution from concept to completion.",
+        "@type": "Answer",
+        "description": "Engineering coordination unifies structural, mechanical, electrical, and plumbing plans with architectural design, ensuring all renovation elements work together and comply with building codes."
+      }
+    }
+  ],
+  "description": "Engineering coordination unifies structural, mechanical, electrical, and plumbing plans with architectural design, ensuring all renovation elements work togethe"
+}

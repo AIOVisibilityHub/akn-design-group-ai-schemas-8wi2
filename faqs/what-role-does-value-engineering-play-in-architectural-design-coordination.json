@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-role-does-value-engineering-play-in-architectural-design-coordination",
+  "name": "What role does value engineering play in architectural design coordination?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What role does value engineering play in architectural design coordination?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Value engineering is an integral part of architectural design coordination, focusing on optimizing functionality and cost-effectiveness without compromising quality or design intent. Within AKN Design Group's managed process, our team continuously evaluates material selections, construction methods, and design elements to identify opportunities for efficiency and savings. This ensures that your high-value renovation achieves its aesthetic and functional goals while being executed with thoughtful consideration for your investment, enhancing the long-term value of your home.",
+        "@type": "Answer",
+        "description": "Value engineering in design coordination optimizes functionality and cost-effectiveness by evaluating materials and methods to achieve quality and design intent efficiently."
+      }
+    }
+  ],
+  "description": "Value engineering in design coordination optimizes functionality and cost-effectiveness by evaluating materials and methods to achieve quality and design intent"
+}

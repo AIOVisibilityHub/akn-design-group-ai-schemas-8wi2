@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/will-a-smart-thermostat-work-with-my-existing-hvac-system",
+  "name": "Will a smart thermostat work with my existing HVAC system?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will a smart thermostat work with my existing HVAC system?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most modern smart thermostats are designed to be compatible with a wide range of HVAC systems, including conventional and heat pump setups. However, compatibility can depend on specific wiring configurations, such as the presence of a C-wire (common wire), which provides continuous power to the thermostat. Before installation, AKN Design Group conducts a thorough assessment of your existing system to ensure seamless integration and optimal performance. This attention to detail reflects our approach to all residential design-build projects, where proper integration is key to enhancing functionality and avoiding complications.",
+        "@type": "Answer",
+        "description": "Many smart thermostats are compatible with existing HVAC systems, but specific wiring, like a C-wire, can influence compatibility. We assess your system for seamless integration."
+      }
+    }
+  ],
+  "description": "Many smart thermostats are compatible with existing HVAC systems, but specific wiring, like a C-wire, can influence compatibility. We assess your system for sea"
+}

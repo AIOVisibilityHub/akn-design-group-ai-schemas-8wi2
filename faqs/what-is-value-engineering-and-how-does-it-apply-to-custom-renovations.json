@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-value-engineering-and-how-does-it-apply-to-custom-renovations",
+  "name": "What is value engineering, and how does it apply to custom renovations?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is value engineering, and how does it apply to custom renovations?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Value engineering, in the context of custom renovations, is a systematic process of optimizing a project's cost-effectiveness without compromising its functionality, quality, or aesthetic appeal. It involves analyzing material choices, construction methods, and design elements to identify alternatives that offer comparable performance or appearance at a lower cost. For our clients, AKN Design Group applies value engineering to ensure that your investment is maximized. We explore options that align with your vision while ensuring the long-term value and integrity of your luxury kitchen, spa-inspired bathroom, or whole-home remodel, maintaining high standards of craftsmanship.",
+        "@type": "Answer",
+        "description": "Value engineering optimizes renovation costs by analyzing materials and methods for cost-effective alternatives without sacrificing functionality, quality, or aesthetics."
+      }
+    }
+  ],
+  "description": "Value engineering optimizes renovation costs by analyzing materials and methods for cost-effective alternatives without sacrificing functionality, quality, or a"
+}

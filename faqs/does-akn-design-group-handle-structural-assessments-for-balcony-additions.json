@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/does-akn-design-group-handle-structural-assessments-for-balcony-additions",
+  "name": "Does AKN Design Group handle structural assessments for balcony additions?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does AKN Design Group handle structural assessments for balcony additions?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, as part of our integrated design-build process, AKN Design Group coordinates necessary structural assessments for balcony additions. Ensuring the structural integrity of your home is paramount when adding an elevated structure. We work with qualified professionals to evaluate your home's existing framework and determine the best approach for safely integrating the new balcony. This meticulous attention to structural details is a cornerstone of our commitment to reliability and craftsmanship, providing you with a secure and lasting addition that enhances your home for years to come.",
+        "@type": "Answer",
+        "description": "Yes, we coordinate structural assessments as part of our design-build process to ensure your home's integrity and the balcony's safe integration."
+      }
+    }
+  ],
+  "description": "Yes, we coordinate structural assessments as part of our design-build process to ensure your home's integrity and the balcony's safe integration."
+}

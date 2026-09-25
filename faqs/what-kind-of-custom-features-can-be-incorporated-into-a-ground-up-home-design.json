@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-kind-of-custom-features-can-be-incorporated-into-a-ground-up-home-design",
+  "name": "What kind of custom features can be incorporated into a ground-up home design?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of custom features can be incorporated into a ground-up home design?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Ground-up construction provides the ultimate opportunity for customization, allowing you to incorporate features perfectly tailored to your lifestyle and aesthetic. This can include personalized kitchen layouts with custom cabinetry and luxury appliances, spa-inspired primary bathrooms, home offices, dedicated media rooms, or high-end outdoor living spaces with custom patios and outdoor kitchens. With our design-build expertise, AKN Design Group collaborates with you to integrate these unique elements seamlessly, enhancing functionality, beauty, and long-term value from the very foundation.",
+        "@type": "Answer",
+        "description": "Ground-up construction allows for extensive customization, from personalized luxury kitchens and spa bathrooms to home offices and high-end outdoor living spaces. AKN Design Group integrates these unique features to enhance your home's value."
+      }
+    }
+  ],
+  "description": "Ground-up construction allows for extensive customization, from personalized luxury kitchens and spa bathrooms to home offices and high-end outdoor living space"
+}

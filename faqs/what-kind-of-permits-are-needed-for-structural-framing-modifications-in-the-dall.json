@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-kind-of-permits-are-needed-for-structural-framing-modifications-in-the-dall",
+  "name": "What kind of permits are needed for structural framing modifications in the Dallas–Fort Worth metroplex?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of permits are needed for structural framing modifications in the Dallas–Fort Worth metroplex?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Structural framing modifications in the Dallas–Fort Worth metroplex require specific building permits from your local municipality. These permits ensure that the proposed changes meet local building codes for safety and structural integrity. The exact requirements can vary by city (e.g., Fort Worth, Alameda, Albany, Berkeley, Dublin). AKN Design Group manages all permit coordination as part of our comprehensive service, preparing and submitting necessary plans and documentation to ensure your project complies with all regulations.",
+        "@type": "Answer",
+        "description": "Structural framing modifications in the Dallas–Fort Worth metroplex require building permits from your local municipality. AKN Design Group handles all permit coordination."
+      }
+    }
+  ],
+  "description": "Structural framing modifications in the Dallas–Fort Worth metroplex require building permits from your local municipality. AKN Design Group handles all permit c"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/will-my-home-renovation-require-utility-shut-offs-and-how-are-these-managed",
+  "name": "Will my home renovation require utility shut-offs, and how are these managed?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my home renovation require utility shut-offs, and how are these managed?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Significant residential renovations often require temporary utility shut-offs for safety and to facilitate new connections or rerouting. We plan these interruptions carefully as part of our project schedule, communicating with you in advance to minimize inconvenience. For instance, a bathroom remodel might require temporary water shut-off, while a major addition could necessitate electrical panel upgrades. Our team coordinates directly with utility companies to schedule these events efficiently.",
+        "@type": "Answer",
+        "description": "Major renovations may require temporary utility shut-offs for safety; AKN plans these carefully, communicates in advance, and coordinates with utility companies to minimize disruption."
+      }
+    }
+  ],
+  "description": "Major renovations may require temporary utility shut-offs for safety; AKN plans these carefully, communicates in advance, and coordinates with utility companies"
+}

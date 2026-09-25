@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-should-i-consider-or-discuss-with-akn-design-group-before-committing-to-sol",
+  "name": "What should I consider or discuss with AKN Design Group before committing to solar-ready construction?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I consider or discuss with AKN Design Group before committing to solar-ready construction?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before committing to solar-ready construction, it's essential to consider your long-term energy goals and budget. Discuss the best roof areas for solar panels based on orientation and shade, understanding how this impacts potential energy generation. You should also consider your current and future electrical needs to ensure the system will be adequately sized. AKN Design Group's comprehensive consultation includes evaluating these factors, explaining the necessary structural and electrical modifications, and outlining how solar readiness integrates with your overall renovation vision. This collaborative approach ensures your project aligns with your specific needs and enhances your home's value.",
+        "@type": "Answer",
+        "description": "Before committing, discuss long-term energy goals, ideal roof areas, and electrical needs with AKN Design Group. This ensures solar readiness aligns with your renovation and maximizes benefits."
+      }
+    }
+  ],
+  "description": "Before committing, discuss long-term energy goals, ideal roof areas, and electrical needs with AKN Design Group. This ensures solar readiness aligns with your r"
+}

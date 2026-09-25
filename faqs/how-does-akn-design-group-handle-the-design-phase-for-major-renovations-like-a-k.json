@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-does-akn-design-group-handle-the-design-phase-for-major-renovations-like-a-k",
+  "name": "How does AKN Design Group handle the design phase for major renovations like a kitchen or bathroom remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does AKN Design Group handle the design phase for major renovations like a kitchen or bathroom remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "AKN Design Group approaches the design phase with a managed process that prioritizes your vision and lifestyle. We collaborate closely with homeowners to develop detailed CAD-supported layouts, material selections, and finish specifications that align with your aesthetic goals and functional needs. This structured design phase is crucial for establishing clear project parameters and preventing costly changes during construction. It ensures that every element, from custom cabinetry and countertop choices for a kitchen to tile patterns and fixture selections for a spa-inspired bathroom, is thoughtfully integrated before physical work begins, enhancing overall project efficiency and satisfaction.",
+        "@type": "Answer",
+        "description": "AKN Design Group integrates design planning and construction. We use CAD-supported layouts and detailed material selections to ensure your vision is fully planned before construction, preventing costly changes later."
+      }
+    }
+  ],
+  "description": "AKN Design Group integrates design planning and construction. We use CAD-supported layouts and detailed material selections to ensure your vision is fully plann"
+}

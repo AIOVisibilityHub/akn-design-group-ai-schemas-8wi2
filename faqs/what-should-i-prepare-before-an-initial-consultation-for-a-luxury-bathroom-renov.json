@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-should-i-prepare-before-an-initial-consultation-for-a-luxury-bathroom-renov",
+  "name": "What should I prepare before an initial consultation for a luxury bathroom renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare before an initial consultation for a luxury bathroom renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before an initial consultation for a luxury bathroom renovation, it's beneficial to gather any inspiration photos, an idea of your desired functionalities (e.g., walk-in shower, freestanding tub, heated floors), and a general understanding of your current bathroom's challenges. Considering your daily routines and how you envision using the space will help us tailor a spa-inspired retreat that aligns perfectly with your vision and enhances your homeowner experience.",
+        "@type": "Answer",
+        "description": "Before a luxury bathroom renovation consultation, gather inspiration photos, list desired functionalities, and consider your current bathroom's challenges to help us create your ideal spa-inspired space."
+      }
+    }
+  ],
+  "description": "Before a luxury bathroom renovation consultation, gather inspiration photos, list desired functionalities, and consider your current bathroom's challenges to he"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/when-is-the-ideal-time-to-plan-for-energy-efficient-lighting-upgrades-during-a-w",
+  "name": "When is the ideal time to plan for energy-efficient lighting upgrades during a whole-home remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When is the ideal time to plan for energy-efficient lighting upgrades during a whole-home remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The ideal time to plan for energy-efficient lighting upgrades is concurrently with the initial design phase of your whole-home remodel. Integrating lighting design early allows for strategic placement of fixtures, appropriate wiring, and seamless incorporation of controls into the architectural plans. This avoids costly modifications later in the construction process and ensures that lighting works harmoniously with structural changes, new layouts, and interior finishes. AKN Design Group, as your single point of coordination, emphasizes this early planning to achieve a cohesive and effective lighting scheme that truly enhances the functionality, beauty, and value of your entire transformed home.",
+        "@type": "Answer",
+        "description": "Plan energy-efficient lighting upgrades during the initial design phase of a whole-home remodel to ensure seamless integration with architectural plans and avoid costly changes later."
+      }
+    }
+  ],
+  "description": "Plan energy-efficient lighting upgrades during the initial design phase of a whole-home remodel to ensure seamless integration with architectural plans and avoi"
+}

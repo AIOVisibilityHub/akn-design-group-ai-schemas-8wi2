@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-kind-of-foundation-is-typically-used-for-new-garage-construction",
+  "name": "What kind of foundation is typically used for new garage construction?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of foundation is typically used for new garage construction?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "New garage construction typically utilizes a concrete slab foundation, which provides a durable and stable base for the structure and can withstand the weight of vehicles. The specific type of slab, such as a monolithic slab or a thickened-edge slab, will depend on soil conditions, local building codes, and the garage's intended use. AKN Design Group performs thorough site assessments and engineering considerations to ensure the foundation is properly designed and constructed for longevity and structural integrity, especially in the varied soil conditions of the Dallas–Fort Worth metroplex.",
+        "@type": "Answer",
+        "description": "New garages typically use a concrete slab foundation. The specific slab type depends on soil conditions, local codes, and intended use, which we assess for proper design and construction."
+      }
+    }
+  ],
+  "description": "New garages typically use a concrete slab foundation. The specific slab type depends on soil conditions, local codes, and intended use, which we assess for prop"
+}

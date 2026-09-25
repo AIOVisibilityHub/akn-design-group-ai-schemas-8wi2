@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-the-process-for-upgrading-to-a-smart-thermostat-with-akn-design-group",
+  "name": "What is the process for upgrading to a smart thermostat with AKN Design Group?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for upgrading to a smart thermostat with AKN Design Group?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our process for integrating a smart thermostat, typically as part of a larger renovation, begins with a detailed consultation to understand your needs and assess your home's existing systems. We then develop a comprehensive plan, coordinating the installation with other project elements to ensure seamless integration and optimal performance. Our design-build approach means we manage the entire process, from planning and material selection to installation and final walkthrough, providing a single point of coordination. This ensures the smart thermostat functions perfectly within your enhanced living space, reflecting our commitment to a smooth homeowner experience.",
+        "@type": "Answer",
+        "description": "Our process involves a consultation, detailed planning, and coordinated installation within a larger renovation. We manage every step, from design to final integration."
+      }
+    }
+  ],
+  "description": "Our process involves a consultation, detailed planning, and coordinated installation within a larger renovation. We manage every step, from design to final inte"
+}

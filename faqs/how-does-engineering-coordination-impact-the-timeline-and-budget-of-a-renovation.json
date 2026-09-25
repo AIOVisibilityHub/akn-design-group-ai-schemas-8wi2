@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-does-engineering-coordination-impact-the-timeline-and-budget-of-a-renovation",
+  "name": "How does engineering coordination impact the timeline and budget of a renovation project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does engineering coordination impact the timeline and budget of a renovation project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Effective engineering coordination, while an initial investment, ultimately helps optimize both the timeline and budget of a renovation project. By addressing structural and system requirements early, we prevent costly rework and delays that arise from unexpected issues during construction. Proper engineering ensures material efficiency and adherence to building codes, avoiding rejections during inspections. AKN Design Group's value engineering approach seeks to achieve your design goals efficiently, and our upfront estimates reflect the comprehensive planning, including all necessary engineering work.",
+        "@type": "Answer",
+        "description": "Proper engineering coordination optimizes renovation timelines and budgets by preventing costly rework, ensuring code compliance, and achieving material efficiency."
+      }
+    }
+  ],
+  "description": "Proper engineering coordination optimizes renovation timelines and budgets by preventing costly rework, ensuring code compliance, and achieving material efficie"
+}

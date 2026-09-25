@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-defines-a-high-end-outdoor-living-space-and-what-can-it-include",
+  "name": "What defines a high-end outdoor living space, and what can it include?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What defines a high-end outdoor living space, and what can it include?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A high-end outdoor living space extends your home's functionality and aesthetic outdoors, transforming underused backyard areas into dedicated zones for relaxation and entertaining. This can include covered patios, pergolas, custom paver or stamped concrete patios, and comprehensive outdoor kitchens with built-in grills, countertops, and storage. Other features often include fire pits, outdoor fireplaces, landscape lighting, and ceiling fans. AKN Design Group designs and builds these spaces as a cohesive project, coordinating hardscaping, structures, and amenities to create a truly integrated outdoor destination that enhances your home's value.",
+        "@type": "Answer",
+        "description": "A high-end outdoor living space includes covered patios, outdoor kitchens, fire features, and specialized lighting to extend your home's functionality and aesthetic outdoors, creating a dedicated area for entertaining."
+      }
+    }
+  ],
+  "description": "A high-end outdoor living space includes covered patios, outdoor kitchens, fire features, and specialized lighting to extend your home's functionality and aesth"
+}

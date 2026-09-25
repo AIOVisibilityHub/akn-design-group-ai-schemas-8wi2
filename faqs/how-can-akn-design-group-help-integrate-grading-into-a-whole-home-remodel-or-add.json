@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-can-akn-design-group-help-integrate-grading-into-a-whole-home-remodel-or-add",
+  "name": "How can AKN Design Group help integrate grading into a whole-home remodel or addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can AKN Design Group help integrate grading into a whole-home remodel or addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "AKN Design Group integrates grading as a foundational component of our comprehensive design-build process for whole-home remodels or additions. From the initial consultation, we consider how site grading will support the new footprint, ensure proper drainage away from new foundations, and prepare the site for high-end outdoor living spaces. This managed process means grading plans are developed in conjunction with architectural designs, material selections, and structural engineering, ensuring a cohesive and functional outcome. Our goal is to provide a single point of coordination, so your entire project, including critical site preparation like grading, is handled efficiently and with careful attention to detail and craftsmanship.",
+        "@type": "Answer",
+        "description": "AKN Design Group integrates grading into whole-home remodels and additions by planning it early in the design-build process to support new structures and ensure proper drainage, offering a single point of coordination."
+      }
+    }
+  ],
+  "description": "AKN Design Group integrates grading into whole-home remodels and additions by planning it early in the design-build process to support new structures and ensure"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-does-akn-design-group-handle-debris-and-waste-removal-after-demolition",
+  "name": "How does AKN Design Group handle debris and waste removal after demolition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does AKN Design Group handle debris and waste removal after demolition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "After demolition, AKN Design Group prioritizes efficient and responsible debris and waste removal. All materials are carefully sorted to separate reusable or recyclable components from general construction waste. We utilize appropriate containers and hauling services to ensure that debris is promptly removed from your property, maintaining a clean and safe worksite. Our process adheres to local regulations in the Dallas–Fort Worth metroplex regarding waste disposal, minimizing environmental impact. This thorough approach is an integral part of our managed design-build process, ensuring the site is properly prepared for the subsequent construction phases without delays or lingering debris.",
+        "@type": "Answer",
+        "description": "AKN Design Group handles demolition debris by sorting materials, using appropriate hauling services, and adhering to local waste disposal regulations in the Dallas–Fort Worth metroplex. This maintains a clean site and prepares for construction."
+      }
+    }
+  ],
+  "description": "AKN Design Group handles demolition debris by sorting materials, using appropriate hauling services, and adhering to local waste disposal regulations in the Dal"
+}

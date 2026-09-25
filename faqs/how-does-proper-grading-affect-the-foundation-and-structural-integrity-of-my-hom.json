@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-does-proper-grading-affect-the-foundation-and-structural-integrity-of-my-hom",
+  "name": "How does proper grading affect the foundation and structural integrity of my home renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does proper grading affect the foundation and structural integrity of my home renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Proper grading is fundamental to the long-term integrity of your home renovation, particularly for new foundations or slab work associated with additions or outdoor structures. By establishing appropriate slopes, grading directs surface water away from the foundation, preventing hydrostatic pressure buildup, which can lead to cracks or structural damage over time. It also ensures a stable, uniform base for construction, minimizing differential settling. Without correct grading, even a well-built addition can be compromised by water intrusion or an unstable base, highlighting the importance of this foundational step in enhancing functionality and long-term value.",
+        "@type": "Answer",
+        "description": "Correct grading prevents water accumulation around your foundation, safeguarding against structural damage and ensuring a stable base for new construction, critical for long-term home integrity."
+      }
+    }
+  ],
+  "description": "Correct grading prevents water accumulation around your foundation, safeguarding against structural damage and ensuring a stable base for new construction, crit"
+}

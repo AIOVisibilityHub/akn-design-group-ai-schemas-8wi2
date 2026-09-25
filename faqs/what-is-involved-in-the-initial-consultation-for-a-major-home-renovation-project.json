@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-involved-in-the-initial-consultation-for-a-major-home-renovation-project",
+  "name": "What is involved in the initial consultation for a major home renovation project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in the initial consultation for a major home renovation project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The initial consultation with AKN Design Group is an opportunity to discuss your vision, lifestyle needs, and renovation goals. We listen to your ideas for improving your home’s functionality and aesthetics. This is a crucial step for us to understand the scope of your desired project, whether it's a luxury kitchen, a spa-inspired bathroom, or a substantial addition. Homeowners should consider what aspects of their current home they wish to change and what specific outcomes they envision, as this helps us begin to outline a customized solution tailored to their unique preferences and home's potential.",
+        "@type": "Answer",
+        "description": "The initial consultation focuses on understanding your vision and renovation goals to discuss the project scope and potential solutions for your home."
+      }
+    }
+  ],
+  "description": "The initial consultation focuses on understanding your vision and renovation goals to discuss the project scope and potential solutions for your home."
+}

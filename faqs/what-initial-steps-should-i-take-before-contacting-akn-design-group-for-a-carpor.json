@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-initial-steps-should-i-take-before-contacting-akn-design-group-for-a-carpor",
+  "name": "What initial steps should I take before contacting AKN Design Group for a carport project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What initial steps should I take before contacting AKN Design Group for a carport project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before contacting us, it's beneficial to consider your primary needs for the carport, such as the number of vehicles to cover, any desired integrated storage, and your preferred location on your property. Gathering inspiration images of carports or architectural styles you admire can also be helpful. This initial consideration aids our team in understanding your vision and helps us tailor our design-build approach to your specific requirements from the very first consultation, streamlining the managed process from the outset.",
+        "@type": "Answer",
+        "description": "Before contacting AKN Design Group, consider your carport needs like vehicle capacity, storage, and preferred location. Gathering inspiration images is also beneficial."
+      }
+    }
+  ],
+  "description": "Before contacting AKN Design Group, consider your carport needs like vehicle capacity, storage, and preferred location. Gathering inspiration images is also ben"
+}

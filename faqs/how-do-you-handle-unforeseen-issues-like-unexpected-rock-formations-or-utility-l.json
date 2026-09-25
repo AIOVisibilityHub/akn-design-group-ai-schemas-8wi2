@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-do-you-handle-unforeseen-issues-like-unexpected-rock-formations-or-utility-l",
+  "name": "How do you handle unforeseen issues like unexpected rock formations or utility lines during excavation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do you handle unforeseen issues like unexpected rock formations or utility lines during excavation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Encountering unforeseen conditions like unexpected rock formations or unmarked utility lines during excavation requires immediate and careful assessment. Our experienced project managers are trained to identify these issues swiftly. We then pause work in the affected area, consult with relevant experts like geologists or utility companies if needed, and develop a revised plan that ensures safety and structural integrity. This plan is communicated transparently with you, along with any potential implications for the timeline or budget. Our proactive approach and clear communication minimize disruptions and maintain project momentum, reflecting our commitment to reliability.",
+        "@type": "Answer",
+        "description": "Unforeseen issues during excavation are addressed immediately, assessed by experts, and a revised plan is transparently communicated to you."
+      }
+    }
+  ],
+  "description": "Unforeseen issues during excavation are addressed immediately, assessed by experts, and a revised plan is transparently communicated to you."
+}

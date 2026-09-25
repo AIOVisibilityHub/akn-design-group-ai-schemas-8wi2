@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-should-i-consider-before-starting-a-balcony-construction-project",
+  "name": "What should I consider before starting a balcony construction project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I consider before starting a balcony construction project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before embarking on a balcony construction project, homeowners should consider their desired use for the space, the architectural style of their home, and any specific views they wish to capture. It's also important to think about material preferences, maintenance expectations, and your overall budget. AKN Design Group recommends gathering inspiration and defining your needs clearly before your initial consultation. This preparation helps our design-build team craft a customized renovation plan that harmonizes your vision with structural feasibility and local regulations, ensuring a seamless and satisfactory outcome.",
+        "@type": "Answer",
+        "description": "Before starting, consider your desired use, home style, views, material preferences, and budget to help us create a customized renovation plan."
+      }
+    }
+  ],
+  "description": "Before starting, consider your desired use, home style, views, material preferences, and budget to help us create a customized renovation plan."
+}

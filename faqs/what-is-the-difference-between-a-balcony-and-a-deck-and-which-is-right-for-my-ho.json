@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-the-difference-between-a-balcony-and-a-deck-and-which-is-right-for-my-ho",
+  "name": "What is the difference between a balcony and a deck, and which is right for my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a balcony and a deck, and which is right for my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While both balconies and decks extend living space outdoors, a balcony is typically elevated and cantilevered or supported by columns, often accessible from an upper floor of the home. A deck, conversely, can be ground-level or elevated, usually attached to the home's first floor or freestanding. The choice between a balcony and a deck depends on your home's architecture, desired access point, and intended use. AKN Design Group provides a single point of coordination to help you determine the optimal solution that enhances your home's functionality and aesthetic, integrating it with your overall residential design-build project.",
+        "@type": "Answer",
+        "description": "A balcony is an elevated extension from an upper floor, while a deck can be ground-level or elevated from the first floor. We help you choose based on your home and needs."
+      }
+    }
+  ],
+  "description": "A balcony is an elevated extension from an upper floor, while a deck can be ground-level or elevated from the first floor. We help you choose based on your home"
+}

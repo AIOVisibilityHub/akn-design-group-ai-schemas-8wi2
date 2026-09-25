@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-steps-are-involved-in-preparing-a-site-for-a-high-end-outdoor-living-space",
+  "name": "What steps are involved in preparing a site for a high-end outdoor living space, such as a custom patio or outdoor kitchen?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What steps are involved in preparing a site for a high-end outdoor living space, such as a custom patio or outdoor kitchen?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Preparing a site for a high-end outdoor living space involves several critical steps to ensure a stable and beautiful result. This typically includes precise grading for proper water drainage, excavation for foundations of features like outdoor kitchens or covered patios, and careful trenching for utilities such as gas, water, and electrical lines. We also focus on protecting surrounding landscaping and establishing clear access paths. For a custom patio, sub-base compaction is paramount for longevity. Our managed process ensures these intricate steps are expertly coordinated, creating a robust foundation for your bespoke outdoor oasis.",
+        "@type": "Answer",
+        "description": "Site preparation for outdoor living involves precise grading, excavation for foundations, trenching for utilities, and sub-base compaction for longevity and stability."
+      }
+    }
+  ],
+  "description": "Site preparation for outdoor living involves precise grading, excavation for foundations, trenching for utilities, and sub-base compaction for longevity and sta"
+}

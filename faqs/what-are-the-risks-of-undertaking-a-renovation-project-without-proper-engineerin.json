@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-are-the-risks-of-undertaking-a-renovation-project-without-proper-engineerin",
+  "name": "What are the risks of undertaking a renovation project without proper engineering coordination?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the risks of undertaking a renovation project without proper engineering coordination?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Undertaking a renovation without proper engineering coordination carries significant risks, including structural instability, code violations, and potential safety hazards. This oversight can lead to costly rework, project delays, denied inspections, and even legal issues. For a substantial renovation, such as a whole-home remodel or a new addition, neglecting engineering input can compromise your home's integrity and long-term value. AKN Design Group mitigates these risks by integrating expert engineering from the outset, ensuring your project is built to the highest standards of safety and craftsmanship.",
+        "@type": "Answer",
+        "description": "Renovating without engineering coordination risks structural instability, code violations, safety hazards, costly rework, and project delays."
+      }
+    }
+  ],
+  "description": "Renovating without engineering coordination risks structural instability, code violations, safety hazards, costly rework, and project delays."
+}

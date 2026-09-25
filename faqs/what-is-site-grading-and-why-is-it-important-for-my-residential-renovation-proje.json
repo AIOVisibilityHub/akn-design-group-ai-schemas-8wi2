@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-site-grading-and-why-is-it-important-for-my-residential-renovation-proje",
+  "name": "What is site grading, and why is it important for my residential renovation project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is site grading, and why is it important for my residential renovation project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Site grading involves modifying the land's elevation to create a level, stable base for construction and to ensure proper water drainage away from your home. This is crucial for residential renovations, especially for projects like home additions, new foundations for outdoor living spaces, or even significant landscaping changes. Correct grading prevents issues such as water accumulation, foundation damage, and soil erosion, protecting your investment and the structural integrity of your property. AKN Design Group ensures grading is addressed early in the design-build process to seamlessly integrate with your overall renovation plan.",
+        "@type": "Answer",
+        "description": "Site grading modifies land elevation for stable construction and proper drainage, crucial for protecting your home's foundation and preventing water issues during residential renovations."
+      }
+    }
+  ],
+  "description": "Site grading modifies land elevation for stable construction and proper drainage, crucial for protecting your home's foundation and preventing water issues duri"
+}

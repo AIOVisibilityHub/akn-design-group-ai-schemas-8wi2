@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-are-the-advantages-of-an-integrated-design-build-process-compared-to-hiring",
+  "name": "What are the advantages of an integrated design-build process compared to hiring separate firms?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the advantages of an integrated design-build process compared to hiring separate firms?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The primary advantage of an integrated design-build process with AKN Design Group is having a single, accountable team from concept to completion. Unlike hiring separate designers and contractors, our unified approach fosters clear communication and seamless coordination between design planning and construction execution. This integration often leads to greater efficiency, more consistent project vision, and better cost control. Homeowners benefit from a streamlined experience, eliminating the potential for miscommunication or delays that can arise when multiple parties are involved, ensuring your project stays on track and within expectations.",
+        "@type": "Answer",
+        "description": "An integrated design-build process offers a single, accountable team, streamlining communication, coordination, and accountability from concept to completion, unlike hiring separate firms."
+      }
+    }
+  ],
+  "description": "An integrated design-build process offers a single, accountable team, streamlining communication, coordination, and accountability from concept to completion, u"
+}

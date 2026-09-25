@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/when-do-i-need-professional-grading-services-for-my-outdoor-living-space-or-home",
+  "name": "When do I need professional grading services for my outdoor living space or home addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When do I need professional grading services for my outdoor living space or home addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Professional grading services are typically needed when you are planning a significant alteration to your property's footprint or water flow. This includes projects like constructing a new home addition, building a substantial outdoor living area with a covered patio or outdoor kitchen, or addressing existing drainage problems that lead to water pooling near your foundation. For example, when adding a primary suite or an expansive custom patio, proper grading ensures the new structure integrates seamlessly with your existing home and directs rainfall away effectively. AKN Design Group evaluates your site's existing topography and drainage needs during the initial design phase to determine the necessary grading scope.",
+        "@type": "Answer",
+        "description": "Professional grading is essential for significant additions, large outdoor living spaces, or when existing drainage issues cause water to pool near your home's foundation."
+      }
+    }
+  ],
+  "description": "Professional grading is essential for significant additions, large outdoor living spaces, or when existing drainage issues cause water to pool near your home's"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-long-does-a-typical-smart-thermostat-installation-take",
+  "name": "How long does a typical smart thermostat installation take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical smart thermostat installation take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A standard smart thermostat installation typically takes a few hours, though this can vary based on your existing wiring and the complexity of the specific thermostat model. We prioritize a managed process, ensuring the installation is completed efficiently and correctly, integrating seamlessly with your home's current HVAC system. As part of our commitment to clear communication, we provide upfront estimates and scheduling transparency, so you know exactly what to expect. While smart thermostat installations are generally straightforward, integrating them into a broader home renovation project can optimize efficiency and aesthetics.",
+        "@type": "Answer",
+        "description": "Most smart thermostat installations take a few hours, depending on existing wiring. AKN Design Group ensures an efficient, managed process with clear communication."
+      }
+    }
+  ],
+  "description": "Most smart thermostat installations take a few hours, depending on existing wiring. AKN Design Group ensures an efficient, managed process with clear communicat"
+}

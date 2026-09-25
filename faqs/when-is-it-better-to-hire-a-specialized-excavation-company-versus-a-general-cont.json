@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/when-is-it-better-to-hire-a-specialized-excavation-company-versus-a-general-cont",
+  "name": "When is it better to hire a specialized excavation company versus a general contractor for excavation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When is it better to hire a specialized excavation company versus a general contractor for excavation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For substantial, coordinated residential renovations like those AKN Design Group specializes in, it is typically more beneficial to have your general contractor manage the excavation. This approach ensures a single point of coordination, integrating excavation seamlessly into the broader design-build process for home additions, whole-home remodels, or comprehensive outdoor living spaces. This avoids potential delays or miscommunications that can arise when managing separate excavation vendors.",
+        "@type": "Answer",
+        "description": "For complex renovations, it's better to have your general contractor manage excavation to ensure seamless integration and a single point of coordination."
+      }
+    }
+  ],
+  "description": "For complex renovations, it's better to have your general contractor manage excavation to ensure seamless integration and a single point of coordination."
+}

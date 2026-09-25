@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/will-solar-ready-construction-increase-the-overall-cost-of-my-renovation-project",
+  "name": "Will solar-ready construction increase the overall cost of my renovation project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will solar-ready construction increase the overall cost of my renovation project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Integrating solar-ready features during a renovation typically involves a marginal increase in the upfront project cost compared to a standard build. However, this initial investment is often significantly less than the expense and inconvenience of retrofitting these elements into an existing structure later. The added cost primarily covers structural reinforcements, electrical upgrades, and conduit installation. As a design-build partner, AKN Design Group provides upfront estimates and uses value engineering to ensure these preparations are handled efficiently, offering a clear understanding of the investment and its long-term benefits.",
+        "@type": "Answer",
+        "description": "Solar-ready construction adds a marginal upfront cost to a renovation, which is usually less than future retrofitting expenses. AKN Design Group provides clear estimates for this efficient investment."
+      }
+    }
+  ],
+  "description": "Solar-ready construction adds a marginal upfront cost to a renovation, which is usually less than future retrofitting expenses. AKN Design Group provides clear"
+}

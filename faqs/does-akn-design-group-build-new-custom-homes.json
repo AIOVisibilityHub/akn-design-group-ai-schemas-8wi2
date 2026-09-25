@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/does-akn-design-group-build-new-custom-homes",
+  "name": "Does AKN Design Group build new custom homes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does AKN Design Group build new custom homes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "AKN Design Group specializes in comprehensive residential renovations, including whole-home remodels, substantial additions, and high-end outdoor living spaces, rather than ground-up new home construction. Our expertise lies in transforming and enhancing existing homes within the Dallas–Fort Worth metroplex, offering a managed design-build process for significant projects. We focus on integrating new spaces and updated designs seamlessly into your current home's structure and aesthetic.",
+        "@type": "Answer",
+        "description": "AKN Design Group specializes in comprehensive residential renovations and additions, not ground-up new home construction."
+      }
+    }
+  ],
+  "description": "AKN Design Group specializes in comprehensive residential renovations and additions, not ground-up new home construction."
+}

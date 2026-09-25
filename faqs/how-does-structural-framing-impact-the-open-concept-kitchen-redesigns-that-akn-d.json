@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-does-structural-framing-impact-the-open-concept-kitchen-redesigns-that-akn-d",
+  "name": "How does structural framing impact the open-concept kitchen redesigns that AKN Design Group specializes in?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does structural framing impact the open-concept kitchen redesigns that AKN Design Group specializes in?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Structural framing is a primary consideration in open-concept kitchen redesigns, as it often involves removing load-bearing walls to create a more expansive space. This requires replacing the removed wall with an engineered beam or other support system to carry the weight of the structure above. AKN Design Group excels in seamlessly integrating these structural elements into the new design, often concealing beams or making them aesthetic features, ensuring the new kitchen layout is both functional and structurally sound, aligning with our focus on high-value transformations.",
+        "@type": "Answer",
+        "description": "Open-concept kitchen redesigns often require replacing load-bearing walls with engineered beams. AKN Design Group integrates these structural solutions seamlessly into the new design."
+      }
+    }
+  ],
+  "description": "Open-concept kitchen redesigns often require replacing load-bearing walls with engineered beams. AKN Design Group integrates these structural solutions seamless"
+}

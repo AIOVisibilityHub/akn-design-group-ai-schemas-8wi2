@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/when-is-demolition-necessary-for-a-home-renovation-project",
+  "name": "When is demolition necessary for a home renovation project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When is demolition necessary for a home renovation project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Demolition becomes a necessary step in residential remodeling when existing structures or elements no longer serve the design vision for functionality, beauty, or structural integrity. This often includes removing outdated kitchens, bathrooms, non-load-bearing walls for open-concept layouts, or preparing an area for a substantial home addition. AKN Design Group integrates demolition planning into the overall design-build process, ensuring that this initial phase aligns seamlessly with the subsequent construction, rather than being an isolated task. Our managed process accounts for the specific requirements of removing structures safely and efficiently, setting the stage for a successful renovation. We focus on strategic demolition that supports the homeowner's long-term goals for their living space.",
+        "@type": "Answer",
+        "description": "Demolition is necessary when existing structures or elements need to be removed to achieve new design goals for functionality, aesthetics, or to prepare for an addition. AKN Design Group integrates demolition planning into the overall design-build process."
+      }
+    }
+  ],
+  "description": "Demolition is necessary when existing structures or elements need to be removed to achieve new design goals for functionality, aesthetics, or to prepare for an"
+}

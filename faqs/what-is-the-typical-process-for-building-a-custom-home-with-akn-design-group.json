@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-the-typical-process-for-building-a-custom-home-with-akn-design-group",
+  "name": "What is the typical process for building a custom home with AKN Design Group?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for building a custom home with AKN Design Group?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our process for building a custom home begins with an initial consultation to understand your vision, lifestyle, and specific needs. This moves into detailed design planning, where we utilize CAD-supported layouts to refine floor plans and material selections. Following design approval, we handle all necessary permit coordination. The construction phase involves meticulous craftsmanship and consistent progress updates. Finally, we conduct a thorough final walkthrough to ensure every detail meets your satisfaction. This integrated design-build process ensures clear communication and a managed journey from concept to completion, allowing you to have a single accountable team throughout.",
+        "@type": "Answer",
+        "description": "Our custom home process includes initial consultation, detailed design planning with CAD, permit coordination, meticulous construction, and a final walkthrough to ensure satisfaction."
+      }
+    }
+  ],
+  "description": "Our custom home process includes initial consultation, detailed design planning with CAD, permit coordination, meticulous construction, and a final walkthrough"
+}

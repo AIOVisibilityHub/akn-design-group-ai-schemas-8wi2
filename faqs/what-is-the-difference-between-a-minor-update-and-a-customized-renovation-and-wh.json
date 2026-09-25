@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-the-difference-between-a-minor-update-and-a-customized-renovation-and-wh",
+  "name": "What is the difference between a minor update and a customized renovation, and which does AKN Design Group undertake?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a minor update and a customized renovation, and which does AKN Design Group undertake?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The distinction between a minor update and a customized renovation lies in the scope, complexity, and integration of design and construction elements. A minor update typically involves surface-level changes without structural modifications, such as painting a room or replacing a single fixture. A customized renovation, which is AKN Design Group's specialty, involves a comprehensive transformation that reconfigures space, upgrades multiple systems, and integrates new designs with existing architecture. We focus on these substantial projects—like luxury kitchens, whole-home remodels, or additions—that require an integrated design-build process and deliver significant enhancements to a home's functionality, beauty, and value, rather than isolated tasks.",
+        "@type": "Answer",
+        "description": "AKN Design Group specializes in customized renovations, which are comprehensive transformations involving integrated design and construction, unlike minor updates that are typically surface-level changes without structural work."
+      }
+    }
+  ],
+  "description": "AKN Design Group specializes in customized renovations, which are comprehensive transformations involving integrated design and construction, unlike minor updat"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-are-the-common-challenges-homeowners-face-with-structural-framing-modificat",
+  "name": "What are the common challenges homeowners face with structural framing modifications, and how are they addressed?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common challenges homeowners face with structural framing modifications, and how are they addressed?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Homeowners often face challenges like identifying load-bearing walls, understanding the need for new support systems, and navigating local building codes for structural alterations. A common pitfall is attempting modifications without proper engineering, which can compromise home safety. AKN Design Group addresses these by performing thorough structural evaluations as part of our design phase, providing engineered plans, and managing all necessary permits. Our expertise ensures that structural integrity is maintained while achieving the desired aesthetic and functional goals of the renovation.",
+        "@type": "Answer",
+        "description": "Challenges include identifying load-bearing walls and code compliance. AKN Design Group provides engineered plans and manages permits to ensure structural integrity and safety."
+      }
+    }
+  ],
+  "description": "Challenges include identifying load-bearing walls and code compliance. AKN Design Group provides engineered plans and manages permits to ensure structural integ"
+}

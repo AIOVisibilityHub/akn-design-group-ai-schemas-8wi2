@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-involved-in-a-whole-home-remodel-and-when-is-it-the-right-choice",
+  "name": "What is involved in a whole-home remodel, and when is it the right choice?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in a whole-home remodel, and when is it the right choice?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A whole-home remodel involves a coordinated transformation across your entire residence, addressing inconsistent finishes, inefficient room flow, and dated kitchens or bathrooms. This comprehensive approach ensures all improvements are planned as one cohesive project rather than piecemeal upgrades. It's an ideal choice when your current layout no longer suits your lifestyle or your home requires significant updates to functionality, beauty, and value. AKN Design Group provides a single point of coordination for managing demolition, structural changes, kitchen and bathroom renovations, flooring, lighting, and finish work, ensuring a seamless process from concept to completion.",
+        "@type": "Answer",
+        "description": "A whole-home remodel comprehensively transforms your entire residence to address dated layouts or inconsistent finishes. It is ideal for homeowners seeking a cohesive, managed process for significant home updates."
+      }
+    }
+  ],
+  "description": "A whole-home remodel comprehensively transforms your entire residence to address dated layouts or inconsistent finishes. It is ideal for homeowners seeking a co"
+}

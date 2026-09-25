@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-does-value-engineering-fit-into-a-custom-renovation-project",
+  "name": "How does value engineering fit into a custom renovation project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does value engineering fit into a custom renovation project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Value engineering in a custom renovation project focuses on optimizing design and material choices to achieve the desired aesthetic and functional goals efficiently without compromising quality. It’s about finding smarter, cost-effective solutions that still align with your vision for a high-value renovation. For instance, we might suggest alternative materials with similar performance and appearance characteristics, or refine layout details to minimize structural complexities. This process ensures that every investment contributes meaningfully to enhancing your home's functionality, beauty, and long-term value within your project parameters.",
+        "@type": "Answer",
+        "description": "Value engineering optimizes design and material choices in custom renovations to achieve desired aesthetic and functional goals efficiently without compromising quality. It seeks smarter, cost-effective solutions that enhance your home's value."
+      }
+    }
+  ],
+  "description": "Value engineering optimizes design and material choices in custom renovations to achieve desired aesthetic and functional goals efficiently without compromising"
+}

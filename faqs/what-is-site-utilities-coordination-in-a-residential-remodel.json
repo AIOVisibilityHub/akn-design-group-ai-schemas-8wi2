@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-site-utilities-coordination-in-a-residential-remodel",
+  "name": "What is site utilities coordination in a residential remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is site utilities coordination in a residential remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Site utilities coordination involves managing the existing and new connections for essential services like water, sewer, gas, and electrical during a residential renovation. This ensures that new designs, especially for kitchens, bathrooms, or additions, integrate seamlessly with your home's infrastructure and comply with local codes. AKN Design Group handles this managed process to prevent unexpected disruptions or costly rework.",
+        "@type": "Answer",
+        "description": "Site utilities coordination manages essential service connections for water, sewer, gas, and electrical during a remodel, ensuring seamless integration and code compliance."
+      }
+    }
+  ],
+  "description": "Site utilities coordination manages essential service connections for water, sewer, gas, and electrical during a remodel, ensuring seamless integration and code"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-factors-influence-the-cost-of-balcony-construction",
+  "name": "What factors influence the cost of balcony construction?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of balcony construction?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of balcony construction is influenced by several key factors, including the size and complexity of the design, the types of materials chosen for decking and railings, and any necessary structural modifications to your home. Customized features, such as integrated lighting, specific finishes, or custom railing designs, will also impact the overall investment. AKN Design Group provides upfront estimates and engages in value engineering to ensure your project aligns with your vision and investment. Our managed process aims for efficiency while delivering high-quality results without compromising craftsmanship.",
+        "@type": "Answer",
+        "description": "Cost factors include design size and complexity, material choices, and structural modifications. We provide upfront estimates and use value engineering."
+      }
+    }
+  ],
+  "description": "Cost factors include design size and complexity, material choices, and structural modifications. We provide upfront estimates and use value engineering."
+}

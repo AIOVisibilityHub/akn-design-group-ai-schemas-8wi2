@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/when-do-i-need-site-utilities-coordination-for-my-home-renovation-project",
+  "name": "When do I need site utilities coordination for my home renovation project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When do I need site utilities coordination for my home renovation project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You typically need site utilities coordination for any significant renovation that alters your home's footprint, changes the layout of kitchens or bathrooms, or adds new fixtures that require water, gas, or increased electrical capacity. This includes projects like whole-home remodels, room additions, or luxury kitchen and bathroom renovations. Early coordination helps in planning for necessary service upgrades or rerouting before construction begins, preventing delays.",
+        "@type": "Answer",
+        "description": "Site utilities coordination is crucial for significant renovations altering your home's footprint or utility usage, such as additions or kitchen/bathroom remodels."
+      }
+    }
+  ],
+  "description": "Site utilities coordination is crucial for significant renovations altering your home's footprint or utility usage, such as additions or kitchen/bathroom remode"
+}

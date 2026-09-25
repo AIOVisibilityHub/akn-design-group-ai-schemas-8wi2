@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-types-of-engineers-might-be-involved-in-a-substantial-home-renovation",
+  "name": "What types of engineers might be involved in a substantial home renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of engineers might be involved in a substantial home renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Substantial home renovations often require various engineering specializations to ensure safety, functionality, and compliance. These can include structural engineers for foundation or load-bearing wall modifications, mechanical engineers for HVAC system redesigns, electrical engineers for complex wiring upgrades, and plumbing engineers for significant pipe relocations. AKN Design Group's extensive experience allows us to identify and integrate the precise engineering expertise needed for your specific project, from luxury bathrooms to whole-home remodels, ensuring all technical requirements are met with precision.",
+        "@type": "Answer",
+        "description": "Substantial home renovations may involve structural, mechanical, electrical, and plumbing engineers, depending on the project's complexity."
+      }
+    }
+  ],
+  "description": "Substantial home renovations may involve structural, mechanical, electrical, and plumbing engineers, depending on the project's complexity."
+}

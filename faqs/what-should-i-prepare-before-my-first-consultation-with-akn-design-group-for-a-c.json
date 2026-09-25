@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-should-i-prepare-before-my-first-consultation-with-akn-design-group-for-a-c",
+  "name": "What should I prepare before my first consultation with AKN Design Group for a custom home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare before my first consultation with AKN Design Group for a custom home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before your first consultation for a custom home, it's helpful to gather any inspiration you have, such as design styles you admire, desired functional spaces, and a general idea of your budget. Consider compiling a wish list of features, specific room requirements, and preferred materials or finishes. While not mandatory, having an idea of your property's dimensions or any existing architectural plans can also be beneficial. This initial preparation allows us to understand your vision more comprehensively, enabling us to provide a more tailored and insightful discussion about your custom home project and our managed design-build process.",
+        "@type": "Answer",
+        "description": "Before your consultation, gather design inspiration, a wish list of features, preferred materials, and a general budget to help us understand your custom home vision."
+      }
+    }
+  ],
+  "description": "Before your consultation, gather design inspiration, a wish list of features, preferred materials, and a general budget to help us understand your custom home v"
+}

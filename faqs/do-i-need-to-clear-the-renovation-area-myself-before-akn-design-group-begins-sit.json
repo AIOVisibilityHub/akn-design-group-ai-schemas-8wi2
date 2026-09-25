@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/do-i-need-to-clear-the-renovation-area-myself-before-akn-design-group-begins-sit",
+  "name": "Do I need to clear the renovation area myself before AKN Design Group begins site preparation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to clear the renovation area myself before AKN Design Group begins site preparation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "No, you are not expected to clear the renovation area yourself before AKN Design Group begins site preparation. As part of our comprehensive service, we manage all aspects of clearing the site, including debris removal, minor landscaping adjustments, or even demolition if required for your project. Our managed process ensures that the site is properly prepared and safe for our team to commence work. We coordinate all necessary steps from concept to completion, allowing you to focus on the exciting aspects of your home's transformation without the burden of initial site work.",
+        "@type": "Answer",
+        "description": "No, AKN Design Group handles all site clearing as part of our comprehensive service, so you do not need to do it yourself."
+      }
+    }
+  ],
+  "description": "No, AKN Design Group handles all site clearing as part of our comprehensive service, so you do not need to do it yourself."
+}

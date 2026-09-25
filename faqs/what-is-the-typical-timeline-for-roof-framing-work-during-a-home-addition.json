@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-the-typical-timeline-for-roof-framing-work-during-a-home-addition",
+  "name": "What is the typical timeline for roof framing work during a home addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical timeline for roof framing work during a home addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for roof framing work during a home addition can vary based on the complexity, size of the addition, and weather conditions. Once the foundation and wall framing are complete, roof framing typically takes several days to a few weeks. This stage involves precise measurements, cutting, assembly, and ensuring structural connections are secure. As your single point of coordination, AKN Design Group integrates this into the overall project schedule, ensuring clear communication and efficient sequencing with other construction phases like sheathing, roofing, and utility installations. Our project planning aims to streamline this process, minimizing delays and maintaining progress toward your completed renovation.",
+        "@type": "Answer",
+        "description": "Roof framing for a home addition usually takes several days to a few weeks, depending on complexity and size, and is integrated into our overall project schedule."
+      }
+    }
+  ],
+  "description": "Roof framing for a home addition usually takes several days to a few weeks, depending on complexity and size, and is integrated into our overall project schedul"
+}

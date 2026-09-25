@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-should-i-prepare-before-contacting-a-general-contractor-for-ground-up-const",
+  "name": "What should I prepare before contacting a general contractor for ground-up construction?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare before contacting a general contractor for ground-up construction?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before contacting a general contractor for ground-up construction, it is beneficial to have a clear understanding of your overall vision, including desired home size, number of rooms, and any specific architectural styles or features. Having your land secured and an idea of your budget range will also help facilitate initial discussions. While not strictly necessary to have architectural plans at this stage, sharing inspiration images or a list of your family's needs will allow AKN Design Group to better understand your project scope and discuss how our design-build process can bring your new home to life.",
+        "@type": "Answer",
+        "description": "Prepare your vision, desired home size, and budget range before contacting a contractor. Having land secured and inspiration images will help discuss your ground-up construction project."
+      }
+    }
+  ],
+  "description": "Prepare your vision, desired home size, and budget range before contacting a contractor. Having land secured and inspiration images will help discuss your groun"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/when-do-i-need-to-consider-structural-framing-changes-during-a-home-renovation",
+  "name": "When do I need to consider structural framing changes during a home renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When do I need to consider structural framing changes during a home renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You typically need to consider structural framing changes when altering load-bearing walls, adding new rooms or levels, or creating larger open-concept spaces by removing interior walls. These changes require careful engineering to ensure the home remains stable and safe. AKN Design Group’s integrated design-build process includes assessing structural requirements early in the planning, ensuring all necessary modifications are identified and engineered correctly before construction begins.",
+        "@type": "Answer",
+        "description": "Consider structural framing changes when modifying load-bearing walls, adding rooms, or creating open-concept spaces. Proper engineering is crucial."
+      }
+    }
+  ],
+  "description": "Consider structural framing changes when modifying load-bearing walls, adding rooms, or creating open-concept spaces. Proper engineering is crucial."
+}

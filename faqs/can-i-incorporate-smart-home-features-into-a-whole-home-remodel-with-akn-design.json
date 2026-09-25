@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/can-i-incorporate-smart-home-features-into-a-whole-home-remodel-with-akn-design",
+  "name": "Can I incorporate smart home features into a whole-home remodel with AKN Design Group?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I incorporate smart home features into a whole-home remodel with AKN Design Group?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, you can absolutely incorporate smart home features into a whole-home remodel with AKN Design Group. During the design and planning phase, we can discuss integrating various smart technologies, such as lighting controls, climate management, security systems, and entertainment options. Our expertise allows us to seamlessly integrate these features into your home's infrastructure, ensuring they enhance functionality and align with your personalized smart living preferences.",
+        "@type": "Answer",
+        "description": "Yes, we can seamlessly integrate various smart home features like lighting controls, climate management, and security systems into your whole-home remodel during the design phase."
+      }
+    }
+  ],
+  "description": "Yes, we can seamlessly integrate various smart home features like lighting controls, climate management, and security systems into your whole-home remodel durin"
+}

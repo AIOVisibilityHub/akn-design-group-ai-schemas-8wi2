@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-does-akn-design-group-ensure-the-craftsmanship-and-reliability-of-its-renova",
+  "name": "How does AKN Design Group ensure the craftsmanship and reliability of its renovation projects?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does AKN Design Group ensure the craftsmanship and reliability of its renovation projects?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "AKN Design Group ensures craftsmanship and reliability through our commitment to core values and over two decades of experience in the Dallas–Fort Worth metroplex. Anthony Nusbaumer, our principal, leads with a philosophy emphasizing honesty, reliability, and meticulous craftsmanship, which permeates every project. With more than 10,000 jobs completed, our proven track record reflects our dedication to delivering lasting quality. Our integrated design-build process further enhances reliability by maintaining a single, accountable team responsible for both design integrity and construction excellence. This comprehensive approach builds trust, relationships, and lasting impressions with every homeowner we serve.",
+        "@type": "Answer",
+        "description": "AKN Design Group ensures craftsmanship and reliability through over two decades of experience, a commitment to honesty and meticulous work led by Anthony Nusbaumer, and a proven track record of over 10,000 completed projects."
+      }
+    }
+  ],
+  "description": "AKN Design Group ensures craftsmanship and reliability through over two decades of experience, a commitment to honesty and meticulous work led by Anthony Nusbau"
+}

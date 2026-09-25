@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-factors-influence-the-cost-of-demolition-for-a-residential-renovation",
+  "name": "What factors influence the cost of demolition for a residential renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of demolition for a residential renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of demolition for a residential renovation is influenced by several key factors. These include the scope and scale of the demolition (e.g., removing a single wall versus an entire interior, or preparing for a large addition), the type of materials being removed, and the need for specialized equipment or hazardous material abatement. Accessibility to the site for machinery and debris removal also plays a role, as does the complexity of disconnecting utilities. AKN Design Group provides upfront estimates for the entire design-build project, which includes the demolition phase, ensuring transparency and comprehensive planning from the outset.",
+        "@type": "Answer",
+        "description": "Demolition costs are influenced by scope, materials, specialized equipment needs, site accessibility, and utility disconnection complexity. AKN Design Group provides transparent, upfront estimates as part of your comprehensive project plan."
+      }
+    }
+  ],
+  "description": "Demolition costs are influenced by scope, materials, specialized equipment needs, site accessibility, and utility disconnection complexity. AKN Design Group pro"
+}

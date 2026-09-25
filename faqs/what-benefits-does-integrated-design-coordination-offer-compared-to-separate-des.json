@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-benefits-does-integrated-design-coordination-offer-compared-to-separate-des",
+  "name": "What benefits does integrated design coordination offer compared to separate design and build contracts?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What benefits does integrated design coordination offer compared to separate design and build contracts?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Integrated design coordination offers homeowners a seamless, managed process with a single point of accountability. Unlike separate contracts where you manage designers and contractors independently, our approach at AKN Design Group fosters direct communication, reduces potential delays from misaligned expectations, and often streamlines the overall project timeline. This unified approach is particularly beneficial for complex, high-value renovations where maintaining design integrity throughout construction is paramount, enhancing both functionality and long-term value.",
+        "@type": "Answer",
+        "description": "Integrated design coordination provides a single point of accountability, reducing miscommunication and streamlining project timelines compared to managing separate design and build contracts."
+      }
+    }
+  ],
+  "description": "Integrated design coordination provides a single point of accountability, reducing miscommunication and streamlining project timelines compared to managing sepa"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-preparation-should-i-do-before-contacting-akn-design-group-for-a-renovation",
+  "name": "What preparation should I do before contacting AKN Design Group for a renovation project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What preparation should I do before contacting AKN Design Group for a renovation project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before contacting AKN Design Group, considering your renovation goals, desired functionality, and aesthetic preferences can be beneficial. Gathering inspiration images, understanding your general budget range, and identifying specific challenges you want to address will help us better understand your vision. While not strictly necessary, having an idea of your desired timeline for completion can also aid initial discussions. We are here to guide you through the process, but your initial thoughts provide a valuable starting point for our design-build team.",
+        "@type": "Answer",
+        "description": "Before contacting us, consider your renovation goals, desired functionality, aesthetic preferences, and a general budget. This initial preparation helps our team understand your vision for the project."
+      }
+    }
+  ],
+  "description": "Before contacting us, consider your renovation goals, desired functionality, aesthetic preferences, and a general budget. This initial preparation helps our tea"
+}

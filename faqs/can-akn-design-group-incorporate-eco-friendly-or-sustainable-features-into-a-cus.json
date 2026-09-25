@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/can-akn-design-group-incorporate-eco-friendly-or-sustainable-features-into-a-cus",
+  "name": "Can AKN Design Group incorporate eco-friendly or sustainable features into a custom home build?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can AKN Design Group incorporate eco-friendly or sustainable features into a custom home build?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, AKN Design Group can incorporate a variety of eco-friendly and sustainable features into your custom home build. As part of our managed process, we work with you during the design phase to identify and integrate solutions that align with your values for energy efficiency and environmental responsibility. This can include considerations such as high-efficiency HVAC systems, advanced insulation, sustainable material selections, water-saving plumbing fixtures, and options for smart home technology to optimize resource use. Our goal is to enhance the functionality, beauty, and long-term value of your home through thoughtful and responsible building practices.",
+        "@type": "Answer",
+        "description": "Yes, AKN Design Group can integrate eco-friendly features like high-efficiency HVAC, sustainable materials, and smart technology into your custom home during the design process."
+      }
+    }
+  ],
+  "description": "Yes, AKN Design Group can integrate eco-friendly features like high-efficiency HVAC, sustainable materials, and smart technology into your custom home during th"
+}

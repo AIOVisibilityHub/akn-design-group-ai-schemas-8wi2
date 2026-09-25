@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-long-does-it-typically-take-to-build-a-custom-porch-or-covered-patio",
+  "name": "How long does it typically take to build a custom porch or covered patio?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it typically take to build a custom porch or covered patio?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for building a custom porch or covered patio varies significantly based on the project's complexity, size, material selections, and local permitting requirements. Simple structures might be completed in a few weeks, while elaborate covered patios with built-in outdoor kitchens, fireplaces, or extensive hardscaping could take several months. During our initial consultation, after understanding your specific vision, we provide a more accurate project timeline and maintain clear communication throughout each phase. AKN Design Group prioritizes a managed process to ensure timely completion without compromising craftsmanship.",
+        "@type": "Answer",
+        "description": "Project duration for a custom porch or patio depends on complexity and scope, ranging from a few weeks to several months. We provide a detailed timeline after understanding your specific project needs."
+      }
+    }
+  ],
+  "description": "Project duration for a custom porch or patio depends on complexity and scope, ranging from a few weeks to several months. We provide a detailed timeline after u"
+}

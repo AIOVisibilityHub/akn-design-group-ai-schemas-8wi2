@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-options-are-available-for-creating-a-luxury-spa-inspired-bathroom-experienc",
+  "name": "What options are available for creating a luxury spa-inspired bathroom experience?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What options are available for creating a luxury spa-inspired bathroom experience?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Creating a luxury, spa-inspired bathroom involves enhancing comfort, function, and aesthetic finishes to support your daily routines. Options include installing walk-in showers with frameless glass enclosures, custom vanities, double sinks, heated floors, rainfall shower fixtures, and updated plumbing. We also focus on layered lighting—vanity, ceiling, and accent—to set the mood. AKN Design Group helps homeowners choose the right combination of features and materials to transform an everyday bath into a personalized retreat that reflects a high-end design aesthetic.",
+        "@type": "Answer",
+        "description": "Luxury spa-inspired bathrooms can include features like walk-in showers, custom vanities, heated floors, and layered lighting. We guide homeowners in selecting options that enhance comfort and function for a personalized retreat."
+      }
+    }
+  ],
+  "description": "Luxury spa-inspired bathrooms can include features like walk-in showers, custom vanities, heated floors, and layered lighting. We guide homeowners in selecting"
+}

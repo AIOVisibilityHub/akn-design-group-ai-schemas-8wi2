@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-architectural-design-coordination-in-a-residential-renovation",
+  "name": "What is architectural design coordination in a residential renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is architectural design coordination in a residential renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Architectural design coordination is the integrated management of all design elements—from initial concepts and layouts to material selections, structural considerations, and systems integration—within a residential renovation. At AKN Design Group, this means we ensure every component, from luxury kitchen cabinetry to spa-inspired bathroom fixtures, works cohesively and aligns with your overall vision. This managed process is crucial for complex projects like whole-home remodels or significant additions, preventing disjointed efforts and ensuring a unified outcome.",
+        "@type": "Answer",
+        "description": "Architectural design coordination ensures all design elements and construction aspects of a residential renovation work together cohesively under a single managed process."
+      }
+    }
+  ],
+  "description": "Architectural design coordination ensures all design elements and construction aspects of a residential renovation work together cohesively under a single manag"
+}

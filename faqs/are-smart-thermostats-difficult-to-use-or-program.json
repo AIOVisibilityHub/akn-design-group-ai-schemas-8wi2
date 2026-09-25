@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/are-smart-thermostats-difficult-to-use-or-program",
+  "name": "Are smart thermostats difficult to use or program?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are smart thermostats difficult to use or program?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Modern smart thermostats are designed with user-friendliness in mind, featuring intuitive interfaces and guided setup processes that make them accessible for most homeowners. While they offer advanced programming capabilities, many models can learn your preferences over time, minimizing the need for constant manual adjustments. Our focus at AKN Design Group is on enhancing your homeowner experience through functional and integrated solutions. We ensure that any smart home technology we install is properly configured and easy for you to manage, aligning with our belief that home improvements should simplify, not complicate, your daily life.",
+        "@type": "Answer",
+        "description": "Smart thermostats are user-friendly, with intuitive interfaces and learning capabilities that simplify programming. We ensure proper configuration for easy management."
+      }
+    }
+  ],
+  "description": "Smart thermostats are user-friendly, with intuitive interfaces and learning capabilities that simplify programming. We ensure proper configuration for easy mana"
+}

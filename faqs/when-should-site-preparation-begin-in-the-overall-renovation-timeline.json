@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/when-should-site-preparation-begin-in-the-overall-renovation-timeline",
+  "name": "When should site preparation begin in the overall renovation timeline?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should site preparation begin in the overall renovation timeline?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Site preparation typically commences immediately after the design phase is finalized and all necessary permits have been secured. This timing is crucial as it sets the stage for the physical construction. Beginning too early without a complete plan or permits can lead to wasted effort or modifications. AKN Design Group integrates site preparation into our managed process, coordinating it closely with design and permitting to ensure a seamless transition into the construction phase. Our approach aims to streamline the entire project, ensuring each step logically follows the last without unnecessary delays.",
+        "@type": "Answer",
+        "description": "Site preparation begins after design finalization and permit acquisition, ensuring a logical and efficient start to physical construction."
+      }
+    }
+  ],
+  "description": "Site preparation begins after design finalization and permit acquisition, ensuring a logical and efficient start to physical construction."
+}

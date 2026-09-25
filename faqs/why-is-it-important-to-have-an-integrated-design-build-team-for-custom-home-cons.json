@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/why-is-it-important-to-have-an-integrated-design-build-team-for-custom-home-cons",
+  "name": "Why is it important to have an integrated design-build team for custom home construction?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why is it important to have an integrated design-build team for custom home construction?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An integrated design-build team is crucial for custom home construction because it eliminates the disconnect often found between separate architects and contractors. This approach, championed by AKN Design Group, means that your design vision and construction execution are harmonized from day one. It fosters clear communication, reduces potential conflicts, and ensures accountability under a single entity. The result is a more efficient, seamless, and managed process that minimizes stress for the homeowner and ultimately delivers a home that precisely matches the intended design, built with exceptional craftsmanship and reliability.",
+        "@type": "Answer",
+        "description": "An integrated design-build team harmonizes design and construction, ensuring clear communication, reducing conflicts, and providing a seamless, managed process under one accountable entity."
+      }
+    }
+  ],
+  "description": "An integrated design-build team harmonizes design and construction, ensuring clear communication, reducing conflicts, and providing a seamless, managed process"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-should-i-prepare-before-contacting-akn-design-group-for-a-home-addition-pro",
+  "name": "What should I prepare before contacting AKN Design Group for a home addition project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare before contacting AKN Design Group for a home addition project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before contacting AKN Design Group for a home addition, consider your primary motivations and desired outcomes. Think about how the new space will be used, such as for a primary suite, home office, or multigenerational living. Gathering any existing floor plans or property surveys can be helpful. While we lead the design-build process from scope development to permitting, having a general understanding of your functional needs and aesthetic preferences allows us to more effectively align our planning with your vision. This preparation helps ensure the addition seamlessly integrates with your original home and meets your household's evolving needs.",
+        "@type": "Answer",
+        "description": "Before discussing a home addition, consider the new space's intended use and gather any existing floor plans. This preparation helps align your needs with our design-build process for a seamless integration."
+      }
+    }
+  ],
+  "description": "Before discussing a home addition, consider the new space's intended use and gather any existing floor plans. This preparation helps align your needs with our d"
+}

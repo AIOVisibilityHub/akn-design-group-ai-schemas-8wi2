@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-the-typical-process-for-integrating-new-lighting-during-a-kitchen-or-bat",
+  "name": "What is the typical process for integrating new lighting during a kitchen or bathroom remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for integrating new lighting during a kitchen or bathroom remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Integrating new energy-efficient lighting is a critical part of our design-build process for luxury kitchen and spa-inspired bathroom remodels. Initially, our team works with you to develop a comprehensive lighting plan that considers task, ambient, and accent lighting needs. This involves CAD-supported layouts to visualize placement and ensure proper illumination. During construction, our skilled electricians precisely install fixtures, wiring, and controls according to the approved plan. After installation, we conduct thorough testing to ensure optimal performance and functionality, concluding with a final walkthrough to confirm your complete satisfaction. This coordinated approach ensures that lighting enhances the functionality, beauty, and long-term value of your renovated space.",
+        "@type": "Answer",
+        "description": "The process involves design planning with CAD layouts, precise installation by electricians, thorough testing, and a final walkthrough to ensure optimal lighting functionality and aesthetics."
+      }
+    }
+  ],
+  "description": "The process involves design planning with CAD layouts, precise installation by electricians, thorough testing, and a final walkthrough to ensure optimal lightin"
+}

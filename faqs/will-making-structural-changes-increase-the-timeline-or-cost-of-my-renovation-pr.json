@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/will-making-structural-changes-increase-the-timeline-or-cost-of-my-renovation-pr",
+  "name": "Will making structural changes increase the timeline or cost of my renovation project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will making structural changes increase the timeline or cost of my renovation project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, structural changes typically add to both the timeline and cost of a renovation project due to the need for engineering assessments, specialized labor, and potential permit requirements. The complexity of installing new beams, reinforcing foundations, or reconfiguring load paths requires meticulous planning and execution. AKN Design Group incorporates these considerations into our upfront estimates and project schedules, providing transparency and managing expectations from the outset to avoid unexpected delays or budget overruns.",
+        "@type": "Answer",
+        "description": "Structural changes usually increase renovation timelines and costs due to engineering, specialized labor, and permitting. AKN Design Group provides transparent estimates and manages these factors upfront."
+      }
+    }
+  ],
+  "description": "Structural changes usually increase renovation timelines and costs due to engineering, specialized labor, and permitting. AKN Design Group provides transparent"
+}

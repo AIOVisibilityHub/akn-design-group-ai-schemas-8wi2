@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-do-you-ensure-safety-during-demolition-for-a-major-home-renovation",
+  "name": "How do you ensure safety during demolition for a major home renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do you ensure safety during demolition for a major home renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Ensuring safety during demolition for a major home renovation is paramount for AKN Design Group. We implement comprehensive safety protocols that begin with a detailed site assessment to identify potential hazards, such as electrical lines, plumbing, and load-bearing structures. Before any work commences, all necessary utilities are safely disconnected, and the work area is secured to prevent unauthorized access. Our experienced team follows controlled demolition techniques, prioritizing the stability of remaining structures. We also ensure proper disposal of debris and hazardous materials in compliance with all regulations. This meticulous approach protects both our crew and your property throughout the renovation.",
+        "@type": "Answer",
+        "description": "AKN Design Group ensures demolition safety through detailed site assessments, utility disconnection, securing the work area, controlled techniques, and proper debris disposal. Our priority is protecting both our team and your property."
+      }
+    }
+  ],
+  "description": "AKN Design Group ensures demolition safety through detailed site assessments, utility disconnection, securing the work area, controlled techniques, and proper d"
+}

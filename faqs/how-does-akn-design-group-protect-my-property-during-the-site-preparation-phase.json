@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-does-akn-design-group-protect-my-property-during-the-site-preparation-phase",
+  "name": "How does AKN Design Group protect my property during the site preparation phase?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does AKN Design Group protect my property during the site preparation phase?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Protecting your property is a core aspect of our site preparation process. We implement comprehensive measures to safeguard existing structures, landscaping, and other features not part of the renovation. This includes erecting temporary fencing, covering delicate surfaces, and creating designated pathways for construction traffic to minimize disruption. Our team meticulously plans material delivery and debris removal to maintain a clean and organized site. This attention to detail is part of our commitment to the homeowner experience, ensuring that your property remains as undisturbed as possible outside the immediate work area.",
+        "@type": "Answer",
+        "description": "AKN Design Group protects your property during site preparation with temporary fencing, surface covers, and designated pathways for construction traffic."
+      }
+    }
+  ],
+  "description": "AKN Design Group protects your property during site preparation with temporary fencing, surface covers, and designated pathways for construction traffic."
+}

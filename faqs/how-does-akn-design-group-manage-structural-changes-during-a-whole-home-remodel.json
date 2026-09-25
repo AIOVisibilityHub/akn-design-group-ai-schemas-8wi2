@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-does-akn-design-group-manage-structural-changes-during-a-whole-home-remodel",
+  "name": "How does AKN Design Group manage structural changes during a whole-home remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does AKN Design Group manage structural changes during a whole-home remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "During a whole-home remodel, AKN Design Group manages structural changes through a comprehensive design-build approach. This begins with detailed assessments and CAD-supported layouts to identify load-bearing elements and engineer appropriate solutions, such as adding new beams or columns. Our process includes permit coordination for all structural modifications, ensuring compliance with local building codes in the Dallas–Fort Worth metroplex, and maintaining a single point of coordination throughout the project. This streamlined approach minimizes homeowner stress and ensures a cohesive outcome.",
+        "@type": "Answer",
+        "description": "AKN Design Group integrates structural changes into a comprehensive design-build process, handling assessments, engineering, and permit coordination for whole-home remodels."
+      }
+    }
+  ],
+  "description": "AKN Design Group integrates structural changes into a comprehensive design-build process, handling assessments, engineering, and permit coordination for whole-h"
+}

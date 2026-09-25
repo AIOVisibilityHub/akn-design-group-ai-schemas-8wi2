@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-role-does-foundation-construction-play-in-a-home-addition-project",
+  "name": "What role does foundation construction play in a home addition project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What role does foundation construction play in a home addition project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Foundation construction is a critical first step for any home addition, establishing the structural integrity and longevity of the new space. AKN Design Group integrates this crucial phase into our managed design-build process, ensuring the new foundation seamlessly connects with your existing home's structure. This coordination is essential for preventing future issues like settling or cracking, which can compromise the entire addition. The type of foundation, whether slab, pier-and-beam, or crawl space, will be determined during the design phase based on soil conditions, local building codes, and the specific requirements of your addition, ensuring a durable and stable expansion.",
+        "@type": "Answer",
+        "description": "Foundation construction provides the essential structural base for any home addition, ensuring stability and longevity, and is integrated into our design-build process."
+      }
+    }
+  ],
+  "description": "Foundation construction provides the essential structural base for any home addition, ensuring stability and longevity, and is integrated into our design-build"
+}

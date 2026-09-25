@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/can-akn-design-group-help-if-i-want-to-add-a-significant-extension-to-my-home",
+  "name": "Can AKN Design Group help if I want to add a significant extension to my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can AKN Design Group help if I want to add a significant extension to my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, AKN Design Group has extensive experience with substantial home additions, such as primary suites, home offices, or expanded living areas. We manage the entire design-build process, from initial scope development and CAD-supported layout planning to permit coordination, structural integration, and final interior and exterior finishing. This integrated approach ensures your new addition seamlessly complements your existing home's architecture and functionality, enhancing its overall value and usability without the need to move.",
+        "@type": "Answer",
+        "description": "AKN Design Group specializes in substantial home additions, managing the entire design-build process to seamlessly integrate new spaces with your existing home."
+      }
+    }
+  ],
+  "description": "AKN Design Group specializes in substantial home additions, managing the entire design-build process to seamlessly integrate new spaces with your existing home."
+}

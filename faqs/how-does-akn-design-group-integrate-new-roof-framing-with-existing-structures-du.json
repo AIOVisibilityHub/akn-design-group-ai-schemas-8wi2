@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-does-akn-design-group-integrate-new-roof-framing-with-existing-structures-du",
+  "name": "How does AKN Design Group integrate new roof framing with existing structures during an addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does AKN Design Group integrate new roof framing with existing structures during an addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Integrating new roof framing with existing structures during an addition requires meticulous planning and execution to ensure a seamless and structurally sound result. AKN Design Group's process begins with detailed architectural and structural engineering plans that account for existing rooflines, load-bearing capacities, and material matching. Our experienced construction team then carefully removes sections of the old roof, reinforces existing framing as needed, and precisely connects the new framing members to create a cohesive system. This careful coordination from design through construction, a hallmark of our integrated approach, ensures the addition looks and performs as if it were always part of the original home, enhancing both its beauty and value.",
+        "@type": "Answer",
+        "description": "AKN Design Group integrates new roof framing with existing structures through detailed planning, reinforcing old framing, and precisely connecting new members for a seamless, structurally sound addition."
+      }
+    }
+  ],
+  "description": "AKN Design Group integrates new roof framing with existing structures through detailed planning, reinforcing old framing, and precisely connecting new members f"
+}

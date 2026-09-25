@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-does-akn-design-group-approach-unexpected-challenges-during-a-renovation",
+  "name": "How does AKN Design Group approach unexpected challenges during a renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does AKN Design Group approach unexpected challenges during a renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Unexpected challenges during a renovation are inherent in any complex project, but AKN Design Group approaches them with proactive problem-solving and clear communication. Our decades of experience have equipped us to anticipate potential issues and adapt solutions to maintain project momentum. Whether it's an unforeseen structural discovery or a material adjustment, we prioritize open dialogue with the homeowner, presenting options and transparently discussing any implications for the timeline or budget. Our goal is to navigate these challenges efficiently while upholding our commitment to craftsmanship and the integrity of your design vision.",
+        "@type": "Answer",
+        "description": "AKN Design Group addresses unexpected renovation challenges with proactive problem-solving and clear communication, keeping homeowners informed to maintain project momentum."
+      }
+    }
+  ],
+  "description": "AKN Design Group addresses unexpected renovation challenges with proactive problem-solving and clear communication, keeping homeowners informed to maintain proj"
+}

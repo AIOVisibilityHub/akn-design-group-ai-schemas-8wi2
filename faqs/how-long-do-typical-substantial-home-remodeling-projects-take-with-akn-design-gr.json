@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-long-do-typical-substantial-home-remodeling-projects-take-with-akn-design-gr",
+  "name": "How long do typical substantial home remodeling projects take with AKN Design Group?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long do typical substantial home remodeling projects take with AKN Design Group?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of substantial home remodeling projects with AKN Design Group varies significantly based on the project's scope and complexity. While we don't provide generic timelines, our managed process includes transparent scheduling from consultation to final walkthrough. Factors like the size of the renovation, specific material selections, and any unforeseen structural discoveries during demolition can influence the project length. We prioritize clear communication to keep you informed of progress.",
+        "@type": "Answer",
+        "description": "Project duration varies by scope and complexity, with transparent scheduling and clear communication from AKN Design Group keeping you informed of progress."
+      }
+    }
+  ],
+  "description": "Project duration varies by scope and complexity, with transparent scheduling and clear communication from AKN Design Group keeping you informed of progress."
+}

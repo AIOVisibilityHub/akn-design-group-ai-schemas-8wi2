@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-long-does-it-take-to-construct-a-custom-carport",
+  "name": "How long does it take to construct a custom carport?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to construct a custom carport?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for constructing a custom carport can vary based on the design's complexity, material availability, and the local permitting process. While a simple structure might take a few weeks, a more elaborate design with integrated features will require additional time for design finalization and construction. During our initial consultation, we provide a projected timeline based on your specific project's scope, ensuring clear communication regarding scheduling transparency. Our goal is to complete your project efficiently while upholding our commitment to craftsmanship.",
+        "@type": "Answer",
+        "description": "Carport construction timelines vary with complexity, materials, and permitting. We provide a projected timeline during consultation, prioritizing efficiency and craftsmanship."
+      }
+    }
+  ],
+  "description": "Carport construction timelines vary with complexity, materials, and permitting. We provide a projected timeline during consultation, prioritizing efficiency and"
+}

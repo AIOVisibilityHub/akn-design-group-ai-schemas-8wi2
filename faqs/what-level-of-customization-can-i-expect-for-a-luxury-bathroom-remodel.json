@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-level-of-customization-can-i-expect-for-a-luxury-bathroom-remodel",
+  "name": "What level of customization can I expect for a luxury bathroom remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What level of customization can I expect for a luxury bathroom remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For a luxury bathroom remodel, you can expect extensive customization to create a spa-inspired retreat tailored to your preferences and routines. AKN Design Group reworks the bathroom around comfort, function, and high-end finishes, which can include a spacious walk-in shower with frameless glass, custom vanity designs, freestanding tubs, heated flooring, and layered lighting schemes. We focus on selecting materials and fixtures that enhance both the aesthetics and functionality, ensuring your primary bathroom becomes an elevated, personalized space. Our goal is to transform your everyday bath into a calming, spa-inspired experience through meticulous design and craftsmanship.",
+        "@type": "Answer",
+        "description": "Expect extensive customization for a luxury bathroom remodel, including features like walk-in showers, custom vanities, and heated floors, all tailored to create a spa-inspired retreat."
+      }
+    }
+  ],
+  "description": "Expect extensive customization for a luxury bathroom remodel, including features like walk-in showers, custom vanities, and heated floors, all tailored to creat"
+}

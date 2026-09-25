@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/when-should-i-consider-evaluating-my-existing-roof-framing-especially-before-a-m",
+  "name": "When should I consider evaluating my existing roof framing, especially before a major remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider evaluating my existing roof framing, especially before a major remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider evaluating your existing roof framing before any major remodel, particularly for projects involving significant structural changes like adding a second story, vaulting ceilings, or expanding your home. An evaluation will identify potential weaknesses, water damage, or outdated construction that may not support new loads or designs. This assessment is a crucial preparatory step. AKN Design Group includes a thorough structural review in our initial design phase for whole-home remodels or additions, allowing us to proactively address any issues and integrate necessary framing enhancements into the renovation plan, preventing costly surprises down the line.",
+        "@type": "Answer",
+        "description": "Evaluate existing roof framing before major remodels or additions to identify weaknesses or outdated construction, a crucial step AKN Design Group includes in initial design."
+      }
+    }
+  ],
+  "description": "Evaluate existing roof framing before major remodels or additions to identify weaknesses or outdated construction, a crucial step AKN Design Group includes in i"
+}

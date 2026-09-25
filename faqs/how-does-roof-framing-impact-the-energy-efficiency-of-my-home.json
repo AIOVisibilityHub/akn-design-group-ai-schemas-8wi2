@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-does-roof-framing-impact-the-energy-efficiency-of-my-home",
+  "name": "How does roof framing impact the energy efficiency of my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does roof framing impact the energy efficiency of my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Roof framing significantly impacts your home's energy efficiency primarily through its design and the space it creates for insulation and ventilation. Proper framing allows for adequate insulation thickness and effective attic ventilation, which are critical for regulating indoor temperatures and preventing heat transfer. A well-designed roof structure can accommodate modern insulation standards, reducing heating and cooling costs and enhancing comfort. AKN Design Group considers these factors during the design process, integrating solutions that enhance functionality, beauty, and long-term value, including optimal thermal performance, as part of your customized renovation.",
+        "@type": "Answer",
+        "description": "Roof framing impacts energy efficiency by creating space for insulation and ventilation, regulating indoor temperatures and reducing energy costs."
+      }
+    }
+  ],
+  "description": "Roof framing impacts energy efficiency by creating space for insulation and ventilation, regulating indoor temperatures and reducing energy costs."
+}

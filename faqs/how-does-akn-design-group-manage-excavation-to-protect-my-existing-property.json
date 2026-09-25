@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-does-akn-design-group-manage-excavation-to-protect-my-existing-property",
+  "name": "How does AKN Design Group manage excavation to protect my existing property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does AKN Design Group manage excavation to protect my existing property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "AKN Design Group employs careful planning and execution to manage excavation and protect your existing property. This includes thorough site assessment, strategic placement of excavated materials, and implementing measures to prevent damage to landscapes, driveways, or adjacent structures. Our experienced team utilizes precise techniques and equipment, ensuring minimal impact on your home while preparing the site for your substantial renovation.",
+        "@type": "Answer",
+        "description": "We manage excavation by assessing the site, placing materials strategically, and using precise techniques to protect your property."
+      }
+    }
+  ],
+  "description": "We manage excavation by assessing the site, placing materials strategically, and using precise techniques to protect your property."
+}

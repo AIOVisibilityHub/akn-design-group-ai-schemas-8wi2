@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-information-do-i-need-to-provide-for-site-utilities-coordination-before-a-p",
+  "name": "What information do I need to provide for site utilities coordination before a project starts?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What information do I need to provide for site utilities coordination before a project starts?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before starting a project that involves site utilities, homeowners can assist by providing any available historical documents related to their property's utility connections, such as past survey maps, previous renovation plans, or service upgrade records. This information helps us accurately assess existing conditions and plan for necessary changes. Even without these, our team will conduct thorough site evaluations to gather the required data. This preparation helps in securing timely permits and approvals.",
+        "@type": "Answer",
+        "description": "Providing historical utility documents, like surveys or past renovation plans, can help streamline site utilities coordination before a project begins."
+      }
+    }
+  ],
+  "description": "Providing historical utility documents, like surveys or past renovation plans, can help streamline site utilities coordination before a project begins."
+}

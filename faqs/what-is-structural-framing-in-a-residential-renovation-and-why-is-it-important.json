@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-structural-framing-in-a-residential-renovation-and-why-is-it-important",
+  "name": "What is structural framing in a residential renovation, and why is it important?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is structural framing in a residential renovation, and why is it important?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Structural framing forms the skeleton of your home, comprising load-bearing walls, floors, and roof systems that transfer the weight of the building to the foundation. During a residential renovation, especially for additions or open-concept modifications, understanding and correctly altering structural framing is critical for maintaining your home's integrity and safety. AKN Design Group integrates structural considerations into the initial design phase, ensuring that any modifications enhance both functionality and long-term stability.",
+        "@type": "Answer",
+        "description": "Structural framing is your home's supporting skeleton, crucial for safety and integrity, especially during renovations or additions."
+      }
+    }
+  ],
+  "description": "Structural framing is your home's supporting skeleton, crucial for safety and integrity, especially during renovations or additions."
+}

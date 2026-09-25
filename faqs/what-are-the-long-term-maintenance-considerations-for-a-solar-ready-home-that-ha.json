@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-are-the-long-term-maintenance-considerations-for-a-solar-ready-home-that-ha",
+  "name": "What are the long-term maintenance considerations for a solar-ready home that hasn't yet installed solar panels?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the long-term maintenance considerations for a solar-ready home that hasn't yet installed solar panels?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For a home built with solar-ready features but without installed panels, long-term maintenance is minimal. The structural reinforcements and electrical conduits are integrated into the existing building fabric and do not require specific maintenance beyond what your home's roof and electrical system typically demand. It is important to ensure that the designated solar-ready areas of your roof remain clear of obstructions and are well-maintained, just like the rest of your roof. AKN Design Group focuses on craftsmanship and durability, ensuring these preparatory elements are robust and lasting, requiring little to no special attention until you decide to activate your solar potential.",
+        "@type": "Answer",
+        "description": "Solar-ready homes without panels require minimal special maintenance. Ensure roof areas remain clear, just like normal home upkeep, as preparations are built for durability."
+      }
+    }
+  ],
+  "description": "Solar-ready homes without panels require minimal special maintenance. Ensure roof areas remain clear, just like normal home upkeep, as preparations are built fo"
+}

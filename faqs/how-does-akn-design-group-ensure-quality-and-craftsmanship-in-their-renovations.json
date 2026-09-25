@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-does-akn-design-group-ensure-quality-and-craftsmanship-in-their-renovations",
+  "name": "How does AKN Design Group ensure quality and craftsmanship in their renovations?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does AKN Design Group ensure quality and craftsmanship in their renovations?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Quality and craftsmanship are foundational to AKN Design Group's values, led by Anthony Nusbaumer's commitment to honesty, reliability, and superior work. We ensure this by employing skilled tradespeople, meticulously overseeing every phase of the project, and using high-quality materials. Our integrated design-build process allows us to maintain strict quality control from initial design to final installation. With over two decades in business and a track record of more than 10,000 completed jobs, our experience in customized renovations in the Dallas–Fort Worth metroplex translates into enduring results that enhance functionality, beauty, and long-term value.",
+        "@type": "Answer",
+        "description": "AKN Design Group ensures quality through skilled tradespeople, meticulous oversight, high-quality materials, and our integrated design-build process, backed by decades of experience and a commitment to craftsmanship."
+      }
+    }
+  ],
+  "description": "AKN Design Group ensures quality through skilled tradespeople, meticulous oversight, high-quality materials, and our integrated design-build process, backed by"
+}

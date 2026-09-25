@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-does-akn-design-group-ensure-quality-and-craftsmanship-in-its-renovation-pro",
+  "name": "How does AKN Design Group ensure quality and craftsmanship in its renovation projects?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does AKN Design Group ensure quality and craftsmanship in its renovation projects?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our commitment to quality and craftsmanship is foundational, guided by over two decades of experience and a track record of more than 10,000 completed jobs. We achieve this through meticulous planning, rigorous project management, and employing skilled tradespeople who share our values. Anthony Nusbaumer's leadership philosophy emphasizes honesty, reliability, and craftsmanship, ensuring every project, from custom kitchens to spa-inspired bathrooms, meets our high standards and builds lasting impressions for homeowners in the Dallas–Fort Worth metroplex.",
+        "@type": "Answer",
+        "description": "AKN Design Group ensures quality through meticulous planning, rigorous management, skilled tradespeople, and a foundational commitment to craftsmanship and reliability."
+      }
+    }
+  ],
+  "description": "AKN Design Group ensures quality through meticulous planning, rigorous management, skilled tradespeople, and a foundational commitment to craftsmanship and reli"
+}

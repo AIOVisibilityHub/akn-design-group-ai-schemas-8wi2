@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-factors-influence-the-cost-of-roof-framing-for-a-custom-renovation",
+  "name": "What factors influence the cost of roof framing for a custom renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of roof framing for a custom renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of roof framing for a custom renovation is influenced by several key factors. These include the complexity of the roof design (e.g., multiple angles, dormers, or vaults), the chosen framing system (stick-built vs. trusses), the type and grade of lumber used, the overall square footage of the roof, and the specific labor rates in the Dallas–Fort Worth metroplex. Any need for structural reinforcement or custom engineering also contributes to the cost. AKN Design Group provides upfront estimates and transparency, integrating value engineering discussions throughout our process to balance your design aspirations with practical cost considerations, ensuring lasting impressions of quality and value.",
+        "@type": "Answer",
+        "description": "Roof framing costs depend on design complexity, framing system, lumber type, roof size, labor rates, and any structural reinforcement needed, all transparently discussed by AKN Design Group."
+      }
+    }
+  ],
+  "description": "Roof framing costs depend on design complexity, framing system, lumber type, roof size, labor rates, and any structural reinforcement needed, all transparently"
+}

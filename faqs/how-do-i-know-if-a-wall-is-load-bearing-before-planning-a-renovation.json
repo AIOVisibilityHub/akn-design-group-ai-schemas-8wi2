@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-do-i-know-if-a-wall-is-load-bearing-before-planning-a-renovation",
+  "name": "How do I know if a wall is load-bearing before planning a renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if a wall is load-bearing before planning a renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Determining if a wall is load-bearing is a critical first step before planning any renovation that involves removing or significantly altering it. Indicators can include walls running perpendicular to floor joists, walls supporting upper floors or roof trusses, or central walls within the home's structure. However, definitively identifying a load-bearing wall requires professional assessment. AKN Design Group conducts thorough structural evaluations during the initial design consultation, providing expert insight and ensuring any plans for modification are based on accurate structural understanding.",
+        "@type": "Answer",
+        "description": "Identifying a load-bearing wall requires professional assessment; indicators include walls supporting upper floors or running perpendicular to joists. AKN Design Group performs these structural evaluations."
+      }
+    }
+  ],
+  "description": "Identifying a load-bearing wall requires professional assessment; indicators include walls supporting upper floors or running perpendicular to joists. AKN Desig"
+}

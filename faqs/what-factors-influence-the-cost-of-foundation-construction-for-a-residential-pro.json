@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-factors-influence-the-cost-of-foundation-construction-for-a-residential-pro",
+  "name": "What factors influence the cost of foundation construction for a residential project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of foundation construction for a residential project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of foundation construction for a residential project is influenced by several key factors. These include the type of foundation (slab, pier-and-beam), the size and complexity of the structure it will support, local soil conditions requiring specific engineering solutions, and accessibility of the site. Material costs, labor, and the extent of site preparation, such as excavation and grading, also play a significant role. AKN Design Group provides upfront estimates and engages in value engineering during the design phase to optimize costs without compromising the quality or structural integrity of your customized renovation.",
+        "@type": "Answer",
+        "description": "Foundation cost depends on type, size, complexity, soil conditions, site accessibility, materials, and labor. AKN Design Group provides upfront estimates and value engineering."
+      }
+    }
+  ],
+  "description": "Foundation cost depends on type, size, complexity, soil conditions, site accessibility, materials, and labor. AKN Design Group provides upfront estimates and va"
+}

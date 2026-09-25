@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/when-should-i-consider-ground-up-construction-instead-of-renovating-my-current-h",
+  "name": "When should I consider ground-up construction instead of renovating my current home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider ground-up construction instead of renovating my current home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider ground-up construction when your current home fundamentally cannot meet your family's needs, even with extensive renovations, or when you desire a completely new home tailored precisely to your vision. This might be the case if your existing home has significant structural issues, an undesirable layout that cannot be easily modified, or if you've purchased a prime piece of land. Choosing ground-up construction offers the advantage of starting with a blank slate, optimizing every aspect of the design, and avoiding the compromises often inherent in renovating an older structure.",
+        "@type": "Answer",
+        "description": "Consider ground-up construction when your current home cannot meet your needs, or if you desire a completely custom home from a blank slate. This avoids renovation compromises and optimizes design."
+      }
+    }
+  ],
+  "description": "Consider ground-up construction when your current home cannot meet your needs, or if you desire a completely custom home from a blank slate. This avoids renovat"
+}

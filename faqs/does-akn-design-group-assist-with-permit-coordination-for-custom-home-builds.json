@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/does-akn-design-group-assist-with-permit-coordination-for-custom-home-builds",
+  "name": "Does AKN Design Group assist with permit coordination for custom home builds?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does AKN Design Group assist with permit coordination for custom home builds?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, AKN Design Group fully assists with permit coordination for all custom home builds. Navigating local building codes and securing necessary permits can be a complex and time-consuming aspect of construction. As part of our comprehensive, managed process, we handle the entire permitting process, ensuring all designs and construction plans meet the specific regulations and requirements of your city within the Dallas–Fort Worth metroplex. This service removes a significant burden from the homeowner, allowing you to focus on the exciting aspects of designing your new custom residence.",
+        "@type": "Answer",
+        "description": "Yes, AKN Design Group handles all permit coordination for custom home builds, ensuring designs meet local building codes and regulations in the Dallas–Fort Worth metroplex."
+      }
+    }
+  ],
+  "description": "Yes, AKN Design Group handles all permit coordination for custom home builds, ensuring designs meet local building codes and regulations in the Dallas–Fort Wort"
+}

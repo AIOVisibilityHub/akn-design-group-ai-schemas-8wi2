@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-preparation-is-needed-before-foundation-construction-can-begin-for-a-new-st",
+  "name": "What preparation is needed before foundation construction can begin for a new structure?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What preparation is needed before foundation construction can begin for a new structure?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before foundation construction can begin for a new structure, several critical preparatory steps are undertaken. This includes obtaining all necessary permits from local authorities, conducting a thorough soil analysis to understand load-bearing capacity and potential for expansion, and clearing the site of any obstructions. Proper site grading is also essential to ensure adequate drainage away from the future foundation, preventing water damage. AKN Design Group handles all permit coordination and site preparation, ensuring that every detail is meticulously addressed before breaking ground, contributing to a managed process and a robust foundation.",
+        "@type": "Answer",
+        "description": "Before foundation construction, we secure permits, perform soil analysis, clear the site, and ensure proper grading for drainage, managing all preparation within our process."
+      }
+    }
+  ],
+  "description": "Before foundation construction, we secure permits, perform soil analysis, clear the site, and ensure proper grading for drainage, managing all preparation withi"
+}

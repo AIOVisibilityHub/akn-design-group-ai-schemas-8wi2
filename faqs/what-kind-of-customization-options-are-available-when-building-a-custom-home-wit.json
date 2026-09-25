@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-kind-of-customization-options-are-available-when-building-a-custom-home-wit",
+  "name": "What kind of customization options are available when building a custom home with AKN Design Group?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of customization options are available when building a custom home with AKN Design Group?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When building a custom home with AKN Design Group, the customization options are extensive, reflecting our specialization in high-value renovations. We integrate your unique lifestyle and aesthetic preferences into every aspect, from open-concept layouts and custom cabinetry to luxury bathrooms with spa-inspired features and high-end outdoor living spaces. Our design-build process allows for personalized selections in flooring, lighting, smart-home features, and specific architectural details. We focus on creating customized solutions that enhance functionality, beauty, and value, ensuring your home is truly one-of-a-kind and tailored to your desires.",
+        "@type": "Answer",
+        "description": "We offer extensive customization for custom homes, including personalized layouts, luxury features, high-end materials, and smart-home integration, ensuring a unique residence tailored to your lifestyle."
+      }
+    }
+  ],
+  "description": "We offer extensive customization for custom homes, including personalized layouts, luxury features, high-end materials, and smart-home integration, ensuring a u"
+}

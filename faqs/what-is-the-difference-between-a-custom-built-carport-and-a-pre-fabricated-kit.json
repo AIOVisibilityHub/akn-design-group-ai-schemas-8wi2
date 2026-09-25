@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-the-difference-between-a-custom-built-carport-and-a-pre-fabricated-kit",
+  "name": "What is the difference between a custom-built carport and a pre-fabricated kit?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a custom-built carport and a pre-fabricated kit?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The primary difference lies in customization, quality, and integration. A custom-built carport by AKN Design Group is designed specifically for your property, allowing for personalized dimensions, materials, and aesthetic features that perfectly match your home's architecture. This ensures a seamless integration that enhances functionality, beauty, and long-term value. In contrast, pre-fabricated kits offer limited design choices and may not achieve the same level of structural integrity or visual harmony with your existing home. Choosing custom allows for superior craftsmanship and a tailored solution over a generic approach.",
+        "@type": "Answer",
+        "description": "Custom carports offer tailored design, superior materials, and seamless integration with your home, unlike limited pre-fabricated kits. This ensures lasting value and aesthetic harmony."
+      }
+    }
+  ],
+  "description": "Custom carports offer tailored design, superior materials, and seamless integration with your home, unlike limited pre-fabricated kits. This ensures lasting val"
+}

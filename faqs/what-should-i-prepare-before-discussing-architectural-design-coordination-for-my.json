@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-should-i-prepare-before-discussing-architectural-design-coordination-for-my",
+  "name": "What should I prepare before discussing architectural design coordination for my renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare before discussing architectural design coordination for my renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before discussing architectural design coordination, it's helpful to consider your vision for the space, specific functional needs, and any aesthetic preferences you have for your customized renovation. Gathering inspiration photos, a general idea of your desired timeline, and an understanding of the scope of changes you envision will allow for a more productive initial consultation. This preparation helps AKN Design Group tailor our integrated design-build approach to best suit your unique lifestyle and goals for enhancing your home.",
+        "@type": "Answer",
+        "description": "Prepare your vision, functional needs, aesthetic preferences, and a general timeline to effectively discuss architectural design coordination for your renovation."
+      }
+    }
+  ],
+  "description": "Prepare your vision, functional needs, aesthetic preferences, and a general timeline to effectively discuss architectural design coordination for your renovatio"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-should-i-prepare-before-contacting-akn-design-group-for-a-home-renovation-c",
+  "name": "What should I prepare before contacting AKN Design Group for a home renovation consultation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare before contacting AKN Design Group for a home renovation consultation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before contacting us for a consultation, consider gathering ideas about your desired functionality and aesthetic, perhaps through photos or saved design inspirations. Think about your current home's challenges and what you envision for its transformation. Having a general understanding of your project goals, whether it's a luxury bathroom, a whole-home remodel, or a significant addition, helps us understand your needs. This initial preparation allows us to have a more productive first discussion, aligning our expertise with your vision for enhancing your home's functionality, beauty, and value.",
+        "@type": "Answer",
+        "description": "Before a consultation, gather your design inspirations and define your project goals, focusing on desired functionality and aesthetics to help us understand your vision."
+      }
+    }
+  ],
+  "description": "Before a consultation, gather your design inspirations and define your project goals, focusing on desired functionality and aesthetics to help us understand you"
+}
