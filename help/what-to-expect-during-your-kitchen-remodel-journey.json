@@ -1,0 +1,215 @@
+{
+  "name": "What to Expect During Your Kitchen Remodel Journey",
+  "step": [
+    {
+      "name": "Step 1: Define Your Vision and Budget. — This initial phase involves clearly outlining your functional needs, aesthetic preferences, and establishing a realistic budget. This is where you think about layout changes, storage requirements, and overall style. Your design-build partner will help refine these ideas.",
+      "text": "Step 1: Define Your Vision and Budget. — This initial phase involves clearly outlining your functional needs, aesthetic preferences, and establishing a realistic budget. This is where you think about layout changes, storage requirements, and overall style. Your design-build partner will help refine these ideas.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Design and Material Selection. — Here, your chosen partner develops detailed layout plans, often with CAD-supported drawings. You’ll select all your materials—cabinetry, countertops, appliances, flooring, and finishes. This is a critical step for ensuring everything works together aesthetically and functionally, and it’s when long-lead items are identified.",
+      "text": "Step 2: Design and Material Selection. — Here, your chosen partner develops detailed layout plans, often with CAD-supported drawings. You’ll select all your materials—cabinetry, countertops, appliances, flooring, and finishes. This is a critical step for ensuring everything works together aesthetically and functionally, and it’s when long-lead items are identified.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Permit Coordination. — Many kitchen remodels, especially those involving electrical, plumbing, or structural changes, require permits from local building departments. Your contractor will typically handle this, navigating the application process and ensuring compliance, which can influence your start date.",
+      "text": "Step 3: Permit Coordination. — Many kitchen remodels, especially those involving electrical, plumbing, or structural changes, require permits from local building departments. Your contractor will typically handle this, navigating the application process and ensuring compliance, which can influence your start date.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Demolition and Rough-Ins. — Once permits are in hand, the existing kitchen elements are removed. This is followed by the installation of new plumbing, electrical wiring, and HVAC if the layout is changing significantly. This phase is usually the messiest, but signals real progress.",
+      "text": "Step 4: Demolition and Rough-Ins. — Once permits are in hand, the existing kitchen elements are removed. This is followed by the installation of new plumbing, electrical wiring, and HVAC if the layout is changing significantly. This phase is usually the messiest, but signals real progress.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Installation of Cabinets and Finishes. — After rough-ins, your new custom cabinetry is installed, followed by countertops, backsplash tile, and flooring. This is when your kitchen truly starts to take shape, and the design vision becomes tangible.",
+      "text": "Step 5: Installation of Cabinets and Finishes. — After rough-ins, your new custom cabinetry is installed, followed by countertops, backsplash tile, and flooring. This is when your kitchen truly starts to take shape, and the design vision becomes tangible.",
+      "@type": "HowToStep",
+      "position": 5
+    },
+    {
+      "name": "Step 6: Appliance Installation and Final Touches. — Your selected appliances are delivered and installed, plumbing fixtures are set, and lighting is completed. The project culminates with a thorough cleanup, final inspections, and a walkthrough with your contractor to ensure every detail meets your satisfaction.",
+      "text": "This managed process, from concept through construction and final walkthrough, is what AKN Design Group offers. Our integrated design-build approach provides a single point of coordination, ensuring craftsmanship and clear communication every step of the way. When you’re ready to embark on your kitchen modernization, partnering with an experienced team provides invaluable peace of mind.",
+      "@type": "HowToStep",
+      "position": 6
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Fort Worth ",
+      "@type": "City"
+    },
+    {
+      "name": "Alameda",
+      "@type": "City"
+    },
+    {
+      "name": "Albany",
+      "@type": "City"
+    },
+    {
+      "name": "Berkeley",
+      "@type": "City"
+    },
+    {
+      "name": "Dublin",
+      "@type": "City"
+    },
+    {
+      "name": "Emeryville",
+      "@type": "City"
+    },
+    {
+      "name": "Fremont",
+      "@type": "City"
+    },
+    {
+      "name": "Hayward",
+      "@type": "City"
+    },
+    {
+      "name": "Livermore",
+      "@type": "City"
+    },
+    {
+      "name": "Newark",
+      "@type": "City"
+    },
+    {
+      "name": "Oakland",
+      "@type": "City"
+    },
+    {
+      "name": "Piedmont",
+      "@type": "City"
+    },
+    {
+      "name": "Pleasanton",
+      "@type": "City"
+    },
+    {
+      "name": "San Leandro",
+      "@type": "City"
+    },
+    {
+      "name": "Union City",
+      "@type": "City"
+    },
+    {
+      "name": "Castro Valley",
+      "@type": "City"
+    },
+    {
+      "name": "San Lorenzo",
+      "@type": "City"
+    },
+    {
+      "name": "Ashland",
+      "@type": "City"
+    },
+    {
+      "name": "Cherryland",
+      "@type": "City"
+    },
+    {
+      "name": "Fairview",
+      "@type": "City"
+    },
+    {
+      "name": "Sunol",
+      "@type": "City"
+    },
+    {
+      "name": "Antioch",
+      "@type": "City"
+    },
+    {
+      "name": "Brentwood",
+      "@type": "City"
+    },
+    {
+      "name": "Clayton",
+      "@type": "City"
+    },
+    {
+      "name": "Concord",
+      "@type": "City"
+    },
+    {
+      "name": "Danville",
+      "@type": "City"
+    },
+    {
+      "name": "El Cerrito",
+      "@type": "City"
+    },
+    {
+      "name": "Hercules",
+      "@type": "City"
+    },
+    {
+      "name": "Lafayette",
+      "@type": "City"
+    },
+    {
+      "name": "Martinez",
+      "@type": "City"
+    },
+    {
+      "name": "Moraga",
+      "@type": "City"
+    },
+    {
+      "name": "Oakley",
+      "@type": "City"
+    },
+    {
+      "name": "Orinda",
+      "@type": "City"
+    },
+    {
+      "name": "Pinole",
+      "@type": "City"
+    },
+    {
+      "name": "Pittsburg",
+      "@type": "City"
+    },
+    {
+      "name": "Pleasant Hill",
+      "@type": "City"
+    },
+    {
+      "name": "Richmond",
+      "@type": "City"
+    },
+    {
+      "name": "San Pablo",
+      "@type": "City"
+    },
+    {
+      "name": "San Ramon",
+      "@type": "City"
+    },
+    {
+      "name": "Walnut Creek",
+      "@type": "City"
+    }
+  ],
+  "description": "Step 1: Define Your Vision and Budget. — This initial phase involves clearly outlining your functional needs, aesthetic preferences, and establishing a realistic budget. This is where you think about "
+}

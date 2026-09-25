@@ -1,0 +1,215 @@
+{
+  "name": "Cabinet Hardware Installation: How to Ensure Perfect Placement",
+  "step": [
+    {
+      "name": "Step 1: Confirm Hardware Specifications",
+      "text": "Before you start, make sure you have your chosen hardware in hand. Confirm the center-to-center hole spacing (for pulls) and the overall size of each piece. This is a critical measurement, especially if you're replacing existing hardware or want a consistent look across different cabinet styles.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Test Placement Visually",
+      "text": "This is where many homeowners save themselves a headache. Use painter's tape or a removable adhesive to temporarily attach your hardware to a door or drawer front. Step back and look at it. Does the position feel right? Common starting points place door hardware about 2–4 inches from the relevant corner, while drawer hardware is commonly centered. This visual test helps you confirm your aesthetic choices.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Mark Locations Precisely",
+      "text": "Once you've decided on the perfect spot, use a template or jig designed for cabinet hardware. This tool is invaluable for ensuring consistency across all your cabinets. Mark the exact drill points with a pencil. Double-check your measurements, especially for door and drawer fronts that will be side-by-side.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Create Pilot Holes",
+      "text": "Using an awl or a small drill bit, create a pilot hole at each marked location. This helps guide your main drill bit and prevents it from wandering, ensuring your holes are perfectly aligned. Accuracy here is key to avoiding crooked hardware.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Drill with Care",
+      "text": "Select the correct drill bit size for your hardware screws. When drilling, apply firm, even pressure and hold the drill perpendicular to the cabinet surface. Crucially, place a scrap piece of wood or a backer board on the inside of the door or drawer where the drill bit will exit. This prevents wood tear-out and keeps your cabinet surfaces pristine.",
+      "@type": "HowToStep",
+      "position": 5
+    },
+    {
+      "name": "Step 6: Install and Verify",
+      "text": "Carefully insert the screws from the inside and attach your new knobs or pulls. Once installed, verify that each piece is level, sits flush against the cabinet, and has adequate clearance for opening and closing doors and drawers. Adjust as needed. When Professional Guidance Helps While this process can be done carefully by a diligent homeowner, a qualified professional becomes invaluable when you have many doors and drawers requiring precise, repeated drilling. This is also true if your cabinets have expensive or fragile finishes, or if you need to conceal or repair old holes. Inaccurate drilling can quickly damage new or existing doors, leading to costly replacements. AKN Design Group ensures precision and flawless execution, particularly when hardware installation is part of a larger refacing project that requires coordinated hinge, door, and pull alignment. We bring over two decades of expertise to these detailed projects, ensuring craftsmanship and reliability. Ready for perfectly installed cabinet hardware? Contact AKN Design Group to ensure your Dallas–Fort Worth metroplex home benefits from expert craftsmanship.",
+      "@type": "HowToStep",
+      "position": 6
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Fort Worth ",
+      "@type": "City"
+    },
+    {
+      "name": "Alameda",
+      "@type": "City"
+    },
+    {
+      "name": "Albany",
+      "@type": "City"
+    },
+    {
+      "name": "Berkeley",
+      "@type": "City"
+    },
+    {
+      "name": "Dublin",
+      "@type": "City"
+    },
+    {
+      "name": "Emeryville",
+      "@type": "City"
+    },
+    {
+      "name": "Fremont",
+      "@type": "City"
+    },
+    {
+      "name": "Hayward",
+      "@type": "City"
+    },
+    {
+      "name": "Livermore",
+      "@type": "City"
+    },
+    {
+      "name": "Newark",
+      "@type": "City"
+    },
+    {
+      "name": "Oakland",
+      "@type": "City"
+    },
+    {
+      "name": "Piedmont",
+      "@type": "City"
+    },
+    {
+      "name": "Pleasanton",
+      "@type": "City"
+    },
+    {
+      "name": "San Leandro",
+      "@type": "City"
+    },
+    {
+      "name": "Union City",
+      "@type": "City"
+    },
+    {
+      "name": "Castro Valley",
+      "@type": "City"
+    },
+    {
+      "name": "San Lorenzo",
+      "@type": "City"
+    },
+    {
+      "name": "Ashland",
+      "@type": "City"
+    },
+    {
+      "name": "Cherryland",
+      "@type": "City"
+    },
+    {
+      "name": "Fairview",
+      "@type": "City"
+    },
+    {
+      "name": "Sunol",
+      "@type": "City"
+    },
+    {
+      "name": "Antioch",
+      "@type": "City"
+    },
+    {
+      "name": "Brentwood",
+      "@type": "City"
+    },
+    {
+      "name": "Clayton",
+      "@type": "City"
+    },
+    {
+      "name": "Concord",
+      "@type": "City"
+    },
+    {
+      "name": "Danville",
+      "@type": "City"
+    },
+    {
+      "name": "El Cerrito",
+      "@type": "City"
+    },
+    {
+      "name": "Hercules",
+      "@type": "City"
+    },
+    {
+      "name": "Lafayette",
+      "@type": "City"
+    },
+    {
+      "name": "Martinez",
+      "@type": "City"
+    },
+    {
+      "name": "Moraga",
+      "@type": "City"
+    },
+    {
+      "name": "Oakley",
+      "@type": "City"
+    },
+    {
+      "name": "Orinda",
+      "@type": "City"
+    },
+    {
+      "name": "Pinole",
+      "@type": "City"
+    },
+    {
+      "name": "Pittsburg",
+      "@type": "City"
+    },
+    {
+      "name": "Pleasant Hill",
+      "@type": "City"
+    },
+    {
+      "name": "Richmond",
+      "@type": "City"
+    },
+    {
+      "name": "San Pablo",
+      "@type": "City"
+    },
+    {
+      "name": "San Ramon",
+      "@type": "City"
+    },
+    {
+      "name": "Walnut Creek",
+      "@type": "City"
+    }
+  ],
+  "description": "Before you start, make sure you have your chosen hardware in hand. Confirm the center-to-center hole spacing (for pulls) and the overall size of each piece. This is a critical measurement, especially "
+}

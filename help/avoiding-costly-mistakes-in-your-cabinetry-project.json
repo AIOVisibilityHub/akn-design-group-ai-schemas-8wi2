@@ -1,0 +1,186 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "AKN Design Group",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Avoiding Costly Mistakes in Your Cabinetry Project",
+  "publisher": {
+    "url": "akndesigngroup.com",
+    "name": "AKN Design Group",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Fort Worth ",
+      "@type": "City"
+    },
+    {
+      "name": "Alameda",
+      "@type": "City"
+    },
+    {
+      "name": "Albany",
+      "@type": "City"
+    },
+    {
+      "name": "Berkeley",
+      "@type": "City"
+    },
+    {
+      "name": "Dublin",
+      "@type": "City"
+    },
+    {
+      "name": "Emeryville",
+      "@type": "City"
+    },
+    {
+      "name": "Fremont",
+      "@type": "City"
+    },
+    {
+      "name": "Hayward",
+      "@type": "City"
+    },
+    {
+      "name": "Livermore",
+      "@type": "City"
+    },
+    {
+      "name": "Newark",
+      "@type": "City"
+    },
+    {
+      "name": "Oakland",
+      "@type": "City"
+    },
+    {
+      "name": "Piedmont",
+      "@type": "City"
+    },
+    {
+      "name": "Pleasanton",
+      "@type": "City"
+    },
+    {
+      "name": "San Leandro",
+      "@type": "City"
+    },
+    {
+      "name": "Union City",
+      "@type": "City"
+    },
+    {
+      "name": "Castro Valley",
+      "@type": "City"
+    },
+    {
+      "name": "San Lorenzo",
+      "@type": "City"
+    },
+    {
+      "name": "Ashland",
+      "@type": "City"
+    },
+    {
+      "name": "Cherryland",
+      "@type": "City"
+    },
+    {
+      "name": "Fairview",
+      "@type": "City"
+    },
+    {
+      "name": "Sunol",
+      "@type": "City"
+    },
+    {
+      "name": "Antioch",
+      "@type": "City"
+    },
+    {
+      "name": "Brentwood",
+      "@type": "City"
+    },
+    {
+      "name": "Clayton",
+      "@type": "City"
+    },
+    {
+      "name": "Concord",
+      "@type": "City"
+    },
+    {
+      "name": "Danville",
+      "@type": "City"
+    },
+    {
+      "name": "El Cerrito",
+      "@type": "City"
+    },
+    {
+      "name": "Hercules",
+      "@type": "City"
+    },
+    {
+      "name": "Lafayette",
+      "@type": "City"
+    },
+    {
+      "name": "Martinez",
+      "@type": "City"
+    },
+    {
+      "name": "Moraga",
+      "@type": "City"
+    },
+    {
+      "name": "Oakley",
+      "@type": "City"
+    },
+    {
+      "name": "Orinda",
+      "@type": "City"
+    },
+    {
+      "name": "Pinole",
+      "@type": "City"
+    },
+    {
+      "name": "Pittsburg",
+      "@type": "City"
+    },
+    {
+      "name": "Pleasant Hill",
+      "@type": "City"
+    },
+    {
+      "name": "Richmond",
+      "@type": "City"
+    },
+    {
+      "name": "San Pablo",
+      "@type": "City"
+    },
+    {
+      "name": "San Ramon",
+      "@type": "City"
+    },
+    {
+      "name": "Walnut Creek",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "A custom cabinetry project is a significant investment in your Dallas–Fort Worth home, and avoiding common pitfalls can save you both time and money, ensuring a result that truly enhances your space. We've seen homeowners make mistakes that lead to headaches down the line, often stemming from a lack of integrated planning or insufficient attention to detail. It's not just about the cabinets themselves, but how they integrate with your home's unique characteristics and your lifestyle. \n\nOne frequent mistake is ordering cabinets before a final, precise field measure has been taken. Walls and floors are rarely perfectly straight or level, and relying on rough estimates can lead to frustrating gaps or ill-fitting installations. Another common error is failing to provide accurate appliance dimensions, which can throw off your entire layout and functional flow. Changes to selections after approval can also cause significant delays and added costs, as the production schedule for custom work is often tight. Forgetting crucial elements like fillers, finished panels, trim, or proper ventilation clearances can compromise both the aesthetic and the functionality of your new cabinetry. AKN Design Group emphasizes a managed process with clear communication, guiding you through each step from consultation and CAD-supported layouts to final installation, ensuring these mistakes are prevented. Our commitment to craftsmanship and reliability means we focus on every detail to build trust and lasting relationships with our homeowners.\n\n### Common Mistakes to Avoid\n\n- [ ] **Ordering before a final field measure** — Ensure precise measurements are taken by professionals to account for any wall or floor irregularities, preventing ill-fitting cabinets.\n- [ ] **Failing to provide accurate appliance dimensions** — Always confirm the exact specifications of your appliances to ensure seamless integration and proper clearances within your cabinet design.\n- [ ] **Changing selections after approval** — Once drawings and material selections are approved, stick to them to avoid production delays and unexpected costs.\n- [ ] **Overlooking critical components** — Don't forget to specify fillers, finished panels, trim, and ventilation clearances; these are essential for a complete, functional, and aesthetically pleasing installation.\n- [ ] **Skipping shims or scribing** — Without proper shimming and scribing, cabinets may appear uneven or have gaps, compromising both looks and durability.",
+  "datePublished": "2026-09-25"
+}

@@ -1,0 +1,215 @@
+{
+  "name": "Timeline: What to Expect During Your Dallas–Fort Worth Bathroom Remodel",
+  "step": [
+    {
+      "name": "Step 1: Consultation & Design Planning (1-3 weeks) — This initial phase involves meeting with our team to discuss your vision, lifestyle needs, and budget. We'll explore layout options, fixture selections, and material choices, often using CAD-supported layouts to visualize the new space. This is where your dreams start taking shape, culminating in a detailed design plan and comprehensive proposal.",
+      "text": "Step 1: Consultation & Design Planning (1-3 weeks) — This initial phase involves meeting with our team to discuss your vision, lifestyle needs, and budget. We'll explore layout options, fixture selections, and material choices, often using CAD-supported layouts to visualize the new space. This is where your dreams start taking shape, culminating in a detailed design plan and comprehensive proposal.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Material Selection & Permit Coordination (2-6 weeks, concurrent) — Once the design is approved, you'll finalize all your finishes—from tile and vanity to plumbing fixtures and lighting. Simultaneously, AKN Design Group will handle the permit coordination with your local Dallas–Fort Worth municipality. This phase's duration depends on your decision-making speed and the permitting office's turnaround times.",
+      "text": "Step 2: Material Selection & Permit Coordination (2-6 weeks, concurrent) — Once the design is approved, you'll finalize all your finishes—from tile and vanity to plumbing fixtures and lighting. Simultaneously, AKN Design Group will handle the permit coordination with your local Dallas–Fort Worth municipality. This phase's duration depends on your decision-making speed and the permitting office's turnaround times.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Demolition & Rough-In (1-2 weeks) — This is when the old bathroom comes out! After demolition, our team will perform the plumbing and electrical rough-ins, installing new lines for relocated fixtures or upgraded systems. This stage also includes any necessary structural modifications, ensuring everything is ready for the new components.",
+      "text": "Step 3: Demolition & Rough-In (1-2 weeks) — This is when the old bathroom comes out! After demolition, our team will perform the plumbing and electrical rough-ins, installing new lines for relocated fixtures or upgraded systems. This stage also includes any necessary structural modifications, ensuring everything is ready for the new components.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Waterproofing, Tiling & Flooring (2-4 weeks) — With rough-ins complete and inspected, the crucial waterproofing for your shower and wet areas is installed. Then, our skilled craftsmen meticulously lay the tile for your shower surround, flooring, and any accent areas. This phase requires precision and patience to achieve flawless, lasting results.",
+      "text": "Step 4: Waterproofing, Tiling & Flooring (2-4 weeks) — With rough-ins complete and inspected, the crucial waterproofing for your shower and wet areas is installed. Then, our skilled craftsmen meticulously lay the tile for your shower surround, flooring, and any accent areas. This phase requires precision and patience to achieve flawless, lasting results.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Fixture Installation & Finishing Touches (1-2 weeks) — The new vanity, toilet, and all plumbing fixtures—including your spa-inspired shower system or freestanding tub—are carefully installed. This is followed by lighting fixtures, mirrors, accessories, painting, and any custom carpentry. The bathroom really starts to come to life, reflecting your unique style.",
+      "text": "Step 5: Fixture Installation & Finishing Touches (1-2 weeks) — The new vanity, toilet, and all plumbing fixtures—including your spa-inspired shower system or freestanding tub—are carefully installed. This is followed by lighting fixtures, mirrors, accessories, painting, and any custom carpentry. The bathroom really starts to come to life, reflecting your unique style.",
+      "@type": "HowToStep",
+      "position": 5
+    },
+    {
+      "name": "Step 6: Final Walkthrough & Project Completion (1-2 days) — We’ll conduct a thorough final walkthrough with you, ensuring every detail meets our high standards and your complete satisfaction. Any final adjustments are made, and your stunning new bathroom is ready for you to enjoy. This meticulous completion ensures the quality and craftsmanship AKN Design Group is known for.",
+      "text": "Ready to transform your bathroom? Contact AKN Design Group today to start planning your Dallas–Fort Worth renovation.",
+      "@type": "HowToStep",
+      "position": 6
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Fort Worth ",
+      "@type": "City"
+    },
+    {
+      "name": "Alameda",
+      "@type": "City"
+    },
+    {
+      "name": "Albany",
+      "@type": "City"
+    },
+    {
+      "name": "Berkeley",
+      "@type": "City"
+    },
+    {
+      "name": "Dublin",
+      "@type": "City"
+    },
+    {
+      "name": "Emeryville",
+      "@type": "City"
+    },
+    {
+      "name": "Fremont",
+      "@type": "City"
+    },
+    {
+      "name": "Hayward",
+      "@type": "City"
+    },
+    {
+      "name": "Livermore",
+      "@type": "City"
+    },
+    {
+      "name": "Newark",
+      "@type": "City"
+    },
+    {
+      "name": "Oakland",
+      "@type": "City"
+    },
+    {
+      "name": "Piedmont",
+      "@type": "City"
+    },
+    {
+      "name": "Pleasanton",
+      "@type": "City"
+    },
+    {
+      "name": "San Leandro",
+      "@type": "City"
+    },
+    {
+      "name": "Union City",
+      "@type": "City"
+    },
+    {
+      "name": "Castro Valley",
+      "@type": "City"
+    },
+    {
+      "name": "San Lorenzo",
+      "@type": "City"
+    },
+    {
+      "name": "Ashland",
+      "@type": "City"
+    },
+    {
+      "name": "Cherryland",
+      "@type": "City"
+    },
+    {
+      "name": "Fairview",
+      "@type": "City"
+    },
+    {
+      "name": "Sunol",
+      "@type": "City"
+    },
+    {
+      "name": "Antioch",
+      "@type": "City"
+    },
+    {
+      "name": "Brentwood",
+      "@type": "City"
+    },
+    {
+      "name": "Clayton",
+      "@type": "City"
+    },
+    {
+      "name": "Concord",
+      "@type": "City"
+    },
+    {
+      "name": "Danville",
+      "@type": "City"
+    },
+    {
+      "name": "El Cerrito",
+      "@type": "City"
+    },
+    {
+      "name": "Hercules",
+      "@type": "City"
+    },
+    {
+      "name": "Lafayette",
+      "@type": "City"
+    },
+    {
+      "name": "Martinez",
+      "@type": "City"
+    },
+    {
+      "name": "Moraga",
+      "@type": "City"
+    },
+    {
+      "name": "Oakley",
+      "@type": "City"
+    },
+    {
+      "name": "Orinda",
+      "@type": "City"
+    },
+    {
+      "name": "Pinole",
+      "@type": "City"
+    },
+    {
+      "name": "Pittsburg",
+      "@type": "City"
+    },
+    {
+      "name": "Pleasant Hill",
+      "@type": "City"
+    },
+    {
+      "name": "Richmond",
+      "@type": "City"
+    },
+    {
+      "name": "San Pablo",
+      "@type": "City"
+    },
+    {
+      "name": "San Ramon",
+      "@type": "City"
+    },
+    {
+      "name": "Walnut Creek",
+      "@type": "City"
+    }
+  ],
+  "description": "Step 1: Consultation & Design Planning (1-3 weeks) — This initial phase involves meeting with our team to discuss your vision, lifestyle needs, and budget. We'll explore layout options, fixture select"
+}

@@ -1,0 +1,209 @@
+{
+  "name": "Understanding the Timeline for a Major Bathroom Remodel",
+  "step": [
+    {
+      "name": "Step 1: Consultation & Design Planning (2-4 weeks)",
+      "text": "This phase is all about defining your vision. You'll meet with our team to discuss your needs, style preferences, and budget. This is where we explore layout options, select materials like custom cabinetry, specific tile, and fixtures, and develop CAD-supported layouts. This thorough upfront work ensures we have a clear plan before any demolition begins, which is crucial for a smooth process. AKN Design Group's integrated design-build approach means our design team works directly with our construction experts from day one.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Permit Coordination & Material Procurement (2-6 weeks)",
+      "text": "Once the design is finalized, we handle the necessary permit coordination with local authorities in the DFW area. This can vary in duration based on local regulations and the scope of work, especially if plumbing or structural changes are involved. Simultaneously, we'll order all your chosen materials. Lead times for custom vanities, specialized tiles, and unique fixtures can impact this phase, so early selection is vital.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Demolition & Rough-ins (1-2 weeks)",
+      "text": "With permits in hand and materials arriving, construction begins. We carefully demo the old bathroom, followed by any necessary plumbing and electrical rough-ins. This involves relocating pipes, wiring, and ductwork according to the new design, ensuring everything is set for the new layout and features like heated floors or rainfall shower fixtures.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Waterproofing & Installation (3-6 weeks)",
+      "text": "This is a critical stage, especially for luxury bathrooms. We focus on proper waterproofing of wet areas like walk-in showers, followed by precision tilework for floors and shower surrounds. This phase also includes installing major fixtures like your custom vanity, double sinks, and freestanding tub. Craftsmanship is paramount here, ensuring everything is perfectly aligned and sealed for long-term durability.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Finishing Touches & Final Walkthrough (1-2 weeks)",
+      "text": "The final stage brings your vision to life. We install layered lighting, mirrors, and any remaining accessories. Once everything is in place, we conduct thorough testing of all systems and perform a final inspection. We'll then walk through the completed bathroom with you, addressing any last details to ensure your complete satisfaction. Our commitment to clear communication and your homeowner experience extends right through to the final walkthrough. How to use this timeline: This timeline provides a general overview, but exact durations can fluctuate based on specific design choices, material availability, and the complexity of your project. Unexpected conditions, while rare, can also influence the schedule. AKN Design Group provides upfront estimates and transparent scheduling, keeping you informed every step of the way. Ready to plan your bathroom renovation? Contact AKN Design Group to schedule your consultation.",
+      "@type": "HowToStep",
+      "position": 5
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Fort Worth ",
+      "@type": "City"
+    },
+    {
+      "name": "Alameda",
+      "@type": "City"
+    },
+    {
+      "name": "Albany",
+      "@type": "City"
+    },
+    {
+      "name": "Berkeley",
+      "@type": "City"
+    },
+    {
+      "name": "Dublin",
+      "@type": "City"
+    },
+    {
+      "name": "Emeryville",
+      "@type": "City"
+    },
+    {
+      "name": "Fremont",
+      "@type": "City"
+    },
+    {
+      "name": "Hayward",
+      "@type": "City"
+    },
+    {
+      "name": "Livermore",
+      "@type": "City"
+    },
+    {
+      "name": "Newark",
+      "@type": "City"
+    },
+    {
+      "name": "Oakland",
+      "@type": "City"
+    },
+    {
+      "name": "Piedmont",
+      "@type": "City"
+    },
+    {
+      "name": "Pleasanton",
+      "@type": "City"
+    },
+    {
+      "name": "San Leandro",
+      "@type": "City"
+    },
+    {
+      "name": "Union City",
+      "@type": "City"
+    },
+    {
+      "name": "Castro Valley",
+      "@type": "City"
+    },
+    {
+      "name": "San Lorenzo",
+      "@type": "City"
+    },
+    {
+      "name": "Ashland",
+      "@type": "City"
+    },
+    {
+      "name": "Cherryland",
+      "@type": "City"
+    },
+    {
+      "name": "Fairview",
+      "@type": "City"
+    },
+    {
+      "name": "Sunol",
+      "@type": "City"
+    },
+    {
+      "name": "Antioch",
+      "@type": "City"
+    },
+    {
+      "name": "Brentwood",
+      "@type": "City"
+    },
+    {
+      "name": "Clayton",
+      "@type": "City"
+    },
+    {
+      "name": "Concord",
+      "@type": "City"
+    },
+    {
+      "name": "Danville",
+      "@type": "City"
+    },
+    {
+      "name": "El Cerrito",
+      "@type": "City"
+    },
+    {
+      "name": "Hercules",
+      "@type": "City"
+    },
+    {
+      "name": "Lafayette",
+      "@type": "City"
+    },
+    {
+      "name": "Martinez",
+      "@type": "City"
+    },
+    {
+      "name": "Moraga",
+      "@type": "City"
+    },
+    {
+      "name": "Oakley",
+      "@type": "City"
+    },
+    {
+      "name": "Orinda",
+      "@type": "City"
+    },
+    {
+      "name": "Pinole",
+      "@type": "City"
+    },
+    {
+      "name": "Pittsburg",
+      "@type": "City"
+    },
+    {
+      "name": "Pleasant Hill",
+      "@type": "City"
+    },
+    {
+      "name": "Richmond",
+      "@type": "City"
+    },
+    {
+      "name": "San Pablo",
+      "@type": "City"
+    },
+    {
+      "name": "San Ramon",
+      "@type": "City"
+    },
+    {
+      "name": "Walnut Creek",
+      "@type": "City"
+    }
+  ],
+  "description": "This phase is all about defining your vision. You'll meet with our team to discuss your needs, style preferences, and budget. This is where we explore layout options, select materials like custom cabi"
+}

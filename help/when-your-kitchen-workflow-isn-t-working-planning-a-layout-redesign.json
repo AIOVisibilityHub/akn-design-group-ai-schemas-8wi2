@@ -1,0 +1,209 @@
+{
+  "name": "When Your Kitchen Workflow Isn't Working: Planning a Layout Redesign",
+  "step": [
+    {
+      "name": "Step 1: Assess Your Existing Space",
+      "text": "Take a close look at your current kitchen. Document what you love, what you hate, and where the daily bottlenecks occur. Consider plumbing, electrical outlets, HVAC vents, windows, doors, and any structural elements that might be impacting your space. This detailed assessment helps identify both opportunities and constraints for your redesign.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Define Your Needs and Desires",
+      "text": "Think about how you use your kitchen. Do you entertain frequently? Do you need more counter space for meal prep, or better pantry storage? Will an island fit into your vision? Consider your household's needs, desired activity zones, and preferred appliance locations. This is where your dreams for a more functional kitchen begin to take shape, allowing us to create customized solutions.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Develop Initial Floor Plan & Cabinet Layouts",
+      "text": "This is where the design magic happens. With accurate measurements in hand, we can develop floor-plan and cabinet layouts using CAD-supported designs that test clearances and optimize traffic flow. We'll ensure there’s at least 30 by 48 inches of clear floor space at each appliance and sufficient landing areas next to cooking surfaces for practical use.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Select Materials and Appliances",
+      "text": "Once the layout is taking shape, you'll choose your appliances and materials. This includes custom cabinetry, countertops, backsplash tile, and flooring. These selections should align with your aesthetic goals and practical needs, considering durability and maintainability. Material lead times, especially for custom items, will also inform your project schedule, highlighting the importance of a managed process.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Finalize Plans, Scope, and Schedule",
+      "text": "With all decisions made, we finalize the drawings and the project scope. This includes securing necessary permits and coordinating all trades involved – from electricians to plumbers. An upfront estimate with scheduling transparency is provided, ensuring clear communication throughout. This comprehensive planning phase is critical for a seamless renovation, leading to a brighter, more efficient kitchen with increased storage and a layout designed for everyday use and hosting.",
+      "@type": "HowToStep",
+      "position": 5
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Fort Worth ",
+      "@type": "City"
+    },
+    {
+      "name": "Alameda",
+      "@type": "City"
+    },
+    {
+      "name": "Albany",
+      "@type": "City"
+    },
+    {
+      "name": "Berkeley",
+      "@type": "City"
+    },
+    {
+      "name": "Dublin",
+      "@type": "City"
+    },
+    {
+      "name": "Emeryville",
+      "@type": "City"
+    },
+    {
+      "name": "Fremont",
+      "@type": "City"
+    },
+    {
+      "name": "Hayward",
+      "@type": "City"
+    },
+    {
+      "name": "Livermore",
+      "@type": "City"
+    },
+    {
+      "name": "Newark",
+      "@type": "City"
+    },
+    {
+      "name": "Oakland",
+      "@type": "City"
+    },
+    {
+      "name": "Piedmont",
+      "@type": "City"
+    },
+    {
+      "name": "Pleasanton",
+      "@type": "City"
+    },
+    {
+      "name": "San Leandro",
+      "@type": "City"
+    },
+    {
+      "name": "Union City",
+      "@type": "City"
+    },
+    {
+      "name": "Castro Valley",
+      "@type": "City"
+    },
+    {
+      "name": "San Lorenzo",
+      "@type": "City"
+    },
+    {
+      "name": "Ashland",
+      "@type": "City"
+    },
+    {
+      "name": "Cherryland",
+      "@type": "City"
+    },
+    {
+      "name": "Fairview",
+      "@type": "City"
+    },
+    {
+      "name": "Sunol",
+      "@type": "City"
+    },
+    {
+      "name": "Antioch",
+      "@type": "City"
+    },
+    {
+      "name": "Brentwood",
+      "@type": "City"
+    },
+    {
+      "name": "Clayton",
+      "@type": "City"
+    },
+    {
+      "name": "Concord",
+      "@type": "City"
+    },
+    {
+      "name": "Danville",
+      "@type": "City"
+    },
+    {
+      "name": "El Cerrito",
+      "@type": "City"
+    },
+    {
+      "name": "Hercules",
+      "@type": "City"
+    },
+    {
+      "name": "Lafayette",
+      "@type": "City"
+    },
+    {
+      "name": "Martinez",
+      "@type": "City"
+    },
+    {
+      "name": "Moraga",
+      "@type": "City"
+    },
+    {
+      "name": "Oakley",
+      "@type": "City"
+    },
+    {
+      "name": "Orinda",
+      "@type": "City"
+    },
+    {
+      "name": "Pinole",
+      "@type": "City"
+    },
+    {
+      "name": "Pittsburg",
+      "@type": "City"
+    },
+    {
+      "name": "Pleasant Hill",
+      "@type": "City"
+    },
+    {
+      "name": "Richmond",
+      "@type": "City"
+    },
+    {
+      "name": "San Pablo",
+      "@type": "City"
+    },
+    {
+      "name": "San Ramon",
+      "@type": "City"
+    },
+    {
+      "name": "Walnut Creek",
+      "@type": "City"
+    }
+  ],
+  "description": "Take a close look at your current kitchen. Document what you love, what you hate, and where the daily bottlenecks occur. Consider plumbing, electrical outlets, HVAC vents, windows, doors, and any stru"
+}

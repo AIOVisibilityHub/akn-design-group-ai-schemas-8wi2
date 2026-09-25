@@ -1,0 +1,209 @@
+{
+  "name": "Understanding the Timeline for Custom Cabinetry Projects",
+  "step": [
+    {
+      "name": "Step 1: Initial Design and Specification (2-4 weeks)",
+      "text": "This phase involves defining your requirements, discussing your aesthetic preferences, and establishing a budget. Our team will take precise measurements of your space, considering wall irregularities and appliance specifications. We'll develop initial layouts, discuss wood species, finishes, hardware, and storage features, often with CAD-supported layouts. Your active input here is crucial, as any changes later can impact the schedule. This also includes defining responsibility for elements like plumbing or electrical modifications.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Material Selection and Approval (1-2 weeks)",
+      "text": "Once the design is solid, you'll finalize all material and finish selections. This means choosing everything from the cabinet door style and wood type to the internal storage configurations and hardware. We'll present detailed shop drawings for your review. This stage is critical for preventing delays, as changes after production begins can be costly and time-consuming. AKN Design Group provides upfront estimates and ensures clear communication to keep this process efficient.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Manufacturing and Inspection (8-12 weeks)",
+      "text": "After final approval, your custom cabinetry goes into production. This is where skilled craftsmanship truly shines, as each piece is fabricated to your exact specifications. Quality checks are performed throughout the manufacturing process to ensure durability and beauty. The timing here can vary based on the complexity of your design, the chosen materials, and the supplier's current workload. This phase includes the internal inspection before shipping.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Delivery and Site Preparation (1-2 days before installation)",
+      "text": "Once manufactured, your custom cabinets are carefully prepared for delivery to your home. We'll coordinate this to align with your overall project schedule. Before installation, the site needs to be ready – walls and floors must be stable and level, and any rough plumbing or electrical work should be completed. Our team will guide you on what needs to be prepped.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Installation and Final Adjustments (1-3 weeks, depending on scope)",
+      "text": "This is where your vision comes to life! Our skilled craftsmen will meticulously install your custom cabinets, ensuring they are perfectly level, plumb, and securely fastened. This includes scribing fillers and panels to uneven walls, ensuring a seamless, integrated look. We’ll then install doors, drawers, and hardware, making any final adjustments for smooth operation. This managed process emphasizes attention to detail, ensuring an exceptional result and a high-touch homeowner experience.",
+      "@type": "HowToStep",
+      "position": 5
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Fort Worth ",
+      "@type": "City"
+    },
+    {
+      "name": "Alameda",
+      "@type": "City"
+    },
+    {
+      "name": "Albany",
+      "@type": "City"
+    },
+    {
+      "name": "Berkeley",
+      "@type": "City"
+    },
+    {
+      "name": "Dublin",
+      "@type": "City"
+    },
+    {
+      "name": "Emeryville",
+      "@type": "City"
+    },
+    {
+      "name": "Fremont",
+      "@type": "City"
+    },
+    {
+      "name": "Hayward",
+      "@type": "City"
+    },
+    {
+      "name": "Livermore",
+      "@type": "City"
+    },
+    {
+      "name": "Newark",
+      "@type": "City"
+    },
+    {
+      "name": "Oakland",
+      "@type": "City"
+    },
+    {
+      "name": "Piedmont",
+      "@type": "City"
+    },
+    {
+      "name": "Pleasanton",
+      "@type": "City"
+    },
+    {
+      "name": "San Leandro",
+      "@type": "City"
+    },
+    {
+      "name": "Union City",
+      "@type": "City"
+    },
+    {
+      "name": "Castro Valley",
+      "@type": "City"
+    },
+    {
+      "name": "San Lorenzo",
+      "@type": "City"
+    },
+    {
+      "name": "Ashland",
+      "@type": "City"
+    },
+    {
+      "name": "Cherryland",
+      "@type": "City"
+    },
+    {
+      "name": "Fairview",
+      "@type": "City"
+    },
+    {
+      "name": "Sunol",
+      "@type": "City"
+    },
+    {
+      "name": "Antioch",
+      "@type": "City"
+    },
+    {
+      "name": "Brentwood",
+      "@type": "City"
+    },
+    {
+      "name": "Clayton",
+      "@type": "City"
+    },
+    {
+      "name": "Concord",
+      "@type": "City"
+    },
+    {
+      "name": "Danville",
+      "@type": "City"
+    },
+    {
+      "name": "El Cerrito",
+      "@type": "City"
+    },
+    {
+      "name": "Hercules",
+      "@type": "City"
+    },
+    {
+      "name": "Lafayette",
+      "@type": "City"
+    },
+    {
+      "name": "Martinez",
+      "@type": "City"
+    },
+    {
+      "name": "Moraga",
+      "@type": "City"
+    },
+    {
+      "name": "Oakley",
+      "@type": "City"
+    },
+    {
+      "name": "Orinda",
+      "@type": "City"
+    },
+    {
+      "name": "Pinole",
+      "@type": "City"
+    },
+    {
+      "name": "Pittsburg",
+      "@type": "City"
+    },
+    {
+      "name": "Pleasant Hill",
+      "@type": "City"
+    },
+    {
+      "name": "Richmond",
+      "@type": "City"
+    },
+    {
+      "name": "San Pablo",
+      "@type": "City"
+    },
+    {
+      "name": "San Ramon",
+      "@type": "City"
+    },
+    {
+      "name": "Walnut Creek",
+      "@type": "City"
+    }
+  ],
+  "description": "This phase involves defining your requirements, discussing your aesthetic preferences, and establishing a budget. Our team will take precise measurements of your space, considering wall irregularities"
+}

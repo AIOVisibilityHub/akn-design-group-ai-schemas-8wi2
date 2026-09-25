@@ -1,0 +1,186 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "AKN Design Group",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Avoiding Mistakes in Your Cabinet Refacing Project",
+  "publisher": {
+    "url": "akndesigngroup.com",
+    "name": "AKN Design Group",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Fort Worth ",
+      "@type": "City"
+    },
+    {
+      "name": "Alameda",
+      "@type": "City"
+    },
+    {
+      "name": "Albany",
+      "@type": "City"
+    },
+    {
+      "name": "Berkeley",
+      "@type": "City"
+    },
+    {
+      "name": "Dublin",
+      "@type": "City"
+    },
+    {
+      "name": "Emeryville",
+      "@type": "City"
+    },
+    {
+      "name": "Fremont",
+      "@type": "City"
+    },
+    {
+      "name": "Hayward",
+      "@type": "City"
+    },
+    {
+      "name": "Livermore",
+      "@type": "City"
+    },
+    {
+      "name": "Newark",
+      "@type": "City"
+    },
+    {
+      "name": "Oakland",
+      "@type": "City"
+    },
+    {
+      "name": "Piedmont",
+      "@type": "City"
+    },
+    {
+      "name": "Pleasanton",
+      "@type": "City"
+    },
+    {
+      "name": "San Leandro",
+      "@type": "City"
+    },
+    {
+      "name": "Union City",
+      "@type": "City"
+    },
+    {
+      "name": "Castro Valley",
+      "@type": "City"
+    },
+    {
+      "name": "San Lorenzo",
+      "@type": "City"
+    },
+    {
+      "name": "Ashland",
+      "@type": "City"
+    },
+    {
+      "name": "Cherryland",
+      "@type": "City"
+    },
+    {
+      "name": "Fairview",
+      "@type": "City"
+    },
+    {
+      "name": "Sunol",
+      "@type": "City"
+    },
+    {
+      "name": "Antioch",
+      "@type": "City"
+    },
+    {
+      "name": "Brentwood",
+      "@type": "City"
+    },
+    {
+      "name": "Clayton",
+      "@type": "City"
+    },
+    {
+      "name": "Concord",
+      "@type": "City"
+    },
+    {
+      "name": "Danville",
+      "@type": "City"
+    },
+    {
+      "name": "El Cerrito",
+      "@type": "City"
+    },
+    {
+      "name": "Hercules",
+      "@type": "City"
+    },
+    {
+      "name": "Lafayette",
+      "@type": "City"
+    },
+    {
+      "name": "Martinez",
+      "@type": "City"
+    },
+    {
+      "name": "Moraga",
+      "@type": "City"
+    },
+    {
+      "name": "Oakley",
+      "@type": "City"
+    },
+    {
+      "name": "Orinda",
+      "@type": "City"
+    },
+    {
+      "name": "Pinole",
+      "@type": "City"
+    },
+    {
+      "name": "Pittsburg",
+      "@type": "City"
+    },
+    {
+      "name": "Pleasant Hill",
+      "@type": "City"
+    },
+    {
+      "name": "Richmond",
+      "@type": "City"
+    },
+    {
+      "name": "San Pablo",
+      "@type": "City"
+    },
+    {
+      "name": "San Ramon",
+      "@type": "City"
+    },
+    {
+      "name": "Walnut Creek",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Cabinet refacing can give your kitchen a whole new lease on life, but it’s easy to stumble if you’re not careful. We've seen homeowners in the Dallas–Fort Worth metroplex make some common missteps that can lead to frustration and costly rework. Avoiding these pitfalls ensures your customized renovation proceeds smoothly and delivers the results you're dreaming of.\n\nCommon Mistakes to Avoid\n\n1.  **Ignoring the condition of existing cabinet boxes.** — Before committing to refacing, you absolutely need to verify that your existing cabinet boxes are structurally sound. If they have water damage, are warped, or are otherwise compromised, refacing is just putting a band-aid on a bigger problem. A professional assessment can save you from a failed project.\n2.  **Taking inaccurate measurements.** — Precision is key. Slight errors in measuring for new doors, drawer fronts, or veneer panels can lead to ill-fitting components, gaps, or wasted materials. Every piece needs to fit perfectly for that high-end craftsmanship look.\n3.  **Overlooking hardware compatibility.** — New doors might require different hinge types or placements than your old ones. Similarly, new pulls or knobs need to fit the style and function of your doors and drawers. Ensure your selections work together and integrate seamlessly with the cabinet construction.\n4.  **Rushing the veneer application.** — When applying veneer or laminate to exposed cabinet surfaces, adequate drying and curing time is crucial. Skipping this step can lead to bubbling, peeling, or a less durable finish down the road, compromising the lasting impressions you want to achieve.\n5.  **Neglecting proper protection.** — During the refacing process, your countertops, flooring, and appliances are vulnerable. Failing to adequately protect these areas can result in scratches, dents, or spills, adding unnecessary repairs to your project. Attention to detail is part of a high-touch homeowner experience.\n\nWhen Professional Guidance Helps\n\nFor a complex renovation like cabinet refacing, especially when dealing with custom designs, intricate corner work, or the need for a managed process from start to finish, professional help is invaluable. An experienced design-build team like AKN Design Group brings the expertise to avoid these mistakes, ensuring precise measurements, correct material application, and a flawless finish. We handle the permit coordination, material selection, and installation with craftsmanship and clear communication, delivering a superior outcome. Connect with AKN Design Group for a consultation to ensure your cabinet refacing project is executed with precision and care.",
+  "datePublished": "2026-09-25"
+}

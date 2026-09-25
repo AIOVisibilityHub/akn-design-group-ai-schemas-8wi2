@@ -1,0 +1,186 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "AKN Design Group",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "What to Expect During Your Custom Cabinetry Installation",
+  "publisher": {
+    "url": "akndesigngroup.com",
+    "name": "AKN Design Group",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Fort Worth ",
+      "@type": "City"
+    },
+    {
+      "name": "Alameda",
+      "@type": "City"
+    },
+    {
+      "name": "Albany",
+      "@type": "City"
+    },
+    {
+      "name": "Berkeley",
+      "@type": "City"
+    },
+    {
+      "name": "Dublin",
+      "@type": "City"
+    },
+    {
+      "name": "Emeryville",
+      "@type": "City"
+    },
+    {
+      "name": "Fremont",
+      "@type": "City"
+    },
+    {
+      "name": "Hayward",
+      "@type": "City"
+    },
+    {
+      "name": "Livermore",
+      "@type": "City"
+    },
+    {
+      "name": "Newark",
+      "@type": "City"
+    },
+    {
+      "name": "Oakland",
+      "@type": "City"
+    },
+    {
+      "name": "Piedmont",
+      "@type": "City"
+    },
+    {
+      "name": "Pleasanton",
+      "@type": "City"
+    },
+    {
+      "name": "San Leandro",
+      "@type": "City"
+    },
+    {
+      "name": "Union City",
+      "@type": "City"
+    },
+    {
+      "name": "Castro Valley",
+      "@type": "City"
+    },
+    {
+      "name": "San Lorenzo",
+      "@type": "City"
+    },
+    {
+      "name": "Ashland",
+      "@type": "City"
+    },
+    {
+      "name": "Cherryland",
+      "@type": "City"
+    },
+    {
+      "name": "Fairview",
+      "@type": "City"
+    },
+    {
+      "name": "Sunol",
+      "@type": "City"
+    },
+    {
+      "name": "Antioch",
+      "@type": "City"
+    },
+    {
+      "name": "Brentwood",
+      "@type": "City"
+    },
+    {
+      "name": "Clayton",
+      "@type": "City"
+    },
+    {
+      "name": "Concord",
+      "@type": "City"
+    },
+    {
+      "name": "Danville",
+      "@type": "City"
+    },
+    {
+      "name": "El Cerrito",
+      "@type": "City"
+    },
+    {
+      "name": "Hercules",
+      "@type": "City"
+    },
+    {
+      "name": "Lafayette",
+      "@type": "City"
+    },
+    {
+      "name": "Martinez",
+      "@type": "City"
+    },
+    {
+      "name": "Moraga",
+      "@type": "City"
+    },
+    {
+      "name": "Oakley",
+      "@type": "City"
+    },
+    {
+      "name": "Orinda",
+      "@type": "City"
+    },
+    {
+      "name": "Pinole",
+      "@type": "City"
+    },
+    {
+      "name": "Pittsburg",
+      "@type": "City"
+    },
+    {
+      "name": "Pleasant Hill",
+      "@type": "City"
+    },
+    {
+      "name": "Richmond",
+      "@type": "City"
+    },
+    {
+      "name": "San Pablo",
+      "@type": "City"
+    },
+    {
+      "name": "San Ramon",
+      "@type": "City"
+    },
+    {
+      "name": "Walnut Creek",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Once your beautiful custom cabinets arrive, the real magic of installation begins. This isn't just about screwing boxes to a wall; it's a precise process that requires expertise and careful coordination to ensure lasting functionality and beauty. We understand you'll have questions, like how long it takes or what happens if a measurement is off, and clear communication is key throughout. \n\nTypically, the installation process starts with protecting your home's work area, followed by a thorough check of all delivered parts against the design drawings. Our team will meticulously locate wall studs and establish level reference lines, especially important given that very few floors are perfectly even. From there, we secure and level the base cabinets, shimming as needed, before moving on to the wall cabinets. This careful leveling and shimming is crucial for ensuring proper alignment, door operation, and the seamless integration of countertops. We also pay close attention to scribing fillers and end panels for a perfectly fitted look, and installing doors and hardware with precision. This phase often takes about 2-3 weeks, depending on the scope and complexity of your project, and includes coordinating with other trades like plumbers and electricians when necessary. AKN Design Group focuses on craftsmanship and reliability, guaranteeing that each cabinet is installed to enhance your home’s functionality and aesthetic for years to come.\n\n### What to Expect During the Process\n\nExpect our team to confirm all delivered parts and drawings upon arrival, ensuring everything matches your approved design. We'll protect your work area, then use specialized tools to locate wall studs and identify the floor’s highest point to establish level reference lines. Cabinets are then secured, leveled, and meticulously shimmed. Any fillers and end panels will be precisely scribed for a seamless fit. Finally, doors and hardware are installed, and their alignment and operation are thoroughly checked. We maintain clear communication throughout, addressing any site variations or coordination needs with other trades, such as those for plumbing and electrical work. This managed process ensures a high-quality, lasting installation.",
+  "datePublished": "2026-09-25"
+}

@@ -1,0 +1,215 @@
+{
+  "name": "Pantry Renovation: A Timeline for Coordinated Projects",
+  "step": [
+    {
+      "name": "Step 1: Initial Consultation & Design Planning (2-8 Weeks)",
+      "text": "This phase involves an in-depth discussion about your storage needs, inventorying items to be stored, measuring available space, and defining shelf depths, heights, and door configurations. AKN Design Group will create CAD-supported layouts, incorporating your vision for a walk-in or reach-in pantry. This is where we consider details like aisle width (typically 30–36 inches for walk-ins), lighting, and ventilation. Accurate measurements are crucial here, especially for narrow or irregular spaces, to prevent issues later on.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Material Selection & Permit Coordination (1-12 Weeks, Potentially Overlapping)",
+      "text": "Once the design is finalized, we'll move to selecting materials—from shelving types to door finishes. If your pantry project involves new walls, relocated doors, electrical circuits, new lighting, plumbing, structural alterations, or integration with existing cabinetry, permit coordination becomes a vital part of this step. Permit review times can vary significantly by local authority, so planning this early is essential. This phase also includes ordering materials, which can have varying lead times.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Demolition & Rough-Ins (1-3 Weeks)",
+      "text": "If your project requires demolition of existing structures or walls, this happens first. Following that, any necessary rough electrical or plumbing work is completed. This could include running new circuits for lighting or outlets within the pantry or extending plumbing for a small utility sink, if part of the design. This stage is critical for laying the groundwork for all functional aspects of your new pantry.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Framing, Drywall & Flooring (3-6 Weeks)",
+      "text": "For built-out pantries, new framing for walls and doors will be constructed, followed by drywall installation and finishing. Any new flooring within the pantry space will also be laid during this period. Attention to detail here ensures a seamless integration with your existing home and provides a solid foundation for shelving and cabinetry.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Cabinetry, Shelving & Finish Installation (3-6 Weeks)",
+      "text": "This is where your pantry truly takes shape. Custom cabinetry, fixed or adjustable shelving, pull-outs, and other storage hardware are meticulously installed. Lighting fixtures are put in place, and any final trim and paint work is completed. AKN Design Group emphasizes craftsmanship during this phase to ensure every element is level, secure, and aesthetically pleasing, providing usable rather than just nominal dimensions for storage.",
+      "@type": "HowToStep",
+      "position": 5
+    },
+    {
+      "name": "Step 6: Final Walkthrough & Adjustment (1 Week)",
+      "text": "The project concludes with a comprehensive final walkthrough. We'll ensure everything meets your expectations and our high standards for quality and functionality. Any final adjustments to shelving or hardware are made, ensuring your new pantry is ready to accommodate your household’s inventory perfectly. This commitment to a managed process, from concept to completion, defines the homeowner experience we provide.",
+      "@type": "HowToStep",
+      "position": 6
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Fort Worth ",
+      "@type": "City"
+    },
+    {
+      "name": "Alameda",
+      "@type": "City"
+    },
+    {
+      "name": "Albany",
+      "@type": "City"
+    },
+    {
+      "name": "Berkeley",
+      "@type": "City"
+    },
+    {
+      "name": "Dublin",
+      "@type": "City"
+    },
+    {
+      "name": "Emeryville",
+      "@type": "City"
+    },
+    {
+      "name": "Fremont",
+      "@type": "City"
+    },
+    {
+      "name": "Hayward",
+      "@type": "City"
+    },
+    {
+      "name": "Livermore",
+      "@type": "City"
+    },
+    {
+      "name": "Newark",
+      "@type": "City"
+    },
+    {
+      "name": "Oakland",
+      "@type": "City"
+    },
+    {
+      "name": "Piedmont",
+      "@type": "City"
+    },
+    {
+      "name": "Pleasanton",
+      "@type": "City"
+    },
+    {
+      "name": "San Leandro",
+      "@type": "City"
+    },
+    {
+      "name": "Union City",
+      "@type": "City"
+    },
+    {
+      "name": "Castro Valley",
+      "@type": "City"
+    },
+    {
+      "name": "San Lorenzo",
+      "@type": "City"
+    },
+    {
+      "name": "Ashland",
+      "@type": "City"
+    },
+    {
+      "name": "Cherryland",
+      "@type": "City"
+    },
+    {
+      "name": "Fairview",
+      "@type": "City"
+    },
+    {
+      "name": "Sunol",
+      "@type": "City"
+    },
+    {
+      "name": "Antioch",
+      "@type": "City"
+    },
+    {
+      "name": "Brentwood",
+      "@type": "City"
+    },
+    {
+      "name": "Clayton",
+      "@type": "City"
+    },
+    {
+      "name": "Concord",
+      "@type": "City"
+    },
+    {
+      "name": "Danville",
+      "@type": "City"
+    },
+    {
+      "name": "El Cerrito",
+      "@type": "City"
+    },
+    {
+      "name": "Hercules",
+      "@type": "City"
+    },
+    {
+      "name": "Lafayette",
+      "@type": "City"
+    },
+    {
+      "name": "Martinez",
+      "@type": "City"
+    },
+    {
+      "name": "Moraga",
+      "@type": "City"
+    },
+    {
+      "name": "Oakley",
+      "@type": "City"
+    },
+    {
+      "name": "Orinda",
+      "@type": "City"
+    },
+    {
+      "name": "Pinole",
+      "@type": "City"
+    },
+    {
+      "name": "Pittsburg",
+      "@type": "City"
+    },
+    {
+      "name": "Pleasant Hill",
+      "@type": "City"
+    },
+    {
+      "name": "Richmond",
+      "@type": "City"
+    },
+    {
+      "name": "San Pablo",
+      "@type": "City"
+    },
+    {
+      "name": "San Ramon",
+      "@type": "City"
+    },
+    {
+      "name": "Walnut Creek",
+      "@type": "City"
+    }
+  ],
+  "description": "This phase involves an in-depth discussion about your storage needs, inventorying items to be stored, measuring available space, and defining shelf depths, heights, and door configurations. AKN Design"
+}

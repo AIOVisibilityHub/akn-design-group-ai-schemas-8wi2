@@ -1,0 +1,237 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "AKN Design Group",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Is Your Kitchen Ready for Cabinet Refacing? A Pre-Project Checklist",
+  "publisher": {
+    "url": "akndesigngroup.com",
+    "name": "AKN Design Group",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      ".checklist",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Fort Worth ",
+      "@type": "City"
+    },
+    {
+      "name": "Alameda",
+      "@type": "City"
+    },
+    {
+      "name": "Albany",
+      "@type": "City"
+    },
+    {
+      "name": "Berkeley",
+      "@type": "City"
+    },
+    {
+      "name": "Dublin",
+      "@type": "City"
+    },
+    {
+      "name": "Emeryville",
+      "@type": "City"
+    },
+    {
+      "name": "Fremont",
+      "@type": "City"
+    },
+    {
+      "name": "Hayward",
+      "@type": "City"
+    },
+    {
+      "name": "Livermore",
+      "@type": "City"
+    },
+    {
+      "name": "Newark",
+      "@type": "City"
+    },
+    {
+      "name": "Oakland",
+      "@type": "City"
+    },
+    {
+      "name": "Piedmont",
+      "@type": "City"
+    },
+    {
+      "name": "Pleasanton",
+      "@type": "City"
+    },
+    {
+      "name": "San Leandro",
+      "@type": "City"
+    },
+    {
+      "name": "Union City",
+      "@type": "City"
+    },
+    {
+      "name": "Castro Valley",
+      "@type": "City"
+    },
+    {
+      "name": "San Lorenzo",
+      "@type": "City"
+    },
+    {
+      "name": "Ashland",
+      "@type": "City"
+    },
+    {
+      "name": "Cherryland",
+      "@type": "City"
+    },
+    {
+      "name": "Fairview",
+      "@type": "City"
+    },
+    {
+      "name": "Sunol",
+      "@type": "City"
+    },
+    {
+      "name": "Antioch",
+      "@type": "City"
+    },
+    {
+      "name": "Brentwood",
+      "@type": "City"
+    },
+    {
+      "name": "Clayton",
+      "@type": "City"
+    },
+    {
+      "name": "Concord",
+      "@type": "City"
+    },
+    {
+      "name": "Danville",
+      "@type": "City"
+    },
+    {
+      "name": "El Cerrito",
+      "@type": "City"
+    },
+    {
+      "name": "Hercules",
+      "@type": "City"
+    },
+    {
+      "name": "Lafayette",
+      "@type": "City"
+    },
+    {
+      "name": "Martinez",
+      "@type": "City"
+    },
+    {
+      "name": "Moraga",
+      "@type": "City"
+    },
+    {
+      "name": "Oakley",
+      "@type": "City"
+    },
+    {
+      "name": "Orinda",
+      "@type": "City"
+    },
+    {
+      "name": "Pinole",
+      "@type": "City"
+    },
+    {
+      "name": "Pittsburg",
+      "@type": "City"
+    },
+    {
+      "name": "Pleasant Hill",
+      "@type": "City"
+    },
+    {
+      "name": "Richmond",
+      "@type": "City"
+    },
+    {
+      "name": "San Pablo",
+      "@type": "City"
+    },
+    {
+      "name": "San Ramon",
+      "@type": "City"
+    },
+    {
+      "name": "Walnut Creek",
+      "@type": "City"
+    }
+  ],
+  "mainEntity": {
+    "name": "Is Your Kitchen Ready for Cabinet Refacing? A Pre-Project Checklist",
+    "@type": "ItemList",
+    "itemListOrder": "https://schema.org/ItemListOrderAscending",
+    "numberOfItems": 7,
+    "itemListElement": [
+      {
+        "name": "Cabinet Box Condition: Inspect your existing cabinet boxes for any signs of water damage, warping, or struc…",
+        "@type": "ListItem",
+        "position": 1,
+        "description": "Cabinet Box Condition: Inspect your existing cabinet boxes for any signs of water damage, warping, or structural weakness. Refacing relies on a sturdy foundation, so sound boxes are crucial for a lasting result."
+      },
+      {
+        "name": "Face Frame and Shelf Integrity: Check that your cabinet face frames and interior shelves are solid and free…",
+        "@type": "ListItem",
+        "position": 2,
+        "description": "Face Frame and Shelf Integrity: Check that your cabinet face frames and interior shelves are solid and free from significant damage or sagging. These elements will remain, so their condition matters."
+      },
+      {
+        "name": "Current Layout Functionality: Does your current kitchen layout work for you? Refacing updates the aesthetic…",
+        "@type": "ListItem",
+        "position": 3,
+        "description": "Current Layout Functionality: Does your current kitchen layout work for you? Refacing updates the aesthetics, but it doesn’t change the footprint or flow. Confirm your existing arrangement meets your storage and appliance needs."
+      },
+      {
+        "name": "Moisture Exposure: Look for any areas that have been exposed to moisture, especially around sinks or dishwa…",
+        "@type": "ListItem",
+        "position": 4,
+        "description": "Moisture Exposure: Look for any areas that have been exposed to moisture, especially around sinks or dishwashers. Moisture damage can compromise the adhesion of new veneers and indicate deeper issues."
+      },
+      {
+        "name": "Desired Door Style and Finish: Have you considered the new door profiles, finishes, and veneers you’d like?…",
+        "@type": "ListItem",
+        "position": 5,
+        "description": "Desired Door Style and Finish: Have you considered the new door profiles, finishes, and veneers you’d like? This decision impacts the overall aesthetic and needs to be decided early in the process."
+      },
+      {
+        "name": "Hardware Compatibility: Think about your new cabinet hardware—knobs, pulls, and hinges. Ensure your chosen…",
+        "@type": "ListItem",
+        "position": 6,
+        "description": "Hardware Compatibility: Think about your new cabinet hardware—knobs, pulls, and hinges. Ensure your chosen hardware will work with the new doors and that hinge attachment areas are sound for replacement."
+      },
+      {
+        "name": "Defined Scope: Have you considered if you need new drawer boxes or other internal modifications? While refa…",
+        "@type": "ListItem",
+        "position": 7,
+        "description": "Defined Scope: Have you considered if you need new drawer boxes or other internal modifications? While refacing focuses on the exterior, it’s a good time to decide if any internal upgrades are needed."
+      }
+    ]
+  },
+  "articleBody": "Thinking about updating your kitchen cabinets in the Dallas–Fort Worth metroplex? Cabinet refacing is a smart option for many homeowners who want a fresh look without the disruption and cost of a full demolition and replacement. But before you dive in, it’s helpful to know if your existing cabinets are truly ready for this type of transformation. This checklist helps you assess your kitchen’s readiness, ensuring a smooth project that enhances functionality, beauty, and value.\n\n- [ ] **Cabinet Box Condition:** Inspect your existing cabinet boxes for any signs of water damage, warping, or structural weakness. Refacing relies on a sturdy foundation, so sound boxes are crucial for a lasting result.\n- [ ] **Face Frame and Shelf Integrity:** Check that your cabinet face frames and interior shelves are solid and free from significant damage or sagging. These elements will remain, so their condition matters.\n- [ ] **Current Layout Functionality:** Does your current kitchen layout work for you? Refacing updates the aesthetics, but it doesn’t change the footprint or flow. Confirm your existing arrangement meets your storage and appliance needs.\n- [ ] **Moisture Exposure:** Look for any areas that have been exposed to moisture, especially around sinks or dishwashers. Moisture damage can compromise the adhesion of new veneers and indicate deeper issues.\n- [ ] **Desired Door Style and Finish:** Have you considered the new door profiles, finishes, and veneers you’d like? This decision impacts the overall aesthetic and needs to be decided early in the process.\n- [ ] **Hardware Compatibility:** Think about your new cabinet hardware—knobs, pulls, and hinges. Ensure your chosen hardware will work with the new doors and that hinge attachment areas are sound for replacement.\n- [ ] **Defined Scope:** Have you considered if you need new drawer boxes or other internal modifications? While refacing focuses on the exterior, it’s a good time to decide if any internal upgrades are needed.\n\nHow to use this checklist\nGo through each item thoroughly. If you find significant issues like widespread water damage, warped boxes, or a layout that no longer suits your lifestyle, refacing might not be the most effective solution. In such cases, a more comprehensive kitchen remodel could be a better investment, providing a fresh layout and new, high-quality cabinets. This checklist is a great starting point for understanding your kitchen's needs and determining if refacing is the right path to achieve your desired outcome.\n\nWhen Professional Guidance Helps\nIf you're unsure about any of these points, especially regarding structural integrity or moisture damage, it’s definitely time to bring in a professional. At AKN Design Group, we have over two decades of experience in residential design-build in the Dallas–Fort Worth metroplex. We can accurately assess your cabinets, provide expert recommendations, and guide you through a managed process to achieve a beautifully updated kitchen. Our commitment to craftsmanship and clear communication ensures your project is in reliable hands.\n\nReady to get started? Contact AKN Design Group for an expert assessment of your kitchen’s refacing potential.",
+  "datePublished": "2026-09-25"
+}

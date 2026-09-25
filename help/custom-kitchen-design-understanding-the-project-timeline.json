@@ -1,0 +1,215 @@
+{
+  "name": "Custom Kitchen Design: Understanding the Project Timeline",
+  "step": [
+    {
+      "name": "Step 1: Initial Consultation and Discovery (1-2 weeks)",
+      "text": "This phase kicks off with a detailed discussion about your vision, needs, lifestyle, and budget. Our team will conduct a thorough site measurement and assessment of existing conditions in your DFW home. We'll dive deep into your workflow and aesthetic preferences to gather all the information needed to inform the design direction.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Preliminary Design and Layout Options (2-4 weeks)",
+      "text": "Based on our discovery, we'll develop initial layout options and present them for your review. This stage often includes CAD-supported drawings to help you visualize the proposed changes. We'll coordinate potential appliance and fixture placements and discuss how different layouts address your storage, seating, and accessibility requirements. Revisions are common here to ensure the design truly aligns with your goals.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Material and Finish Selections (3-6 weeks)",
+      "text": "Once the layout is approved, we move into selecting all the finishes that bring your vision to life. This includes cabinetry style, countertops, backsplash tile, flooring, lighting, and hardware. Custom or semi-custom cabinets require significant lead time for fabrication and delivery, so these selections are critical to finalizing your order. This is where we ensure every element works cohesively.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Final Drawings, Specifications, and Permitting (2-4 weeks)",
+      "text": "With all selections made, we'll create detailed final drawings and specifications. If structural changes, plumbing relocations, or electrical upgrades are part of the plan, we'll coordinate with the local Dallas–Fort Worth building authority to secure all necessary permits. Permit approval times can vary, so this phase often includes a buffer.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Construction and Installation (6-12 weeks, depending on scope)",
+      "text": "This is where your design comes to life. Demolition occurs first, followed by rough-ins for electrical and plumbing, then inspections. Cabinet installation, countertop templating and fabrication, appliance delivery, flooring, and final fixture installations are meticulously sequenced. Our project management ensures clear communication and coordination among all trades, providing a single point of coordination.",
+      "@type": "HowToStep",
+      "position": 5
+    },
+    {
+      "name": "Step 6: Final Walkthrough and Punch List (1-2 weeks)",
+      "text": "Upon completion of all installations, we'll conduct a comprehensive final walkthrough with you. Any minor adjustments or touch-ups will be noted on a punch list and addressed promptly. This final step ensures your complete satisfaction with your new custom kitchen. Our commitment to craftsmanship and reliability extends through every detail. Remember, these timelines are estimates, and factors like custom product lead times, unexpected concealed conditions, or permit delays can influence the overall duration. AKN Design Group offers a managed process, providing transparency and expertise every step of the way. Let's discuss your custom kitchen project and create a realistic timeline tailored to your needs.",
+      "@type": "HowToStep",
+      "position": 6
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Fort Worth ",
+      "@type": "City"
+    },
+    {
+      "name": "Alameda",
+      "@type": "City"
+    },
+    {
+      "name": "Albany",
+      "@type": "City"
+    },
+    {
+      "name": "Berkeley",
+      "@type": "City"
+    },
+    {
+      "name": "Dublin",
+      "@type": "City"
+    },
+    {
+      "name": "Emeryville",
+      "@type": "City"
+    },
+    {
+      "name": "Fremont",
+      "@type": "City"
+    },
+    {
+      "name": "Hayward",
+      "@type": "City"
+    },
+    {
+      "name": "Livermore",
+      "@type": "City"
+    },
+    {
+      "name": "Newark",
+      "@type": "City"
+    },
+    {
+      "name": "Oakland",
+      "@type": "City"
+    },
+    {
+      "name": "Piedmont",
+      "@type": "City"
+    },
+    {
+      "name": "Pleasanton",
+      "@type": "City"
+    },
+    {
+      "name": "San Leandro",
+      "@type": "City"
+    },
+    {
+      "name": "Union City",
+      "@type": "City"
+    },
+    {
+      "name": "Castro Valley",
+      "@type": "City"
+    },
+    {
+      "name": "San Lorenzo",
+      "@type": "City"
+    },
+    {
+      "name": "Ashland",
+      "@type": "City"
+    },
+    {
+      "name": "Cherryland",
+      "@type": "City"
+    },
+    {
+      "name": "Fairview",
+      "@type": "City"
+    },
+    {
+      "name": "Sunol",
+      "@type": "City"
+    },
+    {
+      "name": "Antioch",
+      "@type": "City"
+    },
+    {
+      "name": "Brentwood",
+      "@type": "City"
+    },
+    {
+      "name": "Clayton",
+      "@type": "City"
+    },
+    {
+      "name": "Concord",
+      "@type": "City"
+    },
+    {
+      "name": "Danville",
+      "@type": "City"
+    },
+    {
+      "name": "El Cerrito",
+      "@type": "City"
+    },
+    {
+      "name": "Hercules",
+      "@type": "City"
+    },
+    {
+      "name": "Lafayette",
+      "@type": "City"
+    },
+    {
+      "name": "Martinez",
+      "@type": "City"
+    },
+    {
+      "name": "Moraga",
+      "@type": "City"
+    },
+    {
+      "name": "Oakley",
+      "@type": "City"
+    },
+    {
+      "name": "Orinda",
+      "@type": "City"
+    },
+    {
+      "name": "Pinole",
+      "@type": "City"
+    },
+    {
+      "name": "Pittsburg",
+      "@type": "City"
+    },
+    {
+      "name": "Pleasant Hill",
+      "@type": "City"
+    },
+    {
+      "name": "Richmond",
+      "@type": "City"
+    },
+    {
+      "name": "San Pablo",
+      "@type": "City"
+    },
+    {
+      "name": "San Ramon",
+      "@type": "City"
+    },
+    {
+      "name": "Walnut Creek",
+      "@type": "City"
+    }
+  ],
+  "description": "This phase kicks off with a detailed discussion about your vision, needs, lifestyle, and budget. Our team will conduct a thorough site measurement and assessment of existing conditions in your DFW hom"
+}

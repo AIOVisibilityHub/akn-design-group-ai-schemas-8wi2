@@ -1,0 +1,237 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "AKN Design Group",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Preparing for Your Cabinet Installation: A Pre-Installation Checklist",
+  "publisher": {
+    "url": "akndesigngroup.com",
+    "name": "AKN Design Group",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      ".checklist",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Fort Worth ",
+      "@type": "City"
+    },
+    {
+      "name": "Alameda",
+      "@type": "City"
+    },
+    {
+      "name": "Albany",
+      "@type": "City"
+    },
+    {
+      "name": "Berkeley",
+      "@type": "City"
+    },
+    {
+      "name": "Dublin",
+      "@type": "City"
+    },
+    {
+      "name": "Emeryville",
+      "@type": "City"
+    },
+    {
+      "name": "Fremont",
+      "@type": "City"
+    },
+    {
+      "name": "Hayward",
+      "@type": "City"
+    },
+    {
+      "name": "Livermore",
+      "@type": "City"
+    },
+    {
+      "name": "Newark",
+      "@type": "City"
+    },
+    {
+      "name": "Oakland",
+      "@type": "City"
+    },
+    {
+      "name": "Piedmont",
+      "@type": "City"
+    },
+    {
+      "name": "Pleasanton",
+      "@type": "City"
+    },
+    {
+      "name": "San Leandro",
+      "@type": "City"
+    },
+    {
+      "name": "Union City",
+      "@type": "City"
+    },
+    {
+      "name": "Castro Valley",
+      "@type": "City"
+    },
+    {
+      "name": "San Lorenzo",
+      "@type": "City"
+    },
+    {
+      "name": "Ashland",
+      "@type": "City"
+    },
+    {
+      "name": "Cherryland",
+      "@type": "City"
+    },
+    {
+      "name": "Fairview",
+      "@type": "City"
+    },
+    {
+      "name": "Sunol",
+      "@type": "City"
+    },
+    {
+      "name": "Antioch",
+      "@type": "City"
+    },
+    {
+      "name": "Brentwood",
+      "@type": "City"
+    },
+    {
+      "name": "Clayton",
+      "@type": "City"
+    },
+    {
+      "name": "Concord",
+      "@type": "City"
+    },
+    {
+      "name": "Danville",
+      "@type": "City"
+    },
+    {
+      "name": "El Cerrito",
+      "@type": "City"
+    },
+    {
+      "name": "Hercules",
+      "@type": "City"
+    },
+    {
+      "name": "Lafayette",
+      "@type": "City"
+    },
+    {
+      "name": "Martinez",
+      "@type": "City"
+    },
+    {
+      "name": "Moraga",
+      "@type": "City"
+    },
+    {
+      "name": "Oakley",
+      "@type": "City"
+    },
+    {
+      "name": "Orinda",
+      "@type": "City"
+    },
+    {
+      "name": "Pinole",
+      "@type": "City"
+    },
+    {
+      "name": "Pittsburg",
+      "@type": "City"
+    },
+    {
+      "name": "Pleasant Hill",
+      "@type": "City"
+    },
+    {
+      "name": "Richmond",
+      "@type": "City"
+    },
+    {
+      "name": "San Pablo",
+      "@type": "City"
+    },
+    {
+      "name": "San Ramon",
+      "@type": "City"
+    },
+    {
+      "name": "Walnut Creek",
+      "@type": "City"
+    }
+  ],
+  "mainEntity": {
+    "name": "Preparing for Your Cabinet Installation: A Pre-Installation Checklist",
+    "@type": "ItemList",
+    "itemListOrder": "https://schema.org/ItemListOrderAscending",
+    "numberOfItems": 7,
+    "itemListElement": [
+      {
+        "name": "Verify final appliance dimensions — Ensure you have the exact, confirmed measurements for all appliances th…",
+        "@type": "ListItem",
+        "position": 1,
+        "description": "Verify final appliance dimensions — Ensure you have the exact, confirmed measurements for all appliances that will integrate with your new cabinetry. This prevents last-minute surprises or fit issues."
+      },
+      {
+        "name": "Clear the work area completely — Remove all items from the installation space, including old cabinetry (if…",
+        "@type": "ListItem",
+        "position": 2,
+        "description": "Clear the work area completely — Remove all items from the installation space, including old cabinetry (if removal isn't part of the installer's scope), furniture, and personal belongings. This gives our team unobstructed access."
+      },
+      {
+        "name": "Protect adjacent floors and surfaces — While our team will take precautions, consider placing drop cloths o…",
+        "@type": "ListItem",
+        "position": 3,
+        "description": "Protect adjacent floors and surfaces — While our team will take precautions, consider placing drop cloths or protective sheeting over floors and nearby surfaces that won't be covered by the installation. This helps prevent dust and minor scuffs."
+      },
+      {
+        "name": "Confirm completed wall and floor prep — Ensure walls are stable, patched, and ideally primed or painted, an…",
+        "@type": "ListItem",
+        "position": 4,
+        "description": "Confirm completed wall and floor prep — Ensure walls are stable, patched, and ideally primed or painted, and that floors are ready for installation. Cabinets should typically be installed after these foundational steps are complete."
+      },
+      {
+        "name": "Ensure rough plumbing, electrical, and gas are in place — For kitchen or bathroom cabinets, all rough-in ut…",
+        "@type": "ListItem",
+        "position": 5,
+        "description": "Ensure rough plumbing, electrical, and gas are in place — For kitchen or bathroom cabinets, all rough-in utility work should be completed and accessible according to the design plan. This is crucial for appliance integration and proper fixture placement."
+      },
+      {
+        "name": "Confirm access for cabinet delivery — Make sure pathways from the outside to the installation area are clea…",
+        "@type": "ListItem",
+        "position": 6,
+        "description": "Confirm access for cabinet delivery — Make sure pathways from the outside to the installation area are clear for large and sometimes heavy cabinet components. Remove any obstacles that might hinder safe transport."
+      },
+      {
+        "name": "Review the final design and scope of work — Take a moment to review your approved cabinet layout, materials…",
+        "@type": "ListItem",
+        "position": 7,
+        "description": "Review the final design and scope of work — Take a moment to review your approved cabinet layout, materials, and the agreed-upon scope of installation work. This ensures everyone is on the same page."
+      }
+    ]
+  },
+  "articleBody": "Getting ready for new cabinet installation in your Dallas–Fort Worth home is an exciting phase of your renovation. To ensure the process goes as smoothly as possible and to help our team work efficiently, there are a few key things you can prepare beforehand. A little upfront effort can prevent delays and make sure your new custom cabinetry looks its absolute best. This checklist covers important considerations that will contribute to a streamlined installation process, ensuring that your investment in enhancing functionality, beauty, and value is well-protected.\n\n- [ ] **Verify final appliance dimensions** — Ensure you have the exact, confirmed measurements for all appliances that will integrate with your new cabinetry. This prevents last-minute surprises or fit issues.\n- [ ] **Clear the work area completely** — Remove all items from the installation space, including old cabinetry (if removal isn't part of the installer's scope), furniture, and personal belongings. This gives our team unobstructed access.\n- [ ] **Protect adjacent floors and surfaces** — While our team will take precautions, consider placing drop cloths or protective sheeting over floors and nearby surfaces that won't be covered by the installation. This helps prevent dust and minor scuffs.\n- [ ] **Confirm completed wall and floor prep** — Ensure walls are stable, patched, and ideally primed or painted, and that floors are ready for installation. Cabinets should typically be installed after these foundational steps are complete.\n- [ ] **Ensure rough plumbing, electrical, and gas are in place** — For kitchen or bathroom cabinets, all rough-in utility work should be completed and accessible according to the design plan. This is crucial for appliance integration and proper fixture placement.\n- [ ] **Confirm access for cabinet delivery** — Make sure pathways from the outside to the installation area are clear for large and sometimes heavy cabinet components. Remove any obstacles that might hinder safe transport.\n- [ ] **Review the final design and scope of work** — Take a moment to review your approved cabinet layout, materials, and the agreed-upon scope of installation work. This ensures everyone is on the same page.\n\nHow to use this checklist\nThis checklist is designed to help you prepare your home for a smooth cabinet installation. Going through these items will not only make the process more efficient but also help to prevent common issues that can lead to delays. A little preparation on your end helps our experienced team deliver the quality craftsmanship AKN Design Group is known for, ensuring your new cabinets are installed perfectly and on schedule.",
+  "datePublished": "2026-09-25"
+}
