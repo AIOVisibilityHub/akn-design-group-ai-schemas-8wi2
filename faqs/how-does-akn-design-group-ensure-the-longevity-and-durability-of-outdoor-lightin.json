@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-does-akn-design-group-ensure-the-longevity-and-durability-of-outdoor-lightin",
+  "name": "How does AKN Design Group ensure the longevity and durability of outdoor lighting installations?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does AKN Design Group ensure the longevity and durability of outdoor lighting installations?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "AKN Design Group ensures the longevity and durability of outdoor lighting installations through meticulous design, the selection of high-quality, weather-resistant fixtures, and professional installation practices. We prioritize robust materials and proper wiring techniques to withstand the elements prevalent in the Dallas–Fort Worth metroplex. Our two decades of experience in residential remodeling means we understand the importance of reliable construction, and we integrate these systems to stand the test of time as part of your comprehensive outdoor living space. This commitment reflects our core values of craftsmanship and reliability.",
+        "@type": "Answer",
+        "description": "We ensure longevity through meticulous design, high-quality, weather-resistant fixtures, and professional installation practices suitable for the Dallas–Fort Worth climate."
+      }
+    }
+  ],
+  "description": "We ensure longevity through meticulous design, high-quality, weather-resistant fixtures, and professional installation practices suitable for the Dallas–Fort Wo"
+}

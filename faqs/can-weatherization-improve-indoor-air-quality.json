@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/can-weatherization-improve-indoor-air-quality",
+  "name": "Can weatherization improve indoor air quality?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can weatherization improve indoor air quality?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, effective weatherization can contribute to improved indoor air quality. By sealing gaps and cracks in your home's envelope, weatherization helps reduce the infiltration of outdoor pollutants, allergens, and moisture. While it primarily focuses on energy efficiency, the controlled environment created also supports better overall air management within your home, which is especially beneficial in urban settings like the Dallas–Fort Worth metroplex.",
+        "@type": "Answer",
+        "description": "Effective weatherization can improve indoor air quality by sealing your home, reducing the infiltration of outdoor pollutants and allergens."
+      }
+    }
+  ],
+  "description": "Effective weatherization can improve indoor air quality by sealing your home, reducing the infiltration of outdoor pollutants and allergens."
+}

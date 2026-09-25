@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/when-should-i-consider-replacing-my-window-glass-rather-than-just-repairing-a-pa",
+  "name": "When should I consider replacing my window glass rather than just repairing a pane?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider replacing my window glass rather than just repairing a pane?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Consider replacing window glass as part of a larger renovation when existing panes are consistently foggy due to seal failure, show significant damage, or if you aim to enhance your home's energy efficiency and curb appeal. For homeowners in the Dallas–Fort Worth metroplex, upgrading to modern, energy-efficient glass can significantly impact interior comfort and reduce heating and cooling costs, especially when paired with a comprehensive home improvement plan.",
+        "@type": "Answer",
+        "description": "Replace window glass as part of a larger renovation for persistent fogginess, damage, or to enhance energy efficiency and curb appeal."
+      }
+    }
+  ],
+  "description": "Replace window glass as part of a larger renovation for persistent fogginess, damage, or to enhance energy efficiency and curb appeal."
+}

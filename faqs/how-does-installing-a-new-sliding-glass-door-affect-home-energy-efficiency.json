@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-does-installing-a-new-sliding-glass-door-affect-home-energy-efficiency",
+  "name": "How does installing a new sliding glass door affect home energy efficiency?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does installing a new sliding glass door affect home energy efficiency?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Installing a new, high-quality sliding glass door can significantly improve your home's energy efficiency. Modern doors feature advanced insulation, such as Low-E coatings, argon gas fills between panes, and superior weatherstripping, which minimize heat transfer. This helps maintain consistent indoor temperatures, reducing the workload on your HVAC system and potentially lowering energy bills. Upgrading to an energy-efficient door is a customized renovation that contributes to enhancing your home's functionality and long-term value.",
+        "@type": "Answer",
+        "description": "A new, high-quality sliding glass door improves energy efficiency with features like Low-E glass, argon gas, and better weatherstripping, reducing heat transfer and energy costs."
+      }
+    }
+  ],
+  "description": "A new, high-quality sliding glass door improves energy efficiency with features like Low-E glass, argon gas, and better weatherstripping, reducing heat transfer"
+}

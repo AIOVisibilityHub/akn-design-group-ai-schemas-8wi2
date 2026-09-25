@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-factors-influence-the-cost-of-building-a-retaining-wall",
+  "name": "What factors influence the cost of building a retaining wall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of building a retaining wall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of building a retaining wall is influenced by several key factors. These include the wall's height and length, the chosen materials (e.g., natural stone, segmental concrete blocks, poured concrete), the complexity of the site (e.g., soil conditions, accessibility, need for extensive excavation or drainage), and any specialized design features. Permit coordination and engineering requirements also contribute to the overall project investment. AKN Design Group provides upfront estimates and engages in value engineering during the design phase to align the project with your budget while upholding our commitment to craftsmanship and structural integrity.",
+        "@type": "Answer",
+        "description": "Retaining wall costs depend on height, length, material, site complexity, drainage needs, and permit requirements, with AKN providing upfront estimates."
+      }
+    }
+  ],
+  "description": "Retaining wall costs depend on height, length, material, site complexity, drainage needs, and permit requirements, with AKN providing upfront estimates."
+}

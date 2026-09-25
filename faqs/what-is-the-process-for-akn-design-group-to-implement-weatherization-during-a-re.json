@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-the-process-for-akn-design-group-to-implement-weatherization-during-a-re",
+  "name": "What is the process for AKN Design Group to implement weatherization during a remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for AKN Design Group to implement weatherization during a remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our process for implementing weatherization during a remodel begins with a detailed assessment of your home's current energy performance. We then develop a customized plan, integrating specific weatherization steps like insulation upgrades, air sealing, and window/door replacements into the overall renovation design. This managed approach ensures that all elements are executed by a single, accountable team from design planning through construction and final walkthrough, aligning with our comprehensive service offerings.",
+        "@type": "Answer",
+        "description": "Our process involves an energy assessment, customized plan development, and integrating weatherization steps like insulation and air sealing into your remodel. It’s managed by one team."
+      }
+    }
+  ],
+  "description": "Our process involves an energy assessment, customized plan development, and integrating weatherization steps like insulation and air sealing into your remodel."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-factors-influence-the-cost-of-installing-a-custom-privacy-screen-with-akn-d",
+  "name": "What factors influence the cost of installing a custom privacy screen with AKN Design Group?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of installing a custom privacy screen with AKN Design Group?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a custom privacy screen varies based on several factors, primarily the materials chosen, the size and complexity of the design, and any specialized features like integrated lighting or plant supports. Higher-quality materials such as custom metalwork or exotic hardwoods will typically incur higher costs than standard wood or composite options. The labor involved in intricate designs and integration with other outdoor features also plays a role. AKN Design Group focuses on delivering lasting value through craftsmanship and durable materials, providing transparent estimates as part of our high-touch homeowner experience.",
+        "@type": "Answer",
+        "description": "Cost factors for custom privacy screens include material selection, size, design complexity, and specialized features, with AKN Design Group providing transparent estimates."
+      }
+    }
+  ],
+  "description": "Cost factors for custom privacy screens include material selection, size, design complexity, and specialized features, with AKN Design Group providing transpare"
+}

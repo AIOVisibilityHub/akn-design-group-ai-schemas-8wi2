@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-maintenance-is-required-for-a-custom-installed-gate",
+  "name": "What maintenance is required for a custom-installed gate?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What maintenance is required for a custom-installed gate?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The maintenance required for a custom-installed gate largely depends on the materials chosen and whether it features automation. Generally, regular cleaning and occasional inspections of moving parts, hinges, and automation systems are recommended to ensure longevity and smooth operation. During your project's final walkthrough, we will provide guidance on specific care for your gate to preserve its craftsmanship and functionality, ensuring it remains a lasting impression.",
+        "@type": "Answer",
+        "description": "Gate maintenance varies by material and automation. Regular cleaning and inspections are typically needed, and we provide specific care guidance during project completion."
+      }
+    }
+  ],
+  "description": "Gate maintenance varies by material and automation. Regular cleaning and inspections are typically needed, and we provide specific care guidance during project"
+}

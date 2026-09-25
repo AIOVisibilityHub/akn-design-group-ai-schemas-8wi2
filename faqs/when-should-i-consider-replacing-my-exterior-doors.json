@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/when-should-i-consider-replacing-my-exterior-doors",
+  "name": "When should I consider replacing my exterior doors?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider replacing my exterior doors?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider replacing your exterior doors if you notice drafts, energy loss, visible damage like rot or warping, or compromised security. Older doors can significantly impact your home's energy efficiency and curb appeal. AKN Design Group emphasizes how a new, properly installed exterior door can enhance functionality and beauty, aligning with our focus on customized renovations that improve your home's long-term value. This is especially true for homes in the Dallas–Fort Worth metroplex, where extreme temperatures can make energy efficiency a priority.",
+        "@type": "Answer",
+        "description": "Replace exterior doors if you observe drafts, energy loss, visible damage, or security issues, especially in areas with varying climates like the Dallas–Fort Worth metroplex."
+      }
+    }
+  ],
+  "description": "Replace exterior doors if you observe drafts, energy loss, visible damage, or security issues, especially in areas with varying climates like the Dallas–Fort Wo"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/can-i-replace-only-the-glass-in-my-windows-or-do-i-need-new-frames",
+  "name": "Can I replace only the glass in my windows or do I need new frames?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I replace only the glass in my windows or do I need new frames?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether you replace only the glass or the entire window (including frames) depends on the condition of your existing frames and your overall renovation goals. If your frames are structurally sound, well-insulated, and aesthetically align with your vision, replacing only the glass (known as a glass insert or sash replacement) can be an option within a larger project. However, if frames are deteriorated, outdated, or you seek a complete aesthetic and performance overhaul, a full window replacement is often the more comprehensive and value-enhancing approach, especially during a significant remodel.",
+        "@type": "Answer",
+        "description": "Replacing only glass is possible if frames are sound; however, full window replacement is often preferred for deteriorated frames or a complete aesthetic and performance overhaul during a major remodel."
+      }
+    }
+  ],
+  "description": "Replacing only glass is possible if frames are sound; however, full window replacement is often preferred for deteriorated frames or a complete aesthetic and pe"
+}

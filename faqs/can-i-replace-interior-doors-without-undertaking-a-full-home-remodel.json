@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/can-i-replace-interior-doors-without-undertaking-a-full-home-remodel",
+  "name": "Can I replace interior doors without undertaking a full home remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I replace interior doors without undertaking a full home remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While AKN Design Group specializes in comprehensive, customized renovations like whole-home remodels, luxury bathrooms, and kitchen transformations, we typically integrate interior door replacements as part of these larger projects. Our focus is on providing a managed process for substantial, coordinated transformations rather than piecemeal installations. If you are considering interior door replacement as part of a larger scope that aligns with our expertise in enhancing functionality, beauty, and value through significant upgrades, we can certainly incorporate it. We do not offer standalone, labor-only door replacement services.",
+        "@type": "Answer",
+        "description": "AKN Design Group integrates interior door replacement as part of larger, comprehensive renovation projects, not as a standalone service. Our expertise lies in coordinated, substantial transformations that enhance home value."
+      }
+    }
+  ],
+  "description": "AKN Design Group integrates interior door replacement as part of larger, comprehensive renovation projects, not as a standalone service. Our expertise lies in c"
+}

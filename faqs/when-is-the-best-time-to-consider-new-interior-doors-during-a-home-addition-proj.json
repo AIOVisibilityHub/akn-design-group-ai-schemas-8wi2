@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/when-is-the-best-time-to-consider-new-interior-doors-during-a-home-addition-proj",
+  "name": "When is the best time to consider new interior doors during a home addition project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When is the best time to consider new interior doors during a home addition project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For a home addition project, the ideal time to consider new interior doors is during the initial design and planning phase. This allows for seamless integration into the structural layout and ensures that door styles, sizes, and functionality are accounted for in the architectural plans. AKN Design Group, as a residential design-build contractor, incorporates door specifications early on, allowing for efficient ordering and coordination with framing and finishing schedules. Early consideration helps prevent delays and ensures the new doors complement the expanded living space, contributing to a cohesive aesthetic for the entire addition.",
+        "@type": "Answer",
+        "description": "During a home addition, new interior doors should be considered in the initial design phase to ensure seamless integration and efficient coordination with construction schedules. AKN Design Group includes this in early planning."
+      }
+    }
+  ],
+  "description": "During a home addition, new interior doors should be considered in the initial design phase to ensure seamless integration and efficient coordination with const"
+}

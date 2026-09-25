@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-types-of-window-glass-replacement-does-akn-design-group-handle",
+  "name": "What types of window glass replacement does AKN Design Group handle?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of window glass replacement does AKN Design Group handle?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "AKN Design Group primarily handles window glass replacement as part of larger residential design-build projects, such as whole-home remodels, room additions, or comprehensive exterior renovations. We focus on integrating new, energy-efficient, or aesthetically superior glass into a broader project vision, ensuring a cohesive look and enhanced home performance. If your project involves a significant transformation rather than just a single pane repair, we can coordinate the selection and installation of appropriate glass types.",
+        "@type": "Answer",
+        "description": "AKN Design Group handles window glass replacement as part of larger residential design-build projects, integrating new glass into a broader renovation vision."
+      }
+    }
+  ],
+  "description": "AKN Design Group handles window glass replacement as part of larger residential design-build projects, integrating new glass into a broader renovation vision."
+}

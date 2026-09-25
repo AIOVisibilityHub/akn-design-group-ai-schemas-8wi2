@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/when-should-i-consider-replacing-rather-than-repairing-my-windows",
+  "name": "When should I consider replacing rather than repairing my windows?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider replacing rather than repairing my windows?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider replacing rather than just repairing your windows when they exhibit significant issues such as extensive rot, constant drafts, difficulty operating, or condensation between panes, which often indicates seal failure. While minor repairs can address isolated issues, widespread problems suggest that the windows are no longer performing optimally, impacting energy efficiency and comfort. Replacing them, especially as part of a larger whole-home remodel, allows for a comprehensive upgrade that enhances functionality, beauty, and long-term value, integrating new, energy-efficient units seamlessly into your home's design. AKN Design Group can help you assess the cost-effectiveness and benefits of replacement versus repair.",
+        "@type": "Answer",
+        "description": "Consider replacing windows rather than repairing them when facing extensive rot, constant drafts, operational difficulties, or seal failure with condensation between panes. Replacement, especially in a remodel, offers comprehensive upgrades that enhance functionality, beauty, and value."
+      }
+    }
+  ],
+  "description": "Consider replacing windows rather than repairing them when facing extensive rot, constant drafts, operational difficulties, or seal failure with condensation be"
+}

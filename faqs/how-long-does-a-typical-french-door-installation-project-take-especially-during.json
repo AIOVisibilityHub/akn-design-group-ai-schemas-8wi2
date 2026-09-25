@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-long-does-a-typical-french-door-installation-project-take-especially-during",
+  "name": "How long does a typical French door installation project take, especially during a larger remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical French door installation project take, especially during a larger remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for French door installation varies based on whether it's a standalone replacement or part of a larger, coordinated renovation. A standard replacement might take a few days, but integrating new French doors into a substantial project like a whole-home remodel or addition extends the timeline. AKN Design Group integrates this into the master project schedule, accounting for design, material procurement, structural modifications, permit coordination, and finish work. Our managed process aims for clear communication and scheduling transparency, ensuring efficient execution without compromising craftsmanship or the overall project timeline.",
+        "@type": "Answer",
+        "description": "The duration depends on project scope; a standalone installation is quicker, but as part of a larger remodel, it integrates into the overall schedule, managed for efficiency and transparency."
+      }
+    }
+  ],
+  "description": "The duration depends on project scope; a standalone installation is quicker, but as part of a larger remodel, it integrates into the overall schedule, managed f"
+}

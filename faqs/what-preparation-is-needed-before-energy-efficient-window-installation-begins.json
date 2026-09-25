@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-preparation-is-needed-before-energy-efficient-window-installation-begins",
+  "name": "What preparation is needed before energy-efficient window installation begins?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What preparation is needed before energy-efficient window installation begins?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before energy-efficient window installation commences as part of a larger project, homeowners should ensure clear access to all window areas, both inside and out. This may involve moving furniture, removing window treatments, and clearing exterior landscaping around the openings. AKN Design Group provides clear communication regarding site preparation requirements well in advance. Our managed process includes detailed scheduling and coordination, helping to ensure a smooth transition from your existing windows to their energy-efficient replacements during your customized renovation.",
+        "@type": "Answer",
+        "description": "Homeowners should clear access to window areas, both inside and out, before installation. AKN Design Group provides clear communication and coordinates site preparation within their managed renovation process."
+      }
+    }
+  ],
+  "description": "Homeowners should clear access to window areas, both inside and out, before installation. AKN Design Group provides clear communication and coordinates site pre"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-long-does-it-take-to-include-fencing-in-an-outdoor-living-space-renovation",
+  "name": "How long does it take to include fencing in an outdoor living space renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to include fencing in an outdoor living space renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for integrating fencing into an outdoor living space renovation is part of the larger project schedule. While the actual fence installation might be relatively quick, the overall duration depends on the complexity and scope of the entire outdoor living project, including elements like custom patios, outdoor kitchens, and landscaping. Our integrated design-build process provides a comprehensive project timeline from concept to completion, ensuring clear communication and efficient coordination of all phases. We emphasize thorough planning to avoid delays and deliver a cohesive outdoor transformation.",
+        "@type": "Answer",
+        "description": "Fencing timelines are integrated into the overall outdoor living project schedule. The total duration depends on the renovation's complexity, with clear timelines provided through our design-build process."
+      }
+    }
+  ],
+  "description": "Fencing timelines are integrated into the overall outdoor living project schedule. The total duration depends on the renovation's complexity, with clear timelin"
+}

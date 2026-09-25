@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-long-does-a-skylight-installation-project-typically-take",
+  "name": "How long does a skylight installation project typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a skylight installation project typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration for skylight installation varies based on the project's scope, including whether it's part of a larger renovation or a standalone addition, and the complexity of roof integration. A straightforward installation might take a few days, but if structural modifications, re-roofing, or extensive interior finishing are required, it will be longer. As part of our managed process, AKN Design Group provides upfront estimates and scheduling transparency, coordinating all necessary trades to ensure efficient completion alongside other renovation work.",
+        "@type": "Answer",
+        "description": "Skylight installation time varies by scope and complexity, especially if part of a larger remodel. We provide transparent scheduling and coordinate all trades."
+      }
+    }
+  ],
+  "description": "Skylight installation time varies by scope and complexity, especially if part of a larger remodel. We provide transparent scheduling and coordinate all trades."
+}

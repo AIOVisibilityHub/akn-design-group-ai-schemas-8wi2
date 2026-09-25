@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-does-akn-design-group-ensure-precise-interior-door-installation-in-older-for",
+  "name": "How does AKN Design Group ensure precise interior door installation in older Fort Worth homes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does AKN Design Group ensure precise interior door installation in older Fort Worth homes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In older Fort Worth homes, precise interior door installation often requires accounting for uneven door frames and settled foundations. AKN Design Group leverages our decades of experience and local DFW expertise to address these challenges effectively. Our skilled craftsmen conduct meticulous measurements and make necessary adjustments during installation to ensure that new doors fit perfectly, operate smoothly, and maintain their aesthetic appeal. This attention to detail is part of our commitment to craftsmanship and reliability, ensuring that even in historic properties, our renovations enhance functionality and beauty.",
+        "@type": "Answer",
+        "description": "For older Fort Worth homes, AKN Design Group accounts for uneven frames and settled foundations through meticulous measurements and adjustments, ensuring precise door installation and smooth operation, reflecting our commitment to craftsmanship."
+      }
+    }
+  ],
+  "description": "For older Fort Worth homes, AKN Design Group accounts for uneven frames and settled foundations through meticulous measurements and adjustments, ensuring precis"
+}

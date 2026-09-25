@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-involved-in-the-process-of-installing-a-new-sliding-glass-door",
+  "name": "What is involved in the process of installing a new sliding glass door?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in the process of installing a new sliding glass door?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our process for installing a new sliding glass door begins with a comprehensive consultation to understand your needs and select the appropriate door type. We then manage the design and planning, including any necessary structural modifications, permit coordination, and precise measurements. The installation phase involves carefully removing the old door, preparing the opening, installing the new unit with proper sealing and insulation, and integrating it seamlessly with your home's interior and exterior finishes. AKN Design Group ensures clear communication and meticulous craftsmanship throughout every step.",
+        "@type": "Answer",
+        "description": "The installation process involves consultation, design, permit coordination, removal of the old door, precise installation with proper sealing, and integration with home finishes."
+      }
+    }
+  ],
+  "description": "The installation process involves consultation, design, permit coordination, removal of the old door, precise installation with proper sealing, and integration"
+}

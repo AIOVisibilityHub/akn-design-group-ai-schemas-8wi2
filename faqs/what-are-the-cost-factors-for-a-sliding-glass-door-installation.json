@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-are-the-cost-factors-for-a-sliding-glass-door-installation",
+  "name": "What are the cost factors for a sliding glass door installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the cost factors for a sliding glass door installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a sliding glass door installation is influenced by several factors, including the type and quality of the door chosen, its size, the complexity of the installation (e.g., whether structural modifications or frame alterations are needed), and the finish materials. High-performance glass, specialized frames, and custom sizes will affect the overall investment. While we don't focus on being the cheapest, we offer upfront estimates and value engineering within our managed process, ensuring a customized solution that enhances your home's long-term value.",
+        "@type": "Answer",
+        "description": "Cost factors include door type, quality, size, installation complexity, and finish materials. We provide upfront estimates and focus on value within a managed process."
+      }
+    }
+  ],
+  "description": "Cost factors include door type, quality, size, installation complexity, and finish materials. We provide upfront estimates and focus on value within a managed p"
+}

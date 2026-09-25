@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-maintenance-is-required-for-landscape-lighting-systems-in-the-fort-worth-ar",
+  "name": "What maintenance is required for landscape lighting systems in the Fort Worth area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What maintenance is required for landscape lighting systems in the Fort Worth area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Landscape lighting systems, particularly those installed by AKN Design Group, are designed for durability, but some minimal maintenance helps preserve their appearance and functionality. In the Fort Worth area, this typically involves periodically cleaning lenses to remove dirt or debris, checking for loose connections, and adjusting fixture positioning as landscaping grows. Our focus on quality craftsmanship means we select robust components, but regular inspection helps ensure optimal performance and longevity for your high-end outdoor living space.",
+        "@type": "Answer",
+        "description": "Minimal maintenance like cleaning lenses, checking connections, and adjusting fixtures helps preserve landscape lighting functionality and appearance in the Fort Worth area."
+      }
+    }
+  ],
+  "description": "Minimal maintenance like cleaning lenses, checking connections, and adjusting fixtures helps preserve landscape lighting functionality and appearance in the For"
+}

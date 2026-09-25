@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/when-is-the-best-time-to-install-outdoor-lighting-during-a-larger-renovation-pro",
+  "name": "When is the best time to install outdoor lighting during a larger renovation project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When is the best time to install outdoor lighting during a larger renovation project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For optimal integration and efficiency, outdoor lighting is best planned and installed as an integral part of a larger outdoor living space renovation or whole-home remodel. Coordinating lighting installation alongside hardscaping, patio construction, or outdoor kitchen development allows for seamless wiring concealment and strategic fixture placement. This integrated approach, a hallmark of AKN Design Group's design-build process, prevents potential rework and ensures that all elements of your project harmonize effectively, enhancing both functionality and beauty.",
+        "@type": "Answer",
+        "description": "Outdoor lighting is best installed as part of a larger outdoor living space renovation to ensure seamless integration and efficiency with other construction elements."
+      }
+    }
+  ],
+  "description": "Outdoor lighting is best installed as part of a larger outdoor living space renovation to ensure seamless integration and efficiency with other construction ele"
+}

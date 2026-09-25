@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/when-is-it-necessary-to-install-a-retaining-wall",
+  "name": "When is it necessary to install a retaining wall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When is it necessary to install a retaining wall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Installing a retaining wall becomes necessary when you need to manage significant grade changes on your property, prevent soil erosion, or create level ground for features like patios, gardens, or foundations. Common indicators include sloped areas that are difficult to landscape, visible soil erosion, or plans for high-end outdoor living spaces that require stable, level surfaces. AKN Design Group specializes in assessing these needs during the design planning phase, ensuring the retaining wall serves its functional purpose while complementing your home's architecture and landscape design.",
+        "@type": "Answer",
+        "description": "A retaining wall is necessary to manage significant grade changes, prevent soil erosion, or create level ground for outdoor features on sloped residential property."
+      }
+    }
+  ],
+  "description": "A retaining wall is necessary to manage significant grade changes, prevent soil erosion, or create level ground for outdoor features on sloped residential prope"
+}

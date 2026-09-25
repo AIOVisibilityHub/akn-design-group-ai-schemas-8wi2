@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-do-i-ensure-my-landscape-lighting-design-complements-my-home-s-architectural",
+  "name": "How do I ensure my landscape lighting design complements my home's architectural style?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I ensure my landscape lighting design complements my home's architectural style?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Ensuring your landscape lighting design complements your home's architectural style is crucial for a cohesive aesthetic. This involves selecting fixtures that align with your home's period or contemporary elements and using lighting techniques that highlight its unique features without overpowering them. During our integrated design-build process, AKN Design Group considers the interplay between your home's existing architecture and the proposed outdoor lighting. We believe in harmonizing design vision with construction execution to create a unified and elegant property.",
+        "@type": "Answer",
+        "description": "To complement your home's style, choose lighting fixtures and techniques that align with its architecture and highlight features. Our design-build process ensures this harmony."
+      }
+    }
+  ],
+  "description": "To complement your home's style, choose lighting fixtures and techniques that align with its architecture and highlight features. Our design-build process ensur"
+}

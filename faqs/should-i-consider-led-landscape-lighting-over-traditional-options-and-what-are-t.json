@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/should-i-consider-led-landscape-lighting-over-traditional-options-and-what-are-t",
+  "name": "Should I consider LED landscape lighting over traditional options, and what are the tradeoffs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I consider LED landscape lighting over traditional options, and what are the tradeoffs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "LED landscape lighting offers significant advantages in energy efficiency, longevity, and versatility compared to traditional halogen or incandescent options. While the initial investment for LED fixtures might be slightly higher, the long-term savings on electricity and reduced maintenance typically make them a more cost-effective choice. A practical tradeoff is the upfront cost versus the substantial savings and durability over time. AKN Design Group prioritizes value engineering and integrates solutions that enhance functionality and beauty, ensuring your investment is sound.",
+        "@type": "Answer",
+        "description": "LED landscape lighting is more energy-efficient and lasts longer than traditional options, often leading to long-term cost savings despite a higher initial investment."
+      }
+    }
+  ],
+  "description": "LED landscape lighting is more energy-efficient and lasts longer than traditional options, often leading to long-term cost savings despite a higher initial inve"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-the-process-for-assessing-my-current-insulation-and-planning-an-upgrade",
+  "name": "What is the process for assessing my current insulation and planning an upgrade?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for assessing my current insulation and planning an upgrade?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process for assessing your current insulation and planning an upgrade begins with a thorough inspection of your attic, walls, and crawl spaces to identify existing R-values, air leaks, and areas of deficiency. We consider your home's construction, age, and your specific comfort concerns. This initial assessment allows us to develop a customized renovation plan, which may include CAD-supported layouts, detailing recommended insulation types, R-value targets, and integration with any broader remodeling goals. As your single point of coordination, AKN Design Group ensures this planning phase is meticulous and aligned with enhancing your home's functionality and value.",
+        "@type": "Answer",
+        "description": "Assessment involves inspecting existing insulation and identifying deficiencies to develop a customized plan, often with CAD support, integrated into broader renovation goals."
+      }
+    }
+  ],
+  "description": "Assessment involves inspecting existing insulation and identifying deficiencies to develop a customized plan, often with CAD support, integrated into broader re"
+}

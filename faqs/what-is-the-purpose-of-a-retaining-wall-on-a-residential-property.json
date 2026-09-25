@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-the-purpose-of-a-retaining-wall-on-a-residential-property",
+  "name": "What is the purpose of a retaining wall on a residential property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the purpose of a retaining wall on a residential property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A retaining wall is a structure designed to hold back soil and prevent erosion, creating usable flat areas on sloped landscapes. For homeowners in the Dallas–Fort Worth metroplex, retaining walls can transform challenging terrains into functional spaces for landscaping, patios, or other outdoor living features. They are crucial for managing grade changes, particularly in areas susceptible to soil movement, thereby enhancing both the utility and aesthetic of your property. Our integrated design-build process ensures these walls are structurally sound and aesthetically integrated into your overall landscape plan.",
+        "@type": "Answer",
+        "description": "A retaining wall holds back soil to prevent erosion and create usable flat areas on sloped residential landscapes, enhancing both utility and aesthetics."
+      }
+    }
+  ],
+  "description": "A retaining wall holds back soil to prevent erosion and create usable flat areas on sloped residential landscapes, enhancing both utility and aesthetics."
+}

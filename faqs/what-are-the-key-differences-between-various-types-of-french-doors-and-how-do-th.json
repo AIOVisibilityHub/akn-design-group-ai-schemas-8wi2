@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-are-the-key-differences-between-various-types-of-french-doors-and-how-do-th",
+  "name": "What are the key differences between various types of French doors, and how do they impact a renovation project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the key differences between various types of French doors, and how do they impact a renovation project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "French doors come in various configurations, including inswing, outswing, and sliding panel options, each impacting space utilization and design. Inswing doors require clear interior space, while outswing doors need clear exterior clearance. Sliding French doors, often called French-style sliding patio doors, offer a space-saving alternative, preserving both interior and exterior areas. The choice influences not only the door's operation but also how it integrates with your furniture layout, landscaping, and overall traffic flow, which our design-build team considers during project planning to enhance functionality.",
+        "@type": "Answer",
+        "description": "Different French door types, such as inswing, outswing, or sliding, vary in operation and impact space utilization, influencing furniture layout and traffic flow in a renovation."
+      }
+    }
+  ],
+  "description": "Different French door types, such as inswing, outswing, or sliding, vary in operation and impact space utilization, influencing furniture layout and traffic flo"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-maintenance-is-required-for-a-retaining-wall-after-installation",
+  "name": "What maintenance is required for a retaining wall after installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What maintenance is required for a retaining wall after installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Minimal maintenance is typically required for a well-designed and professionally installed retaining wall. We recommend regular inspections for any signs of cracking, bulging, or leaning, particularly after significant rainfall. Ensuring that drainage systems, such as weep holes and drainpipes, remain clear of debris is also crucial to prevent water buildup. Keeping vegetation trimmed away from the wall can help prevent root intrusion. AKN Design Group constructs retaining walls with long-term durability in mind, using quality materials and proven techniques that minimize the need for extensive ongoing maintenance, allowing you to enjoy your enhanced outdoor living spaces with peace of mind.",
+        "@type": "Answer",
+        "description": "Maintain a retaining wall by inspecting for damage, ensuring drainage systems are clear, and trimming nearby vegetation to prevent root intrusion."
+      }
+    }
+  ],
+  "description": "Maintain a retaining wall by inspecting for damage, ensuring drainage systems are clear, and trimming nearby vegetation to prevent root intrusion."
+}

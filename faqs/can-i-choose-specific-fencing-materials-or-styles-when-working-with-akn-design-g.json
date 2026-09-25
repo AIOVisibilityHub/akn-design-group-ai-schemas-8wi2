@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/can-i-choose-specific-fencing-materials-or-styles-when-working-with-akn-design-g",
+  "name": "Can I choose specific fencing materials or styles when working with AKN Design Group?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I choose specific fencing materials or styles when working with AKN Design Group?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, as part of our customized renovations, you have the opportunity to choose specific fencing materials and styles that align with your aesthetic preferences and the overall design of your outdoor living space. During the design phase, our team will present a range of high-quality options, from traditional wood privacy fences to modern composite or decorative metal styles, ensuring they complement your home's architecture and your project's vision. Our managed process includes guiding you through material selections to ensure durability, beauty, and harmony with your other outdoor features.",
+        "@type": "Answer",
+        "description": "Yes, you can choose specific fencing materials and styles. Our design process offers high-quality options that align with your outdoor living space and home's aesthetic."
+      }
+    }
+  ],
+  "description": "Yes, you can choose specific fencing materials and styles. Our design process offers high-quality options that align with your outdoor living space and home's a"
+}

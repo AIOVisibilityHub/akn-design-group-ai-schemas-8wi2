@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/why-choose-akn-design-group-for-my-sliding-glass-door-installation",
+  "name": "Why choose AKN Design Group for my sliding glass door installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why choose AKN Design Group for my sliding glass door installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "AKN Design Group is an ideal choice for sliding glass door installation when it's part of a larger, coordinated home renovation or a substantial upgrade. We provide a single point of coordination for complex projects, integrating design planning, permit coordination, and construction under one experienced team. Our commitment to honesty, reliability, and craftsmanship, refined over two decades and 10,000+ jobs, ensures a managed process and a high-touch homeowner experience. We focus on enhancing functionality, beauty, and value, delivering customized solutions beyond isolated installations.",
+        "@type": "Answer",
+        "description": "Choose AKN Design Group for integrated sliding glass door installations within larger renovations, benefiting from our single point of coordination, managed process, and commitment to craftsmanship."
+      }
+    }
+  ],
+  "description": "Choose AKN Design Group for integrated sliding glass door installations within larger renovations, benefiting from our single point of coordination, managed pro"
+}

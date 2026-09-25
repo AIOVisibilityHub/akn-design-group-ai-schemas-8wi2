@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-types-of-interior-doors-are-best-for-a-whole-home-remodel",
+  "name": "What types of interior doors are best for a whole-home remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of interior doors are best for a whole-home remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When undergoing a whole-home remodel, selecting interior doors that complement the overall design vision is crucial. Options range from solid core doors for enhanced sound insulation and durability to various styles like panel, shaker, or flush designs. AKN Design Group integrates interior doors and trim within a cohesive renovation plan, ensuring they align with your home's aesthetic and functional needs. We guide clients through material and style selections, emphasizing how door choices impact both the visual flow and acoustic properties of a newly transformed space, creating a harmonious and functional living environment.",
+        "@type": "Answer",
+        "description": "For a whole-home remodel, consider solid core doors for durability and sound insulation, and choose styles that complement your home's new aesthetic. AKN Design Group helps integrate door selections into your overall design vision."
+      }
+    }
+  ],
+  "description": "For a whole-home remodel, consider solid core doors for durability and sound insulation, and choose styles that complement your home's new aesthetic. AKN Design"
+}

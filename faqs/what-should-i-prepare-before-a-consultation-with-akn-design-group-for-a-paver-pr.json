@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-should-i-prepare-before-a-consultation-with-akn-design-group-for-a-paver-pr",
+  "name": "What should I prepare before a consultation with AKN Design Group for a paver project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare before a consultation with AKN Design Group for a paver project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before your consultation for a paver project, it's helpful to consider your vision for the space, including its intended use, desired aesthetic, and any specific features you envision, such as an outdoor kitchen or fire pit. Gathering inspirational images or having a general idea of your preferences for paver styles and colors can also be beneficial. This initial preparation allows our design-build team to better understand your lifestyle and aesthetic goals, enabling us to develop a customized renovation plan that aligns perfectly with your expectations.",
+        "@type": "Answer",
+        "description": "Before a paver project consultation, consider your vision for the space, intended use, desired aesthetic, and any specific features. Gathering inspirational images is also helpful."
+      }
+    }
+  ],
+  "description": "Before a paver project consultation, consider your vision for the space, intended use, desired aesthetic, and any specific features. Gathering inspirational ima"
+}

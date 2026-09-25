@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-does-akn-design-group-incorporate-solar-ready-features-into-a-custom-kitchen",
+  "name": "How does AKN Design Group incorporate solar-ready features into a custom kitchen or bathroom renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does AKN Design Group incorporate solar-ready features into a custom kitchen or bathroom renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While a kitchen or bathroom renovation may not directly involve roof work, our integrated design-build approach considers the whole home. For example, during a kitchen renovation, we can assess and upgrade your electrical panel to handle both new appliance loads and future solar tie-ins, or route necessary conduit. In a luxury bathroom remodel, we can ensure plumbing and electrical systems align with potential solar water heating options. Our team coordinates these details across all project phases, ensuring that even interior renovations contribute to a solar-ready home without disrupting your aesthetic or functionality goals.",
+        "@type": "Answer",
+        "description": "AKN Design Group integrates solar-ready elements into kitchen or bathroom renovations by assessing and upgrading electrical panels and routing conduits for future solar tie-ins. This ensures seamless preparation for solar energy across your entire home."
+      }
+    }
+  ],
+  "description": "AKN Design Group integrates solar-ready elements into kitchen or bathroom renovations by assessing and upgrading electrical panels and routing conduits for futu"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-types-of-insulation-are-available-for-home-upgrades-and-how-do-they-differ",
+  "name": "What types of insulation are available for home upgrades, and how do they differ?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of insulation are available for home upgrades, and how do they differ?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For insulation upgrades, common options include fiberglass batts, blown-in cellulose, and spray foam. Fiberglass batts are cost-effective and suitable for attics and walls, while blown-in cellulose, made from recycled paper, offers excellent sound dampening and fills irregular spaces effectively. Spray foam, available as open-cell or closed-cell, provides superior air sealing and higher R-values per inch, making it ideal for maximizing efficiency in smaller cavities. AKN Design Group evaluates your home's specific needs and project scope to recommend the most suitable material, ensuring optimal performance as part of a customized renovation.",
+        "@type": "Answer",
+        "description": "Common insulation types include fiberglass, cellulose, and spray foam, each offering different benefits in cost, R-value, and application suitability depending on your home's needs."
+      }
+    }
+  ],
+  "description": "Common insulation types include fiberglass, cellulose, and spray foam, each offering different benefits in cost, R-value, and application suitability depending"
+}

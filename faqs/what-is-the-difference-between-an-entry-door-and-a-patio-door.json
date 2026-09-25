@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-the-difference-between-an-entry-door-and-a-patio-door",
+  "name": "What is the difference between an entry door and a patio door?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between an entry door and a patio door?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Entry doors are primarily designed for security, insulation, and curb appeal, serving as the main access point to your home. They are typically single, solid doors made from materials like steel, fiberglass, or wood, and often feature robust locking systems. Patio doors, on the other hand, are designed to connect interior spaces with outdoor areas, prioritizing natural light and ease of access. They commonly come as sliding glass doors or French (swinging) doors, emphasizing wider openings and glass panels. AKN Design Group can help you select and install the optimal door type to enhance the functionality, beauty, and value of your home.",
+        "@type": "Answer",
+        "description": "Entry doors prioritize security and curb appeal as main access points, while patio doors emphasize natural light and outdoor access, often as sliding or French doors."
+      }
+    }
+  ],
+  "description": "Entry doors prioritize security and curb appeal as main access points, while patio doors emphasize natural light and outdoor access, often as sliding or French"
+}

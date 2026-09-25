@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-preparation-is-needed-before-starting-a-green-building-upgrade-consultation",
+  "name": "What preparation is needed before starting a green building upgrade consultation with AKN Design Group?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What preparation is needed before starting a green building upgrade consultation with AKN Design Group?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before a green building upgrade consultation, homeowners should ideally have a clear understanding of their renovation goals, including which areas of the home they wish to improve and any specific sustainability aspirations they may have. Gathering information about current utility bills, prior energy audits, or any existing comfort issues can be highly beneficial. This preparation helps us assess your home's current performance and identify the most impactful green solutions, enabling us to provide a customized renovation plan that aligns with your vision for enhancing functionality, beauty, and value.",
+        "@type": "Answer",
+        "description": "Before a consultation, homeowners should define renovation goals, note specific sustainability aspirations, and gather current utility bills or energy audit information."
+      }
+    }
+  ],
+  "description": "Before a consultation, homeowners should define renovation goals, note specific sustainability aspirations, and gather current utility bills or energy audit inf"
+}

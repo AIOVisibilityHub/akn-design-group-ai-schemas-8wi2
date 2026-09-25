@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-do-different-interior-door-materials-impact-durability-and-soundproofing",
+  "name": "How do different interior door materials impact durability and soundproofing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do different interior door materials impact durability and soundproofing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Interior door materials significantly influence both durability and soundproofing. Solid wood or solid core doors, for instance, offer superior sound dampening and greater resistance to wear and tear compared to hollow core doors. Hollow core doors are lighter and more economical but provide minimal sound insulation. When planning your customized renovations, AKN Design Group advises on material choices based on your specific needs, such as privacy in bedrooms or sound reduction in home offices. We prioritize enhancing functionality and value through thoughtful material selections that align with the high-quality standards of your project.",
+        "@type": "Answer",
+        "description": "Solid core or solid wood doors provide better soundproofing and durability than hollow core doors. AKN Design Group helps clients choose materials that align with their renovation goals, enhancing functionality and value."
+      }
+    }
+  ],
+  "description": "Solid core or solid wood doors provide better soundproofing and durability than hollow core doors. AKN Design Group helps clients choose materials that align wi"
+}

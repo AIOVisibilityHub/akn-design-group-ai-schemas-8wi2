@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-does-landscape-lighting-contribute-to-the-security-and-safety-of-my-home",
+  "name": "How does landscape lighting contribute to the security and safety of my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does landscape lighting contribute to the security and safety of my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Thoughtfully designed landscape lighting significantly enhances home security by deterring potential intruders and improving visibility for residents. Well-lit pathways and entry points reduce tripping hazards, particularly around steps or uneven surfaces within your outdoor living space. AKN Design Group considers both aesthetic appeal and practical benefits, including safety and security, as integral components of our high-end outdoor living space designs. Our goal is to create an environment that feels both inviting and secure.",
+        "@type": "Answer",
+        "description": "Landscape lighting improves home security by deterring intruders and enhances safety by illuminating pathways and potential hazards. We integrate these benefits into our designs."
+      }
+    }
+  ],
+  "description": "Landscape lighting improves home security by deterring intruders and enhances safety by illuminating pathways and potential hazards. We integrate these benefits"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-the-typical-timeframe-for-a-custom-outdoor-stair-installation-project",
+  "name": "What is the typical timeframe for a custom outdoor stair installation project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical timeframe for a custom outdoor stair installation project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeframe for a custom outdoor stair installation project can vary based on several factors, including the complexity of the design, the chosen materials, site preparation requirements, and the need for permit coordination. A simpler installation might take a few weeks, while a more elaborate structure integrated into a larger outdoor living space could extend over several months. AKN Design Group provides clear communication regarding scheduling transparency and project milestones during our managed process, ensuring you are well-informed from consultation through final walkthrough.",
+        "@type": "Answer",
+        "description": "Project timeframes vary by design complexity, materials, site prep, and permits; we provide clear communication and scheduling transparency throughout."
+      }
+    }
+  ],
+  "description": "Project timeframes vary by design complexity, materials, site prep, and permits; we provide clear communication and scheduling transparency throughout."
+}

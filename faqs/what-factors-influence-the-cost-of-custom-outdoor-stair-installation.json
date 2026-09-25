@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-factors-influence-the-cost-of-custom-outdoor-stair-installation",
+  "name": "What factors influence the cost of custom outdoor stair installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of custom outdoor stair installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of custom outdoor stair installation is influenced by several key factors. Material choice, such as natural stone, premium hardwoods, or custom metalwork, significantly impacts the budget. Complexity of design, including curves, landings, or integrated lighting, also contributes to labor and material expenses. Site conditions, such as challenging terrain or existing demolition, can also affect the overall cost. AKN Design Group provides upfront estimates during our consultation, offering transparent pricing for a managed process that emphasizes craftsmanship and long-term value over simply the lowest price.",
+        "@type": "Answer",
+        "description": "Factors influencing cost include material choice, design complexity, and site conditions, all detailed in our upfront estimates for a managed process."
+      }
+    }
+  ],
+  "description": "Factors influencing cost include material choice, design complexity, and site conditions, all detailed in our upfront estimates for a managed process."
+}

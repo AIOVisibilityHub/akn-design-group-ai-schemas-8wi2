@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-long-does-a-typical-paver-installation-take-with-akn-design-group",
+  "name": "How long does a typical paver installation take with AKN Design Group?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical paver installation take with AKN Design Group?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for a paver installation varies depending on the project's scope and complexity. A standalone paver patio might take less time than a comprehensive outdoor living space that includes an outdoor kitchen, covered patio, and extensive paver work. During our design phase, we establish a detailed project timeline, providing transparency regarding demolition, site preparation, installation, and final touches. Our commitment to a managed process ensures efficient execution, minimizing disruption while upholding our standards of craftsmanship.",
+        "@type": "Answer",
+        "description": "Project duration for paver installation varies by scope, from standalone patios to complex outdoor living spaces. We provide transparent timelines during the design phase to manage expectations."
+      }
+    }
+  ],
+  "description": "Project duration for paver installation varies by scope, from standalone patios to complex outdoor living spaces. We provide transparent timelines during the de"
+}

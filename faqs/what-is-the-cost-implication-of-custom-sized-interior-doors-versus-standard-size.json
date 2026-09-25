@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-the-cost-implication-of-custom-sized-interior-doors-versus-standard-size",
+  "name": "What is the cost implication of custom-sized interior doors versus standard sizes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the cost implication of custom-sized interior doors versus standard sizes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Custom-sized interior doors typically have a higher cost implication compared to standard sizes due to specialized manufacturing and potential for longer lead times. Standard door sizes are more readily available and often less expensive. However, in older homes or for unique architectural designs common in the Dallas–Fort Worth metroplex, custom doors may be necessary to ensure a perfect fit and maintain the home's character. AKN Design Group provides value engineering within our high-value renovations, balancing aesthetic goals with practical budget considerations, ensuring that your customized solutions deliver both beauty and long-term value.",
+        "@type": "Answer",
+        "description": "Custom-sized interior doors cost more than standard sizes due to specialized manufacturing, while standard sizes are more economical. AKN Design Group balances these considerations within your renovation budget for optimal value."
+      }
+    }
+  ],
+  "description": "Custom-sized interior doors cost more than standard sizes due to specialized manufacturing, while standard sizes are more economical. AKN Design Group balances"
+}

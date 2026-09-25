@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/will-installing-energy-efficient-windows-require-any-changes-to-my-home-s-exteri",
+  "name": "Will installing energy-efficient windows require any changes to my home's exterior or interior finishes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will installing energy-efficient windows require any changes to my home's exterior or interior finishes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Installing energy-efficient windows may sometimes necessitate minor adjustments to exterior siding or interior trim, especially if the new windows differ in size or framing from the old ones. AKN Design Group ensures that any such modifications are seamlessly integrated into your overall renovation. Our design-build approach means we coordinate all aspects, from structural changes to interior finishes and exterior tie-ins, maintaining a cohesive aesthetic for your home. This commitment to craftsmanship ensures that your new windows enhance both functionality and beauty without compromising your home’s existing style.",
+        "@type": "Answer",
+        "description": "New window installation may require minor adjustments to exterior siding or interior trim. AKN Design Group integrates these modifications seamlessly into your renovation, coordinating all finishes for a cohesive result."
+      }
+    }
+  ],
+  "description": "New window installation may require minor adjustments to exterior siding or interior trim. AKN Design Group integrates these modifications seamlessly into your"
+}

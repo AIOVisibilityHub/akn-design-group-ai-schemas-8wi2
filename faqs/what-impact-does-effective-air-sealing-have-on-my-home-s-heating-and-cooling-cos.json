@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-impact-does-effective-air-sealing-have-on-my-home-s-heating-and-cooling-cos",
+  "name": "What impact does effective air sealing have on my home's heating and cooling costs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What impact does effective air sealing have on my home's heating and cooling costs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Effective air sealing can significantly reduce your home's heating and cooling costs by minimizing the amount of conditioned air that escapes and unconditioned air that infiltrates. This means your HVAC system doesn't have to work as hard to maintain a comfortable indoor temperature, leading to lower energy consumption. While specific savings vary based on your home's initial condition and the extent of air sealing, it is a key component in enhancing overall energy efficiency and contributing to the long-term value and functionality of your residence.",
+        "@type": "Answer",
+        "description": "Effective air sealing reduces heating and cooling costs by preventing air leaks, making your HVAC system more efficient and enhancing your home's overall energy performance."
+      }
+    }
+  ],
+  "description": "Effective air sealing reduces heating and cooling costs by preventing air leaks, making your HVAC system more efficient and enhancing your home's overall energy"
+}

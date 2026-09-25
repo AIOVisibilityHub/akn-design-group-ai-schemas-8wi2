@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-hardscaping-and-how-does-it-enhance-my-outdoor-living-space",
+  "name": "What is hardscaping and how does it enhance my outdoor living space?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is hardscaping and how does it enhance my outdoor living space?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Hardscaping involves incorporating non-living elements such as patios, walkways, retaining walls, fire pits, and outdoor kitchens into your landscape design. These features create functional, durable, and visually appealing structures that define outdoor areas, improve usability, and enhance your property's overall aesthetic and value. AKN Design Group focuses on integrating these elements seamlessly with your home's architecture and your lifestyle, ensuring a cohesive and sophisticated high-end outdoor living space for entertaining or relaxation.",
+        "@type": "Answer",
+        "description": "Hardscaping uses non-living elements like patios and fire pits to create functional, durable, and visually appealing outdoor spaces, enhancing your property's aesthetic and value."
+      }
+    }
+  ],
+  "description": "Hardscaping uses non-living elements like patios and fire pits to create functional, durable, and visually appealing outdoor spaces, enhancing your property's a"
+}

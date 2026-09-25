@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-do-i-choose-the-right-outdoor-lighting-for-my-fort-worth-home",
+  "name": "How do I choose the right outdoor lighting for my Fort Worth home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right outdoor lighting for my Fort Worth home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right outdoor lighting involves considering your home's architecture, landscape features, and how you intend to use your outdoor spaces. AKN Design Group approaches this by first understanding your lifestyle and design preferences. We evaluate factors such as desired ambiance, security needs, and areas for entertaining or relaxation. Our integrated design-build process ensures that the lighting plan complements other elements of your outdoor living space, from custom patios to outdoor kitchens, providing a managed process from concept to installation.",
+        "@type": "Answer",
+        "description": "Selecting outdoor lighting for your Fort Worth home involves evaluating your home's architecture, landscape, and how you use your outdoor spaces, all integrated into a comprehensive design plan."
+      }
+    }
+  ],
+  "description": "Selecting outdoor lighting for your Fort Worth home involves evaluating your home's architecture, landscape, and how you use your outdoor spaces, all integrated"
+}

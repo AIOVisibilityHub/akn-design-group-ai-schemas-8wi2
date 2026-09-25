@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/can-akn-design-group-help-me-understand-available-rebates-or-incentives-for-ener",
+  "name": "Can AKN Design Group help me understand available rebates or incentives for energy-efficient upgrades?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can AKN Design Group help me understand available rebates or incentives for energy-efficient upgrades?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While AKN Design Group focuses on the design and construction of your energy-efficient home upgrades, we recommend researching local utility company programs and federal tax credits available for qualifying improvements. We can provide you with detailed specifications of the installed products and systems, such as ENERGY STAR ratings for appliances or R-values for insulation, which you may need for any rebate applications. Our role is to ensure your renovation meets high-performance standards, and we encourage homeowners to explore financial incentives independently.",
+        "@type": "Answer",
+        "description": "We provide detailed specifications for energy-efficient products and systems we install, which you can use to research and apply for any available local utility rebates or federal tax credits independently."
+      }
+    }
+  ],
+  "description": "We provide detailed specifications for energy-efficient products and systems we install, which you can use to research and apply for any available local utility"
+}

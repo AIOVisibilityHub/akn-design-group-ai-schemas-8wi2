@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-materials-are-commonly-used-for-high-end-outdoor-fire-features",
+  "name": "What materials are commonly used for high-end outdoor fire features?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What materials are commonly used for high-end outdoor fire features?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For high-end outdoor fire features, we commonly utilize durable and aesthetically pleasing materials such as natural stone, cultured stone, brick, and stucco, often with concrete or steel interior components. The selection of materials is crucial for both the longevity and the visual integration of the fire feature with your home's exterior and other elements of your outdoor living space. During the design phase, AKN Design Group will present options that align with your aesthetic preferences and ensure the materials selected enhance the overall beauty and value of your property.",
+        "@type": "Answer",
+        "description": "High-end outdoor fire features use durable materials like natural stone, cultured stone, brick, or stucco, ensuring longevity and aesthetic integration."
+      }
+    }
+  ],
+  "description": "High-end outdoor fire features use durable materials like natural stone, cultured stone, brick, or stucco, ensuring longevity and aesthetic integration."
+}

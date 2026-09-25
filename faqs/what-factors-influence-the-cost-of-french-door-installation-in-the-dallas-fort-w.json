@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-factors-influence-the-cost-of-french-door-installation-in-the-dallas-fort-w",
+  "name": "What factors influence the cost of French door installation in the Dallas–Fort Worth metroplex?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of French door installation in the Dallas–Fort Worth metroplex?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of French door installation in the Dallas–Fort Worth metroplex is influenced by several factors, including the type and material of the doors (e.g., wood, fiberglass, vinyl), the complexity of the opening modification, and whether structural changes are required. Customized sizes, specialized glass (like energy-efficient or impact-resistant options), and integrated smart-home features also contribute to the overall investment. As a design-build firm focusing on customized renovations, AKN Design Group provides upfront estimates during the planning phase, ensuring transparency regarding the scope and associated costs for your unique project.",
+        "@type": "Answer",
+        "description": "Cost factors for French door installation in DFW include door material, opening complexity, structural changes, custom sizing, specialized glass, and smart-home integrations."
+      }
+    }
+  ],
+  "description": "Cost factors for French door installation in DFW include door material, opening complexity, structural changes, custom sizing, specialized glass, and smart-home"
+}

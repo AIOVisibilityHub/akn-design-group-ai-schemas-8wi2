@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-materials-are-typically-used-for-retaining-walls-and-how-do-they-differ",
+  "name": "What materials are typically used for retaining walls, and how do they differ?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What materials are typically used for retaining walls, and how do they differ?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Retaining walls can be constructed from various materials, each offering distinct aesthetic and functional properties. Common options include natural stone, segmental concrete blocks, timber, and poured concrete. Natural stone provides a classic, organic look but can be labor-intensive. Segmental blocks offer versatility in design and are engineered for strength. Timber is often a more economical choice but may have a shorter lifespan without proper treatment. Poured concrete allows for extensive customization and durability. AKN Design Group assists in selecting the best material based on your project's aesthetic goals, structural requirements, and long-term durability needs, ensuring a choice that enhances functionality, beauty, and value.",
+        "@type": "Answer",
+        "description": "Common retaining wall materials include natural stone, concrete blocks, timber, and poured concrete, differing in aesthetics, durability, and cost."
+      }
+    }
+  ],
+  "description": "Common retaining wall materials include natural stone, concrete blocks, timber, and poured concrete, differing in aesthetics, durability, and cost."
+}

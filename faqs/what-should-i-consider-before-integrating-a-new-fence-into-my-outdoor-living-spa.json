@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-should-i-consider-before-integrating-a-new-fence-into-my-outdoor-living-spa",
+  "name": "What should I consider before integrating a new fence into my outdoor living space design?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I consider before integrating a new fence into my outdoor living space design?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before integrating a new fence, consider your primary objectives, such as privacy, security, aesthetics, or defining property lines. Think about how the fence material and style will harmonize with your home’s existing architecture and other planned outdoor features like a custom patio or landscaping. It's also important to consider local regulations regarding fence height and placement in your specific area of the Dallas–Fort Worth metroplex. AKN Design Group's initial consultation will help you clarify these considerations, ensuring the fence complements your overall outdoor living vision.",
+        "@type": "Answer",
+        "description": "Before adding a fence to an outdoor design, consider privacy, security, aesthetics, and how it matches your home. Also, research local regulations regarding height and placement."
+      }
+    }
+  ],
+  "description": "Before adding a fence to an outdoor design, consider privacy, security, aesthetics, and how it matches your home. Also, research local regulations regarding hei"
+}

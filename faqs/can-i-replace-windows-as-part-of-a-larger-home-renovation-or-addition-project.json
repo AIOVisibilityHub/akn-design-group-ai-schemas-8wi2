@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/can-i-replace-windows-as-part-of-a-larger-home-renovation-or-addition-project",
+  "name": "Can I replace windows as part of a larger home renovation or addition project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I replace windows as part of a larger home renovation or addition project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Absolutely. AKN Design Group specializes in integrating window replacement into comprehensive home renovations, additions, kitchen remodels, or whole-home transformations. Rather than a standalone, piecemeal task, we view window upgrades as an integral component of enhancing your home's overall design, efficiency, and structural integrity. Our design-build approach ensures that new windows are seamlessly coordinated with new framing, exterior finishes, and interior aesthetics, optimizing the outcome and providing a single point of coordination. This integrated method prevents future complications and ensures a cohesive, high-quality result that aligns with your customized renovation.",
+        "@type": "Answer",
+        "description": "Yes, we integrate window replacement into larger renovations, additions, or remodels. Our design-build approach ensures seamless coordination with other project elements for a cohesive, high-quality outcome."
+      }
+    }
+  ],
+  "description": "Yes, we integrate window replacement into larger renovations, additions, or remodels. Our design-build approach ensures seamless coordination with other project"
+}

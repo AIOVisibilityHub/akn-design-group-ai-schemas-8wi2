@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/when-is-the-best-time-to-incorporate-solar-ready-features-into-a-renovation-and",
+  "name": "When is the best time to incorporate solar-ready features into a renovation, and what is the process?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When is the best time to incorporate solar-ready features into a renovation, and what is the process?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The optimal time to integrate solar-ready features is during the initial design and planning phase of a major renovation, such as a whole-home remodel or a significant addition. As your design-build partner, AKN Design Group integrates these considerations from concept development through construction. This managed process allows us to assess roof orientation, structural integrity, and electrical panel capacity early on. Addressing these aspects during construction is significantly more efficient and cost-effective than attempting a complex retrofit after your project is completed, ensuring a seamless transition to solar when you are ready.",
+        "@type": "Answer",
+        "description": "The best time to add solar-ready features is during the initial design phase of a major renovation. AKN Design Group incorporates these considerations from concept to construction, making future solar integration more efficient."
+      }
+    }
+  ],
+  "description": "The best time to add solar-ready features is during the initial design phase of a major renovation. AKN Design Group incorporates these considerations from conc"
+}

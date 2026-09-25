@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-should-i-consider-when-deciding-on-air-sealing-solutions-for-my-residential",
+  "name": "What should I consider when deciding on air sealing solutions for my residential renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I consider when deciding on air sealing solutions for my residential renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When evaluating air sealing solutions, consider the scope of your renovation, the age of your home, and your specific comfort and energy efficiency goals. Factors like existing structural integrity, the type of foundation, and attic access points will influence the most effective strategies. Our design-build team helps you navigate these considerations by assessing your home's unique needs and integrating appropriate air sealing measures into your customized renovation plan, ensuring a single point of coordination for a managed process that enhances long-term value.",
+        "@type": "Answer",
+        "description": "Consider your renovation scope, home age, and energy goals. Our team assesses your home's unique needs to integrate effective air sealing into your customized plan."
+      }
+    }
+  ],
+  "description": "Consider your renovation scope, home age, and energy goals. Our team assesses your home's unique needs to integrate effective air sealing into your customized p"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-factors-influence-the-cost-of-installing-an-outdoor-fire-feature",
+  "name": "What factors influence the cost of installing an outdoor fire feature?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of installing an outdoor fire feature?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of installing an outdoor fire feature is influenced by several factors, including the type of feature (fire pit vs. fireplace), the complexity of its design, the chosen materials, and whether gas lines or electrical components need to be extended. Custom masonry and larger-scale structures will naturally incur higher costs than simpler designs. During our managed process, AKN Design Group provides upfront estimates and values engineering to align the project with your budget while upholding our commitment to craftsmanship and quality.",
+        "@type": "Answer",
+        "description": "Cost factors include fire feature type, design complexity, material choices, and utility line extensions. AKN provides upfront estimates and value engineering."
+      }
+    }
+  ],
+  "description": "Cost factors include fire feature type, design complexity, material choices, and utility line extensions. AKN provides upfront estimates and value engineering."
+}

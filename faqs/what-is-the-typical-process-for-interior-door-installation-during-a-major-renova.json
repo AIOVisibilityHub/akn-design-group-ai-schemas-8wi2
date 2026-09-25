@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-the-typical-process-for-interior-door-installation-during-a-major-renova",
+  "name": "What is the typical process for interior door installation during a major renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for interior door installation during a major renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "During a major renovation, interior door installation is integrated into the broader construction timeline. This process typically begins after framing, drywall, and initial painting are complete, ensuring that the doors are protected from construction damage and fit precisely within finished openings. AKN Design Group's managed process includes precise measurements, ordering custom or standard doors, professional installation, and finishing work like trim and hardware. We coordinate this phase with other trades to maintain project efficiency and uphold our commitment to craftsmanship, providing a seamless experience from concept to completion.",
+        "@type": "Answer",
+        "description": "Interior door installation in a major renovation occurs after framing, drywall, and initial painting. AKN Design Group manages the entire process, from measurements and ordering to professional installation and finishing, ensuring seamless integration."
+      }
+    }
+  ],
+  "description": "Interior door installation in a major renovation occurs after framing, drywall, and initial painting. AKN Design Group manages the entire process, from measurem"
+}

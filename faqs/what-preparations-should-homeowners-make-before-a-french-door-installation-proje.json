@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-preparations-should-homeowners-make-before-a-french-door-installation-proje",
+  "name": "What preparations should homeowners make before a French door installation project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What preparations should homeowners make before a French door installation project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before a French door installation project, homeowners should consider their desired aesthetic, how the doors will function within their lifestyle, and any potential structural modifications needed. It’s beneficial to clear the immediate area around where the doors will be installed, both inside and out, to allow ample workspace. Discussing material preferences, glass options, and hardware selections with our design team in advance helps streamline the process. Our managed process guides you through these decisions, ensuring all preparations are made for a smooth and efficient installation, minimizing disruption to your home.",
+        "@type": "Answer",
+        "description": "Homeowners should consider aesthetics, functionality, and potential structural needs, and clear the work area. Discussing material and hardware preferences with our design team aids preparation."
+      }
+    }
+  ],
+  "description": "Homeowners should consider aesthetics, functionality, and potential structural needs, and clear the work area. Discussing material and hardware preferences with"
+}

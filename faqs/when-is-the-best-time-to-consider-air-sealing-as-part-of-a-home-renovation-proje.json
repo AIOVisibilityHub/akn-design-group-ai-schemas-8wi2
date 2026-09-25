@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/when-is-the-best-time-to-consider-air-sealing-as-part-of-a-home-renovation-proje",
+  "name": "When is the best time to consider air sealing as part of a home renovation project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When is the best time to consider air sealing as part of a home renovation project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The ideal time to address air sealing is during significant renovation phases, such as a whole-home remodel, an addition, or when replacing major components like windows, doors, or siding. This allows us to access and seal areas effectively before new finishes are installed, maximizing efficiency and minimizing disruption. Planning for air sealing early in our managed design-build process ensures it is seamlessly integrated, preventing piecemeal solutions and delivering a more cohesive, high-performing outcome for your home.",
+        "@type": "Answer",
+        "description": "The best time for air sealing is during major renovations like whole-home remodels or additions, allowing for seamless integration and maximum effectiveness."
+      }
+    }
+  ],
+  "description": "The best time for air sealing is during major renovations like whole-home remodels or additions, allowing for seamless integration and maximum effectiveness."
+}

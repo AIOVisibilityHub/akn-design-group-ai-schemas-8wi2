@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-should-i-prepare-before-discussing-weatherization-options-with-akn-design-g",
+  "name": "What should I prepare before discussing weatherization options with AKN Design Group?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare before discussing weatherization options with AKN Design Group?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before discussing weatherization options, it is helpful to consider your primary concerns, such as specific areas of discomfort, unusually high utility bills, or any visible signs of drafts. Gathering this information helps us understand your priorities. While not strictly necessary, having an idea of your overall renovation goals, such as a whole-home remodel or specific room upgrades, allows us to integrate weatherization planning seamlessly into your broader project vision.",
+        "@type": "Answer",
+        "description": "Before discussing weatherization, consider your main concerns like drafts or high bills, and your overall renovation goals to help us integrate it effectively."
+      }
+    }
+  ],
+  "description": "Before discussing weatherization, consider your main concerns like drafts or high bills, and your overall renovation goals to help us integrate it effectively."
+}

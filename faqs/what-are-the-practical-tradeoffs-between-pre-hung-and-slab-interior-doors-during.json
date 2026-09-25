@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-are-the-practical-tradeoffs-between-pre-hung-and-slab-interior-doors-during",
+  "name": "What are the practical tradeoffs between pre-hung and slab interior doors during a renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the practical tradeoffs between pre-hung and slab interior doors during a renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing interior doors for a renovation, the practical tradeoffs between pre-hung and slab doors are important. Pre-hung doors come with the frame already attached, simplifying installation, especially in new openings or when replacing an entire frame. This can save on labor time. Slab doors are just the door panel itself, requiring existing frames to be sound and plumb, and they need hinges and hardware mortised separately. While slab doors can be more economical initially if reusing existing frames, they demand more on-site carpentry work. AKN Design Group assesses existing frame conditions and project scope to recommend the most efficient and high-quality solution.",
+        "@type": "Answer",
+        "description": "Pre-hung doors include the frame for easier installation in new openings, while slab doors are just the panel, requiring a sound existing frame and more on-site carpentry. AKN Design Group advises on the best choice based on project needs."
+      }
+    }
+  ],
+  "description": "Pre-hung doors include the frame for easier installation in new openings, while slab doors are just the panel, requiring a sound existing frame and more on-site"
+}

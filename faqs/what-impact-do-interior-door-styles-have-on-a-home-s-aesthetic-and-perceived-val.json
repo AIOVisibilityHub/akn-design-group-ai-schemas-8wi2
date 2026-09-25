@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-impact-do-interior-door-styles-have-on-a-home-s-aesthetic-and-perceived-val",
+  "name": "What impact do interior door styles have on a home's aesthetic and perceived value?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What impact do interior door styles have on a home's aesthetic and perceived value?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Interior door styles play a significant role in a home's overall aesthetic and can considerably influence its perceived value. Choosing styles that harmonize with your home's architectural period and your personal design preferences — whether modern, traditional, or contemporary — creates a cohesive and elevated look. For example, solid wood shaker doors can evoke a craftsman feel, while flush doors offer a minimalist aesthetic. AKN Design Group’s integrated design-build approach ensures that interior doors are thoughtfully selected to enhance your home’s beauty and functionality, contributing to a lasting impression and increased long-term value.",
+        "@type": "Answer",
+        "description": "Interior door styles significantly impact a home's aesthetic and perceived value. AKN Design Group helps select doors that harmonize with your home's architectural style and design preferences, enhancing beauty and long-term value."
+      }
+    }
+  ],
+  "description": "Interior door styles significantly impact a home's aesthetic and perceived value. AKN Design Group helps select doors that harmonize with your home's architectu"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/why-should-i-choose-a-design-build-firm-like-akn-design-group-for-my-outdoor-lig",
+  "name": "Why should I choose a design-build firm like AKN Design Group for my outdoor lighting project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why should I choose a design-build firm like AKN Design Group for my outdoor lighting project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing a design-build firm like AKN Design Group for your outdoor lighting ensures a seamless, managed process from concept to completion. Unlike managing separate designers and contractors, our integrated approach means a single, accountable team handles both the design and construction phases. This fosters clear communication, minimizes potential conflicts, and ensures the lighting plan is perfectly harmonized with your entire outdoor living space. With over two decades of experience and a focus on high-end, customized renovations, we deliver a cohesive outcome that enhances functionality, beauty, and value for your home.",
+        "@type": "Answer",
+        "description": "Choosing a design-build firm like AKN Design Group provides a single, accountable team for both design and construction, ensuring clear communication and a cohesive, high-end outcome for your outdoor lighting project."
+      }
+    }
+  ],
+  "description": "Choosing a design-build firm like AKN Design Group provides a single, accountable team for both design and construction, ensuring clear communication and a cohe"
+}

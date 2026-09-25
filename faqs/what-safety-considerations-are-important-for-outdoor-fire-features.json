@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-safety-considerations-are-important-for-outdoor-fire-features",
+  "name": "What safety considerations are important for outdoor fire features?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What safety considerations are important for outdoor fire features?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Safety is paramount when installing an outdoor fire feature. Key considerations include ensuring adequate clearance from combustible materials, proper ventilation, and secure gas line connections if applicable. Adherence to local building codes and fire safety regulations in the Dallas–Fort Worth metroplex is non-negotiable. AKN Design Group ensures that all installations meet or exceed safety standards, emphasizing careful planning and professional execution to provide a safe and enjoyable environment for your family and guests.",
+        "@type": "Answer",
+        "description": "Crucial safety factors for fire features include clearances from combustibles, ventilation, secure gas lines, and adherence to all local building codes in DFW."
+      }
+    }
+  ],
+  "description": "Crucial safety factors for fire features include clearances from combustibles, ventilation, secure gas lines, and adherence to all local building codes in DFW."
+}

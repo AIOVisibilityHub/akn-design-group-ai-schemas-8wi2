@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-factors-influence-the-cost-of-a-high-end-outdoor-lighting-system",
+  "name": "What factors influence the cost of a high-end outdoor lighting system?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of a high-end outdoor lighting system?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a high-end outdoor lighting system is primarily influenced by the scale of the project, the quality and type of fixtures chosen, the complexity of the design, and any necessary electrical trenching or wiring. Factors such as advanced control systems, specialized effects, and integration with smart home technology also play a role. AKN Design Group provides transparent, upfront estimates as part of our commitment to clear communication, ensuring you understand the investment for your customized renovation. We focus on delivering value through durable materials and expert craftsmanship.",
+        "@type": "Answer",
+        "description": "The cost of a high-end outdoor lighting system depends on project scale, fixture quality, design complexity, and electrical work. We provide transparent estimates for customized renovations."
+      }
+    }
+  ],
+  "description": "The cost of a high-end outdoor lighting system depends on project scale, fixture quality, design complexity, and electrical work. We provide transparent estimat"
+}

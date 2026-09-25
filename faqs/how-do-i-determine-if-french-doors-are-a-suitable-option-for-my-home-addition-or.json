@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-do-i-determine-if-french-doors-are-a-suitable-option-for-my-home-addition-or",
+  "name": "How do I determine if French doors are a suitable option for my home addition or remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I determine if French doors are a suitable option for my home addition or remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Determining suitability for French doors involves evaluating your home's architectural style, the functional needs of the space, and your desired aesthetic. French doors offer excellent natural light and can create a seamless transition to outdoor living spaces, enhancing both beauty and functionality. We consider factors like the available wall space, structural requirements, and how the doors will integrate with your overall design vision for the remodel or addition. Our design consultations help homeowners assess these elements, ensuring the chosen solution aligns with their lifestyle and the home's character.",
+        "@type": "Answer",
+        "description": "Assess French door suitability by considering your home's style, functional needs, and desired aesthetic, especially for creating indoor-outdoor transitions."
+      }
+    }
+  ],
+  "description": "Assess French door suitability by considering your home's style, functional needs, and desired aesthetic, especially for creating indoor-outdoor transitions."
+}

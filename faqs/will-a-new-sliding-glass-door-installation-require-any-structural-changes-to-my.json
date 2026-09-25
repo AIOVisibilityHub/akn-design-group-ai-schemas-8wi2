@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/will-a-new-sliding-glass-door-installation-require-any-structural-changes-to-my",
+  "name": "Will a new sliding glass door installation require any structural changes to my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will a new sliding glass door installation require any structural changes to my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A new sliding glass door installation may require structural changes, especially if you are altering the opening size or replacing an existing door with a different configuration, such as converting a window to a sliding door. These changes involve ensuring proper header support and integrating the new frame safely and securely into your home's structure. As a design-build firm, AKN Design Group manages all aspects of structural assessment and modification, ensuring compliance with local building codes and maintaining the integrity of your home's framework.",
+        "@type": "Answer",
+        "description": "New sliding glass door installation might need structural changes if the opening size or configuration is altered. AKN Design Group handles structural assessments and modifications."
+      }
+    }
+  ],
+  "description": "New sliding glass door installation might need structural changes if the opening size or configuration is altered. AKN Design Group handles structural assessmen"
+}

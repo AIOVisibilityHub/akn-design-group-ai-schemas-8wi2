@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-long-does-a-typical-exterior-door-installation-take",
+  "name": "How long does a typical exterior door installation take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical exterior door installation take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of an exterior door installation can vary depending on the door type, the complexity of the opening, and whether any structural modifications are required. A standard replacement often takes one to two days. However, projects involving custom sizing, significant frame adjustments, or integrating new door styles as part of a larger whole-home remodel may extend the timeline. As part of our managed process, AKN Design Group provides upfront estimates and transparent scheduling, ensuring clear communication throughout your project.",
+        "@type": "Answer",
+        "description": "Standard exterior door installation typically takes one to two days, but custom or complex projects may require more time due to structural considerations."
+      }
+    }
+  ],
+  "description": "Standard exterior door installation typically takes one to two days, but custom or complex projects may require more time due to structural considerations."
+}

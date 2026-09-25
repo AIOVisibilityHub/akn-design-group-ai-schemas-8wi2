@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/when-should-i-consider-weatherization-for-my-home",
+  "name": "When should I consider weatherization for my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider weatherization for my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider weatherization when you notice drafts, inconsistent temperatures between rooms, unusually high energy bills, or during any significant remodeling project. Addressing these concerns proactively enhances your home's comfort and long-term value. Our team can evaluate your home's current condition and recommend appropriate weatherization strategies to align with your renovation goals.",
+        "@type": "Answer",
+        "description": "Consider weatherization with drafts, high energy bills, or during major remodels to improve comfort and value. Early assessment helps align with renovation goals."
+      }
+    }
+  ],
+  "description": "Consider weatherization with drafts, high energy bills, or during major remodels to improve comfort and value. Early assessment helps align with renovation goal"
+}

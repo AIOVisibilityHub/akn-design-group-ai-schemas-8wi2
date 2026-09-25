@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-are-the-common-pitfalls-to-avoid-when-planning-energy-efficient-home-renova",
+  "name": "What are the common pitfalls to avoid when planning energy-efficient home renovations?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common pitfalls to avoid when planning energy-efficient home renovations?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A common pitfall in energy-efficient renovations is approaching upgrades piecemeal without a cohesive plan, which can lead to inefficiencies or missed opportunities. Another is overlooking the importance of a properly sealed building envelope; even the most efficient windows or HVAC systems won't perform optimally if air leaks are present. AKN Design Group's integrated design-build approach mitigates these risks by planning all upgrades in coordination, ensuring that elements like insulation, windows, and HVAC are installed and integrated for maximum overall performance and value.",
+        "@type": "Answer",
+        "description": "Avoid piecemeal upgrades and neglecting the building envelope. Our integrated design-build process ensures all energy-efficient elements are coordinated for optimal performance."
+      }
+    }
+  ],
+  "description": "Avoid piecemeal upgrades and neglecting the building envelope. Our integrated design-build process ensures all energy-efficient elements are coordinated for opt"
+}

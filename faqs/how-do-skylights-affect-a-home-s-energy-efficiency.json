@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-do-skylights-affect-a-home-s-energy-efficiency",
+  "name": "How do skylights affect a home's energy efficiency?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do skylights affect a home's energy efficiency?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When properly selected and installed, skylights can significantly contribute to a home's energy efficiency by maximizing natural light, thus reducing reliance on artificial lighting during the day. Ventilating skylights can also aid in passive cooling by allowing hot air to escape. We utilize value engineering to ensure that your skylight selections, such as high-performance glazing, align with energy efficiency goals, enhancing your home's comfort and long-term value within your comprehensive renovation.",
+        "@type": "Answer",
+        "description": "Properly installed skylights enhance energy efficiency by increasing natural light and enabling passive cooling. We use value engineering for optimal glazing choices."
+      }
+    }
+  ],
+  "description": "Properly installed skylights enhance energy efficiency by increasing natural light and enabling passive cooling. We use value engineering for optimal glazing ch"
+}

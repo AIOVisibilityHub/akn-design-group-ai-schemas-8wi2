@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-the-typical-process-for-replacing-windows-during-a-custom-kitchen-renova",
+  "name": "What is the typical process for replacing windows during a custom kitchen renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for replacing windows during a custom kitchen renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "During a custom kitchen renovation, window replacement is integrated into the overall project timeline to ensure a cohesive outcome. The process begins with careful planning, often involving CAD-supported layouts to optimize window placement for natural light, ventilation, and appliance configuration. AKN Design Group coordinates the removal of old windows, preparation of openings, and installation of new, energy-efficient units. This coordinated approach ensures that new windows complement the kitchen's design, improve energy performance, and are correctly installed before cabinetry, countertops, and finishes, maintaining a single point of coordination for a smooth renovation.",
+        "@type": "Answer",
+        "description": "Window replacement in a custom kitchen renovation is integrated into the project, starting with CAD-supported planning for optimal placement and coordinating removal, installation, and sealing before finishes. This managed process ensures a cohesive, energy-efficient, and visually harmonious result."
+      }
+    }
+  ],
+  "description": "Window replacement in a custom kitchen renovation is integrated into the project, starting with CAD-supported planning for optimal placement and coordinating re"
+}

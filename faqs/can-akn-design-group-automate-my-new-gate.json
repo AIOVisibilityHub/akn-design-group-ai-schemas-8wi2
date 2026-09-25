@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/can-akn-design-group-automate-my-new-gate",
+  "name": "Can AKN Design Group automate my new gate?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can AKN Design Group automate my new gate?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, AKN Design Group can integrate automation features into your new gate installation, enhancing convenience, security, and accessibility. This can include various access control systems, remote operation, and safety sensors. As part of a comprehensive design-build project, we ensure that gate automation is thoughtfully planned and seamlessly integrated with your property's electrical systems and overall smart home capabilities, if applicable. We focus on reliable and functional solutions.",
+        "@type": "Answer",
+        "description": "Yes, AKN Design Group integrates automation into new gate installations, including access control and remote operation, as part of your comprehensive design-build project."
+      }
+    }
+  ],
+  "description": "Yes, AKN Design Group integrates automation into new gate installations, including access control and remote operation, as part of your comprehensive design-bui"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/why-should-i-choose-a-design-build-firm-like-akn-design-group-for-my-hardscaping",
+  "name": "Why should I choose a design-build firm like AKN Design Group for my hardscaping project instead of separate contractors?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why should I choose a design-build firm like AKN Design Group for my hardscaping project instead of separate contractors?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing AKN Design Group for your hardscaping project provides the significant advantage of a single point of coordination. Unlike managing separate designers and contractors, our integrated design-build process unifies planning and construction under one experienced team. This streamlines communication, minimizes potential conflicts, and ensures that the design vision is executed precisely as intended, leading to a more efficient project, better accountability, and a higher quality outcome for your high-end outdoor living space.",
+        "@type": "Answer",
+        "description": "Choosing AKN Design Group for hardscaping offers a single point of coordination through our integrated design-build process, streamlining communication and ensuring precise execution for a high-quality outcome."
+      }
+    }
+  ],
+  "description": "Choosing AKN Design Group for hardscaping offers a single point of coordination through our integrated design-build process, streamlining communication and ensu"
+}

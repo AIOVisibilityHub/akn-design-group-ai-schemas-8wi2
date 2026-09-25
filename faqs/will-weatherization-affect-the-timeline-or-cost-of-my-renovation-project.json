@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/will-weatherization-affect-the-timeline-or-cost-of-my-renovation-project",
+  "name": "Will weatherization affect the timeline or cost of my renovation project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will weatherization affect the timeline or cost of my renovation project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Integrating weatherization into a larger renovation project can optimize the overall timeline and cost. While it adds a specific scope of work, addressing these elements during construction is typically more efficient and cost-effective than undertaking them separately later. Our upfront estimates and transparent scheduling ensure you understand the full scope and benefits, preventing disjointed efforts and ensuring a coordinated transformation.",
+        "@type": "Answer",
+        "description": "Integrating weatherization into a renovation can optimize overall timeline and cost, being more efficient than separate efforts. Transparent estimates clarify the process."
+      }
+    }
+  ],
+  "description": "Integrating weatherization into a renovation can optimize overall timeline and cost, being more efficient than separate efforts. Transparent estimates clarify t"
+}

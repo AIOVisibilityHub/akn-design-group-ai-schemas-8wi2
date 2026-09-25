@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-types-of-skylights-are-available-and-how-do-i-choose-the-right-one-for-my-h",
+  "name": "What types of skylights are available, and how do I choose the right one for my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of skylights are available, and how do I choose the right one for my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Various skylight types exist, including fixed, ventilating (manual or electric), and tubular daylighting devices. The right choice depends on your specific needs: fixed skylights are ideal for pure light infusion, while ventilating options allow for passive cooling and air circulation. When integrating skylights into a larger renovation, AKN Design Group's integrated design-build process helps you assess factors like room function, ceiling structure, and desired aesthetic to select the optimal type and placement for enhancing your home's design and value.",
+        "@type": "Answer",
+        "description": "Skylights vary from fixed to ventilating types. Choosing depends on room function, ceiling structure, and desired light or ventilation, which we help determine during our design process."
+      }
+    }
+  ],
+  "description": "Skylights vary from fixed to ventilating types. Choosing depends on room function, ceiling structure, and desired light or ventilation, which we help determine"
+}

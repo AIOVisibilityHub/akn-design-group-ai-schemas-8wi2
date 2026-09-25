@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-preparation-is-needed-before-akn-design-group-can-begin-designing-a-custom",
+  "name": "What preparation is needed before AKN Design Group can begin designing a custom privacy screen for my property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What preparation is needed before AKN Design Group can begin designing a custom privacy screen for my property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before we begin the detailed design of your custom privacy screen, it's beneficial to consider a few key aspects. Think about the specific area where privacy is most needed, your desired level of seclusion, and any aesthetic preferences regarding materials or style that align with your home. Gathering inspiration photos can also be helpful. During our initial consultation, we'll discuss these points to understand your vision fully, assess site conditions, and integrate your privacy needs into the overall design plan for your custom outdoor living space or renovation project.",
+        "@type": "Answer",
+        "description": "Before design, consider the area needing privacy, desired seclusion level, and aesthetic preferences; inspiration photos are helpful for the initial consultation."
+      }
+    }
+  ],
+  "description": "Before design, consider the area needing privacy, desired seclusion level, and aesthetic preferences; inspiration photos are helpful for the initial consultatio"
+}

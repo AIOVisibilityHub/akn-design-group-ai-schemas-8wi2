@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-long-does-a-typical-window-replacement-project-take",
+  "name": "How long does a typical window replacement project take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical window replacement project take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a window replacement project varies significantly based on the number of windows, their type, and the complexity of the installation. For a whole-home remodel that includes window replacement, the timeline will be integrated into the broader project schedule. Generally, individual window replacements can take a few days to a week or more for larger projects. AKN Design Group provides transparent scheduling and clear communication throughout the managed process, offering upfront estimates on project duration. We meticulously coordinate each phase to minimize disruption while ensuring craftsmanship, aiming for efficient completion without compromising quality or attention to detail.",
+        "@type": "Answer",
+        "description": "Window replacement duration varies by project scope, but AKN Design Group provides transparent scheduling and integrates it into larger renovation timelines. We coordinate each phase to minimize disruption while ensuring craftsmanship and efficient completion."
+      }
+    }
+  ],
+  "description": "Window replacement duration varies by project scope, but AKN Design Group provides transparent scheduling and integrates it into larger renovation timelines. We"
+}

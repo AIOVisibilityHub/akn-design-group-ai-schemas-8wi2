@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-should-i-prepare-or-consider-before-starting-a-window-replacement-project",
+  "name": "What should I prepare or consider before starting a window replacement project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare or consider before starting a window replacement project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before embarking on a window replacement project, consider your primary motivations, such as improving energy efficiency, enhancing aesthetics, or addressing specific performance issues. Think about your desired window styles, materials, and any specific features like noise reduction or advanced security. It is also beneficial to consider how new windows will integrate with other planned renovations, especially for projects involving whole-home remodels or additions. Preparing these thoughts helps AKN Design Group understand your vision and allows us to provide a more accurate and comprehensive design and project plan, ensuring a seamless homeowner experience.",
+        "@type": "Answer",
+        "description": "Before window replacement, consider your motivations, desired styles, materials, and how new windows integrate with other renovations to help us create a comprehensive plan."
+      }
+    }
+  ],
+  "description": "Before window replacement, consider your motivations, desired styles, materials, and how new windows integrate with other renovations to help us create a compre"
+}

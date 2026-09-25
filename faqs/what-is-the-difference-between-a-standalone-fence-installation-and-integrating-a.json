@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-the-difference-between-a-standalone-fence-installation-and-integrating-a",
+  "name": "What is the difference between a standalone fence installation and integrating a fence into a complete outdoor living renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a standalone fence installation and integrating a fence into a complete outdoor living renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A standalone fence installation typically focuses solely on the fence itself, often with a contractor specializing only in fencing. Integrating a fence into a complete outdoor living renovation, as AKN Design Group provides, involves considering the fence as one component of a larger, cohesive design. This means the fence is chosen and installed to complement elements like custom patios, outdoor kitchens, and landscaping, ensuring a unified aesthetic and functionality. Our design-build approach provides a single point of coordination for the entire transformation, preventing disconnected outcomes and enhancing overall value.",
+        "@type": "Answer",
+        "description": "Standalone fence installation focuses only on the fence, while integrated fencing considers it part of a larger, cohesive outdoor living design. Our design-build process ensures unified aesthetics and functionality."
+      }
+    }
+  ],
+  "description": "Standalone fence installation focuses only on the fence, while integrated fencing considers it part of a larger, cohesive outdoor living design. Our design-buil"
+}

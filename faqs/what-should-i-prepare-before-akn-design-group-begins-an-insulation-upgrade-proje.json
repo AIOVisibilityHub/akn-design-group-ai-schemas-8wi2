@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-should-i-prepare-before-akn-design-group-begins-an-insulation-upgrade-proje",
+  "name": "What should I prepare before AKN Design Group begins an insulation upgrade project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare before AKN Design Group begins an insulation upgrade project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before AKN Design Group begins an insulation upgrade project, it is helpful to clear personal items from areas where work will occur, especially in attics, closets, and around wall cavities. Consider any specific access requirements for installers and ensure pets are secured. We will outline any preparatory steps during our initial consultation and planning phase, providing clear expectations for the homeowner experience. This proactive approach ensures a smooth start and efficient execution of your customized renovation, minimizing any potential delays or inconveniences.",
+        "@type": "Answer",
+        "description": "Before an insulation upgrade, clear personal items from work areas and secure pets; AKN will provide specific preparation guidelines during planning."
+      }
+    }
+  ],
+  "description": "Before an insulation upgrade, clear personal items from work areas and secure pets; AKN will provide specific preparation guidelines during planning."
+}

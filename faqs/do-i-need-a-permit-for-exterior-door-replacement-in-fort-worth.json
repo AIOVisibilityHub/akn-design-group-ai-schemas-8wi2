@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/do-i-need-a-permit-for-exterior-door-replacement-in-fort-worth",
+  "name": "Do I need a permit for exterior door replacement in Fort Worth?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a permit for exterior door replacement in Fort Worth?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For basic, like-for-like exterior door replacements that do not involve structural changes or alterations to the size of the opening, a permit may not be required in Fort Worth. However, if your project involves widening an existing opening, creating a new opening, or making significant structural modifications, a building permit from the City of Fort Worth is typically necessary. AKN Design Group handles all aspects of permit coordination for our projects, ensuring compliance with local building codes as part of our seamless, managed process, offering peace of mind to homeowners in the Dallas–Fort Worth metroplex.",
+        "@type": "Answer",
+        "description": "A permit is usually not needed for like-for-like exterior door replacement in Fort Worth, but it is required for structural changes or new openings; we manage permit coordination."
+      }
+    }
+  ],
+  "description": "A permit is usually not needed for like-for-like exterior door replacement in Fort Worth, but it is required for structural changes or new openings; we manage p"
+}

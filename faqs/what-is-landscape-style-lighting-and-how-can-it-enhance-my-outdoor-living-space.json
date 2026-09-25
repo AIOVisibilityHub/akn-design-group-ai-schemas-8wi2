@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-landscape-style-lighting-and-how-can-it-enhance-my-outdoor-living-space",
+  "name": "What is landscape-style lighting and how can it enhance my outdoor living space?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is landscape-style lighting and how can it enhance my outdoor living space?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Landscape-style lighting involves strategically placed fixtures that illuminate architectural features, pathways, and landscaping elements, enhancing the beauty and safety of your outdoor living spaces. At AKN Design Group, we integrate this lighting into comprehensive outdoor designs, such as custom patios and outdoor kitchens, to create a defined destination that is practical for everyday relaxation and entertaining. The right lighting design can extend the usability of your outdoor areas into the evening, transforming your backyard into a truly functional and elegant extension of your home.",
+        "@type": "Answer",
+        "description": "Landscape-style lighting illuminates outdoor features for enhanced beauty and safety, extending the usability of your outdoor living spaces into the evening."
+      }
+    }
+  ],
+  "description": "Landscape-style lighting illuminates outdoor features for enhanced beauty and safety, extending the usability of your outdoor living spaces into the evening."
+}

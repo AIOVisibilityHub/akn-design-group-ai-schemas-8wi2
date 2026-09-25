@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-types-of-landscape-lighting-fixtures-are-best-suited-for-different-outdoor",
+  "name": "What types of landscape lighting fixtures are best suited for different outdoor areas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of landscape lighting fixtures are best suited for different outdoor areas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The ideal fixtures depend on the specific purpose and area. For pathways, low-voltage path lights provide safety and subtle illumination. Spotlights or floodlights are effective for highlighting architectural details or mature trees, creating dramatic focal points. For outdoor kitchens or dining areas, integrated LED strip lighting or hanging pendants offer both task illumination and ambiance. AKN Design Group's integrated design-build process ensures that fixture selection is harmonized with your overall outdoor living vision, considering both aesthetics and practical application.",
+        "@type": "Answer",
+        "description": "Different outdoor areas benefit from specific fixtures; path lights for safety, spotlights for features, and integrated lighting for task areas. We match fixtures to your design vision."
+      }
+    }
+  ],
+  "description": "Different outdoor areas benefit from specific fixtures; path lights for safety, spotlights for features, and integrated lighting for task areas. We match fixtur"
+}

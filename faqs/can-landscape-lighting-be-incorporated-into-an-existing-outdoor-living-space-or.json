@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/can-landscape-lighting-be-incorporated-into-an-existing-outdoor-living-space-or",
+  "name": "Can landscape lighting be incorporated into an existing outdoor living space, or is it only for new projects?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can landscape lighting be incorporated into an existing outdoor living space, or is it only for new projects?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Landscape lighting can certainly be incorporated into an existing outdoor living space, significantly enhancing its nighttime appeal and functionality. While it is often integrated seamlessly into new, comprehensive outdoor living projects like custom patios, AKN Design Group also assists homeowners in enhancing their current spaces. Our design-build approach ensures that even additions to existing areas are well-planned and executed, connecting new elements with your property's established aesthetic. This allows for a managed process that improves your homeowner experience.",
+        "@type": "Answer",
+        "description": "Yes, landscape lighting can be integrated into existing outdoor living spaces or new projects, enhancing functionality and aesthetics. We ensure seamless execution and design harmony."
+      }
+    }
+  ],
+  "description": "Yes, landscape lighting can be integrated into existing outdoor living spaces or new projects, enhancing functionality and aesthetics. We ensure seamless execut"
+}

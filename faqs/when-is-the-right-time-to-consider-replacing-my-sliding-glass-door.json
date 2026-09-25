@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/when-is-the-right-time-to-consider-replacing-my-sliding-glass-door",
+  "name": "When is the right time to consider replacing my sliding glass door?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When is the right time to consider replacing my sliding glass door?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Consider replacing your sliding glass door if it's drafty, difficult to operate, shows signs of condensation between the panes, or if you are planning a larger renovation that involves improving your home's energy efficiency and aesthetic. For a significant renovation like a whole-home remodel or an outdoor living space upgrade, integrating a new sliding glass door can enhance functionality and beauty, providing a cohesive design. We specialize in coordinating such improvements within a managed design-build process.",
+        "@type": "Answer",
+        "description": "Replace a sliding glass door if it's drafty, hard to open, has condensation, or during a larger home renovation to improve efficiency and aesthetics."
+      }
+    }
+  ],
+  "description": "Replace a sliding glass door if it's drafty, hard to open, has condensation, or during a larger home renovation to improve efficiency and aesthetics."
+}

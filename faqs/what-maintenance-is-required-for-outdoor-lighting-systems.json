@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-maintenance-is-required-for-outdoor-lighting-systems",
+  "name": "What maintenance is required for outdoor lighting systems?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What maintenance is required for outdoor lighting systems?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "High-quality outdoor lighting systems generally require minimal maintenance to retain their performance and aesthetic appeal. This typically includes periodic cleaning of fixtures to remove debris or mineral deposits, occasional bulb replacement if not using long-life LEDs, and checking for any exposed wiring or loose connections. AKN Design Group designs systems with accessibility in mind, and while we focus on durable, low-maintenance components, regular visual inspections help ensure the lasting beauty and functionality of your investment. We prioritize solutions that enhance value without constant upkeep.",
+        "@type": "Answer",
+        "description": "Outdoor lighting requires minimal maintenance, such as periodic cleaning and occasional bulb checks. We design systems with durable, low-maintenance components for lasting performance."
+      }
+    }
+  ],
+  "description": "Outdoor lighting requires minimal maintenance, such as periodic cleaning and occasional bulb checks. We design systems with durable, low-maintenance components"
+}

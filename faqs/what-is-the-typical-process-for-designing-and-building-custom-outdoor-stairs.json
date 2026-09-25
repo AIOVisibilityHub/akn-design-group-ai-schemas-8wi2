@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-the-typical-process-for-designing-and-building-custom-outdoor-stairs",
+  "name": "What is the typical process for designing and building custom outdoor stairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for designing and building custom outdoor stairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our integrated design-build process for custom outdoor stairs begins with a detailed consultation to understand your needs and vision. We then develop CAD-supported layouts and material selections, incorporating structural integrity and aesthetic harmony. Following design approval, we handle all necessary permit coordination in the Dallas–Fort Worth metroplex. Our team then manages construction, ensuring precise execution and craftsmanship, culminating in a final walkthrough. This managed process provides a single point of coordination, streamlining a project from concept to completion.",
+        "@type": "Answer",
+        "description": "The process includes consultation, CAD-supported design, material selection, permit coordination, construction, and a final walkthrough, all managed by one team."
+      }
+    }
+  ],
+  "description": "The process includes consultation, CAD-supported design, material selection, permit coordination, construction, and a final walkthrough, all managed by one team"
+}

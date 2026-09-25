@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/does-akn-design-group-offer-designs-for-fire-features-that-accommodate-both-wood",
+  "name": "Does AKN Design Group offer designs for fire features that accommodate both wood and gas fuel sources?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does AKN Design Group offer designs for fire features that accommodate both wood and gas fuel sources?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, AKN Design Group offers design solutions for outdoor fire features that can accommodate either wood-burning or natural gas/propane fuel sources, or in some cases, adaptable systems. The choice of fuel source is a key decision factor influenced by convenience, desired ambiance, and local regulations. While wood provides a traditional crackling fire experience, gas offers instant ignition and less cleanup. We discuss these practical tradeoffs during the design phase to determine the best fit for your lifestyle and preferences.",
+        "@type": "Answer",
+        "description": "AKN Design Group designs fire features for wood, natural gas, or propane fuel sources. The choice balances convenience, ambiance, and local regulations."
+      }
+    }
+  ],
+  "description": "AKN Design Group designs fire features for wood, natural gas, or propane fuel sources. The choice balances convenience, ambiance, and local regulations."
+}

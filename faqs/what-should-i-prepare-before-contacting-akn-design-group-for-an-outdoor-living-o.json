@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-should-i-prepare-before-contacting-akn-design-group-for-an-outdoor-living-o",
+  "name": "What should I prepare before contacting AKN Design Group for an outdoor living or hardscaping consultation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare before contacting AKN Design Group for an outdoor living or hardscaping consultation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before our consultation, consider your desired functions for the space, such as entertaining, dining, or relaxation, and gather any inspirational images you like. Think about how you envision the new hardscaping integrating with your existing landscape and home. Having a general idea of your budget expectations helps us guide material and design choices effectively. This preparation enables our team to develop customized solutions that truly enhance your property and align with your vision from the outset.",
+        "@type": "Answer",
+        "description": "Before consulting, consider your desired space functions, gather inspirational images, and have a general budget idea to help us tailor a customized hardscaping solution."
+      }
+    }
+  ],
+  "description": "Before consulting, consider your desired space functions, gather inspirational images, and have a general budget idea to help us tailor a customized hardscaping"
+}

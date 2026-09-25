@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/will-new-windows-require-different-maintenance-compared-to-my-old-ones",
+  "name": "Will new windows require different maintenance compared to my old ones?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will new windows require different maintenance compared to my old ones?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Modern replacement windows are typically designed for enhanced durability and reduced maintenance compared to older units. For example, vinyl and fiberglass frames generally require little more than occasional cleaning. Wood windows, while offering classic beauty, may require periodic painting or staining to maintain their appearance and protect them from the elements. Understanding the maintenance requirements of your chosen window material ensures long-term satisfaction and helps preserve the integrity of your customized renovation. AKN Design Group will guide you through these considerations, reinforcing our focus on lasting quality and homeowner peace of mind.",
+        "@type": "Answer",
+        "description": "New windows generally require less maintenance than old ones, with material dictating specific needs; vinyl and fiberglass are low-maintenance, while wood may need occasional upkeep."
+      }
+    }
+  ],
+  "description": "New windows generally require less maintenance than old ones, with material dictating specific needs; vinyl and fiberglass are low-maintenance, while wood may n"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-kind-of-maintenance-is-required-for-newly-installed-french-doors",
+  "name": "What kind of maintenance is required for newly installed French doors?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of maintenance is required for newly installed French doors?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Newly installed French doors typically require minimal but consistent maintenance to preserve their appearance and functionality. This includes periodic cleaning of glass and frames, inspecting weatherstripping for wear, and ensuring hinges operate smoothly. For wood French doors, occasional re-sealing or painting may be necessary to protect against the elements. Our team can provide guidance on specific care for your chosen materials. Proper maintenance extends the lifespan of your doors and ensures they continue to operate efficiently, maintaining their aesthetic appeal and your home’s energy performance.",
+        "@type": "Answer",
+        "description": "Maintenance for new French doors involves cleaning, inspecting weatherstripping and hinges, and potentially re-sealing or painting wood frames to ensure longevity and performance."
+      }
+    }
+  ],
+  "description": "Maintenance for new French doors involves cleaning, inspecting weatherstripping and hinges, and potentially re-sealing or painting wood frames to ensure longevi"
+}

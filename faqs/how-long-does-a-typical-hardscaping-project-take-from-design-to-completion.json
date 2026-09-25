@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-long-does-a-typical-hardscaping-project-take-from-design-to-completion",
+  "name": "How long does a typical hardscaping project take, from design to completion?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical hardscaping project take, from design to completion?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a hardscaping project varies significantly based on its complexity, size, and the specific features involved, such as an outdoor kitchen versus a simple paver patio. A comprehensive project incorporating multiple elements might take several weeks to a few months. During our initial planning phase, we provide a detailed project timeline, emphasizing clear communication and transparency about each stage. Permit acquisition, for instance, can influence the start date, and we factor this into our overall scheduling.",
+        "@type": "Answer",
+        "description": "Project timelines vary by complexity and size, typically ranging from weeks to months. We provide a detailed timeline during planning, accounting for factors like permit acquisition."
+      }
+    }
+  ],
+  "description": "Project timelines vary by complexity and size, typically ranging from weeks to months. We provide a detailed timeline during planning, accounting for factors li"
+}

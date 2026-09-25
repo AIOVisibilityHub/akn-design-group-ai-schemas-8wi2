@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-the-maintenance-required-for-paver-patios-and-driveways",
+  "name": "What is the maintenance required for paver patios and driveways?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the maintenance required for paver patios and driveways?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Paver patios and driveways are generally low-maintenance, requiring occasional cleaning and re-sanding of joints to prevent weed growth and maintain structural integrity. The specific maintenance can vary based on the paver material and local environmental conditions in the Dallas–Fort Worth metroplex. We recommend regular sweeping and periodic washing to preserve their appearance. Our team can provide guidance on appropriate sealants to protect your pavers from stains and enhance their longevity, ensuring your high-end outdoor living space retains its pristine condition.",
+        "@type": "Answer",
+        "description": "Paver patios and driveways require occasional cleaning and re-sanding. Maintenance varies by material and local conditions, with sealants recommended for enhanced protection and longevity."
+      }
+    }
+  ],
+  "description": "Paver patios and driveways require occasional cleaning and re-sanding. Maintenance varies by material and local conditions, with sealants recommended for enhanc"
+}

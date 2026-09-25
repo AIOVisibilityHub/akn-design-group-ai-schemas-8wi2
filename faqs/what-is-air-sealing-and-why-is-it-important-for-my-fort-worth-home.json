@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-air-sealing-and-why-is-it-important-for-my-fort-worth-home",
+  "name": "What is air sealing and why is it important for my Fort Worth home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is air sealing and why is it important for my Fort Worth home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Air sealing involves identifying and closing uncontrolled gaps and cracks in your home's envelope—such as around windows, doors, pipes, and electrical outlets—to prevent conditioned air from escaping and unconditioned air from entering. This process is crucial for homes in the Dallas–Fort Worth metroplex as it directly impacts energy efficiency, indoor comfort, and can reduce drafts, moisture intrusion, and dust. For comprehensive renovations, air sealing is often integrated to ensure the long-term value and performance of your home.",
+        "@type": "Answer",
+        "description": "Air sealing closes gaps in your home's envelope to improve energy efficiency, comfort, and prevent drafts, which is important for Dallas–Fort Worth area homes."
+      }
+    }
+  ],
+  "description": "Air sealing closes gaps in your home's envelope to improve energy efficiency, comfort, and prevent drafts, which is important for Dallas–Fort Worth area homes."
+}

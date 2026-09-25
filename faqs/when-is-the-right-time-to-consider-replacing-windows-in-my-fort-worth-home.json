@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/when-is-the-right-time-to-consider-replacing-windows-in-my-fort-worth-home",
+  "name": "When is the right time to consider replacing windows in my Fort Worth home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When is the right time to consider replacing windows in my Fort Worth home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Homeowners in the Dallas–Fort Worth metroplex often consider window replacement when existing windows show signs of significant wear, such as drafts, condensation between panes, or difficulty operating. Beyond comfort, upgrading windows can enhance your home's energy efficiency, improve curb appeal, and increase its overall value, particularly as part of a larger renovation project. As a design-build firm, AKN Design Group can integrate window specifications and selections seamlessly into your comprehensive remodeling plan, ensuring they align with the new design aesthetic and functional goals of your entire home.",
+        "@type": "Answer",
+        "description": "Consider window replacement when your existing windows show wear, impact energy efficiency, or when planning a larger home renovation to enhance comfort, curb appeal, and value."
+      }
+    }
+  ],
+  "description": "Consider window replacement when your existing windows show wear, impact energy efficiency, or when planning a larger home renovation to enhance comfort, curb a"
+}

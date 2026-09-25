@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-the-difference-between-air-sealing-and-insulation-and-do-i-need-both",
+  "name": "What is the difference between air sealing and insulation, and do I need both?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between air sealing and insulation, and do I need both?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Air sealing focuses on blocking air leakage through cracks and gaps in your home's structure, while insulation resists heat flow through building materials. Both are critical for a truly energy-efficient home. Insulation alone cannot prevent drafts or air infiltration if significant air leaks remain; conversely, sealing leaks without adequate insulation will not optimize thermal performance. Our comprehensive approach often involves assessing and upgrading both air sealing and insulation simultaneously to create a robust thermal envelope that enhances functionality and comfort.",
+        "@type": "Answer",
+        "description": "Air sealing blocks air leaks, while insulation resists heat flow. Both are necessary for an energy-efficient home, and we often address them together for optimal performance."
+      }
+    }
+  ],
+  "description": "Air sealing blocks air leaks, while insulation resists heat flow. Both are necessary for an energy-efficient home, and we often address them together for optima"
+}

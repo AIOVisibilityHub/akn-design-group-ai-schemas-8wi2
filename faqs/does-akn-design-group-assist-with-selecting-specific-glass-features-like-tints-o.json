@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/does-akn-design-group-assist-with-selecting-specific-glass-features-like-tints-o",
+  "name": "Does AKN Design Group assist with selecting specific glass features like tints or privacy options?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does AKN Design Group assist with selecting specific glass features like tints or privacy options?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, as part of our integrated design-build process, AKN Design Group assists homeowners in selecting specific glass features like tints, privacy options, or specialized coatings to meet their functional and aesthetic preferences. Whether you desire reduced glare for a home office, increased privacy for a bathroom, or enhanced UV protection for a living area, we guide you through available options. This ensures that the chosen glass not only performs optimally but also complements the overall design vision of your customized renovation.",
+        "@type": "Answer",
+        "description": "Yes, AKN Design Group assists with selecting specific glass features like tints or privacy options to meet functional and aesthetic preferences within your renovation project."
+      }
+    }
+  ],
+  "description": "Yes, AKN Design Group assists with selecting specific glass features like tints or privacy options to meet functional and aesthetic preferences within your reno"
+}

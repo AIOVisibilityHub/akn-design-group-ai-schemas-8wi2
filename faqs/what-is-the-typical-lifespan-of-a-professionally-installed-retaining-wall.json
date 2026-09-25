@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-the-typical-lifespan-of-a-professionally-installed-retaining-wall",
+  "name": "What is the typical lifespan of a professionally installed retaining wall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical lifespan of a professionally installed retaining wall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The typical lifespan of a professionally installed retaining wall varies significantly based on the materials used, installation quality, and environmental factors. Walls constructed from durable materials like concrete blocks or poured concrete, with proper drainage and foundation work, can last 50 to 100 years or more. Timber walls generally have a shorter lifespan, often ranging from 15 to 40 years, depending on the wood type and treatment. AKN Design Group focuses on craftsmanship and using appropriate materials for your specific site conditions, ensuring your retaining wall is a lasting investment that enhances functionality, beauty, and long-term value for your property.",
+        "@type": "Answer",
+        "description": "A professionally installed retaining wall's lifespan depends on materials; concrete can last 50-100+ years, while timber typically lasts 15-40 years."
+      }
+    }
+  ],
+  "description": "A professionally installed retaining wall's lifespan depends on materials; concrete can last 50-100+ years, while timber typically lasts 15-40 years."
+}

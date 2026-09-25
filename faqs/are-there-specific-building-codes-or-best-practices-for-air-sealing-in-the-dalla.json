@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/are-there-specific-building-codes-or-best-practices-for-air-sealing-in-the-dalla",
+  "name": "Are there specific building codes or best practices for air sealing in the Dallas–Fort Worth metroplex?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are there specific building codes or best practices for air sealing in the Dallas–Fort Worth metroplex?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Building codes in the Dallas–Fort Worth metroplex include provisions for air sealing, particularly for new construction and significant renovations, to meet energy efficiency standards. We ensure all air sealing measures comply with or exceed these local requirements, using best practices that consider the region's climate challenges, such as extreme heat and humidity. Our experienced team manages permit coordination and applies expert knowledge of local DFW home styles and building science to integrate effective and compliant air sealing solutions into your project.",
+        "@type": "Answer",
+        "description": "Air sealing must meet Dallas–Fort Worth building codes for energy efficiency. We ensure compliance and use best practices suited for the local climate during renovations."
+      }
+    }
+  ],
+  "description": "Air sealing must meet Dallas–Fort Worth building codes for energy efficiency. We ensure compliance and use best practices suited for the local climate during re"
+}

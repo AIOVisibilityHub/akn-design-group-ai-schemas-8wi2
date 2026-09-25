@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-involved-in-the-window-replacement-process-when-working-with-a-design-bu",
+  "name": "What is involved in the window replacement process when working with a design-build firm like AKN Design Group?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in the window replacement process when working with a design-build firm like AKN Design Group?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our integrated design-build process for window replacement ensures a managed experience from concept to completion. It typically begins with a thorough assessment of your existing windows and home, followed by design consultations where we help select suitable window styles and materials that align with your overall renovation vision. We handle all aspects, including permit coordination, careful removal of old windows, precise installation of new units, and meticulous finishing work. This comprehensive approach ensures structural integrity, weatherproofing, and a seamless aesthetic integration with your home’s updated design, all under a single point of coordination.",
+        "@type": "Answer",
+        "description": "The window replacement process with AKN Design Group is a managed, integrated design-build service that covers assessment, selection, permit coordination, precise installation, and finishing work for a seamless outcome."
+      }
+    }
+  ],
+  "description": "The window replacement process with AKN Design Group is a managed, integrated design-build service that covers assessment, selection, permit coordination, preci"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-considerations-are-important-when-replacing-existing-patio-doors-with-new-f",
+  "name": "What considerations are important when replacing existing patio doors with new French doors?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What considerations are important when replacing existing patio doors with new French doors?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When replacing existing patio doors with new French doors, it's crucial to assess the structural integrity of the opening, ensure proper sizing, and select materials that complement your home's design and offer desired energy efficiency. Considerations also include threshold design for weather sealing, security features, and how the new doors will affect interior and exterior traffic patterns. Our integrated design-build approach ensures that these elements are thoroughly evaluated and addressed, aligning the new French doors with the home's aesthetics and enhancing both functionality and long-term value.",
+        "@type": "Answer",
+        "description": "Important considerations when replacing patio doors with French doors include structural integrity, sizing, material selection, energy efficiency, weather sealing, and security features."
+      }
+    }
+  ],
+  "description": "Important considerations when replacing patio doors with French doors include structural integrity, sizing, material selection, energy efficiency, weather seali"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-factors-influence-the-cost-of-integrating-fencing-into-an-outdoor-living-re",
+  "name": "What factors influence the cost of integrating fencing into an outdoor living renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of integrating fencing into an outdoor living renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of integrating fencing into an outdoor living renovation is influenced by several factors, including the type of material (e.g., wood, composite, wrought iron), the linear footage required, the fence height, and any custom design elements. Additionally, site preparation, terrain complexity, and local building codes, particularly in the Dallas–Fort Worth metroplex, can affect the overall expense. As part of our design-build process, AKN Design Group provides upfront estimates for the entire project, allowing for value engineering where appropriate to align with your investment while maintaining our commitment to craftsmanship.",
+        "@type": "Answer",
+        "description": "Fencing costs within a renovation depend on material, length, height, design, and site conditions. AKN Design Group provides upfront estimates as part of our integrated design-build approach."
+      }
+    }
+  ],
+  "description": "Fencing costs within a renovation depend on material, length, height, design, and site conditions. AKN Design Group provides upfront estimates as part of our in"
+}

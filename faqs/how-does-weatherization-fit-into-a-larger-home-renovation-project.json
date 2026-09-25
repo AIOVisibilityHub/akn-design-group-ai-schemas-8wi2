@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-does-weatherization-fit-into-a-larger-home-renovation-project",
+  "name": "How does weatherization fit into a larger home renovation project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does weatherization fit into a larger home renovation project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Weatherization is often a foundational component of larger home renovation projects, especially during whole-home remodels or additions. Integrating weatherization during these phases allows for comprehensive improvements to your home's energy performance, structural integrity, and overall comfort. AKN Design Group's managed process ensures these elements are harmonized with your design vision from the outset, avoiding piecemeal solutions.",
+        "@type": "Answer",
+        "description": "Weatherization is a key component of whole-home remodels or additions, improving energy performance and structural integrity. Integrating it early streamlines the project."
+      }
+    }
+  ],
+  "description": "Weatherization is a key component of whole-home remodels or additions, improving energy performance and structural integrity. Integrating it early streamlines t"
+}

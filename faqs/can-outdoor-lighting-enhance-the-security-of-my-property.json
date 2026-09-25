@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/can-outdoor-lighting-enhance-the-security-of-my-property",
+  "name": "Can outdoor lighting enhance the security of my property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can outdoor lighting enhance the security of my property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Thoughtfully designed outdoor lighting significantly enhances your property's security by illuminating potential dark spots and deterring unwanted activity. Strategic placement of fixtures around entry points, pathways, and property perimeters can create a safer environment. Beyond security, our lighting designs also enhance curb appeal and extend the usability of your outdoor spaces into the evening. AKN Design Group's approach prioritizes solutions that contribute to both the aesthetic and practical needs of your Dallas–Fort Worth home.",
+        "@type": "Answer",
+        "description": "Yes, well-placed outdoor lighting enhances security by illuminating dark areas. It also contributes to curb appeal and extends the usability of your outdoor spaces."
+      }
+    }
+  ],
+  "description": "Yes, well-placed outdoor lighting enhances security by illuminating dark areas. It also contributes to curb appeal and extends the usability of your outdoor spa"
+}

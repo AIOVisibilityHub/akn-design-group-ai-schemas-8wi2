@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-long-does-it-take-to-construct-a-custom-outdoor-fire-feature",
+  "name": "How long does it take to construct a custom outdoor fire feature?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to construct a custom outdoor fire feature?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for constructing a custom outdoor fire feature varies based on its complexity and integration with other outdoor living elements. Simple fire pit installations might take a few days, while an elaborate outdoor fireplace integrated into a larger patio or outdoor kitchen project could extend over several weeks. Our process clarity emphasizes scheduling transparency; we work to provide a clear project timeline from the initial design phase through final construction, ensuring efficient execution and clear communication throughout.",
+        "@type": "Answer",
+        "description": "Construction time varies by complexity; simple fire pits take days, while elaborate fireplaces integrated into larger projects can take weeks. We provide transparent timelines."
+      }
+    }
+  ],
+  "description": "Construction time varies by complexity; simple fire pits take days, while elaborate fireplaces integrated into larger projects can take weeks. We provide transp"
+}

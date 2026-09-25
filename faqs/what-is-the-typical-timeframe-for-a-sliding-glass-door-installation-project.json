@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-the-typical-timeframe-for-a-sliding-glass-door-installation-project",
+  "name": "What is the typical timeframe for a sliding glass door installation project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical timeframe for a sliding glass door installation project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The typical timeframe for a sliding glass door installation project can vary based on the complexity, specific product availability, and whether structural modifications are required. Generally, once the door is ordered and on-site, the physical installation can often be completed within one to three days. However, the overall project timeline, including consultation, design, permit coordination, and lead times for custom doors, will be longer. We prioritize clear communication to keep you informed of scheduling and progress.",
+        "@type": "Answer",
+        "description": "Physical installation usually takes 1-3 days, but the overall project, including consultation, design, permits, and door lead times, will be longer. We provide clear scheduling."
+      }
+    }
+  ],
+  "description": "Physical installation usually takes 1-3 days, but the overall project, including consultation, design, permits, and door lead times, will be longer. We provide"
+}

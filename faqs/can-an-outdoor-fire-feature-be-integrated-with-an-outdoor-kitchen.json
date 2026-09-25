@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/can-an-outdoor-fire-feature-be-integrated-with-an-outdoor-kitchen",
+  "name": "Can an outdoor fire feature be integrated with an outdoor kitchen?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can an outdoor fire feature be integrated with an outdoor kitchen?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Absolutely. AKN Design Group frequently integrates outdoor fire features, such as fireplaces or fire pits, directly into comprehensive outdoor kitchen and living space designs. This allows for a cohesive and highly functional entertainment area, where cooking, dining, and relaxation can flow seamlessly. A practical tradeoff to consider is the proximity and layout; ensure proper ventilation and safe distances are maintained between cooking zones and fire features to maximize enjoyment and safety for your high-end outdoor living space.",
+        "@type": "Answer",
+        "description": "Yes, AKN Design Group integrates fire features into outdoor kitchen designs, creating cohesive entertainment areas. Careful layout and safety distances are crucial."
+      }
+    }
+  ],
+  "description": "Yes, AKN Design Group integrates fire features into outdoor kitchen designs, creating cohesive entertainment areas. Careful layout and safety distances are cruc"
+}

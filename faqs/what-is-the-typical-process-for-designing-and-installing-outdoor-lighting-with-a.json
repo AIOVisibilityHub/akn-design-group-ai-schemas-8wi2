@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-the-typical-process-for-designing-and-installing-outdoor-lighting-with-a",
+  "name": "What is the typical process for designing and installing outdoor lighting with AKN Design Group?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for designing and installing outdoor lighting with AKN Design Group?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our process for designing and installing outdoor lighting begins with an in-depth consultation to understand your vision and assess your property. Following this, we develop a customized lighting plan, often using CAD-supported layouts, that integrates with your broader outdoor living design. Once the design is finalized and approved, our experienced team manages the installation, coordinating all necessary electrical work and fixture placement. This managed process ensures seamless execution and a cohesive final product, aligning with our commitment to craftsmanship and clear communication from concept to completion.",
+        "@type": "Answer",
+        "description": "The process involves consultation, customized design development, and professional installation managed by our team to integrate with your outdoor living space."
+      }
+    }
+  ],
+  "description": "The process involves consultation, customized design development, and professional installation managed by our team to integrate with your outdoor living space."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-should-i-prepare-or-consider-before-discussing-landscape-lighting-with-a-de",
+  "name": "What should I prepare or consider before discussing landscape lighting with a design-build contractor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare or consider before discussing landscape lighting with a design-build contractor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before discussing landscape lighting with AKN Design Group, consider what areas of your outdoor living space you want to illuminate, any specific features you wish to highlight, and your overall aesthetic preferences. Gathering inspiration photos or making a list of desired functions (e.g., pathway lighting, security lighting, accent lighting) can be very helpful. This preparation allows us to better understand your vision and develop a customized renovation plan that aligns with your lifestyle and enhances the beauty and value of your home.",
+        "@type": "Answer",
+        "description": "Before meeting, consider which outdoor areas and features you want to illuminate, your aesthetic preferences, and desired lighting functions to help us understand your vision."
+      }
+    }
+  ],
+  "description": "Before meeting, consider which outdoor areas and features you want to illuminate, your aesthetic preferences, and desired lighting functions to help us understa"
+}

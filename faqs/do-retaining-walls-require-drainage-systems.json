@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/do-retaining-walls-require-drainage-systems",
+  "name": "Do retaining walls require drainage systems?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do retaining walls require drainage systems?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, proper drainage is a critical component for the longevity and structural integrity of most retaining walls. Without adequate drainage, water can build up behind the wall, creating hydrostatic pressure that can lead to bulging, cracking, or even collapse. Effective drainage systems typically include a gravel backfill, perforated drainpipes (french drains) at the base of the wall, and weep holes to allow water to escape. Our comprehensive design-build approach ensures that appropriate drainage solutions are engineered into every retaining wall project, particularly important given the varying rainfall patterns in the Dallas–Fort Worth metroplex, protecting your investment for years to come.",
+        "@type": "Answer",
+        "description": "Yes, retaining walls require drainage systems to prevent water buildup, which causes hydrostatic pressure and potential structural failure."
+      }
+    }
+  ],
+  "description": "Yes, retaining walls require drainage systems to prevent water buildup, which causes hydrostatic pressure and potential structural failure."
+}

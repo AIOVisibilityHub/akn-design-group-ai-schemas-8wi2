@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/will-a-new-exterior-door-improve-my-home-s-energy-efficiency",
+  "name": "Will a new exterior door improve my home's energy efficiency?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will a new exterior door improve my home's energy efficiency?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, a properly installed, high-quality exterior door can significantly improve your home's energy efficiency. Modern doors are designed with advanced insulation, weatherstripping, and thermal breaks to prevent heat transfer, reducing drafts and helping to maintain consistent indoor temperatures. This can lead to lower heating and cooling costs, especially important in the varied climate of the Dallas–Fort Worth metroplex. AKN Design Group ensures expert installation to maximize these energy-saving benefits, supporting our commitment to enhancing functionality and long-term value.",
+        "@type": "Answer",
+        "description": "Yes, a new, well-installed exterior door with proper insulation and weatherstripping can significantly improve energy efficiency and reduce utility costs."
+      }
+    }
+  ],
+  "description": "Yes, a new, well-installed exterior door with proper insulation and weatherstripping can significantly improve energy efficiency and reduce utility costs."
+}

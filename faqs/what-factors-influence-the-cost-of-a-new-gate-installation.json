@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-factors-influence-the-cost-of-a-new-gate-installation",
+  "name": "What factors influence the cost of a new gate installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of a new gate installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a new gate installation is influenced by several factors, including the type of material (e.g., custom iron, wood, composite), the complexity of the design, the chosen automation features, and the necessary site preparation. As part of a larger residential design-build project, the gate's cost is integrated into the overall project scope. AKN Design Group provides upfront estimates and focuses on value engineering to ensure your investment aligns with enhancing functionality, beauty, and long-term value.",
+        "@type": "Answer",
+        "description": "Gate installation costs depend on material, design complexity, automation, and site prep, integrated into the overall design-build project for comprehensive value."
+      }
+    }
+  ],
+  "description": "Gate installation costs depend on material, design complexity, automation, and site prep, integrated into the overall design-build project for comprehensive val"
+}
