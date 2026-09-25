@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/do-i-need-to-hire-a-separate-plumber-for-sink-installation-when-getting-new-coun",
+  "name": "Do I need to hire a separate plumber for sink installation when getting new countertops from AKN Design Group?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to hire a separate plumber for sink installation when getting new countertops from AKN Design Group?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "No, as part of our integrated design-build process, AKN Design Group coordinates all necessary trades, including plumbing, for a seamless countertop and sink installation. You will not need to hire a separate plumber. Our single point of coordination ensures that the sink installation, plumbing hookups, and any related tasks are efficiently managed and executed by qualified professionals within our team or trusted subcontractors. This approach prevents miscommunications and delays, ensuring your kitchen or bathroom renovation proceeds smoothly from concept to completion.",
+        "@type": "Answer",
+        "description": "No, AKN Design Group coordinates all necessary trades, including plumbing for sink installation, as part of our integrated design-build process."
+      }
+    }
+  ],
+  "description": "No, AKN Design Group coordinates all necessary trades, including plumbing for sink installation, as part of our integrated design-build process."
+}

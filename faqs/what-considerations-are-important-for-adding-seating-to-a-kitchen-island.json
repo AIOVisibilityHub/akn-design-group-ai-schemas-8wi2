@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-considerations-are-important-for-adding-seating-to-a-kitchen-island",
+  "name": "What considerations are important for adding seating to a kitchen island?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What considerations are important for adding seating to a kitchen island?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When adding seating to a kitchen island, important considerations include the amount of overhang needed for comfortable legroom, typically 12-15 inches for counter-height seating, and the overall width of the island to accommodate the desired number of stools without impeding traffic flow. We also consider the height of the island relative to the seating, usually 36 inches for counter height or 42 inches for bar height. Proper planning ensures the seating area is both functional and inviting, seamlessly integrating into your kitchen's design and enhancing its usability for dining or entertaining.",
+        "@type": "Answer",
+        "description": "Consider adequate overhang for legroom (12-15 inches), island width for seating capacity, and appropriate height (counter or bar height) for comfort and flow."
+      }
+    }
+  ],
+  "description": "Consider adequate overhang for legroom (12-15 inches), island width for seating capacity, and appropriate height (counter or bar height) for comfort and flow."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/when-should-i-consider-a-full-custom-kitchen-renovation-rather-than-a-partial-up",
+  "name": "When should I consider a full custom kitchen renovation rather than a partial update?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider a full custom kitchen renovation rather than a partial update?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider a full custom kitchen renovation when your existing kitchen suffers from a dated layout, lacks functional prep space, has insufficient storage, or no longer supports your lifestyle for cooking and entertaining. Partial updates often address only superficial issues, while a full renovation allows for a complete redesign to improve circulation, optimize workflow, and integrate modern amenities seamlessly. Our design-build approach ensures a cohesive transformation that addresses core functional and aesthetic challenges comprehensively, making it a valuable investment for significant enhancements.",
+        "@type": "Answer",
+        "description": "Opt for a full custom kitchen renovation when you need to address a dated layout, insufficient storage, or poor functionality that a partial update cannot resolve."
+      }
+    }
+  ],
+  "description": "Opt for a full custom kitchen renovation when you need to address a dated layout, insufficient storage, or poor functionality that a partial update cannot resol"
+}

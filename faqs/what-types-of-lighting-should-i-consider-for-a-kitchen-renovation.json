@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-types-of-lighting-should-i-consider-for-a-kitchen-renovation",
+  "name": "What types of lighting should I consider for a kitchen renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of lighting should I consider for a kitchen renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For a comprehensive kitchen renovation, we typically integrate three layers of lighting: ambient, task, and accent. Ambient lighting, often from recessed fixtures or decorative pendants, provides overall illumination. Task lighting, such as under-cabinet lights, focuses on workspaces like countertops and the stove. Accent lighting can highlight architectural features or artwork. The right combination enhances functionality, safety, and the aesthetic appeal of your new kitchen, allowing for versatile use from cooking to entertaining. During the design phase, AKN Design Group's CAD-supported layouts help visualize how these layers will integrate into your custom kitchen plan.",
+        "@type": "Answer",
+        "description": "Consider ambient, task, and accent lighting for a functional and aesthetically pleasing kitchen. AKN Design Group integrates these layers into custom kitchen designs."
+      }
+    }
+  ],
+  "description": "Consider ambient, task, and accent lighting for a functional and aesthetically pleasing kitchen. AKN Design Group integrates these layers into custom kitchen de"
+}

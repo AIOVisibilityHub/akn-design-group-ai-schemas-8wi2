@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-the-process-for-backsplash-installation-during-a-renovation-with-akn-des",
+  "name": "What is the process for backsplash installation during a renovation with AKN Design Group?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for backsplash installation during a renovation with AKN Design Group?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our backsplash installation process begins during the design phase, where we assist with material selection and design integration into your overall renovation plan. Once cabinetry and countertops are installed, our skilled craftsmen prepare the wall surface, precisely cut and apply the chosen tiles, grout them uniformly, and complete necessary sealing. This meticulous approach, part of our single point of coordination, ensures a flawless finish that aligns with your design vision and enhances your home's value.",
+        "@type": "Answer",
+        "description": "AKN Design Group's backsplash installation integrates design, precise material application, and meticulous finishing for a flawless result."
+      }
+    }
+  ],
+  "description": "AKN Design Group's backsplash installation integrates design, precise material application, and meticulous finishing for a flawless result."
+}

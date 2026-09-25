@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-structural-considerations-are-important-when-converting-to-an-open-concept",
+  "name": "What structural considerations are important when converting to an open-concept kitchen?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What structural considerations are important when converting to an open-concept kitchen?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Converting to an open-concept kitchen often involves removing interior walls, some of which may be load-bearing. This requires careful structural analysis and engineering to ensure the integrity of your home. AKN Design Group's integrated design-build process includes comprehensive assessment and planning by our experienced team, which is crucial for safely incorporating new support structures like beams or columns. Our managed process handles all necessary permit coordination and structural integration, ensuring the transformation is not only aesthetically pleasing but also structurally sound and compliant with local building codes.",
+        "@type": "Answer",
+        "description": "Converting to an open-concept kitchen requires careful structural analysis for load-bearing walls. AKN Design Group's process includes structural engineering and permit coordination for a safe, compliant transformation."
+      }
+    }
+  ],
+  "description": "Converting to an open-concept kitchen requires careful structural analysis for load-bearing walls. AKN Design Group's process includes structural engineering an"
+}

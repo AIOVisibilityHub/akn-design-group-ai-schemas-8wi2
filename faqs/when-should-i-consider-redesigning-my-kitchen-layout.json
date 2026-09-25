@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/when-should-i-consider-redesigning-my-kitchen-layout",
+  "name": "When should I consider redesigning my kitchen layout?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider redesigning my kitchen layout?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider a kitchen layout redesign when your current space no longer meets your functional needs, feels cramped, or prevents efficient workflow. This often occurs when a kitchen feels closed off, lacks adequate prep space, has insufficient storage, or does not support your family's lifestyle or entertaining habits. AKN Design Group specializes in transforming outdated layouts into functional, entertaining spaces that enhance functionality, beauty, and long-term value.",
+        "@type": "Answer",
+        "description": "Consider a kitchen layout redesign when your current space no longer meets functional needs, feels cramped, or hinders efficient workflow."
+      }
+    }
+  ],
+  "description": "Consider a kitchen layout redesign when your current space no longer meets functional needs, feels cramped, or hinders efficient workflow."
+}

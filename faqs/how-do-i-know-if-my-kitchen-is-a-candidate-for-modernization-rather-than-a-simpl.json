@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-do-i-know-if-my-kitchen-is-a-candidate-for-modernization-rather-than-a-simpl",
+  "name": "How do I know if my kitchen is a candidate for modernization rather than a simple refresh?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if my kitchen is a candidate for modernization rather than a simple refresh?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Your kitchen is likely a candidate for modernization if it suffers from a closed-off feeling, lacks usable prep space, has insufficient storage, or its layout no longer supports your family's lifestyle or entertaining needs. A simple refresh often involves cosmetic changes, whereas modernization addresses underlying functional and structural issues to create a truly updated space. AKN Design Group specializes in substantial, coordinated residential renovations, focusing on transformative projects that enhance functionality and beauty. We assess whether your challenges require a foundational redesign or merely surface-level updates during our initial consultation, helping you define the project scope.",
+        "@type": "Answer",
+        "description": "Modernization is suitable if your kitchen has fundamental layout, storage, or flow issues; a refresh only addresses cosmetic concerns. AKN Design Group helps determine the best approach."
+      }
+    }
+  ],
+  "description": "Modernization is suitable if your kitchen has fundamental layout, storage, or flow issues; a refresh only addresses cosmetic concerns. AKN Design Group helps de"
+}

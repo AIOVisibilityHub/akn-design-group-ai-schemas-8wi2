@@ -1,0 +1,29 @@
+{
+  "name": "Whole-Home Remodel: Coordinated Transformation",
+  "@type": "Article",
+  "about": {
+    "name": "Whole-Home Remodel",
+    "@type": "Service"
+  },
+  "genre": "Case Study",
+  "author": {
+    "url": "akndesigngroup.com",
+    "name": "AKN Design Group",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Whole-Home Remodel: Coordinated Transformation",
+  "publisher": {
+    "url": "akndesigngroup.com",
+    "name": "AKN Design Group",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      ".speakable-headline",
+      ".speakable-summary"
+    ]
+  },
+  "articleBody": "The client's house suffered from a lack of cohesion and functionality, presenting multiple challenges. These included inconsistent finishes throughout the home, inefficient room flow that hindered daily living, and dated kitchens and bathrooms that no longer met modern standards or the homeowner's lifestyle. The overall layout of the house was not serving the household's current needs, leading to a fragmented and uninspiring living environment.\n\nAKN Design Group's solution involved creating and executing a single, coordinated renovation plan that encompassed the entire home. This comprehensive approach began with strategic sequencing of demolition and any necessary structural changes to optimize the layout and flow. Following this, AKN undertook complete renovations of both the kitchen and bathrooms. The plan also included updating flooring throughout the home, applying fresh paint, making necessary drywall repairs, upgrading lighting fixtures, installing custom built-ins, and completing finish carpentry. Every element, from interior doors to trim work, was carefully considered to ensure a unified aesthetic.\n\nThis integrated approach was critical for transforming a disjointed and outdated house into a cohesive and functional home. It highlights the importance of a single, overarching plan for whole-home renovations, allowing for consistent style, improved efficiency, and a unified aesthetic across all rooms. By managing the entire project as one, AKN ensured that all improvements worked in harmony, rather than appearing as piecemeal updates, resulting in a truly transformative outcome that catered to the household's lifestyle.\n\nOutcome: The result was a cohesive home where all rooms felt connected in both style and function. All improvements were planned and executed as one unified project, ensuring a harmonious transformation rather than disparate upgrades."
+}

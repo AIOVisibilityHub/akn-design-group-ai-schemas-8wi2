@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/can-akn-design-group-help-with-an-open-concept-kitchen-conversion",
+  "name": "Can AKN Design Group help with an open-concept kitchen conversion?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can AKN Design Group help with an open-concept kitchen conversion?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, AKN Design Group specializes in open-concept kitchen conversions, a common request for homeowners seeking to improve circulation and create a more inviting entertaining space. This often involves structural modifications to remove walls, which we manage from initial assessment and engineering plans through permit coordination and final construction. Our expertise in whole-home remodels ensures that any open-concept modification integrates seamlessly with the rest of your home, maintaining structural integrity and aesthetic cohesion.",
+        "@type": "Answer",
+        "description": "AKN Design Group specializes in open-concept kitchen conversions, managing structural modifications and permit coordination to create a seamless, integrated living space."
+      }
+    }
+  ],
+  "description": "AKN Design Group specializes in open-concept kitchen conversions, managing structural modifications and permit coordination to create a seamless, integrated liv"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-does-akn-design-group-handle-design-and-material-selection-for-a-kitchen-rem",
+  "name": "How does AKN Design Group handle design and material selection for a kitchen remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does AKN Design Group handle design and material selection for a kitchen remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "AKN Design Group integrates design and material selection into our comprehensive design-build process. We guide you through choices for custom cabinetry, countertops, tile backsplash, flooring, and lighting, ensuring every element harmonizes with your vision and enhances functionality. Our team assists with coordinating these selections, offering expertise on durable, high-quality materials suited for your lifestyle. This managed process from concept to completion ensures your new kitchen reflects your unique aesthetic while delivering lasting value.",
+        "@type": "Answer",
+        "description": "AKN Design Group integrates design and material selection into our process, guiding you through choices like cabinetry, countertops, and flooring, ensuring harmony and quality for your new kitchen."
+      }
+    }
+  ],
+  "description": "AKN Design Group integrates design and material selection into our process, guiding you through choices like cabinetry, countertops, and flooring, ensuring harm"
+}

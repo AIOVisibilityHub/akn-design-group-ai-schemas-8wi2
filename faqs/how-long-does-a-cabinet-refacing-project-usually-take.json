@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-long-does-a-cabinet-refacing-project-usually-take",
+  "name": "How long does a cabinet refacing project usually take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a cabinet refacing project usually take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for a cabinet refacing project can vary depending on the size of your kitchen or bathroom and the complexity of the design. Typically, the on-site installation phase for refacing is shorter than a full cabinet replacement, often ranging from a few days to about a week. However, the overall process, from initial design consultations and material selection to manufacturing custom doors and veneers, will extend this timeline. AKN Design Group emphasizes clear communication and provides scheduling transparency throughout your managed process, ensuring you understand each phase from concept to completion.",
+        "@type": "Answer",
+        "description": "Cabinet refacing installation typically takes a few days to a week, but the total project, including design and manufacturing, is longer. AKN Design Group provides scheduling transparency for the managed process."
+      }
+    }
+  ],
+  "description": "Cabinet refacing installation typically takes a few days to a week, but the total project, including design and manufacturing, is longer. AKN Design Group provi"
+}

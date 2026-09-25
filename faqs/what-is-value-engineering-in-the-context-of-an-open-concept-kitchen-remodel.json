@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-value-engineering-in-the-context-of-an-open-concept-kitchen-remodel",
+  "name": "What is value engineering in the context of an open-concept kitchen remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is value engineering in the context of an open-concept kitchen remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Value engineering in an open-concept kitchen remodel is the process of analyzing material and construction methods to achieve the desired functional and aesthetic goals in the most cost-effective way, without compromising quality or design intent. It involves exploring alternative solutions or specifications that maintain performance and visual appeal while optimizing investment. AKN Design Group incorporates value engineering discussions into our design planning. We guide you through options, such as alternative countertop materials or cabinetry finishes, that align with your vision while balancing budget considerations, ensuring a smart investment in your customized renovation.",
+        "@type": "Answer",
+        "description": "Value engineering optimizes an open-concept kitchen remodel by finding cost-effective material and construction solutions without sacrificing quality or design. AKN Design Group guides clients through options to balance vision and budget."
+      }
+    }
+  ],
+  "description": "Value engineering optimizes an open-concept kitchen remodel by finding cost-effective material and construction solutions without sacrificing quality or design."
+}

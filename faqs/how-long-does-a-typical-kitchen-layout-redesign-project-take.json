@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-long-does-a-typical-kitchen-layout-redesign-project-take",
+  "name": "How long does a typical kitchen layout redesign project take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical kitchen layout redesign project take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a kitchen layout redesign project varies based on its complexity and scope, from minor reconfigurations to significant structural changes. Factors such as custom cabinetry fabrication, special-order materials, and the extent of structural modifications can influence the timeline. During our initial planning phase, we provide transparent scheduling and an upfront estimate, ensuring clear communication throughout. We prioritize a managed process that aligns with your specific project requirements.",
+        "@type": "Answer",
+        "description": "Project duration depends on complexity, scope, custom elements, and structural changes. We provide transparent scheduling and estimates during planning."
+      }
+    }
+  ],
+  "description": "Project duration depends on complexity, scope, custom elements, and structural changes. We provide transparent scheduling and estimates during planning."
+}

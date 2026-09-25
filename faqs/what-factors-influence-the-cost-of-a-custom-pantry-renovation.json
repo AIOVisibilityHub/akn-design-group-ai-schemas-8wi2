@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-factors-influence-the-cost-of-a-custom-pantry-renovation",
+  "name": "What factors influence the cost of a custom pantry renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of a custom pantry renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a custom pantry renovation is influenced by several factors, including the size of the pantry space, the type and quality of materials chosen for shelving, cabinetry, and organizational systems, and the complexity of the design. Custom features like built-in drawers, pull-out racks, or specialized compartments will also impact the overall investment. AKN Design Group offers value engineering as part of our integrated design-build process, helping to optimize costs without compromising on the desired functionality or aesthetic quality.",
+        "@type": "Answer",
+        "description": "Cost is influenced by pantry size, material selection (shelving, cabinetry), and custom features like built-in drawers or specialized compartments."
+      }
+    }
+  ],
+  "description": "Cost is influenced by pantry size, material selection (shelving, cabinetry), and custom features like built-in drawers or specialized compartments."
+}

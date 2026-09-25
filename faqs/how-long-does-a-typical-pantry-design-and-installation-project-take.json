@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-long-does-a-typical-pantry-design-and-installation-project-take",
+  "name": "How long does a typical pantry design and installation project take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical pantry design and installation project take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for a pantry design and installation project varies depending on its complexity, size, and the chosen materials. Simpler projects may conclude in a few weeks, while more extensive, custom-built pantries requiring structural modifications or bespoke cabinetry could take longer. AKN Design Group provides upfront estimates and maintains clear scheduling transparency throughout the project, ensuring you are informed at every stage. We focus on a managed process, from initial design consultation to final installation, aiming for efficiency without compromising craftsmanship.",
+        "@type": "Answer",
+        "description": "Project timelines vary by complexity and size, but AKN Design Group provides clear scheduling transparency and upfront estimates to keep you informed."
+      }
+    }
+  ],
+  "description": "Project timelines vary by complexity and size, but AKN Design Group provides clear scheduling transparency and upfront estimates to keep you informed."
+}

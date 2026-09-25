@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/why-should-i-choose-akn-design-group-for-a-substantial-outdoor-living-space-proj",
+  "name": "Why should I choose AKN Design Group for a substantial outdoor living space project over a landscaper or general handyman?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why should I choose AKN Design Group for a substantial outdoor living space project over a landscaper or general handyman?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing AKN Design Group for a substantial outdoor living space project ensures a managed process and integrated design-build expertise that goes beyond what a typical landscaper or handyman offers. We specialize in high-value, comprehensive transformations, providing a single point of coordination for complex projects involving structural elements, utilities, and detailed finishes. Our focus on craftsmanship, clear communication, and over two decades of experience ensures a cohesive, high-quality outcome, enhancing functionality, beauty, and value, rather than piecemeal work.",
+        "@type": "Answer",
+        "description": "AKN Design Group offers integrated design-build expertise for complex outdoor projects, providing a single point of coordination and comprehensive craftsmanship beyond typical landscapers or handymen."
+      }
+    }
+  ],
+  "description": "AKN Design Group offers integrated design-build expertise for complex outdoor projects, providing a single point of coordination and comprehensive craftsmanship"
+}

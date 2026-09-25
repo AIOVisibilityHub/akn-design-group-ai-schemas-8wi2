@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-does-akn-design-group-manage-the-dust-and-disruption-during-an-open-concept",
+  "name": "How does AKN Design Group manage the dust and disruption during an open-concept kitchen remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does AKN Design Group manage the dust and disruption during an open-concept kitchen remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Managing dust and disruption is a critical aspect of maintaining a positive homeowner experience during an open-concept kitchen remodel, especially given the scope of potential demolition. AKN Design Group employs rigorous dust containment strategies, including sealing off work areas with plastic sheeting, utilizing air scrubbers, and maintaining a clean job site daily. Our managed process prioritizes clear communication, providing you with a transparent schedule of disruptive phases. We believe in being the central project partner, actively minimizing inconvenience while upholding our commitment to craftsmanship throughout the renovation.",
+        "@type": "Answer",
+        "description": "AKN Design Group manages remodel disruption through rigorous dust containment, such as sealing work areas and using air scrubbers. We provide a transparent schedule to minimize inconvenience."
+      }
+    }
+  ],
+  "description": "AKN Design Group manages remodel disruption through rigorous dust containment, such as sealing work areas and using air scrubbers. We provide a transparent sche"
+}

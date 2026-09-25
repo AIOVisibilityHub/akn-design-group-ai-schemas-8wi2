@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-do-you-ensure-proper-lighting-placement-in-a-kitchen-designed-for-entertaini",
+  "name": "How do you ensure proper lighting placement in a kitchen designed for entertaining?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do you ensure proper lighting placement in a kitchen designed for entertaining?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Ensuring proper lighting placement in a kitchen designed for entertaining involves a strategic approach that balances ambiance with task-specific illumination. We achieve this by layering light sources: dimmable ambient lighting to set the mood, focused task lighting over prep and serving areas, and accent lighting to highlight architectural details or a beverage station. Our design-build process includes detailed CAD-supported layouts that map out light fixture locations in relation to islands, seating areas, and appliances. This meticulous planning ensures that your kitchen not only functions efficiently for cooking but also provides an inviting and versatile atmosphere for hosting, reflecting our commitment to enhancing functionality, beauty, and long-term value.",
+        "@type": "Answer",
+        "description": "For entertaining kitchens, we strategically layer dimmable ambient, task, and accent lighting, using CAD layouts to optimize placement for both functionality and atmosphere. This ensures an inviting space for hosting."
+      }
+    }
+  ],
+  "description": "For entertaining kitchens, we strategically layer dimmable ambient, task, and accent lighting, using CAD layouts to optimize placement for both functionality an"
+}

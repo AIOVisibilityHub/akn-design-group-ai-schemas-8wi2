@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-the-difference-between-a-kitchen-refresh-and-a-full-layout-redesign",
+  "name": "What is the difference between a kitchen refresh and a full layout redesign?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a kitchen refresh and a full layout redesign?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A kitchen refresh typically involves updating finishes like paint, backsplash, or hardware without altering the existing footprint or major structural elements. In contrast, a full layout redesign involves reconfiguring the physical arrangement of appliances, cabinetry, and potentially walls to improve circulation, functionality, and overall space utilization. AKN Design Group specializes in the latter, offering comprehensive, customized renovations that transform the entire kitchen environment from concept through construction. We focus on enhancing functionality, beauty, and value through significant transformations.",
+        "@type": "Answer",
+        "description": "A refresh updates finishes, while a full layout redesign reconfigures the physical space of appliances and cabinetry for improved functionality."
+      }
+    }
+  ],
+  "description": "A refresh updates finishes, while a full layout redesign reconfigures the physical space of appliances and cabinetry for improved functionality."
+}

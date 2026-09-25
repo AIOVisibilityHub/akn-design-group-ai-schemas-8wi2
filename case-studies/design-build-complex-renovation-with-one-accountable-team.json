@@ -1,0 +1,29 @@
+{
+  "name": "Design-Build: Complex Renovation With One Accountable Team",
+  "@type": "Article",
+  "about": {
+    "name": "Custom Home Improvements",
+    "@type": "Service"
+  },
+  "genre": "Case Study",
+  "author": {
+    "url": "akndesigngroup.com",
+    "name": "AKN Design Group",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Design-Build: Complex Renovation With One Accountable Team",
+  "publisher": {
+    "url": "akndesigngroup.com",
+    "name": "AKN Design Group",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      ".speakable-headline",
+      ".speakable-summary"
+    ]
+  },
+  "articleBody": "The client desired to renovate several areas within their home, but they lacked a clear and organized process to manage the complexity of such a project. Key challenges included difficulties with decision-making, budgeting, scope coordination between different trades, and effectively sequencing the construction work. They needed a streamlined approach to navigate the intricacies of a multi-area renovation.\n\nAKN Design Group stepped in as the central project partner, offering a comprehensive design-build solution. They guided the client through every stage, starting with initial planning and assisting with material and finish selections. AKN then provided accurate estimating and facilitated design coordination to ensure all elements aligned with the client's vision. Where necessary, they provided support for permit acquisition and developed detailed construction scheduling. Crucially, AKN managed all trade coordination, ensuring smooth workflow between different specialists, conducted thorough quality-control walkthroughs, and oversaw the completion of the final punch-list items.\n\nThis design-build model was vital for homeowners undertaking complex renovations, providing a single point of accountability and streamlining a potentially overwhelming process. It emphasizes the significant advantage of having one dedicated team manage the project from the initial concept through to final construction. This approach ensures greater organization, clear communication, and a cohesive outcome, alleviating the client's burden of coordinating multiple entities and offering a more predictable and less stressful remodeling experience.\n\nOutcome: The project resulted in a more organized and streamlined remodeling experience for the client. With AKN Design Group serving as one accountable team, the entire project was coordinated effectively from the early concept phase through to completed construction."
+}

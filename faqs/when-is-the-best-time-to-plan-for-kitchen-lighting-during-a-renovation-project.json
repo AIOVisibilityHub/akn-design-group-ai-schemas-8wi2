@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/when-is-the-best-time-to-plan-for-kitchen-lighting-during-a-renovation-project",
+  "name": "When is the best time to plan for kitchen lighting during a renovation project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When is the best time to plan for kitchen lighting during a renovation project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Planning for kitchen lighting should begin early in the renovation process, ideally during the initial design phase. This allows for seamless integration of electrical wiring, fixture placement, and switch locations into the overall construction plan, avoiding costly changes later. Considering lighting needs upfront, alongside cabinetry and appliance selections, ensures a cohesive and optimized outcome. AKN Design Group’s managed process incorporates lighting design from the outset, coordinating with other elements like custom cabinetry and wall modifications, which is crucial for achieving a truly customized and functional kitchen.",
+        "@type": "Answer",
+        "description": "Plan kitchen lighting during the initial design phase of your renovation to ensure seamless integration and avoid later complications. Our process incorporates it from the outset."
+      }
+    }
+  ],
+  "description": "Plan kitchen lighting during the initial design phase of your renovation to ensure seamless integration and avoid later complications. Our process incorporates"
+}

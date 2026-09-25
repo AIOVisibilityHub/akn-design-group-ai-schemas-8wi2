@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/can-i-live-in-my-home-during-a-kitchen-renovation",
+  "name": "Can I live in my home during a kitchen renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I live in my home during a kitchen renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While it is possible to remain in your home during a kitchen renovation, it's important to prepare for temporary disruptions. Your kitchen will be a construction zone, meaning it will be inaccessible for cooking and often for water access for a period. AKN Design Group works with homeowners to establish a managed process, including setting up temporary utility areas and implementing dust control measures. We maintain clear communication regarding the construction schedule and anticipated impacts, allowing you to plan for alternate cooking arrangements or consider temporary accommodations, ensuring your comfort and minimizing inconvenience throughout the project.",
+        "@type": "Answer",
+        "description": "Living at home during a kitchen renovation is possible but requires preparation for temporary disruptions. AKN helps manage the process, including temporary utility setups and clear communication."
+      }
+    }
+  ],
+  "description": "Living at home during a kitchen renovation is possible but requires preparation for temporary disruptions. AKN helps manage the process, including temporary uti"
+}

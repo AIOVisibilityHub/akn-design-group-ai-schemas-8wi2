@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-involved-in-designing-and-building-a-custom-outdoor-living-space-with-ak",
+  "name": "What is involved in designing and building a custom outdoor living space with AKN Design Group?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in designing and building a custom outdoor living space with AKN Design Group?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Designing and building a custom outdoor living space with AKN Design Group involves a comprehensive, managed process. We start with understanding your vision for enhanced functionality, beauty, and value. This includes initial consultations to discuss elements like covered patios, outdoor kitchens, fire features, and hardscaping. Our design-build approach ensures a single point of coordination, guiding you through layout planning, material selection, and permit coordination, leading to a cohesive and integrated outdoor destination.",
+        "@type": "Answer",
+        "description": "Our design-build process for outdoor living spaces covers everything from initial concept and design planning to construction and final walkthrough, ensuring a unified vision."
+      }
+    }
+  ],
+  "description": "Our design-build process for outdoor living spaces covers everything from initial concept and design planning to construction and final walkthrough, ensuring a"
+}

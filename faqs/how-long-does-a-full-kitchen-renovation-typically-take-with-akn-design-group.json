@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-long-does-a-full-kitchen-renovation-typically-take-with-akn-design-group",
+  "name": "How long does a full kitchen renovation typically take with AKN Design Group?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a full kitchen renovation typically take with AKN Design Group?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a full kitchen renovation varies based on the scope and complexity of the project, as well as the lead times for custom materials. While minor updates might be completed in a few weeks, a comprehensive renovation that involves significant layout changes, custom cabinetry, and structural modifications can take several months from initial design to final installation. AKN Design Group provides a transparent project timeline upfront, detailing each phase from design approval and permit coordination to construction and final walkthrough. Understanding these timelines early in the process helps manage expectations and ensures a smooth project flow.",
+        "@type": "Answer",
+        "description": "Project duration for a full kitchen renovation varies based on scope and custom materials, typically ranging from several weeks to a few months. AKN provides a transparent timeline upfront."
+      }
+    }
+  ],
+  "description": "Project duration for a full kitchen renovation varies based on scope and custom materials, typically ranging from several weeks to a few months. AKN provides a"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/can-akn-design-group-integrate-a-new-pantry-into-an-existing-kitchen-layout-or-i",
+  "name": "Can AKN Design Group integrate a new pantry into an existing kitchen layout, or is it only for full kitchen remodels?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can AKN Design Group integrate a new pantry into an existing kitchen layout, or is it only for full kitchen remodels?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "AKN Design Group specializes in both integrating new pantries into existing kitchen layouts and incorporating them as part of a full kitchen renovation. Our integrated design-build process allows us to assess your current space and recommend solutions that either adapt existing areas or reconfigure your kitchen entirely for optimal pantry placement and functionality. Whether it's a dedicated walk-in pantry or a sophisticated cabinet pantry, our goal is to create a seamless, customized renovation that meets your needs. We are adept at structural integration and ensuring consistent finishes.",
+        "@type": "Answer",
+        "description": "Yes, AKN Design Group can integrate a new pantry into an existing kitchen or include it as part of a full kitchen remodel, ensuring seamless integration and consistent finishes."
+      }
+    }
+  ],
+  "description": "Yes, AKN Design Group can integrate a new pantry into an existing kitchen or include it as part of a full kitchen remodel, ensuring seamless integration and con"
+}

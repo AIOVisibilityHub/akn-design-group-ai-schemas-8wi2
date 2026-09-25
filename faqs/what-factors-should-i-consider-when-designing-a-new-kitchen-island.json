@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-factors-should-i-consider-when-designing-a-new-kitchen-island",
+  "name": "What factors should I consider when designing a new kitchen island?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors should I consider when designing a new kitchen island?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When designing a new kitchen island, consider its primary function: will it be for food preparation, dining, additional storage, or a combination? We will discuss your kitchen's overall layout, available space for comfortable traffic flow, and the integration of appliances like a sink or cooktop. The choice of materials for the countertop and base should complement your existing kitchen's aesthetic while being durable enough for daily use. During our design phase, we help homeowners in the Dallas–Fort Worth metroplex evaluate these elements to ensure the island enhances both functionality and beauty within their home, maintaining a cohesive design.",
+        "@type": "Answer",
+        "description": "Consider function, kitchen layout, available space, and material choices. We help integrate these to enhance your kitchen's functionality and aesthetic."
+      }
+    }
+  ],
+  "description": "Consider function, kitchen layout, available space, and material choices. We help integrate these to enhance your kitchen's functionality and aesthetic."
+}

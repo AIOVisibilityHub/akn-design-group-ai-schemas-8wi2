@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-factors-should-i-consider-when-selecting-a-subfloor-for-my-new-kitchen-floo",
+  "name": "What factors should I consider when selecting a subfloor for my new kitchen flooring?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors should I consider when selecting a subfloor for my new kitchen flooring?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selecting a subfloor for new kitchen flooring, it is crucial to consider the type of finished flooring, the existing structural integrity, and moisture resistance. Different flooring materials, such as tile or hardwood, require specific subfloor preparations for optimal installation and longevity. Factors like deflection, flatness, and appropriate underlayment are critical. As part of our comprehensive renovation process, AKN Design Group assesses your current subfloor and recommends any necessary repairs or upgrades to ensure a stable, durable foundation that supports your chosen flooring and enhances its long-term performance.",
+        "@type": "Answer",
+        "description": "Consider the finished flooring type, existing structural integrity, and moisture resistance when selecting a subfloor. AKN Design Group assesses and recommends necessary subfloor preparations."
+      }
+    }
+  ],
+  "description": "Consider the finished flooring type, existing structural integrity, and moisture resistance when selecting a subfloor. AKN Design Group assesses and recommends"
+}

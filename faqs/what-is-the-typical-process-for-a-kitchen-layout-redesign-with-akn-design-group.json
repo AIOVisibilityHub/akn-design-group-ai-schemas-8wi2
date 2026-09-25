@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-the-typical-process-for-a-kitchen-layout-redesign-with-akn-design-group",
+  "name": "What is the typical process for a kitchen layout redesign with AKN Design Group?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for a kitchen layout redesign with AKN Design Group?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our integrated design-build process for a kitchen layout redesign begins with an initial consultation to understand your vision and functional requirements. We then develop CAD-supported layouts, material selections, and a detailed plan. This is followed by permit coordination, construction, installation of custom cabinetry, countertops, and appliances, and a final walkthrough. This managed process ensures clear communication and a single point of coordination from concept to completion.",
+        "@type": "Answer",
+        "description": "Our process involves consultation, CAD-supported design, material selection, permit coordination, construction, and final walkthrough, all managed by one team."
+      }
+    }
+  ],
+  "description": "Our process involves consultation, CAD-supported design, material selection, permit coordination, construction, and final walkthrough, all managed by one team."
+}

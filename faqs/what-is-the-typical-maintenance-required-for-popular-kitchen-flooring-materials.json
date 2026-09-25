@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-the-typical-maintenance-required-for-popular-kitchen-flooring-materials",
+  "name": "What is the typical maintenance required for popular kitchen flooring materials like tile or engineered hardwood?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical maintenance required for popular kitchen flooring materials like tile or engineered hardwood?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The typical maintenance for kitchen flooring materials varies. Tile floors, especially porcelain, require regular sweeping or vacuuming and occasional mopping with a mild cleaner; grout lines may need periodic sealing or cleaning to prevent staining. Engineered hardwood floors need regular sweeping and damp mopping with specific wood floor cleaners, avoiding excessive moisture. Neither material should be cleaned with harsh chemicals or abrasive tools. Proper maintenance is crucial for longevity and appearance, and AKN Design Group will provide specific care instructions for the materials chosen during your customized renovation, contributing to lasting impressions.",
+        "@type": "Answer",
+        "description": "Tile needs regular sweeping and mopping, with occasional grout care. Engineered hardwood requires regular sweeping and damp mopping with specific cleaners, avoiding harsh chemicals. We provide specific care instructions."
+      }
+    }
+  ],
+  "description": "Tile needs regular sweeping and mopping, with occasional grout care. Engineered hardwood requires regular sweeping and damp mopping with specific cleaners, avoi"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-does-akn-design-group-ensure-the-quality-of-materials-and-craftsmanship-in-a",
+  "name": "How does AKN Design Group ensure the quality of materials and craftsmanship in an interior renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does AKN Design Group ensure the quality of materials and craftsmanship in an interior renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "AKN Design Group ensures the quality of materials and craftsmanship through our integrated design-build process and deep industry relationships. We meticulously select high-quality materials and partner with trusted suppliers, ensuring durability and aesthetic appeal for your customized renovation. Our experienced team, with over two decades in business and thousands of projects completed, oversees every stage of construction, emphasizing precision and adherence to exacting standards. We prioritize craftsmanship as a core value, guaranteeing that the finished product reflects lasting quality and attention to detail.",
+        "@type": "Answer",
+        "description": "AKN Design Group ensures quality through meticulous material selection and an integrated design-build process, relying on experienced teams and trusted suppliers for lasting craftsmanship."
+      }
+    }
+  ],
+  "description": "AKN Design Group ensures quality through meticulous material selection and an integrated design-build process, relying on experienced teams and trusted supplier"
+}

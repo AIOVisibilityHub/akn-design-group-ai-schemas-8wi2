@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/when-is-the-ideal-time-to-select-cabinet-hardware-during-a-kitchen-or-bathroom-r",
+  "name": "When is the ideal time to select cabinet hardware during a kitchen or bathroom renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When is the ideal time to select cabinet hardware during a kitchen or bathroom renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Selecting cabinet hardware is an integral part of the overall design process for a kitchen or bathroom renovation. We recommend finalizing hardware selections during the design planning phase, ideally when custom cabinetry designs are being solidified. This ensures that the chosen pulls, knobs, and finishes complement the cabinetry style, room aesthetics, and functional requirements, preventing delays or mismatched aesthetics later in the construction process. AKN Design Group integrates hardware selection into our managed design-build process, ensuring a cohesive look for your luxury kitchen or spa-inspired bathroom.",
+        "@type": "Answer",
+        "description": "Finalize cabinet hardware selections during the design planning phase when cabinetry designs are solidified to ensure a cohesive aesthetic and functional fit."
+      }
+    }
+  ],
+  "description": "Finalize cabinet hardware selections during the design planning phase when cabinetry designs are solidified to ensure a cohesive aesthetic and functional fit."
+}

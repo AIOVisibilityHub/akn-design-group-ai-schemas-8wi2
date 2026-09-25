@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-does-appliance-placement-influence-the-design-and-cost-of-a-custom-kitchen-r",
+  "name": "How does appliance placement influence the design and cost of a custom kitchen renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does appliance placement influence the design and cost of a custom kitchen renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Appliance placement significantly influences both the design and cost of a custom kitchen renovation. Strategically locating major appliances impacts workflow, cabinet configurations, and the necessity for specific utility runs (electrical, gas, water, ventilation). For instance, moving a refrigerator or range might require extending or relocating plumbing and gas lines, or adding new dedicated electrical circuits, which adds to the project's complexity and material costs. Our design-build approach prioritizes value engineering and functionality, ensuring that appliance layout enhances your kitchen's efficiency and aesthetic appeal while considering the most effective use of resources to achieve your vision.",
+        "@type": "Answer",
+        "description": "Appliance placement impacts kitchen design, workflow, and renovation costs by dictating utility runs, cabinetry, and structural needs."
+      }
+    }
+  ],
+  "description": "Appliance placement impacts kitchen design, workflow, and renovation costs by dictating utility runs, cabinetry, and structural needs."
+}

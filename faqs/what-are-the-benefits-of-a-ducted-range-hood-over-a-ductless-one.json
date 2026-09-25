@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-are-the-benefits-of-a-ducted-range-hood-over-a-ductless-one",
+  "name": "What are the benefits of a ducted range hood over a ductless one?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the benefits of a ducted range hood over a ductless one?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Ducted range hoods vent cooking fumes, smoke, heat, and odors directly outside your home, providing superior air purification and moisture control. This system effectively removes airborne contaminants, preventing them from recirculating within your kitchen, which is particularly beneficial for active cooks or those with open-concept living spaces. In contrast, ductless hoods filter and recirculate air. As part of our design-build process for luxury kitchens, we typically recommend ducted systems for optimal performance and to enhance the functionality and value of your home.",
+        "@type": "Answer",
+        "description": "Ducted range hoods offer superior air purification by venting fumes, smoke, heat, and odors outside, enhancing kitchen air quality more effectively than ductless options."
+      }
+    }
+  ],
+  "description": "Ducted range hoods offer superior air purification by venting fumes, smoke, heat, and odors outside, enhancing kitchen air quality more effectively than ductles"
+}

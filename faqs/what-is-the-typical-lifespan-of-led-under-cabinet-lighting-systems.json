@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-the-typical-lifespan-of-led-under-cabinet-lighting-systems",
+  "name": "What is the typical lifespan of LED under-cabinet lighting systems?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical lifespan of LED under-cabinet lighting systems?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "LED under-cabinet lighting systems are known for their exceptional longevity compared to traditional incandescent or fluorescent options. A high-quality LED system, properly installed as part of a comprehensive kitchen renovation, can last upwards of 25,000 to 50,000 hours, which often translates to many years of use without requiring replacement. This durability is a key advantage, reducing maintenance and ensuring consistent performance over the lifespan of your kitchen. Our focus on craftsmanship and reliability means we select durable components that contribute to the lasting quality of our customized renovations.",
+        "@type": "Answer",
+        "description": "High-quality LED under-cabinet lighting systems typically last 25,000 to 50,000 hours, offering many years of consistent performance and reducing maintenance needs in renovated kitchens."
+      }
+    }
+  ],
+  "description": "High-quality LED under-cabinet lighting systems typically last 25,000 to 50,000 hours, offering many years of consistent performance and reducing maintenance ne"
+}

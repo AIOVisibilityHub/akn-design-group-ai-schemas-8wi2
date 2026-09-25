@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-should-i-prepare-before-my-initial-consultation-with-akn-design-group-for-a",
+  "name": "What should I prepare before my initial consultation with AKN Design Group for a custom home improvement project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare before my initial consultation with AKN Design Group for a custom home improvement project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before your initial consultation with AKN Design Group, gathering your ideas, preferences, and any inspirational images or desired functionalities for your custom home improvement project is helpful. Consider your budget expectations and how you envision using the newly renovated space. While not strictly necessary, having a general understanding of your home's layout or any specific challenges you wish to address can further enhance our discussion. This preparation allows us to better understand your unique lifestyle and aesthetic, helping us craft a truly personalized design-build plan.",
+        "@type": "Answer",
+        "description": "Before your consultation, prepare your ideas, inspirational images, and desired functionalities for the space. Consider your budget expectations and any specific challenges to help AKN Design Group craft a personalized design-build plan."
+      }
+    }
+  ],
+  "description": "Before your consultation, prepare your ideas, inspirational images, and desired functionalities for the space. Consider your budget expectations and any specifi"
+}

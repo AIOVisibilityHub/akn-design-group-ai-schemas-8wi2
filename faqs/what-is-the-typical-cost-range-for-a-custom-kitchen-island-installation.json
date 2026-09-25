@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-the-typical-cost-range-for-a-custom-kitchen-island-installation",
+  "name": "What is the typical cost range for a custom kitchen island installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost range for a custom kitchen island installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a custom kitchen island installation can vary significantly based on size, materials, built-in features (like sinks, cooktops, or wine refrigerators), and the complexity of electrical and plumbing work required. As specialists in high-value, customized renovations, we focus on solutions that enhance functionality, beauty, and long-term value, rather than prioritizing the lowest price for an isolated task. During our initial consultation, we provide transparent, upfront estimates tailored to your specific design choices and the comprehensive scope of your kitchen remodel in the Dallas–Fort Worth metroplex, avoiding hidden costs.",
+        "@type": "Answer",
+        "description": "Cost varies based on size, materials, and features. We provide transparent, upfront estimates as part of your comprehensive kitchen remodel."
+      }
+    }
+  ],
+  "description": "Cost varies based on size, materials, and features. We provide transparent, upfront estimates as part of your comprehensive kitchen remodel."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-factors-influence-the-timeline-for-a-custom-kitchen-renovation",
+  "name": "What factors influence the timeline for a custom kitchen renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the timeline for a custom kitchen renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for a custom kitchen renovation is influenced by several factors, including the scope of structural changes, the selection of custom cabinetry, countertops, and appliances, and the complexity of plumbing or electrical work. Moving walls for an open-concept layout or custom orders for unique materials can extend the duration. AKN Design Group provides a transparent schedule and manages permit coordination to keep your project on track. While we aim for efficiency, prioritizing craftsmanship and integrated design means projects are completed with attention to detail rather than rushing.",
+        "@type": "Answer",
+        "description": "Timeline depends on structural changes, material selections, and system upgrades like plumbing or electrical. AKN Design Group manages permit coordination and provides a transparent schedule, prioritizing craftsmanship for a quality outcome."
+      }
+    }
+  ],
+  "description": "Timeline depends on structural changes, material selections, and system upgrades like plumbing or electrical. AKN Design Group manages permit coordination and p"
+}

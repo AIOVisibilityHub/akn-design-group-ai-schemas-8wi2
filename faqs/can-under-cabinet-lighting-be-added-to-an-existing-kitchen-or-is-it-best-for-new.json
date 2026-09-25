@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/can-under-cabinet-lighting-be-added-to-an-existing-kitchen-or-is-it-best-for-new",
+  "name": "Can under-cabinet lighting be added to an existing kitchen, or is it best for new remodels?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can under-cabinet lighting be added to an existing kitchen, or is it best for new remodels?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While under-cabinet lighting can be added to an existing kitchen, integrating it during a full kitchen remodel offers the most seamless and aesthetically pleasing results. In a renovation, electrical wiring can be discreetly concealed within walls and cabinetry before finishes are installed, providing a clean, integrated look. Retrofitting into an existing kitchen might involve more visible wiring solutions or necessitate minor modifications to cabinetry to hide conduits. For homeowners seeking a cohesive transformation, incorporating it into the initial design phase of a customized renovation ensures optimal placement and functionality without compromising the overall aesthetic, reflecting our commitment to craftsmanship.",
+        "@type": "Answer",
+        "description": "Adding under-cabinet lighting is best done during a full kitchen remodel for seamless integration and concealed wiring, though retrofitting an existing kitchen is possible with careful planning."
+      }
+    }
+  ],
+  "description": "Adding under-cabinet lighting is best done during a full kitchen remodel for seamless integration and concealed wiring, though retrofitting an existing kitchen"
+}

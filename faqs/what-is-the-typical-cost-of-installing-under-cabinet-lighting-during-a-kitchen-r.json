@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-the-typical-cost-of-installing-under-cabinet-lighting-during-a-kitchen-r",
+  "name": "What is the typical cost of installing under-cabinet lighting during a kitchen renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost of installing under-cabinet lighting during a kitchen renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of integrating under-cabinet lighting varies based on factors such as the type of lighting chosen (e.g., LED strips versus linear fixtures), the total linear footage required, and the complexity of the electrical work. Wireless or battery-operated options tend to be less expensive for materials but may not offer the longevity or seamless integration of hardwired solutions. Hardwired systems, while a greater initial investment, provide a permanent, reliable, and aesthetically integrated solution, which is our preference for comprehensive kitchen remodels. AKN Design Group provides upfront estimates for all components within our managed design-build process, ensuring transparency for your customized renovation.",
+        "@type": "Answer",
+        "description": "Costs vary based on lighting type, linear footage, and electrical complexity; hardwired systems offer seamless integration and longevity for comprehensive remodels."
+      }
+    }
+  ],
+  "description": "Costs vary based on lighting type, linear footage, and electrical complexity; hardwired systems offer seamless integration and longevity for comprehensive remod"
+}

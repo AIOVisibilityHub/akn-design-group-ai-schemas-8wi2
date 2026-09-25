@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-the-typical-timeframe-for-cabinet-hardware-installation-during-a-kitchen",
+  "name": "What is the typical timeframe for cabinet hardware installation during a kitchen remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical timeframe for cabinet hardware installation during a kitchen remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Cabinet hardware installation is typically one of the final steps in a kitchen remodel, occurring after custom cabinetry is fully installed and adjusted. While the actual installation of hardware is relatively quick—often completed within a day for an average-sized kitchen—it is part of a larger, carefully managed sequence. AKN Design Group's project managers ensure this task is scheduled efficiently within the overall renovation timeline, minimizing disruption and ensuring timely completion of your luxury kitchen. Our integrated design-build approach prioritizes clear communication about project scheduling.",
+        "@type": "Answer",
+        "description": "Hardware installation is a final, swift step in a kitchen remodel, occurring after cabinetry is fully installed and adjusted, typically taking about a day."
+      }
+    }
+  ],
+  "description": "Hardware installation is a final, swift step in a kitchen remodel, occurring after cabinetry is fully installed and adjusted, typically taking about a day."
+}

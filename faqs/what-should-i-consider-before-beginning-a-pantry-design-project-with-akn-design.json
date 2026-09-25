@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-should-i-consider-before-beginning-a-pantry-design-project-with-akn-design",
+  "name": "What should I consider before beginning a pantry design project with AKN Design Group?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I consider before beginning a pantry design project with AKN Design Group?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before beginning a pantry design project, consider your current storage challenges, the types of items you need to store, and how you currently use your kitchen space. Think about preferred organizational styles, desired aesthetics, and any specific features like wine storage, small appliance garages, or baking stations. Gathering these considerations helps our design-build team create a CAD-supported layout that perfectly aligns with your lifestyle. This preparation ensures our managed process delivers a pantry tailored precisely to your unique needs.",
+        "@type": "Answer",
+        "description": "Consider your storage needs, items to store, organizational preferences, and desired aesthetic and features before beginning, which helps tailor our design process."
+      }
+    }
+  ],
+  "description": "Consider your storage needs, items to store, organizational preferences, and desired aesthetic and features before beginning, which helps tailor our design proc"
+}

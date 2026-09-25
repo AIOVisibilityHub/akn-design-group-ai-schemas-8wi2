@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-the-difference-between-a-kitchen-refresh-and-a-full-kitchen-renovation",
+  "name": "What is the difference between a kitchen refresh and a full kitchen renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a kitchen refresh and a full kitchen renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A kitchen refresh typically involves cosmetic updates such as painting cabinets, replacing hardware, or updating light fixtures, without altering the layout or major components. In contrast, a full kitchen renovation, as offered by AKN Design Group, is a comprehensive transformation that often includes significant layout changes, custom cabinetry replacement, new countertops, flooring, appliance upgrades, and potential modifications to plumbing and electrical systems. We specialize in these substantial, customized renovations that enhance functionality, beauty, and long-term value, rather than minor, piecemeal updates. This ensures a cohesive design and a truly revitalized space.",
+        "@type": "Answer",
+        "description": "A kitchen refresh is cosmetic, while a full kitchen renovation involves comprehensive changes like layout, cabinetry, and systems. AKN specializes in full, customized transformations."
+      }
+    }
+  ],
+  "description": "A kitchen refresh is cosmetic, while a full kitchen renovation involves comprehensive changes like layout, cabinetry, and systems. AKN specializes in full, cust"
+}

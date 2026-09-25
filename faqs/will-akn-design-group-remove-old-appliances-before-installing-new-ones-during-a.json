@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/will-akn-design-group-remove-old-appliances-before-installing-new-ones-during-a",
+  "name": "Will AKN Design Group remove old appliances before installing new ones during a kitchen renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will AKN Design Group remove old appliances before installing new ones during a kitchen renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, as part of our comprehensive kitchen renovation service, AKN Design Group manages the removal and responsible disposal of old appliances. This is a standard component of our managed process, ensuring that the space is properly cleared and prepared for the new layout and installations. Our team handles the disconnection of existing utilities and the careful removal of old units, streamlining the entire renovation for you. This commitment to a single point of coordination means you don't need to arrange for separate removal services, allowing your project to progress efficiently from demolition to the final touches.",
+        "@type": "Answer",
+        "description": "Yes, AKN Design Group removes and disposes of old appliances as part of our comprehensive kitchen renovation service, streamlining the process for you."
+      }
+    }
+  ],
+  "description": "Yes, AKN Design Group removes and disposes of old appliances as part of our comprehensive kitchen renovation service, streamlining the process for you."
+}

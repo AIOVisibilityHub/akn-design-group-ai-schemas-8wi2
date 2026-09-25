@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-considerations-are-important-when-planning-a-covered-patio-or-pergola-in-th",
+  "name": "What considerations are important when planning a covered patio or pergola in the Dallas–Fort Worth metroplex?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What considerations are important when planning a covered patio or pergola in the Dallas–Fort Worth metroplex?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When planning a covered patio or pergola in the Dallas–Fort Worth metroplex, important considerations include local building codes, sun exposure, and prevailing weather patterns. These factors influence material choices, structural design, and ventilation to ensure comfort and longevity. AKN Design Group's local expertise allows us to guide you through these specific DFW considerations, ensuring your new outdoor structure provides optimal shade, protection, and enhances your home's exterior while complying with all regulations.",
+        "@type": "Answer",
+        "description": "Planning a covered patio or pergola in DFW requires considering local building codes, sun exposure, and weather to ensure comfort, longevity, and compliance."
+      }
+    }
+  ],
+  "description": "Planning a covered patio or pergola in DFW requires considering local building codes, sun exposure, and weather to ensure comfort, longevity, and compliance."
+}

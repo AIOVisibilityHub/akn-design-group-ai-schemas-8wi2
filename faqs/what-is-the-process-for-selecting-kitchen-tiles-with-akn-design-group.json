@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-the-process-for-selecting-kitchen-tiles-with-akn-design-group",
+  "name": "What is the process for selecting kitchen tiles with AKN Design Group?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for selecting kitchen tiles with AKN Design Group?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our process for selecting kitchen tiles begins with understanding your vision and functional needs during the initial design consultation. We guide you through various material options, colors, textures, and patterns that align with your aesthetic preferences and budget. Utilizing our integrated design-build approach, we present CAD-supported layouts and material boards to visualize how different tiles will integrate with your new cabinetry, countertops, and overall kitchen design. This collaborative effort ensures that every material choice, including your kitchen tile, contributes to a cohesive and customized renovation that enhances functionality, beauty, and value.",
+        "@type": "Answer",
+        "description": "Tile selection involves a design consultation to understand your vision, followed by material exploration and visualization with CAD-supported layouts. This integrated process ensures tiles complement the overall kitchen design."
+      }
+    }
+  ],
+  "description": "Tile selection involves a design consultation to understand your vision, followed by material exploration and visualization with CAD-supported layouts. This int"
+}

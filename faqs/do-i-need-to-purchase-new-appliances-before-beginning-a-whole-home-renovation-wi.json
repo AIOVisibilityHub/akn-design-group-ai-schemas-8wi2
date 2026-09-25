@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/do-i-need-to-purchase-new-appliances-before-beginning-a-whole-home-renovation-wi",
+  "name": "Do I need to purchase new appliances before beginning a whole-home renovation with AKN Design Group?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to purchase new appliances before beginning a whole-home renovation with AKN Design Group?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "It is highly recommended that you select your desired appliances, or at least have a clear understanding of their specifications, before we finalize the design and construction plans for a whole-home renovation. Knowing the precise dimensions, utility requirements (electrical, gas, water), and ventilation needs of your appliances allows AKN Design Group to accurately plan cabinetry, countertop cutouts, plumbing, and electrical layouts from the outset. This proactive approach prevents costly modifications and delays during construction, ensuring that your customized renovation proceeds smoothly and efficiently. We assist in incorporating these selections into our comprehensive design-build process.",
+        "@type": "Answer",
+        "description": "Yes, selecting or spec'ing your appliances early is crucial for accurate planning of cabinetry, utility hookups, and ventilation during a whole-home renovation."
+      }
+    }
+  ],
+  "description": "Yes, selecting or spec'ing your appliances early is crucial for accurate planning of cabinetry, utility hookups, and ventilation during a whole-home renovation."
+}

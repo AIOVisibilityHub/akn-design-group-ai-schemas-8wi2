@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-factors-influence-the-cost-of-a-custom-kitchen-design-and-remodel",
+  "name": "What factors influence the cost of a custom kitchen design and remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of a custom kitchen design and remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a custom kitchen design and remodel is influenced by several key factors. These include the scope of work (e.g., layout changes, appliance upgrades, custom cabinetry), the quality and type of materials chosen (e.g., quartz countertops versus natural stone, custom-built cabinetry), and any necessary structural modifications or permit coordination. We focus on value engineering to optimize material and construction choices without compromising design integrity or quality, ensuring your investment enhances functionality, beauty, and long-term value. An initial consultation helps establish a preliminary budget based on your vision.",
+        "@type": "Answer",
+        "description": "Custom kitchen remodel costs depend on project scope, material choices, and structural changes; we use value engineering to optimize the investment while enhancing functionality and beauty."
+      }
+    }
+  ],
+  "description": "Custom kitchen remodel costs depend on project scope, material choices, and structural changes; we use value engineering to optimize the investment while enhanc"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-should-i-prepare-or-consider-before-discussing-custom-cabinetry-for-my-kitc",
+  "name": "What should I prepare or consider before discussing custom cabinetry for my kitchen renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare or consider before discussing custom cabinetry for my kitchen renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before discussing custom cabinetry for your kitchen renovation, it is beneficial to consider your current kitchen's pain points and your aspirations for its functionality and aesthetic. Think about specific storage needs, preferred appliance locations, and any design inspiration you may have, such as images of styles, finishes, or layouts you admire. Gathering these thoughts will help our design team understand your vision from the outset. Our managed process will then guide you through material selections and layout options, but having a preliminary understanding of your preferences enables a more efficient and personalized design planning experience, ensuring we create a space that truly enhances your daily life.",
+        "@type": "Answer",
+        "description": "Before discussing custom cabinetry, consider your kitchen's current issues, desired functionality, and aesthetic inspirations. This preparation streamlines the design process for a personalized outcome."
+      }
+    }
+  ],
+  "description": "Before discussing custom cabinetry, consider your kitchen's current issues, desired functionality, and aesthetic inspirations. This preparation streamlines the"
+}

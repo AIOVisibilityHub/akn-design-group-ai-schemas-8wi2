@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-the-typical-process-for-designing-and-installing-custom-cabinetry-with-a",
+  "name": "What is the typical process for designing and installing custom cabinetry with a design-build firm?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for designing and installing custom cabinetry with a design-build firm?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process for designing and installing custom cabinetry within a comprehensive renovation project begins with an in-depth design consultation. Our team works with you to understand your aesthetic preferences, functional requirements, and overall vision. This leads to detailed design planning, often utilizing CAD-supported layouts to visualize the cabinetry within your space. Once designs are approved, materials are selected, and the cabinetry is custom-fabricated. Installation is then coordinated seamlessly with other renovation phases by our single, accountable design-build team, ensuring precise fit and finish without the complexities of managing multiple vendors. This integrated approach ensures clear communication and a smooth progression.",
+        "@type": "Answer",
+        "description": "Designing custom cabinetry involves initial consultation, detailed CAD-supported design planning, material selection, custom fabrication, and coordinated installation by our integrated design-build team."
+      }
+    }
+  ],
+  "description": "Designing custom cabinetry involves initial consultation, detailed CAD-supported design planning, material selection, custom fabrication, and coordinated instal"
+}

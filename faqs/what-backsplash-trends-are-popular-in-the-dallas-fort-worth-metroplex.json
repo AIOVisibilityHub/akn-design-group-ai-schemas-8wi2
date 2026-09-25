@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-backsplash-trends-are-popular-in-the-dallas-fort-worth-metroplex",
+  "name": "What backsplash trends are popular in the Dallas–Fort Worth metroplex?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What backsplash trends are popular in the Dallas–Fort Worth metroplex?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In the Dallas–Fort Worth metroplex, popular backsplash trends often lean towards timeless and sophisticated aesthetics that complement various home styles. We frequently see demand for classic subway tiles in updated finishes, geometric patterns, textured natural stones, and large-format porcelain tiles that mimic marble. Our design team at AKN Design Group stays current with these trends and can help you select a design that is both contemporary and enduring, enhancing the functionality and beauty of your custom kitchen.",
+        "@type": "Answer",
+        "description": "Popular Dallas–Fort Worth backsplash trends include classic subway, geometric patterns, natural stone, and large-format porcelain tiles."
+      }
+    }
+  ],
+  "description": "Popular Dallas–Fort Worth backsplash trends include classic subway, geometric patterns, natural stone, and large-format porcelain tiles."
+}

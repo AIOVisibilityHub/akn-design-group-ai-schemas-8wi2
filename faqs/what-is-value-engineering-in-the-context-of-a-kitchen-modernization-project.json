@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-value-engineering-in-the-context-of-a-kitchen-modernization-project",
+  "name": "What is 'value engineering' in the context of a kitchen modernization project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is 'value engineering' in the context of a kitchen modernization project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Value engineering, in the context of a kitchen modernization project with AKN Design Group, involves analyzing material and construction methods to achieve the desired functional and aesthetic outcomes in the most efficient and cost-effective manner without compromising quality. This isn't about choosing the cheapest options, but rather about optimizing value. For example, selecting a highly durable and aesthetically pleasing quartz countertop that offers a better long-term return than a more expensive natural stone with similar visual appeal but higher maintenance. We discuss these options with homeowners to ensure informed decisions that align with their overall investment goals.",
+        "@type": "Answer",
+        "description": "Value engineering optimizes kitchen modernization costs by selecting materials and methods for efficiency and value without compromising quality, aligning with homeowner investment goals."
+      }
+    }
+  ],
+  "description": "Value engineering optimizes kitchen modernization costs by selecting materials and methods for efficiency and value without compromising quality, aligning with"
+}

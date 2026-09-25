@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-the-typical-cost-range-for-installing-new-kitchen-lighting-during-a-full",
+  "name": "What is the typical cost range for installing new kitchen lighting during a full renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost range for installing new kitchen lighting during a full renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of installing new kitchen lighting during a full renovation can vary significantly based on factors such as the number and type of fixtures, complexity of electrical work, and whether structural changes are needed. Higher-end fixtures, custom designs, and extensive smart home integration will naturally incur higher costs than basic installations. Because we specialize in substantial, customized renovations, we provide upfront estimates that detail all aspects of your project, including lighting, as part of our transparent process. This ensures clear communication and helps you understand the investment for a truly integrated lighting plan that enhances functionality, beauty, and value.",
+        "@type": "Answer",
+        "description": "Lighting costs vary based on fixture type, electrical complexity, and structural needs. AKN Design Group provides upfront estimates for integrated lighting plans within full renovations."
+      }
+    }
+  ],
+  "description": "Lighting costs vary based on fixture type, electrical complexity, and structural needs. AKN Design Group provides upfront estimates for integrated lighting plan"
+}

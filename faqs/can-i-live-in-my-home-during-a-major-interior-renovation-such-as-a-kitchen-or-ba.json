@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/can-i-live-in-my-home-during-a-major-interior-renovation-such-as-a-kitchen-or-ba",
+  "name": "Can I live in my home during a major interior renovation, such as a kitchen or bathroom remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I live in my home during a major interior renovation, such as a kitchen or bathroom remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether you can remain in your home during a major interior renovation depends entirely on the project's scope and the specific areas being refreshed. For a kitchen remodel, for example, your cooking and cleaning facilities will be unavailable, often requiring temporary arrangements. For a primary bathroom renovation, access to water and essential facilities will be limited. AKN Design Group provides clear communication regarding the daily impact of construction, helping you assess your comfort level and make informed decisions about temporary living arrangements or minimizing disruption during critical phases. We aim to manage the process efficiently to respect your family's routine.",
+        "@type": "Answer",
+        "description": "Living at home during a major renovation depends on the project's scope; AKN Design Group provides clear communication to help you plan for disruptions."
+      }
+    }
+  ],
+  "description": "Living at home during a major renovation depends on the project's scope; AKN Design Group provides clear communication to help you plan for disruptions."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-long-does-cabinet-installation-typically-take-as-part-of-a-larger-renovation",
+  "name": "How long does cabinet installation typically take as part of a larger renovation project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does cabinet installation typically take as part of a larger renovation project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for cabinet installation is an integral part of the broader renovation schedule and depends on the project's scope and complexity. For a full kitchen or bathroom remodel, after design and cabinet fabrication are complete, the physical installation of cabinets can typically take several days to a week or more, prior to countertop installation and other finishing touches. Our integrated design-build process ensures a streamlined schedule, with all phases, including cabinet installation, carefully coordinated to maintain efficiency and clear communication from concept to completion.",
+        "@type": "Answer",
+        "description": "Cabinet installation, as part of a larger renovation, typically takes several days to a week. Our design-build process ensures efficient coordination within the overall project timeline."
+      }
+    }
+  ],
+  "description": "Cabinet installation, as part of a larger renovation, typically takes several days to a week. Our design-build process ensures efficient coordination within the"
+}

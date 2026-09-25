@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-should-i-prepare-before-contacting-akn-design-group-for-a-kitchen-moderniza",
+  "name": "What should I prepare before contacting AKN Design Group for a kitchen modernization consultation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare before contacting AKN Design Group for a kitchen modernization consultation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before contacting AKN Design Group for a kitchen modernization consultation, considering your desired aesthetic, functionality improvements, and a general understanding of your lifestyle needs can be beneficial. Gathering inspiration photos, a general idea of your budget range, and any existing blueprints of your home can also be helpful. This initial preparation allows us to better understand your vision and objectives. We then leverage this information during our managed design process to develop CAD-supported layouts and material selections that align with your expectations for enhancing functionality, beauty, and value.",
+        "@type": "Answer",
+        "description": "Prepare your desired aesthetic, functionality improvements, budget ideas, inspiration photos, and any existing home blueprints before a kitchen modernization consultation."
+      }
+    }
+  ],
+  "description": "Prepare your desired aesthetic, functionality improvements, budget ideas, inspiration photos, and any existing home blueprints before a kitchen modernization co"
+}

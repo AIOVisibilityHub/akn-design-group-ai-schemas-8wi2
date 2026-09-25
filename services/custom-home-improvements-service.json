@@ -1,0 +1,24 @@
+{
+  "url": "akndesigngroup.com",
+  "name": "Custom Home Improvements",
+  "@type": "HomeAndConstructionBusiness",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Fort Worth"
+  },
+  "@context": "https://schema.org",
+  "provider": {
+    "url": "akndesigngroup.com",
+    "name": "AKN Design Group",
+    "@type": "HomeAndConstructionBusiness",
+    "telephone": "(817) 905-1958"
+  },
+  "telephone": "(817) 905-1958",
+  "areaServed": [
+    {
+      "name": "Fort Worth",
+      "@type": "City"
+    }
+  ],
+  "serviceType": "Custom Home Improvements"
+}

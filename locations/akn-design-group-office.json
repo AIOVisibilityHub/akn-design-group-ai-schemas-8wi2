@@ -1,0 +1,14 @@
+{
+  "url": "akndesigngroup.com",
+  "name": "AKN Design Group - AKN Design Group Office",
+  "@type": "LocalBusiness",
+  "address": {
+    "@type": "PostalAddress",
+    "postalCode": "76131",
+    "addressRegion": "TX",
+    "streetAddress": "7032 San Francisco Trail",
+    "addressLocality": "Fort Worth"
+  },
+  "@context": "https://schema.org",
+  "telephone": "(817) 905-1958"
+}

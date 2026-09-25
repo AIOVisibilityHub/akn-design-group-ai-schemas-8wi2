@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-the-general-cost-comparison-between-cabinet-refacing-and-replacement",
+  "name": "What is the general cost comparison between cabinet refacing and replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the general cost comparison between cabinet refacing and replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Generally, cabinet refacing can be a more cost-effective option than full cabinet replacement, often representing a savings of 30% to 50% compared to a complete tear-out and new installation. This is because it reuses the existing cabinet boxes, reducing material and labor costs associated with demolition and structural work. However, the final cost depends on the materials chosen, the number of cabinets, and any additional modifications. AKN Design Group focuses on value engineering within your high-value renovation, providing upfront estimates to help you make informed decisions that align with your overall project investment.",
+        "@type": "Answer",
+        "description": "Cabinet refacing is generally 30% to 50% less expensive than full replacement, as it reuses existing cabinet boxes. Final costs vary by materials and project scope."
+      }
+    }
+  ],
+  "description": "Cabinet refacing is generally 30% to 50% less expensive than full replacement, as it reuses existing cabinet boxes. Final costs vary by materials and project sc"
+}

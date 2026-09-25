@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/does-akn-design-group-offer-custom-cabinetry-solutions-for-outdoor-living-spaces",
+  "name": "Does AKN Design Group offer custom cabinetry solutions for outdoor living spaces in Fort Worth?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does AKN Design Group offer custom cabinetry solutions for outdoor living spaces in Fort Worth?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, AKN Design Group extends our custom cabinetry expertise to high-end outdoor living spaces, including outdoor kitchens, for homeowners in Fort Worth and the wider Dallas–Fort Worth metroplex. Just as with indoor cabinetry, custom outdoor solutions are designed to maximize functionality and seamlessly integrate with your outdoor entertainment vision, whether it’s a built-in grill station, weather-resistant storage, or a full outdoor bar. We focus on specifying durable, weather-appropriate materials that withstand the Texas climate while maintaining a luxurious aesthetic. This commitment ensures your outdoor space becomes a truly integrated and enduring extension of your home, designed for lasting enjoyment.",
+        "@type": "Answer",
+        "description": "Yes, AKN Design Group offers custom, weather-resistant cabinetry for high-end outdoor living spaces and kitchens in Fort Worth, integrating durability with luxurious aesthetics."
+      }
+    }
+  ],
+  "description": "Yes, AKN Design Group offers custom, weather-resistant cabinetry for high-end outdoor living spaces and kitchens in Fort Worth, integrating durability with luxu"
+}

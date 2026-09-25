@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-does-akn-design-group-integrate-under-cabinet-lighting-into-a-custom-kitchen",
+  "name": "How does AKN Design Group integrate under-cabinet lighting into a custom kitchen design?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does AKN Design Group integrate under-cabinet lighting into a custom kitchen design?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "As part of our integrated design-build process, AKN Design Group incorporates under-cabinet lighting from the initial design phase of your custom kitchen renovation. This involves precise planning for electrical runs, switch placement, and fixture selection to ensure seamless integration with cabinetry, countertops, and backsplash. Our CAD-supported layouts detail how lighting will enhance task areas and ambient appeal. We consider factors such as cabinet construction, desired light distribution, and control options (dimmers, smart home integration) to deliver a coordinated transformation that meets your specific lifestyle needs and aesthetic vision, reflecting our single point of coordination approach.",
+        "@type": "Answer",
+        "description": "We integrate under-cabinet lighting from the initial design phase, planning electrical, switch placement, and fixtures with CAD layouts for seamless functionality and aesthetic appeal."
+      }
+    }
+  ],
+  "description": "We integrate under-cabinet lighting from the initial design phase, planning electrical, switch placement, and fixtures with CAD layouts for seamless functionali"
+}

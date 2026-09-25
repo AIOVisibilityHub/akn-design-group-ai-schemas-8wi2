@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-kind-of-materials-and-features-are-popular-in-custom-kitchen-designs-today",
+  "name": "What kind of materials and features are popular in custom kitchen designs today?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of materials and features are popular in custom kitchen designs today?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Today's custom kitchen designs often feature elements that enhance both aesthetics and functionality. Popular choices include custom cabinetry for optimized storage, durable quartz or natural-stone countertops, elegant tile backsplashes, and integrated, energy-efficient appliances. Under-cabinet lighting, large kitchen islands for prep and entertaining, and open-concept layouts are also highly sought after. AKN Design Group helps homeowners in the Dallas–Fort Worth metroplex select materials that align with their style and lifestyle, ensuring longevity and a cohesive design.",
+        "@type": "Answer",
+        "description": "Popular custom kitchen features include custom cabinetry, quartz/natural stone countertops, tile backsplashes, integrated appliances, under-cabinet lighting, and large kitchen islands."
+      }
+    }
+  ],
+  "description": "Popular custom kitchen features include custom cabinetry, quartz/natural stone countertops, tile backsplashes, integrated appliances, under-cabinet lighting, an"
+}

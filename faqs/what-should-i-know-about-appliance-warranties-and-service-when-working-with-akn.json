@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-should-i-know-about-appliance-warranties-and-service-when-working-with-akn",
+  "name": "What should I know about appliance warranties and service when working with AKN Design Group?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I know about appliance warranties and service when working with AKN Design Group?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When AKN Design Group installs your appliances as part of a larger renovation, our focus is on professional, correct installation to ensure optimal performance and adherence to manufacturer specifications. It's important for homeowners to understand that appliance warranties are typically provided by the appliance manufacturer, not by AKN Design Group. We ensure the installation process respects these warranty conditions. Should an appliance require service or troubleshooting after installation, you would typically contact the appliance manufacturer or your retailer directly. We complete our installation scope, providing you with a fully integrated and operational space, and support you through clear communication regarding these distinctions.",
+        "@type": "Answer",
+        "description": "Appliance warranties are from the manufacturer; AKN ensures professional installation to maintain warranty validity, but homeowners contact the manufacturer for post-installation service."
+      }
+    }
+  ],
+  "description": "Appliance warranties are from the manufacturer; AKN ensures professional installation to maintain warranty validity, but homeowners contact the manufacturer for"
+}

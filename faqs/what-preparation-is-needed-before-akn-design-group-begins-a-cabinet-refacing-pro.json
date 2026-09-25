@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-preparation-is-needed-before-akn-design-group-begins-a-cabinet-refacing-pro",
+  "name": "What preparation is needed before AKN Design Group begins a cabinet refacing project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What preparation is needed before AKN Design Group begins a cabinet refacing project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before AKN Design Group begins your cabinet refacing project, we recommend clearing out all contents from your existing cabinets and drawers to ensure easy access for our team. It is also helpful to have your design preferences, such as desired door styles, finishes, and hardware, thoughtfully considered, as this streamlines the initial consultation and material selection process. Our managed process includes detailed planning and communication, but gathering your initial ideas helps us develop a customized solution that perfectly aligns with your vision for enhancing functionality, beauty, and value in your home.",
+        "@type": "Answer",
+        "description": "Before cabinet refacing, clear out cabinet contents and consider your design preferences like door styles, finishes, and hardware. This preparation aids in the initial consultation and material selection."
+      }
+    }
+  ],
+  "description": "Before cabinet refacing, clear out cabinet contents and consider your design preferences like door styles, finishes, and hardware. This preparation aids in the"
+}

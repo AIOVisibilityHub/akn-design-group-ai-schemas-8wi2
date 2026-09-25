@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-cabinet-refacing-and-how-does-it-differ-from-cabinet-replacement",
+  "name": "What is cabinet refacing and how does it differ from cabinet replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is cabinet refacing and how does it differ from cabinet replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Cabinet refacing involves keeping your existing cabinet boxes and replacing or covering the visible external components, such as doors, drawer fronts, and hardware, with new materials. This typically includes applying a new veneer to the cabinet frames. In contrast, cabinet replacement entails removing and installing entirely new cabinet boxes, doors, and drawers. Refacing can be a practical tradeoff if your current cabinet boxes are structurally sound, offering a refreshed aesthetic without the full scope of a demolition and installation of new cabinetry. AKN Design Group can help assess the condition of your existing cabinetry to determine the most suitable approach for your renovation goals.",
+        "@type": "Answer",
+        "description": "Cabinet refacing updates existing cabinet boxes with new doors, drawer fronts, and veneers, while replacement involves installing entirely new cabinets. Refacing is a practical tradeoff when existing cabinet boxes are structurally sound."
+      }
+    }
+  ],
+  "description": "Cabinet refacing updates existing cabinet boxes with new doors, drawer fronts, and veneers, while replacement involves installing entirely new cabinets. Refacin"
+}

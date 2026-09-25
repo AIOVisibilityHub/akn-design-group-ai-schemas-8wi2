@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-long-does-a-typical-custom-kitchen-remodel-take-in-the-dallas-fort-worth-met",
+  "name": "How long does a typical custom kitchen remodel take in the Dallas–Fort Worth metroplex?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical custom kitchen remodel take in the Dallas–Fort Worth metroplex?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a custom kitchen remodel varies based on its complexity, the extent of structural changes, and material lead times. Generally, a comprehensive custom kitchen project, from initial design to final walkthrough, can span several months. Our managed process includes detailed scheduling and clear communication to keep you informed at every stage. We prioritize efficient execution without compromising on craftsmanship, aiming to deliver your enhanced kitchen in a timely manner, but always with a focus on quality over speed.",
+        "@type": "Answer",
+        "description": "A typical custom kitchen remodel can take several months, varying by complexity and material lead times; we provide detailed scheduling and communication throughout the managed process."
+      }
+    }
+  ],
+  "description": "A typical custom kitchen remodel can take several months, varying by complexity and material lead times; we provide detailed scheduling and communication throug"
+}

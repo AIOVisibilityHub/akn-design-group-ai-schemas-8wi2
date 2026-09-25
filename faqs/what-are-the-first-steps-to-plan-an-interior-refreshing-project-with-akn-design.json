@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-are-the-first-steps-to-plan-an-interior-refreshing-project-with-akn-design",
+  "name": "What are the first steps to plan an interior refreshing project with AKN Design Group?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the first steps to plan an interior refreshing project with AKN Design Group?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The first step in planning an interior refreshing project with AKN Design Group is an initial consultation where we discuss your vision, lifestyle needs, and functional challenges within your current space. To prepare, consider gathering inspiration photos, making a list of desired features, and thinking about your preferred aesthetic. This initial discussion allows us to understand your expectations and define the project's potential scope. We then move into detailed design planning, often including CAD-supported layouts, to ensure every aspect aligns with your goals before construction begins.",
+        "@type": "Answer",
+        "description": "The first step is an initial consultation to discuss your vision and needs. Prepare by gathering inspiration and listing desired features to define the project scope."
+      }
+    }
+  ],
+  "description": "The first step is an initial consultation to discuss your vision and needs. Prepare by gathering inspiration and listing desired features to define the project"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/when-should-i-consider-cabinet-refacing-for-my-kitchen-or-bathroom-remodel",
+  "name": "When should I consider cabinet refacing for my kitchen or bathroom remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider cabinet refacing for my kitchen or bathroom remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider cabinet refacing if your current cabinet boxes are in excellent structural condition, but the doors, drawer fronts, or overall style no longer meet your aesthetic preferences or functional needs. It is an effective option for enhancing the beauty and value of your space without altering the existing layout. AKN Design Group recommends this approach when homeowners seek a significant visual update and wish to minimize the disruption and cost associated with a full cabinet tear-out and installation. We can evaluate your current cabinetry to advise if refacing aligns with your overall design-build renovation.",
+        "@type": "Answer",
+        "description": "Consider cabinet refacing when your cabinet boxes are structurally sound, but you desire a significant aesthetic update without changing the layout. It's ideal for enhancing beauty and value with less disruption."
+      }
+    }
+  ],
+  "description": "Consider cabinet refacing when your cabinet boxes are structurally sound, but you desire a significant aesthetic update without changing the layout. It's ideal"
+}

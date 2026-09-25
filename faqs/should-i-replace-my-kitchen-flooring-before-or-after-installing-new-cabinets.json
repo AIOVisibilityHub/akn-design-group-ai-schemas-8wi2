@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/should-i-replace-my-kitchen-flooring-before-or-after-installing-new-cabinets",
+  "name": "Should I replace my kitchen flooring before or after installing new cabinets?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I replace my kitchen flooring before or after installing new cabinets?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Generally, it is advisable to install new kitchen flooring before new cabinets are placed. This approach ensures a continuous, seamless look, provides a stable, level surface for cabinet installation, and prevents potential damage to finished flooring during heavy cabinet work. An exception might be if you opt for a floating floor system where cabinets should not sit directly on top, requiring a precise cut around the cabinet footprint. AKN Design Group's project managers guide these sequencing decisions to optimize both aesthetics and structural integrity for your customized renovation.",
+        "@type": "Answer",
+        "description": "It is generally best to install kitchen flooring before new cabinets for a seamless look and stable surface, though exceptions exist. We advise on sequencing for optimal results."
+      }
+    }
+  ],
+  "description": "It is generally best to install kitchen flooring before new cabinets for a seamless look and stable surface, though exceptions exist. We advise on sequencing fo"
+}

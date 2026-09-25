@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-the-typical-lifespan-of-high-quality-installed-cabinets",
+  "name": "What is the typical lifespan of high-quality installed cabinets?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical lifespan of high-quality installed cabinets?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "High-quality, expertly installed cabinets are a significant investment designed for long-term durability and aesthetic appeal. When part of a customized renovation from AKN Design Group, cabinets are expected to last for decades, often 20-30 years or more, with proper care and maintenance. The lifespan is directly influenced by the quality of materials, construction methods, and the precision of the initial installation. Our focus on craftsmanship ensures that your cabinets are not only beautiful but also built to withstand daily use, contributing to the lasting impressions and value of your home.",
+        "@type": "Answer",
+        "description": "High-quality, expertly installed cabinets, like those in AKN Design Group's renovations, are built to last for decades (20-30+ years) with proper care."
+      }
+    }
+  ],
+  "description": "High-quality, expertly installed cabinets, like those in AKN Design Group's renovations, are built to last for decades (20-30+ years) with proper care."
+}

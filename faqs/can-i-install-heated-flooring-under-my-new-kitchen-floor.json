@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/can-i-install-heated-flooring-under-my-new-kitchen-floor",
+  "name": "Can I install heated flooring under my new kitchen floor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I install heated flooring under my new kitchen floor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, heated flooring, often referred to as radiant floor heating, can be installed under most new kitchen flooring types, including tile, stone, engineered wood, and luxury vinyl. This amenity provides exceptional comfort, especially in colder months, enhancing the luxury and functionality of your kitchen space. The integration of heated flooring requires careful planning during the design phase to ensure proper electrical or hydronic system installation and compatibility with your chosen flooring material. AKN Design Group can incorporate radiant heating into your customized kitchen renovation, managing the coordination with all other construction elements.",
+        "@type": "Answer",
+        "description": "Yes, heated flooring can be installed under most new kitchen floor types, enhancing comfort and luxury. AKN Design Group incorporates this amenity during renovation planning."
+      }
+    }
+  ],
+  "description": "Yes, heated flooring can be installed under most new kitchen floor types, enhancing comfort and luxury. AKN Design Group incorporates this amenity during renova"
+}

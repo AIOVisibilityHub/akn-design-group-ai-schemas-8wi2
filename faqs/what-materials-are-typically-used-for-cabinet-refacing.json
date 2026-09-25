@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-materials-are-typically-used-for-cabinet-refacing",
+  "name": "What materials are typically used for cabinet refacing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What materials are typically used for cabinet refacing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Cabinet refacing typically utilizes new doors and drawer fronts crafted from materials such as solid wood, MDF (medium-density fiberboard) with various finishes, or rigid thermofoil (RTF). The existing cabinet boxes are then covered with a matching veneer, which can be wood, laminate, or RTF. The choice of material impacts durability, appearance, and cost. When planning your project with AKN Design Group, we guide you through material selections that align with your desired aesthetic, functionality, and the high-value standards of your customized renovation, ensuring cohesive integration with other elements like countertops and backsplashes.",
+        "@type": "Answer",
+        "description": "Cabinet refacing uses new doors and drawer fronts made from materials like solid wood, MDF, or RTF, with matching veneers applied to existing cabinet boxes. Material selection affects durability and aesthetics."
+      }
+    }
+  ],
+  "description": "Cabinet refacing uses new doors and drawer fronts made from materials like solid wood, MDF, or RTF, with matching veneers applied to existing cabinet boxes. Mat"
+}

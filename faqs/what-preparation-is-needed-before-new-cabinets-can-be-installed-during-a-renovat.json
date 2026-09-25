@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-preparation-is-needed-before-new-cabinets-can-be-installed-during-a-renovat",
+  "name": "What preparation is needed before new cabinets can be installed during a renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What preparation is needed before new cabinets can be installed during a renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before new cabinets can be installed, significant preparation of the space is required. This typically includes the demolition of old cabinetry and fixtures, any necessary structural modifications, and the completion of rough-in plumbing and electrical work. Walls must be properly prepped, level, and ready to receive the new units. AKN Design Group manages these preparatory steps as part of our comprehensive renovation service, ensuring the installation site is perfectly prepared to support the precise and secure placement of your new custom cabinetry, contributing to the craftsmanship of the final outcome.",
+        "@type": "Answer",
+        "description": "Preparation for cabinet installation includes demolition, structural modifications, and completed rough-in plumbing and electrical, with walls prepped and level."
+      }
+    }
+  ],
+  "description": "Preparation for cabinet installation includes demolition, structural modifications, and completed rough-in plumbing and electrical, with walls prepped and level"
+}

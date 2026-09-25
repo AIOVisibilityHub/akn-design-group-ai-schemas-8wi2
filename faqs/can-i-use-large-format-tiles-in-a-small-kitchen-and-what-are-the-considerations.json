@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/can-i-use-large-format-tiles-in-a-small-kitchen-and-what-are-the-considerations",
+  "name": "Can I use large format tiles in a small kitchen, and what are the considerations?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I use large format tiles in a small kitchen, and what are the considerations?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, large format tiles can be used effectively in a small kitchen and can even make the space feel larger by reducing the number of grout lines, creating a more continuous surface. The key consideration is precision in installation, as cuts must be exact and the subfloor perfectly level to prevent lippage or unevenness. While large tiles can reduce visual clutter, they may require more waste during installation in irregularly shaped areas. Our experienced craftsmen are adept at handling large format tiles, ensuring meticulous preparation and installation for a flawless finish that contributes to a sophisticated, expanded feel in any kitchen size.",
+        "@type": "Answer",
+        "description": "Yes, large format tiles can make a small kitchen appear larger by reducing grout lines, but require precise installation and a level subfloor. Our craftsmen ensure a flawless finish."
+      }
+    }
+  ],
+  "description": "Yes, large format tiles can make a small kitchen appear larger by reducing grout lines, but require precise installation and a level subfloor. Our craftsmen ens"
+}

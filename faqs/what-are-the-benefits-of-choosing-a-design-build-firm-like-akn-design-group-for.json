@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-are-the-benefits-of-choosing-a-design-build-firm-like-akn-design-group-for",
+  "name": "What are the benefits of choosing a design-build firm like AKN Design Group for an in-law suite addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the benefits of choosing a design-build firm like AKN Design Group for an in-law suite addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing a design-build firm offers a streamlined and managed process for your in-law suite addition. Instead of coordinating separate designers and contractors, you work with a single, accountable team from concept to completion. This unified approach minimizes miscommunication, ensures design vision translates directly into execution, and often results in greater efficiency and cost control. With AKN Design Group, you benefit from our two decades of experience, clear communication, and commitment to delivering a high-touch homeowner experience for your customized renovation.",
+        "@type": "Answer",
+        "description": "A design-build firm provides a single, accountable team for your in-law suite, streamlining communication, ensuring design integrity, and delivering greater efficiency and cost control."
+      }
+    }
+  ],
+  "description": "A design-build firm provides a single, accountable team for your in-law suite, streamlining communication, ensuring design integrity, and delivering greater eff"
+}

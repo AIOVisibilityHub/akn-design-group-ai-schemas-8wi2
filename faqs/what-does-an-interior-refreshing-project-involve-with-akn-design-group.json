@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-does-an-interior-refreshing-project-involve-with-akn-design-group",
+  "name": "What does an 'Interior Refreshing' project involve with AKN Design Group?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What does an 'Interior Refreshing' project involve with AKN Design Group?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An interior refreshing project with AKN Design Group typically encompasses substantial renovations such as kitchen remodels, luxury bathroom transformations, or comprehensive whole-home updates. We focus on enhancing functionality, beauty, and long-term value, moving beyond superficial changes to address core design and structural elements. The process involves a managed design-build approach, coordinating all aspects from initial concept and CAD-supported layouts through construction and final installation. Understanding your specific goals for improved space utilization and aesthetic appeal helps us tailor the scope to create a cohesive and lasting transformation.",
+        "@type": "Answer",
+        "description": "An interior refreshing project with AKN Design Group involves substantial renovations like kitchen or bathroom remodels, and whole-home updates, focusing on functionality and beauty."
+      }
+    }
+  ],
+  "description": "An interior refreshing project with AKN Design Group involves substantial renovations like kitchen or bathroom remodels, and whole-home updates, focusing on fun"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-involved-in-a-comprehensive-cabinet-installation-project",
+  "name": "What is involved in a comprehensive cabinet installation project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in a comprehensive cabinet installation project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A comprehensive cabinet installation is a key component of our larger residential renovations, particularly for custom kitchens and luxury bathrooms. It begins with meticulous design planning and layout, often involving CAD-supported renderings to visualize the final space. The process includes precise measurements, custom cabinetry selection or fabrication, demolition of existing structures, and expert installation. AKN Design Group integrates cabinet installation seamlessly into the overall project, ensuring alignment with plumbing, electrical, and other finishes for a cohesive, functional, and aesthetically pleasing outcome. This managed process minimizes disruptions and ensures a single point of coordination.",
+        "@type": "Answer",
+        "description": "A comprehensive cabinet installation involves design planning, custom selection, demolition, and expert integration into your larger renovation, managed end-to-end by AKN Design Group."
+      }
+    }
+  ],
+  "description": "A comprehensive cabinet installation involves design planning, custom selection, demolition, and expert integration into your larger renovation, managed end-to-"
+}

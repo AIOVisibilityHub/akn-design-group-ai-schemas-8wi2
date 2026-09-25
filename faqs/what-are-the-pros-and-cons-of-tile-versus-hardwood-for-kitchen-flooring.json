@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-are-the-pros-and-cons-of-tile-versus-hardwood-for-kitchen-flooring",
+  "name": "What are the pros and cons of tile versus hardwood for kitchen flooring?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the pros and cons of tile versus hardwood for kitchen flooring?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Tile and hardwood each offer distinct advantages and disadvantages for kitchen flooring. Tile, particularly porcelain, is highly durable, waterproof, and easy to clean, making it excellent for spills and heavy use. However, it can be cold underfoot and harder on joints, and grout lines require maintenance. Hardwood provides unmatched warmth, natural beauty, and adds significant resale value. It is more susceptible to moisture damage and scratches than tile, requiring more careful maintenance. AKN Design Group helps you weigh these practical tradeoffs against your lifestyle, aesthetic preferences, and budget to select the best material for your luxury kitchen renovation.",
+        "@type": "Answer",
+        "description": "Tile is durable and waterproof but can be hard and cold; hardwood offers warmth and value but needs more moisture protection. We help clients weigh these tradeoffs for their project."
+      }
+    }
+  ],
+  "description": "Tile is durable and waterproof but can be hard and cold; hardwood offers warmth and value but needs more moisture protection. We help clients weigh these tradeo"
+}

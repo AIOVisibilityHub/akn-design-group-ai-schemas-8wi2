@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-involved-in-a-custom-kitchen-design-build-project-with-akn-design-group",
+  "name": "What is involved in a custom kitchen design-build project with AKN Design Group?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in a custom kitchen design-build project with AKN Design Group?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A custom kitchen design-build project with AKN Design Group unifies the entire renovation process from concept to completion. It begins with comprehensive design planning, including CAD-supported layouts, material selection, and permit coordination. We then transition into construction, managing all trades, installations, and inspections. Our integrated approach ensures a single point of coordination, streamlining communication and accountability. This managed process is designed to transform a dated layout into a functional entertaining space, enhancing both the beauty and utility of your home.",
+        "@type": "Answer",
+        "description": "Our custom kitchen design-build process integrates design planning, material selection, permit coordination, and construction under a single point of accountability from concept to completion."
+      }
+    }
+  ],
+  "description": "Our custom kitchen design-build process integrates design planning, material selection, permit coordination, and construction under a single point of accountabi"
+}

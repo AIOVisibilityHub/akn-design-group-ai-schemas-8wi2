@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-does-custom-cabinetry-impact-the-overall-timeline-of-a-kitchen-or-bathroom-r",
+  "name": "How does custom cabinetry impact the overall timeline of a kitchen or bathroom remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does custom cabinetry impact the overall timeline of a kitchen or bathroom remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Custom cabinetry can influence the overall timeline of a renovation, primarily during the design and fabrication phases. While pre-fabricated options may offer quicker delivery, custom solutions require dedicated time for precise measurements, detailed design approvals, and skilled craftsmanship in their construction. This bespoke approach ensures the cabinetry perfectly integrates with your space and design vision, which is a core component of a high-value renovation. Our integrated design-build process at AKN Design Group proactively manages this timeline, coordinating custom cabinetry fabrication with other construction milestones to maintain a controlled and efficient project schedule. The benefit is a superior, lasting result.",
+        "@type": "Answer",
+        "description": "Custom cabinetry can extend renovation timelines due to design and fabrication, but our integrated design-build process manages coordination for an efficient project with a superior, lasting result."
+      }
+    }
+  ],
+  "description": "Custom cabinetry can extend renovation timelines due to design and fabrication, but our integrated design-build process manages coordination for an efficient pr"
+}

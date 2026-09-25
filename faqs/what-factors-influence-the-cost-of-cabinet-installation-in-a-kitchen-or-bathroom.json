@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-factors-influence-the-cost-of-cabinet-installation-in-a-kitchen-or-bathroom",
+  "name": "What factors influence the cost of cabinet installation in a kitchen or bathroom renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of cabinet installation in a kitchen or bathroom renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of cabinet installation is influenced by several factors, including the type and quality of cabinetry selected (custom, semi-custom), the complexity of the design, the materials chosen (wood species, finishes, hardware), and the overall scope of the renovation. Custom designs with specialized features, unique finishes, or complex layouts will naturally incur higher costs than simpler installations. As part of our integrated design-build process, AKN Design Group provides upfront estimates and transparency, helping homeowners understand how their choices impact the overall investment in their luxury kitchen or spa-inspired bathroom renovation.",
+        "@type": "Answer",
+        "description": "Cabinet installation costs depend on cabinet type, design complexity, material choices, and overall renovation scope. We provide transparent estimates within our design-build process."
+      }
+    }
+  ],
+  "description": "Cabinet installation costs depend on cabinet type, design complexity, material choices, and overall renovation scope. We provide transparent estimates within ou"
+}

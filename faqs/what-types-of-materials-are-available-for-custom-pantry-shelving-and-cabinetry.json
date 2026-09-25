@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-types-of-materials-are-available-for-custom-pantry-shelving-and-cabinetry",
+  "name": "What types of materials are available for custom pantry shelving and cabinetry?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of materials are available for custom pantry shelving and cabinetry?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For custom pantry shelving and cabinetry, a wide array of materials is available, each offering distinct advantages in terms of durability, aesthetics, and cost. Options range from durable melamine and laminated particleboard, suitable for functional and cost-effective solutions, to high-quality solid wood, plywood, and MDF, which allow for more custom finishes and intricate designs. We also offer various hardware and accessory options, including soft-close drawers and specialized pull-out systems, ensuring reliability and craftsmanship in every detail. Material selection is key to customizing your renovation.",
+        "@type": "Answer",
+        "description": "Materials range from durable melamine and laminated particleboard to high-quality solid wood, plywood, and MDF, along with various hardware and accessory options."
+      }
+    }
+  ],
+  "description": "Materials range from durable melamine and laminated particleboard to high-quality solid wood, plywood, and MDF, along with various hardware and accessory option"
+}

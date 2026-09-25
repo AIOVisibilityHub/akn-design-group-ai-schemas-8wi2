@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-should-i-prepare-before-my-initial-consultation-for-a-custom-kitchen-design",
+  "name": "What should I prepare before my initial consultation for a custom kitchen design?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare before my initial consultation for a custom kitchen design?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before your initial consultation for a custom kitchen design, it's helpful to gather some key information. Consider your lifestyle and how you currently use your kitchen, noting what works well and what challenges you face. Collecting inspiration images, such as photos of kitchen styles, materials, and features you admire, can be very beneficial. Additionally, having a general idea of your desired budget helps us tailor solutions. This preparation allows AKN Design Group to better understand your vision and begin crafting a customized renovation plan that aligns with your needs.",
+        "@type": "Answer",
+        "description": "Before your consultation, consider your lifestyle needs, gather inspiration images of desired styles and features, and have a general idea of your budget to help us tailor your custom kitchen design."
+      }
+    }
+  ],
+  "description": "Before your consultation, consider your lifestyle needs, gather inspiration images of desired styles and features, and have a general idea of your budget to hel"
+}

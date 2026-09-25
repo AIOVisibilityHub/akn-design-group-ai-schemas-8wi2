@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/when-is-the-best-time-to-select-cabinets-during-a-residential-design-build-proje",
+  "name": "When is the best time to select cabinets during a residential design-build project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When is the best time to select cabinets during a residential design-build project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Cabinet selection is a critical early step in a residential design-build project, ideally occurring during the initial design and planning phases. This allows for proper integration with the layout, appliance placement, plumbing, and electrical considerations. Making these decisions early ensures that custom cabinets can be fabricated to precise specifications, preventing delays and costly adjustments later in the construction process. AKN Design Group's managed process guides homeowners through this selection at the optimal time, ensuring continuity between design vision and construction execution.",
+        "@type": "Answer",
+        "description": "Select cabinets during the initial design and planning phases of your project. This ensures proper integration with the layout, plumbing, and electrical, preventing later delays."
+      }
+    }
+  ],
+  "description": "Select cabinets during the initial design and planning phases of your project. This ensures proper integration with the layout, plumbing, and electrical, preven"
+}

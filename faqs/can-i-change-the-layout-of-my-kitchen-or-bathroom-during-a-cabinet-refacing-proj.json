@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/can-i-change-the-layout-of-my-kitchen-or-bathroom-during-a-cabinet-refacing-proj",
+  "name": "Can I change the layout of my kitchen or bathroom during a cabinet refacing project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I change the layout of my kitchen or bathroom during a cabinet refacing project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Cabinet refacing primarily focuses on updating the aesthetic of your existing cabinets without altering their placement. While minor modifications like adding a new drawer bank or converting a cabinet into shelving might be possible, significant layout changes—such as moving an island or relocating appliances—would typically require partial or full cabinet replacement. This is because substantial layout changes often involve altering plumbing, electrical, and structural elements. For homeowners seeking major layout reconfigurations, AKN Design Group's integrated design-build process is ideal, allowing us to harmonize design vision with construction execution for a cohesive transformation.",
+        "@type": "Answer",
+        "description": "Cabinet refacing updates aesthetics without major layout changes; significant reconfigurations usually require cabinet replacement due to plumbing and electrical alterations. AKN Design Group can manage such complex transformations."
+      }
+    }
+  ],
+  "description": "Cabinet refacing updates aesthetics without major layout changes; significant reconfigurations usually require cabinet replacement due to plumbing and electrica"
+}

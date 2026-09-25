@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-does-kitchen-lighting-impact-the-overall-design-and-functionality-of-my-new",
+  "name": "How does kitchen lighting impact the overall design and functionality of my new kitchen?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does kitchen lighting impact the overall design and functionality of my new kitchen?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Thoughtful kitchen lighting significantly impacts both the design aesthetic and daily functionality. Proper lighting can make a space feel larger, brighter, and more inviting, while poorly lit areas can seem cramped or unwelcoming. Functionally, well-placed task lighting eliminates shadows on prep surfaces, improving safety and efficiency for cooking. Our design-build process ensures that lighting is considered early in your kitchen renovation, harmonizing with cabinetry, countertops, and overall layout to enhance both beauty and practical use. This integrated approach ensures the lighting plan supports your lifestyle and aesthetic preferences from concept to completion.",
+        "@type": "Answer",
+        "description": "Kitchen lighting profoundly affects both design and functionality by enhancing aesthetics and improving safety and efficiency. We integrate lighting early in the design-build process."
+      }
+    }
+  ],
+  "description": "Kitchen lighting profoundly affects both design and functionality by enhancing aesthetics and improving safety and efficiency. We integrate lighting early in th"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-long-does-kitchen-tile-installation-typically-take-during-a-renovation",
+  "name": "How long does kitchen tile installation typically take during a renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does kitchen tile installation typically take during a renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of kitchen tile installation varies depending on the project's scope, the complexity of the design, and the type of tile selected. A backsplash might take a few days, while comprehensive flooring throughout a large kitchen could extend to a week or more, factoring in preparation, laying, grouting, and drying times. As part of our managed process, AKN Design Group provides a transparent project timeline upfront, ensuring homeowners understand the sequencing of tasks and overall schedule. Our goal is to minimize disruption by coordinating all trades efficiently, from demolition to final walkthrough, allowing for a seamless transition between project phases.",
+        "@type": "Answer",
+        "description": "Kitchen tile installation time varies by project scope, from a few days for a backsplash to over a week for large flooring. AKN Design Group provides transparent project timelines to manage homeowner expectations."
+      }
+    }
+  ],
+  "description": "Kitchen tile installation time varies by project scope, from a few days for a backsplash to over a week for large flooring. AKN Design Group provides transparen"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/can-akn-design-group-integrate-new-countertops-with-existing-custom-cabinetry",
+  "name": "Can AKN Design Group integrate new countertops with existing custom cabinetry?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can AKN Design Group integrate new countertops with existing custom cabinetry?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, AKN Design Group can integrate new countertops with existing custom cabinetry, provided the cabinetry is structurally sound, level, and suitable for supporting the weight of the new material. Our expertise lies in customized renovations, and we assess the integrity of existing structures during the design phase. A key decision factor involves evaluating whether the existing cabinetry's condition aligns with the long-term quality and durability we aim for in our projects. If the cabinetry requires significant modifications or is nearing the end of its lifespan, we may recommend new custom cabinetry as part of a more comprehensive solution to ensure a cohesive and lasting transformation.",
+        "@type": "Answer",
+        "description": "AKN Design Group can integrate new countertops with existing custom cabinetry if it's structurally sound, but we assess its suitability to ensure long-term quality."
+      }
+    }
+  ],
+  "description": "AKN Design Group can integrate new countertops with existing custom cabinetry if it's structurally sound, but we assess its suitability to ensure long-term qual"
+}

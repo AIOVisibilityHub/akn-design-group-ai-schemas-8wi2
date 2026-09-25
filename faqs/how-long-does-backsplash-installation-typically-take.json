@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-long-does-backsplash-installation-typically-take",
+  "name": "How long does backsplash installation typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does backsplash installation typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of backsplash installation depends on the size of the area, the complexity of the pattern, and the chosen materials. A straightforward installation might take one to two days, while more intricate designs or larger areas could require additional time for preparation, cutting, and grouting. As part of a larger kitchen or bathroom remodel with AKN Design Group, we provide scheduling transparency, integrating this phase into the broader project timeline for efficient completion.",
+        "@type": "Answer",
+        "description": "Backsplash installation typically takes one to two days, varying by project size and design complexity."
+      }
+    }
+  ],
+  "description": "Backsplash installation typically takes one to two days, varying by project size and design complexity."
+}

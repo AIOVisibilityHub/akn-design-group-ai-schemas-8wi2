@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/can-i-add-a-kitchen-island-if-my-kitchen-is-small",
+  "name": "Can I add a kitchen island if my kitchen is small?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I add a kitchen island if my kitchen is small?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Adding a kitchen island to a smaller kitchen is possible, but it requires careful design to ensure proper traffic flow and functionality. The key is to maintain adequate clearance around the island, typically at least 36 inches, to allow for comfortable movement and appliance access. We often explore options like narrower islands, rolling islands, or peninsula designs that extend from a wall to maximize usable space without overwhelming the room. Our CAD-supported layouts help homeowners visualize how an island will fit and function within their smaller kitchen footprint in the Dallas–Fort Worth metroplex.",
+        "@type": "Answer",
+        "description": "Yes, but careful design is crucial for small kitchens, ensuring proper clearance and functionality. We use CAD to optimize layouts."
+      }
+    }
+  ],
+  "description": "Yes, but careful design is crucial for small kitchens, ensuring proper clearance and functionality. We use CAD to optimize layouts."
+}

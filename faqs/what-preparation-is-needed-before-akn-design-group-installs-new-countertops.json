@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-preparation-is-needed-before-akn-design-group-installs-new-countertops",
+  "name": "What preparation is needed before AKN Design Group installs new countertops?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What preparation is needed before AKN Design Group installs new countertops?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before new countertops can be installed, the existing countertops must be removed, and the base cabinetry must be securely in place and level. Our managed process includes coordinating these preparatory steps. Homeowners should also ensure that sinks and cooktops intended for integration are on-site for precise templating. Providing clear access to the work area is crucial for our team. This careful preparation, which we oversee as part of our integrated design-build approach, minimizes delays and ensures a precise fit for your new surfaces, enhancing both functionality and beauty.",
+        "@type": "Answer",
+        "description": "Before installation, existing countertops must be removed, base cabinetry leveled, and integrated appliances like sinks on-site for templating, all coordinated by AKN Design Group."
+      }
+    }
+  ],
+  "description": "Before installation, existing countertops must be removed, base cabinetry leveled, and integrated appliances like sinks on-site for templating, all coordinated"
+}

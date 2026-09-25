@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-preparations-should-i-make-before-an-outdoor-space-renovation-consultation",
+  "name": "What preparations should I make before an outdoor space renovation consultation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What preparations should I make before an outdoor space renovation consultation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before an outdoor space renovation consultation, consider gathering ideas about your desired functionality and aesthetics, such as preferred styles, materials, and specific features like a fire pit or an outdoor television. Think about how you intend to use the space and any challenges with your current backyard. This preparation helps AKN Design Group understand your unique lifestyle and vision, enabling us to provide tailored design solutions that enhance functionality, beauty, and long-term value.",
+        "@type": "Answer",
+        "description": "Before your consultation, gather ideas about desired functionality, aesthetics, and specific features to help us understand your vision for the space."
+      }
+    }
+  ],
+  "description": "Before your consultation, gather ideas about desired functionality, aesthetics, and specific features to help us understand your vision for the space."
+}

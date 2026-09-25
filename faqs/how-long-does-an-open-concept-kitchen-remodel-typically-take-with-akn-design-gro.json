@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-long-does-an-open-concept-kitchen-remodel-typically-take-with-akn-design-gro",
+  "name": "How long does an open-concept kitchen remodel typically take with AKN Design Group?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does an open-concept kitchen remodel typically take with AKN Design Group?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for an open-concept kitchen remodel varies significantly based on its complexity, particularly if structural changes like load-bearing wall removal are involved. After our initial consultation and detailed design planning, which includes CAD-supported layouts, we provide a transparent project timeline. Generally, construction phases for such a substantial renovation can range from 8 to 16 weeks, excluding the design and permitting coordination phases. We prioritize clear communication throughout, keeping you informed on scheduling and milestones from concept to final walkthrough, ensuring a managed process.",
+        "@type": "Answer",
+        "description": "Open-concept kitchen remodels vary in duration, typically 8-16 weeks for construction after design and permitting. AKN Design Group provides a transparent project timeline, dependent on complexity like wall removal."
+      }
+    }
+  ],
+  "description": "Open-concept kitchen remodels vary in duration, typically 8-16 weeks for construction after design and permitting. AKN Design Group provides a transparent proje"
+}

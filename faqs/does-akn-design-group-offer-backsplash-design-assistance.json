@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/does-akn-design-group-offer-backsplash-design-assistance",
+  "name": "Does AKN Design Group offer backsplash design assistance?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does AKN Design Group offer backsplash design assistance?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, backsplash design assistance is an integral part of our integrated design-build process for full kitchen and bathroom renovations. Our experienced design team works with you from concept to completion, guiding material selection, pattern layouts, and color coordination to ensure the backsplash harmonizes seamlessly with your cabinetry, countertops, and overall aesthetic. This unified approach guarantees a cohesive and thoughtfully designed space, enhancing your home's long-term value.",
+        "@type": "Answer",
+        "description": "Yes, AKN Design Group provides comprehensive backsplash design assistance as part of our integrated renovation process."
+      }
+    }
+  ],
+  "description": "Yes, AKN Design Group provides comprehensive backsplash design assistance as part of our integrated renovation process."
+}

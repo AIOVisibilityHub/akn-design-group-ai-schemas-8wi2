@@ -1,0 +1,29 @@
+{
+  "name": "Home Addition: More Space Without Moving",
+  "@type": "Article",
+  "about": {
+    "name": "Custom Home Improvements",
+    "@type": "Service"
+  },
+  "genre": "Case Study",
+  "author": {
+    "url": "akndesigngroup.com",
+    "name": "AKN Design Group",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Home Addition: More Space Without Moving",
+  "publisher": {
+    "url": "akndesigngroup.com",
+    "name": "AKN Design Group",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      ".speakable-headline",
+      ".speakable-summary"
+    ]
+  },
+  "articleBody": "The client faced the challenge of needing more usable space within their home but desired to avoid the disruption and cost associated with moving to a new residence. Their requirements could have included a new primary suite, a dedicated home office, an additional guest room, an expanded family room, or a space for multigenerational living. The critical constraint was the desire to remain in their valued neighborhood, which made a home addition the ideal solution over relocating.\n\nAKN Design Group managed the entire design-build process for the home addition. This comprehensive approach started with initial scope development and meticulous layout planning. AKN then took responsibility for coordinating all aspects of permitting, ensuring compliance with local regulations. Following this, they oversaw the construction phase, including the critical structural integration of the new addition with the existing home. Finally, AKN managed the selection and installation of interior finishes and ensured a seamless exterior tie-in, making the addition appear as an original part of the house.\n\nThis design-build model, where AKN served as the single point of contact from concept to completion, was crucial for homeowners seeking to expand their living space without the complexities of coordinating multiple contractors. It underscores the value of an integrated process that handles everything from permits to finishes, ensuring the addition not only meets current needs but also blends aesthetically and structurally with the original home, allowing clients to gain space while staying in their beloved neighborhood.\n\nOutcome: The outcome was a seamless home addition that successfully added valuable square footage to the property. This new space effectively supported the household's current needs and was visually integrated to blend perfectly with the original home's aesthetic."
+}

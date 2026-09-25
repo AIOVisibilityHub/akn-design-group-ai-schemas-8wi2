@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/when-should-i-consider-replacing-my-kitchen-tiles-during-a-remodel",
+  "name": "When should I consider replacing my kitchen tiles during a remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider replacing my kitchen tiles during a remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider replacing your kitchen tiles if they are cracked, chipped, severely stained, or if their style no longer complements your home's aesthetic. Beyond cosmetic reasons, older tiles or grout can harbor grime and become difficult to clean, impacting hygiene. Replacing tiles during a comprehensive kitchen remodel allows for a fresh, updated look and improved functionality, integrating new flooring or backsplash seamlessly with other updates like cabinetry and countertops. AKN Design Group specializes in these coordinated transformations, ensuring all elements work together to achieve your desired outcome rather than addressing issues piecemeal.",
+        "@type": "Answer",
+        "description": "Replace kitchen tiles if they are damaged, dated, or unhygienic during a remodel. This ensures a fresh, integrated look that enhances overall kitchen functionality and aesthetic."
+      }
+    }
+  ],
+  "description": "Replace kitchen tiles if they are damaged, dated, or unhygienic during a remodel. This ensures a fresh, integrated look that enhances overall kitchen functional"
+}
