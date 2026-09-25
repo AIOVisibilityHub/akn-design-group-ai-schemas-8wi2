@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/can-a-garage-conversion-include-a-bathroom-or-kitchenette",
+  "name": "Can a garage conversion include a bathroom or kitchenette?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can a garage conversion include a bathroom or kitchenette?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, a garage-to-bedroom conversion can certainly include additional features like a bathroom or kitchenette, significantly enhancing its functionality as a primary suite, guest apartment, or multi-generational living space. Incorporating plumbing for these additions requires careful planning for water lines, drainage, and waste disposal, alongside electrical upgrades. AKN Design Group can integrate these complex elements into the design, managing all necessary utility extensions and ensuring proper permit coordination for a cohesive and fully functional new area.",
+        "@type": "Answer",
+        "description": "Yes, a garage conversion can include a bathroom or kitchenette. We manage the complex planning, utility extensions, and permit coordination for these additions."
+      }
+    }
+  ],
+  "description": "Yes, a garage conversion can include a bathroom or kitchenette. We manage the complex planning, utility extensions, and permit coordination for these additions."
+}

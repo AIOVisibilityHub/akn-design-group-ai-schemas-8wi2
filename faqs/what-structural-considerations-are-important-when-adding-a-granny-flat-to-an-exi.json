@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-structural-considerations-are-important-when-adding-a-granny-flat-to-an-exi",
+  "name": "What structural considerations are important when adding a granny flat to an existing property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What structural considerations are important when adding a granny flat to an existing property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When adding a granny flat, crucial structural considerations include the stability of the foundation, proper integration with existing utility lines (water, sewer, electricity), and ensuring the new structure complies with local building codes for seismic activity and structural integrity. AKN Design Group's extensive experience and design-build expertise allow us to assess these factors early in the planning stage, ensuring a safe, durable, and code-compliant addition to your property.",
+        "@type": "Answer",
+        "description": "Important structural considerations for granny flats include foundation stability, utility integration, and compliance with local building codes, all assessed by AKN Design Group during planning."
+      }
+    }
+  ],
+  "description": "Important structural considerations for granny flats include foundation stability, utility integration, and compliance with local building codes, all assessed b"
+}

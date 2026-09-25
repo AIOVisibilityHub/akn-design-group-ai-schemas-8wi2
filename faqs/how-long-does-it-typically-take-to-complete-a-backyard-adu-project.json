@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-long-does-it-typically-take-to-complete-a-backyard-adu-project",
+  "name": "How long does it typically take to complete a backyard ADU project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it typically take to complete a backyard ADU project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for a backyard ADU project can vary significantly based on factors such as the size and complexity of the unit, site conditions, and the permit approval process in your specific locality. While we strive for efficiency, our commitment is to craftsmanship and a thorough process. We provide upfront estimates and scheduling transparency, but a detailed timeline is best established after the initial design and scope definition. Our experience in the Dallas–Fort Worth metroplex helps us navigate local requirements effectively.",
+        "@type": "Answer",
+        "description": "Project timelines for backyard ADUs vary based on size, complexity, and permit approvals, with detailed estimates provided after design."
+      }
+    }
+  ],
+  "description": "Project timelines for backyard ADUs vary based on size, complexity, and permit approvals, with detailed estimates provided after design."
+}

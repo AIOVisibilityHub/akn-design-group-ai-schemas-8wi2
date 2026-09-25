@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-does-akn-design-group-ensure-quality-and-craftsmanship-in-detached-adu-const",
+  "name": "How does AKN Design Group ensure quality and craftsmanship in Detached ADU construction?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does AKN Design Group ensure quality and craftsmanship in Detached ADU construction?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "AKN Design Group ensures quality and craftsmanship through our integrated design-build process, which keeps all aspects of your Detached ADU project under one accountable team. Anthony Nusbaumer's leadership philosophy emphasizes honesty, reliability, and superior craftsmanship. We meticulously select materials, adhere to stringent building standards, and maintain clear communication throughout every phase. Our 20+ years of experience and more than 10,000 completed jobs in the Dallas–Fort Worth metroplex attest to our proven track record of delivering customized renovations that stand the test of time, enhancing functionality, beauty, and value.",
+        "@type": "Answer",
+        "description": "AKN Design Group ensures quality through an integrated design-build process, meticulous material selection, adherence to building standards, and clear communication, backed by extensive experience."
+      }
+    }
+  ],
+  "description": "AKN Design Group ensures quality through an integrated design-build process, meticulous material selection, adherence to building standards, and clear communica"
+}

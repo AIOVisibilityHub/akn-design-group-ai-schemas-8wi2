@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-should-i-consider-before-beginning-an-adu-project-on-my-property",
+  "name": "What should I consider before beginning an ADU project on my property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I consider before beginning an ADU project on my property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before starting an ADU project, homeowners should consider their specific needs for the space, such as whether it's for family, rental, or personal use, as this influences the design and features. It's also crucial to understand your property's zoning regulations and setback requirements, which dictate the ADU's permissible size and placement. AKN Design Group helps homeowners evaluate these initial factors during the consultation phase, providing insights based on our extensive experience with substantial additions and renovations.",
+        "@type": "Answer",
+        "description": "Consider the ADU's purpose, your property's zoning, and setback requirements before beginning the project."
+      }
+    }
+  ],
+  "description": "Consider the ADU's purpose, your property's zoning, and setback requirements before beginning the project."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/when-should-i-consider-building-a-granny-flat-instead-of-a-traditional-home-exte",
+  "name": "When should I consider building a granny flat instead of a traditional home extension?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider building a granny flat instead of a traditional home extension?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider building a granny flat when you require a fully independent living space for family members, as a dedicated home office, or for potential rental income, rather than just expanding existing rooms. The decision often hinges on the need for separate utilities, entrances, and full amenities. This provides a distinct dwelling without needing to relocate, maximizing your property's functionality and value.",
+        "@type": "Answer",
+        "description": "Consider a granny flat for an independent living space with separate amenities, suitable for family, a home office, or rental income, instead of a simple room expansion."
+      }
+    }
+  ],
+  "description": "Consider a granny flat for an independent living space with separate amenities, suitable for family, a home office, or rental income, instead of a simple room e"
+}

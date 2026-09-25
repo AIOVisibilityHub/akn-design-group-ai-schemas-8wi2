@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-a-junior-adu-and-how-does-it-differ-from-a-standard-adu",
+  "name": "What is a Junior ADU and how does it differ from a standard ADU?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a Junior ADU and how does it differ from a standard ADU?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A Junior Accessory Dwelling Unit (JADU) is a living space created within the walls of an existing single-family home. Unlike a traditional ADU, a JADU must be carved out of an existing permitted space, such as a garage or a portion of the main house, and is typically smaller. It must include an efficiency kitchen, a bathroom, and a separate entrance. AKN Design Group focuses on maximizing the potential of your existing footprint for such transformations, ensuring the new space integrates seamlessly with your home's structure and aesthetics.",
+        "@type": "Answer",
+        "description": "A Junior ADU is a smaller, self-contained living space created within an existing home, featuring an efficiency kitchen and separate entrance."
+      }
+    }
+  ],
+  "description": "A Junior ADU is a smaller, self-contained living space created within an existing home, featuring an efficiency kitchen and separate entrance."
+}

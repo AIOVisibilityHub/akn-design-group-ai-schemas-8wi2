@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-long-does-a-garage-to-home-office-conversion-typically-take",
+  "name": "How long does a garage-to-home office conversion typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a garage-to-home office conversion typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for a garage-to-home office conversion varies based on the complexity of the design, necessary structural changes, and the extent of finish work. While a straightforward conversion might take several weeks, projects requiring new foundations, extensive plumbing, or re-routing existing utilities could take longer. AKN Design Group provides a transparent project timeline upfront, managing every phase from design approval and permit acquisition to construction and final walkthrough, ensuring clear communication throughout.",
+        "@type": "Answer",
+        "description": "Project duration depends on complexity, structural needs, and finish work. AKN Design Group provides upfront timelines and manages all phases, including permit acquisition and construction."
+      }
+    }
+  ],
+  "description": "Project duration depends on complexity, structural needs, and finish work. AKN Design Group provides upfront timelines and manages all phases, including permit"
+}

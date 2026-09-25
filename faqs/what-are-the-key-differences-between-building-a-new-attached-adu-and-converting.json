@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-are-the-key-differences-between-building-a-new-attached-adu-and-converting",
+  "name": "What are the key differences between building a new attached ADU and converting an existing garage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the key differences between building a new attached ADU and converting an existing garage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Building a new attached ADU offers greater flexibility in design, layout, and square footage, allowing for a fully customized living space tailored to specific needs. Conversely, converting an existing garage often leverages existing foundations and structures, which can sometimes be more cost-effective. However, garage conversions might face limitations regarding ceiling height, window placement, and plumbing access, potentially impacting the final layout and functionality. AKN Design Group evaluates your specific property and goals, providing expertise to determine which approach – new construction or conversion – best enhances functionality, beauty, and long-term value for your residential design-build project.",
+        "@type": "Answer",
+        "description": "New attached ADUs offer custom design flexibility, while garage conversions can be cost-effective but may have structural limitations, with AKN guiding the best approach."
+      }
+    }
+  ],
+  "description": "New attached ADUs offer custom design flexibility, while garage conversions can be cost-effective but may have structural limitations, with AKN guiding the best"
+}

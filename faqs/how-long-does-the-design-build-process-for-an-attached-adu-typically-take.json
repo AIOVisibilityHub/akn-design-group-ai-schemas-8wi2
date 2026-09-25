@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-long-does-the-design-build-process-for-an-attached-adu-typically-take",
+  "name": "How long does the design-build process for an attached ADU typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does the design-build process for an attached ADU typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for an attached ADU design-build project varies based on scope, local permitting processes, and material availability. Generally, the entire process, from initial design consultation to final walkthrough, can range from several months to over a year. Our integrated design-build approach at AKN Design Group streamlines this process by unifying design and construction under one team, which can help mitigate delays often associated with managing multiple contractors. We prioritize clear communication and provide upfront estimates and scheduling transparency, aiming for efficient project completion while maintaining our commitment to craftsmanship.",
+        "@type": "Answer",
+        "description": "Attached ADU projects typically take several months to over a year, with our integrated design-build process designed to streamline timelines and ensure clear communication."
+      }
+    }
+  ],
+  "description": "Attached ADU projects typically take several months to over a year, with our integrated design-build process designed to streamline timelines and ensure clear c"
+}

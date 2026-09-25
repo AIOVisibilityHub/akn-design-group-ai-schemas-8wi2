@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/will-a-garage-conversion-impact-my-property-value-or-taxes",
+  "name": "Will a garage conversion impact my property value or taxes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will a garage conversion impact my property value or taxes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A well-executed garage-to-bedroom conversion can positively impact property value by increasing usable square footage and enhancing overall functionality, beauty, and value of your home. However, it's essential to understand that local property taxes may be reassessed to reflect these improvements. AKN Design Group focuses on customized renovations that meet high standards of craftsmanship, contributing to long-term value. While we do not provide tax advice, we can ensure your renovation is completed to a standard that optimizes its market appeal.",
+        "@type": "Answer",
+        "description": "A quality garage conversion can increase property value by adding usable space, though property taxes may be reassessed. Our craftsmanship aims to enhance market appeal."
+      }
+    }
+  ],
+  "description": "A quality garage conversion can increase property value by adding usable space, though property taxes may be reassessed. Our craftsmanship aims to enhance marke"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-a-detached-accessory-dwelling-unit-adu",
+  "name": "What is a Detached Accessory Dwelling Unit (ADU)?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a Detached Accessory Dwelling Unit (ADU)?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A Detached Accessory Dwelling Unit (ADU) is a secondary housing unit on a single-family residential lot that is physically separate from the main house. These units, also known as guest houses, granny flats, or casitas, are self-contained and typically include a kitchen, bathroom, and living area. AKN Design Group specializes in designing and building these additions to enhance property functionality and value for homeowners in the Dallas–Fort Worth metroplex. We manage the entire process, ensuring the ADU integrates seamlessly with your existing property and lifestyle needs.",
+        "@type": "Answer",
+        "description": "A Detached ADU is a separate, self-contained housing unit on a residential property, offering additional living space with its own kitchen, bathroom, and living area."
+      }
+    }
+  ],
+  "description": "A Detached ADU is a separate, self-contained housing unit on a residential property, offering additional living space with its own kitchen, bathroom, and living"
+}

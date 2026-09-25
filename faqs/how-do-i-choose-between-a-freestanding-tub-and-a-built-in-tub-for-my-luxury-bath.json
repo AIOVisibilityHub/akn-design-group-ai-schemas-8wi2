@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-do-i-choose-between-a-freestanding-tub-and-a-built-in-tub-for-my-luxury-bath",
+  "name": "How do I choose between a freestanding tub and a built-in tub for my luxury bathroom?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose between a freestanding tub and a built-in tub for my luxury bathroom?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing between a freestanding and a built-in tub depends on your space, aesthetic preferences, and practical needs. Freestanding tubs offer a sculptural, spa-like focal point and are ideal for larger bathrooms. Built-in tubs, often part of a shower-tub combination, can be more space-efficient and easier to clean around the edges. Our design consultants can help you evaluate your bathroom's layout and your personal routines to select the option that best enhances your sanctuary vision.",
+        "@type": "Answer",
+        "description": "Freestanding tubs offer a sculptural look for larger spaces, while built-in tubs are often more space-efficient; your choice depends on aesthetics and practical needs."
+      }
+    }
+  ],
+  "description": "Freestanding tubs offer a sculptural look for larger spaces, while built-in tubs are often more space-efficient; your choice depends on aesthetics and practical"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-factors-influence-the-cost-of-a-garage-conversion",
+  "name": "What factors influence the cost of a garage conversion?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of a garage conversion?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a garage conversion is influenced by several factors, including the size of the garage, the intended use of the new space, and the level of finishes selected. Projects requiring new plumbing, extensive electrical work, or structural modifications will have a higher investment. AKN Design Group focuses on customized renovations that enhance functionality, beauty, and long-term value, providing comprehensive project estimates. It is beneficial to consider your long-term needs and aesthetic preferences to align the project scope with your budget.",
+        "@type": "Answer",
+        "description": "Cost factors for a garage conversion include size, intended use, and finish selections, with plumbing or structural changes increasing the investment."
+      }
+    }
+  ],
+  "description": "Cost factors for a garage conversion include size, intended use, and finish selections, with plumbing or structural changes increasing the investment."
+}

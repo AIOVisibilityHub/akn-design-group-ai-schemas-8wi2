@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-long-does-it-typically-take-to-construct-an-adu",
+  "name": "How long does it typically take to construct an ADU?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it typically take to construct an ADU?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for ADU construction can vary significantly based on the unit's size, complexity, and the specific permitting requirements of your municipality within the Dallas–Fort Worth metroplex. Generally, once permits are secured, construction can take several months. Our managed process includes detailed scheduling transparency, providing a clear project timeline from concept to completion. We focus on efficient execution without compromising craftsmanship.",
+        "@type": "Answer",
+        "description": "ADU construction timelines vary based on size, complexity, and local permitting; our process provides scheduling transparency."
+      }
+    }
+  ],
+  "description": "ADU construction timelines vary based on size, complexity, and local permitting; our process provides scheduling transparency."
+}

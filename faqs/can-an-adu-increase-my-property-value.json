@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/can-an-adu-increase-my-property-value",
+  "name": "Can an ADU increase my property value?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can an ADU increase my property value?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, a well-designed and constructed ADU can significantly enhance your property's value by adding functional living space and potentially generating rental income. AKN Design Group focuses on creating customized solutions that not only meet your immediate needs but also contribute to the long-term appreciation of your investment. Our commitment to craftsmanship ensures the ADU adds substantial, lasting value to your home.",
+        "@type": "Answer",
+        "description": "A well-designed ADU can increase property value by adding functional living space and potential rental income."
+      }
+    }
+  ],
+  "description": "A well-designed ADU can increase property value by adding functional living space and potential rental income."
+}

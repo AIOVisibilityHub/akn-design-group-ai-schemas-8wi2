@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-an-accessory-dwelling-unit-adu",
+  "name": "What is an Accessory Dwelling Unit (ADU)?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is an Accessory Dwelling Unit (ADU)?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An Accessory Dwelling Unit (ADU) is a secondary housing unit on a single-family residential lot. It can be an attached or detached structure, such as a backyard cottage, a converted garage, or a basement apartment. ADUs provide homeowners with options for additional living space, which can serve various needs from housing family members to generating rental income.",
+        "@type": "Answer",
+        "description": "An ADU is a secondary housing unit on a single-family residential lot, providing additional living space."
+      }
+    }
+  ],
+  "description": "An ADU is a secondary housing unit on a single-family residential lot, providing additional living space."
+}

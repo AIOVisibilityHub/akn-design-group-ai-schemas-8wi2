@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/can-a-heated-towel-rack-be-installed-in-any-bathroom-or-are-there-limitations",
+  "name": "Can a heated towel rack be installed in any bathroom, or are there limitations?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can a heated towel rack be installed in any bathroom, or are there limitations?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While most bathrooms can accommodate a heated towel rack, certain limitations and considerations exist, particularly regarding electrical capacity and wall structure. Hardwired units require an accessible electrical supply within the wall, and the wall material must support the rack's weight. Our design-build process includes a thorough assessment of your existing bathroom infrastructure to identify any potential challenges. We ensure that any installation is safe, code-compliant, and seamlessly integrated into your customized renovation, upholding our commitment to craftsmanship and reliability.",
+        "@type": "Answer",
+        "description": "Most bathrooms can accommodate a heated towel rack, but electrical capacity and wall structure are key considerations. We assess your bathroom's infrastructure to ensure safe, compliant, and seamless integration."
+      }
+    }
+  ],
+  "description": "Most bathrooms can accommodate a heated towel rack, but electrical capacity and wall structure are key considerations. We assess your bathroom's infrastructure"
+}

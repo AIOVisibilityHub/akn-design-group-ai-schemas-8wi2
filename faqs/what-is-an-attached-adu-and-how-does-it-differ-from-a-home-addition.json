@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-an-attached-adu-and-how-does-it-differ-from-a-home-addition",
+  "name": "What is an attached ADU and how does it differ from a home addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is an attached ADU and how does it differ from a home addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An Attached Accessory Dwelling Unit (ADU) is a secondary housing unit on a single-family residential lot that shares a common wall with the primary dwelling. While both add living space, an ADU is specifically designed to be an independent living space with its own kitchen, bathroom, and entrance. A home addition, conversely, typically expands the primary home's existing functional areas without creating a separate, self-sufficient residence. AKN Design Group offers both solutions, guiding homeowners through the best approach to enhance their property's functionality and value based on their specific needs, whether it's for extended family or rental income. We provide a single point of coordination for the entire design-build process.",
+        "@type": "Answer",
+        "description": "An attached ADU is a secondary, self-contained living unit sharing a wall with the main home, distinct from a typical home addition that expands existing living space."
+      }
+    }
+  ],
+  "description": "An attached ADU is a secondary, self-contained living unit sharing a wall with the main home, distinct from a typical home addition that expands existing living"
+}

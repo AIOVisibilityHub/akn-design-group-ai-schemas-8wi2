@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/does-akn-design-group-work-on-multi-unit-rental-properties-or-only-single-family",
+  "name": "Does AKN Design Group work on multi-unit rental properties, or only single-family homes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does AKN Design Group work on multi-unit rental properties, or only single-family homes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "AKN Design Group primarily focuses on substantial, customized renovations for individual residential units, whether they are single-family homes or individual units within a multi-family property. Our expertise lies in transforming interiors such as kitchens, bathrooms, or undertaking whole-home remodels for discerning property owners who value a managed design-build process and high-end craftsmanship. We assess each project on its scope and alignment with our specialization in significant residential transformations.",
+        "@type": "Answer",
+        "description": "We focus on substantial, customized renovations for individual residential units, including those within multi-family properties, prioritizing projects that align with our high-end design-build expertise."
+      }
+    }
+  ],
+  "description": "We focus on substantial, customized renovations for individual residential units, including those within multi-family properties, prioritizing projects that ali"
+}

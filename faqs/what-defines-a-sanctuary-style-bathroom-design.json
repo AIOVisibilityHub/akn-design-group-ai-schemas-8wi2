@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-defines-a-sanctuary-style-bathroom-design",
+  "name": "What defines a 'sanctuary-style' bathroom design?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What defines a 'sanctuary-style' bathroom design?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A sanctuary-style bathroom transforms an everyday space into a spa-like retreat focused on comfort, functionality, and elevated aesthetics. This typically involves thoughtful layout design, premium material selections, sophisticated lighting, and specialized fixtures such as large walk-in showers with frameless glass, freestanding tubs, and integrated storage solutions. AKN Design Group focuses on harmonizing these elements to create a cohesive, calming experience tailored to your lifestyle.",
+        "@type": "Answer",
+        "description": "A sanctuary-style bathroom is a spa-like retreat with premium materials, sophisticated lighting, and specialized fixtures designed for comfort and elevated aesthetics."
+      }
+    }
+  ],
+  "description": "A sanctuary-style bathroom is a spa-like retreat with premium materials, sophisticated lighting, and specialized fixtures designed for comfort and elevated aest"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-preparations-should-i-make-before-contacting-akn-design-group-about-an-adu",
+  "name": "What preparations should I make before contacting AKN Design Group about an ADU project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What preparations should I make before contacting AKN Design Group about an ADU project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before contacting us for an ADU project, it is helpful to consider your primary goals for the unit—such as guest housing, rental income, or a home office—and have a general idea of your desired size and location on your property. Gathering any existing surveys or architectural plans for your home can also be beneficial. This initial consideration aids our team in understanding your vision and providing a more tailored consultation.",
+        "@type": "Answer",
+        "description": "Before contacting us, consider your ADU goals, desired size, location, and gather any existing property plans."
+      }
+    }
+  ],
+  "description": "Before contacting us, consider your ADU goals, desired size, location, and gather any existing property plans."
+}

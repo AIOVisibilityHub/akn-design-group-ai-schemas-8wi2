@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-are-common-challenges-in-adu-construction-and-how-does-akn-design-group-add",
+  "name": "What are common challenges in ADU construction, and how does AKN Design Group address them?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common challenges in ADU construction, and how does AKN Design Group address them?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common challenges in ADU construction include navigating complex zoning and permitting regulations, managing site logistics, integrating new utilities, and ensuring the new structure aesthetically blends with the existing home. Our managed process, backed by over two decades of experience, directly addresses these. We provide comprehensive permit coordination, clear communication, and a single accountable team to minimize homeowner stress. Our commitment to craftsmanship ensures that structural and design integration is seamless, overcoming typical hurdles to deliver a high-quality outcome.",
+        "@type": "Answer",
+        "description": "ADU challenges often involve permits, site logistics, and aesthetic integration. AKN Design Group addresses these with permit coordination, clear communication, and a managed design-build process."
+      }
+    }
+  ],
+  "description": "ADU challenges often involve permits, site logistics, and aesthetic integration. AKN Design Group addresses these with permit coordination, clear communication,"
+}

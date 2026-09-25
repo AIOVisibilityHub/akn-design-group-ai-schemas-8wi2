@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-do-i-ensure-an-accessible-bathroom-renovation-meets-my-specific-needs",
+  "name": "How do I ensure an accessible bathroom renovation meets my specific needs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I ensure an accessible bathroom renovation meets my specific needs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To ensure an accessible bathroom renovation meets your specific needs, clear and detailed communication with your design-build team is paramount. You should clearly articulate all mobility considerations, daily routines, and any assistive devices you use, as well as your aesthetic preferences. AKN Design Group emphasizes a personalized service, conducting thorough initial consultations to gather these specific requirements. Our CAD-supported layouts provide a precise visual representation, allowing for adjustments and confirmation that the proposed design precisely addresses your functional and stylistic needs before construction begins.",
+        "@type": "Answer",
+        "description": "Ensuring an accessible bathroom renovation meets your needs requires clear communication of all mobility considerations, routines, and aesthetic preferences with your design-build team. AKN Design Group uses detailed consultations and CAD layouts to confirm the design."
+      }
+    }
+  ],
+  "description": "Ensuring an accessible bathroom renovation meets your needs requires clear communication of all mobility considerations, routines, and aesthetic preferences wit"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-an-accessory-dwelling-unit-adu-and-why-would-i-consider-one-for-my-prope",
+  "name": "What is an Accessory Dwelling Unit (ADU) and why would I consider one for my property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is an Accessory Dwelling Unit (ADU) and why would I consider one for my property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An Accessory Dwelling Unit (ADU) is a secondary housing unit on a single-family residential lot. It can be attached to the primary home or be a detached structure in your backyard. Homeowners often consider an ADU to add living space for family members, generate rental income, or create a dedicated home office or studio. AKN Design Group specializes in integrating these substantial additions seamlessly with your existing property, ensuring the new structure enhances both functionality and aesthetic value.",
+        "@type": "Answer",
+        "description": "An ADU is a secondary housing unit on a residential lot, often used for family, rental income, or dedicated workspaces."
+      }
+    }
+  ],
+  "description": "An ADU is a secondary housing unit on a residential lot, often used for family, rental income, or dedicated workspaces."
+}

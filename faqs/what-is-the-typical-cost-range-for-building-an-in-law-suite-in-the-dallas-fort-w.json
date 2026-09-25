@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-the-typical-cost-range-for-building-an-in-law-suite-in-the-dallas-fort-w",
+  "name": "What is the typical cost range for building an in-law suite in the Dallas–Fort Worth metroplex?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost range for building an in-law suite in the Dallas–Fort Worth metroplex?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of building an in-law suite in the Dallas–Fort Worth metroplex can vary significantly based on its size, amenities, and whether it's an attached addition or a conversion of existing space. Projects can range from tens of thousands to well over a hundred thousand dollars. Factors like plumbing for a new bathroom or kitchen, electrical upgrades, and the quality of finishes chosen will substantially influence the overall investment. When planning your project, AKN Design Group provides a detailed upfront estimate after understanding your specific requirements, helping you balance your vision with a realistic budget through our value engineering expertise.",
+        "@type": "Answer",
+        "description": "The cost of an in-law suite in the Dallas–Fort Worth metroplex varies widely based on size, amenities, and construction type, ranging from tens of thousands to over a hundred thousand dollars. We provide detailed estimates to align your vision with a realistic budget."
+      }
+    }
+  ],
+  "description": "The cost of an in-law suite in the Dallas–Fort Worth metroplex varies widely based on size, amenities, and construction type, ranging from tens of thousands to"
+}

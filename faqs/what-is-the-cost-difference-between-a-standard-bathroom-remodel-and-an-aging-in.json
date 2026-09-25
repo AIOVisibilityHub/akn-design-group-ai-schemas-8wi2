@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-the-cost-difference-between-a-standard-bathroom-remodel-and-an-aging-in",
+  "name": "What is the cost difference between a standard bathroom remodel and an aging-in-place remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the cost difference between a standard bathroom remodel and an aging-in-place remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of an aging-in-place bathroom remodel can be slightly higher than a standard remodel due to specialized fixtures, materials, and potentially more extensive structural or plumbing modifications required for accessibility. However, AKN Design Group focuses on value engineering throughout our managed process. We ensure that investments in features like curbless showers or reinforced walls are integrated efficiently and contribute to the long-term functionality and beauty of your spa-inspired bathroom, enhancing the home's value without compromising quality. We provide upfront estimates and transparent communication on all costs.",
+        "@type": "Answer",
+        "description": "Aging-in-place remodels may cost more due to specialized features, but AKN Design Group optimizes value engineering to integrate functionality and beauty efficiently."
+      }
+    }
+  ],
+  "description": "Aging-in-place remodels may cost more due to specialized features, but AKN Design Group optimizes value engineering to integrate functionality and beauty effici"
+}

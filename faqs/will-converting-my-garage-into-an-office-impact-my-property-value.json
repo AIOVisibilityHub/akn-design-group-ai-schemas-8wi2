@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/will-converting-my-garage-into-an-office-impact-my-property-value",
+  "name": "Will converting my garage into an office impact my property value?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will converting my garage into an office impact my property value?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A thoughtfully designed and professionally executed garage-to-home office conversion can enhance your property's functionality and long-term value. By adding usable, finished square footage that integrates seamlessly with the rest of the home, you create a versatile space that appeals to future buyers. AKN Design Group focuses on customized solutions and high-quality craftsmanship, ensuring the conversion is an asset that contributes positively to your home's appeal and market value, rather than a disconnected alteration.",
+        "@type": "Answer",
+        "description": "A professionally executed garage-to-home office conversion can enhance property value by adding functional, finished square footage. AKN Design Group ensures high-quality, seamless integration."
+      }
+    }
+  ],
+  "description": "A professionally executed garage-to-home office conversion can enhance property value by adding functional, finished square footage. AKN Design Group ensures hi"
+}

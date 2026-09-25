@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-long-does-a-typical-garage-to-recreation-room-conversion-take",
+  "name": "How long does a typical garage-to-recreation-room conversion take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical garage-to-recreation-room conversion take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for a garage-to-recreation-room conversion can vary significantly based on the project's scope and complexity. Factors like structural changes, the extent of utility upgrades, and finish selections all influence the duration. As a design-build firm, AKN Design Group works to establish a clear project timeline during the planning phase. We prioritize clear communication and a managed process to keep your project on track, from initial design and material sourcing through construction and final inspections, aiming for efficient completion without compromising craftsmanship.",
+        "@type": "Answer",
+        "description": "The duration of a garage conversion depends on the project's scope, structural changes, and utility upgrades; AKN Design Group provides a clear timeline during planning."
+      }
+    }
+  ],
+  "description": "The duration of a garage conversion depends on the project's scope, structural changes, and utility upgrades; AKN Design Group provides a clear timeline during"
+}

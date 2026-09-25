@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/when-should-i-consider-building-a-guest-house-on-my-property",
+  "name": "When should I consider building a guest house on my property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider building a guest house on my property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider building a guest house when your household needs additional, independent living space that cannot be adequately met by reconfiguring your existing home. This is ideal for accommodating aging parents, providing a dedicated space for adult children, creating a private home office, or generating rental income. A guest house enhances functionality and value by expanding usable living space without the need to relocate. We recommend evaluating your long-term spatial needs and property’s potential before deciding, and our team can help assess feasibility during an initial consultation.",
+        "@type": "Answer",
+        "description": "Consider a guest house when you need independent living space for family, a home office, or rental income. It enhances property value and functionality."
+      }
+    }
+  ],
+  "description": "Consider a guest house when you need independent living space for family, a home office, or rental income. It enhances property value and functionality."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-factors-influence-the-cost-of-building-an-adu",
+  "name": "What factors influence the cost of building an ADU?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of building an ADU?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of building an ADU is influenced by several factors, including its size, the type of construction (e.g., new detached unit vs. garage conversion), chosen materials, and interior finishes. Site preparation and utility connections also play a significant role. AKN Design Group provides upfront estimates and engages in value engineering to ensure your ADU project aligns with your objectives while delivering a high-quality, customized renovation.",
+        "@type": "Answer",
+        "description": "ADU costs depend on size, construction type, materials, finishes, and site work; we provide upfront estimates and value engineering."
+      }
+    }
+  ],
+  "description": "ADU costs depend on size, construction type, materials, finishes, and site work; we provide upfront estimates and value engineering."
+}

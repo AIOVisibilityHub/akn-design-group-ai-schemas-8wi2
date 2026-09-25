@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-does-akn-design-group-ensure-clear-communication-and-project-oversight-durin",
+  "name": "How does AKN Design Group ensure clear communication and project oversight during a rental unit renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does AKN Design Group ensure clear communication and project oversight during a rental unit renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Clear communication and meticulous project oversight are foundational to AKN Design Group's process. As your single point of coordination, we provide regular updates, maintain open lines of communication, and utilize scheduling transparency throughout your rental unit renovation. Anthony Nusbaumer's leadership emphasizes honesty and reliability, ensuring that property owners are informed and confident at every stage, from initial design planning to the final walkthrough, fostering trust and lasting relationships.",
+        "@type": "Answer",
+        "description": "We ensure clear communication and oversight through regular updates, open lines of communication, and scheduling transparency as your single point of coordination, fostering trust throughout your rental unit renovation."
+      }
+    }
+  ],
+  "description": "We ensure clear communication and oversight through regular updates, open lines of communication, and scheduling transparency as your single point of coordinati"
+}

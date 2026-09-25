@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/will-converting-my-garage-affect-my-property-value-or-taxes",
+  "name": "Will converting my garage affect my property value or taxes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will converting my garage affect my property value or taxes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Converting a garage into a guest suite can enhance functionality, beauty, and long-term value, as it adds usable, conditioned living space to your property. This type of customized renovation is often a desirable feature for potential buyers. However, any addition of conditioned square footage may lead to reassessment for property tax purposes. It's advisable to consult with a local tax professional to understand the potential impact specific to your property in the Dallas–Fort Worth metroplex.",
+        "@type": "Answer",
+        "description": "Converting a garage to a guest suite can increase property value by adding living space but may lead to property tax reassessment. Consult a tax professional for specifics."
+      }
+    }
+  ],
+  "description": "Converting a garage to a guest suite can increase property value by adding living space but may lead to property tax reassessment. Consult a tax professional fo"
+}

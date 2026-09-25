@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-preparations-do-i-need-to-make-before-starting-a-garage-to-guest-suite-conv",
+  "name": "What preparations do I need to make before starting a garage-to-guest-suite conversion?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What preparations do I need to make before starting a garage-to-guest-suite conversion?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before starting a garage-to-guest-suite conversion, it is beneficial to consider your specific needs for the space, such as whether it will include a full bathroom, kitchenette, or separate entrance. Gathering ideas on desired aesthetics and functionality can help during the initial design phase. Additionally, understanding your budget expectations and identifying any personal items currently stored in the garage that need relocation will streamline the process. AKN Design Group provides comprehensive consultations to guide you through these initial considerations.",
+        "@type": "Answer",
+        "description": "Before converting your garage, consider the suite's intended use, desired aesthetics, budget, and plan for relocating stored items. AKN Design Group offers consultations to guide you."
+      }
+    }
+  ],
+  "description": "Before converting your garage, consider the suite's intended use, desired aesthetics, budget, and plan for relocating stored items. AKN Design Group offers cons"
+}

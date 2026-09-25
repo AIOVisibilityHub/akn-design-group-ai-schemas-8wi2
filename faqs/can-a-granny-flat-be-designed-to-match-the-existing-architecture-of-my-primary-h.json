@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/can-a-granny-flat-be-designed-to-match-the-existing-architecture-of-my-primary-h",
+  "name": "Can a granny flat be designed to match the existing architecture of my primary home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can a granny flat be designed to match the existing architecture of my primary home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, AKN Design Group specializes in designing granny flats that seamlessly integrate with your primary home's existing architecture and aesthetic. Our design-build process emphasizes harmonizing the new structure's exterior finishes, roofline, windows, and overall style to ensure it looks like an intentional, cohesive part of your property. This approach maintains curb appeal and enhances the property's overall value.",
+        "@type": "Answer",
+        "description": "Yes, AKN Design Group ensures granny flats seamlessly integrate with your primary home's architecture, matching exterior finishes and style for a cohesive look."
+      }
+    }
+  ],
+  "description": "Yes, AKN Design Group ensures granny flats seamlessly integrate with your primary home's architecture, matching exterior finishes and style for a cohesive look."
+}

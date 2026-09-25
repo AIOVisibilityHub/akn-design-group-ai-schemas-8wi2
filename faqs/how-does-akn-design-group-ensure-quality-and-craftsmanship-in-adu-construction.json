@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-does-akn-design-group-ensure-quality-and-craftsmanship-in-adu-construction",
+  "name": "How does AKN Design Group ensure quality and craftsmanship in ADU construction?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does AKN Design Group ensure quality and craftsmanship in ADU construction?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "AKN Design Group ensures quality and craftsmanship in ADU construction through our integrated design-build process and unwavering commitment to core values. We unify design planning and construction under one accountable team, overseeing every detail from structural integration to interior finishes. With over two decades of experience and more than 10,000 jobs completed, our proven track record reflects our dedication to honesty, reliability, and delivering lasting impressions. We refuse to compromise on craftsmanship or clear communication, viewing these as foundational to building trust and lasting relationships with our clients.",
+        "@type": "Answer",
+        "description": "AKN ensures quality through an integrated design-build process, unifying design and construction under one team, and adhering to core values of honesty, reliability, and craftsmanship."
+      }
+    }
+  ],
+  "description": "AKN ensures quality through an integrated design-build process, unifying design and construction under one team, and adhering to core values of honesty, reliabi"
+}

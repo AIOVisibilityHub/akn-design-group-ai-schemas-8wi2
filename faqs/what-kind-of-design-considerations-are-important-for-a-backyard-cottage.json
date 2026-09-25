@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-kind-of-design-considerations-are-important-for-a-backyard-cottage",
+  "name": "What kind of design considerations are important for a backyard cottage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of design considerations are important for a backyard cottage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Effective design for a backyard cottage considers its intended use, how it integrates with the existing main residence, and local zoning requirements. For example, matching exterior finishes or architectural styles ensures visual harmony with your primary home. Careful planning of utilities, natural light, and interior layouts is crucial to maximize functionality and comfort. Our design-build team ensures that every element, from structural integration to exterior tie-in work, aligns with your vision and enhances your property.",
+        "@type": "Answer",
+        "description": "Key design considerations for a backyard cottage include intended use, integration with the main residence, and local zoning. We ensure visual harmony and functionality."
+      }
+    }
+  ],
+  "description": "Key design considerations for a backyard cottage include intended use, integration with the main residence, and local zoning. We ensure visual harmony and funct"
+}

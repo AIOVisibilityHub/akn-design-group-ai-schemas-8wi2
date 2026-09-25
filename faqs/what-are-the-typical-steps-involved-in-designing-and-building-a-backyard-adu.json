@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-are-the-typical-steps-involved-in-designing-and-building-a-backyard-adu",
+  "name": "What are the typical steps involved in designing and building a backyard ADU?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the typical steps involved in designing and building a backyard ADU?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process of designing and building a backyard ADU typically begins with an initial consultation to understand your vision and assess your property's potential. Following this, our integrated design-build team will develop detailed plans, including architectural drawings and material selections. We then manage all necessary permit coordination, construction, and final finish work. Throughout this managed process, AKN Design Group serves as your single point of coordination, ensuring clear communication and a cohesive project from concept to completion.",
+        "@type": "Answer",
+        "description": "The process includes consultation, design, permit coordination, construction, and final finishing, managed by a single design-build team."
+      }
+    }
+  ],
+  "description": "The process includes consultation, design, permit coordination, construction, and final finishing, managed by a single design-build team."
+}

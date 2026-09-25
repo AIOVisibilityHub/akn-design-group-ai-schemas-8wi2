@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-factors-should-i-consider-when-deciding-on-the-layout-and-features-for-a-mu",
+  "name": "What factors should I consider when deciding on the layout and features for a multi-generational living unit?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors should I consider when deciding on the layout and features for a multi-generational living unit?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When planning a multi-generational living unit, consider the specific needs of its occupants, such as mobility requirements, privacy preferences, and daily routines. Factors like the number of bedrooms, accessibility features, kitchen and laundry access, and separate entrances are crucial. Our design-build process at AKN Design Group helps homeowners evaluate these needs, ensuring the layout maximizes both independence and communal living opportunities. This collaborative planning prevents future inconveniences and ensures the space serves its purpose effectively.",
+        "@type": "Answer",
+        "description": "Consider occupant needs, including mobility, privacy, and daily routines, when planning a multi-generational unit. Our design-build process helps evaluate these factors for a functional and harmonious space."
+      }
+    }
+  ],
+  "description": "Consider occupant needs, including mobility, privacy, and daily routines, when planning a multi-generational unit. Our design-build process helps evaluate these"
+}

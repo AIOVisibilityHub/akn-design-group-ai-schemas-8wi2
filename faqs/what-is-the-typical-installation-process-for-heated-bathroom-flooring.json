@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-the-typical-installation-process-for-heated-bathroom-flooring",
+  "name": "What is the typical installation process for heated bathroom flooring?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical installation process for heated bathroom flooring?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The installation process for heated bathroom flooring is integrated into the broader renovation timeline. After subfloor preparation, the electric heating mats or cables are carefully laid out and secured, followed by a self-leveling mortar or thin-set layer to encapsulate the heating elements. Finally, your chosen finished flooring material is installed on top. This process requires precision and coordination to ensure proper function and durability. AKN Design Group’s managed process means we handle every step, from initial design and CAD-supported layouts to permitting coordination and final walkthrough, providing a single point of coordination for a seamless transformation.",
+        "@type": "Answer",
+        "description": "Installation involves subfloor prep, laying heating elements, encapsulating them with mortar, then installing the finish floor. It's a precise process managed by AKN Design Group's integrated approach."
+      }
+    }
+  ],
+  "description": "Installation involves subfloor prep, laying heating elements, encapsulating them with mortar, then installing the finish floor. It's a precise process managed b"
+}

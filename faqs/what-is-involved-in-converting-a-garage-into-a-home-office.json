@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-involved-in-converting-a-garage-into-a-home-office",
+  "name": "What is involved in converting a garage into a home office?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in converting a garage into a home office?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Converting a garage into a home office is a significant transformation that integrates the new space seamlessly with your existing home. The process typically includes structural modifications, insulation upgrades, HVAC integration, electrical work, plumbing if needed, and high-quality interior finishes tailored to your professional needs. AKN Design Group manages this entire process, from initial design and permit coordination to the final touches, ensuring a cohesive and functional workspace without the homeowner having to manage multiple vendors.",
+        "@type": "Answer",
+        "description": "Garage-to-home office conversions involve structural changes, insulation, HVAC, electrical work, and interior finishes to create a cohesive and functional workspace. AKN Design Group manages the entire design-build process."
+      }
+    }
+  ],
+  "description": "Garage-to-home office conversions involve structural changes, insulation, HVAC, electrical work, and interior finishes to create a cohesive and functional works"
+}

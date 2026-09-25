@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-an-adu-and-what-are-the-benefits-of-building-one-on-my-property",
+  "name": "What is an ADU and what are the benefits of building one on my property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is an ADU and what are the benefits of building one on my property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An Accessory Dwelling Unit (ADU) is a secondary housing unit on a single-family residential lot. These can include detached units, attached additions, or conversions of existing structures like garages. The benefits of constructing an ADU include increasing your property's value, generating rental income, providing flexible living space for family members, or creating a dedicated home office. Our integrated design-build approach ensures that your ADU is not only functional but also seamlessly integrates with your existing home's aesthetic and enhances your overall property value.",
+        "@type": "Answer",
+        "description": "An ADU is a secondary housing unit on your property, offering benefits like increased property value, rental income, or flexible living space."
+      }
+    }
+  ],
+  "description": "An ADU is a secondary housing unit on your property, offering benefits like increased property value, rental income, or flexible living space."
+}

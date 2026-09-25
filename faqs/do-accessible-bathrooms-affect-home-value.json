@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/do-accessible-bathrooms-affect-home-value",
+  "name": "Do accessible bathrooms affect home value?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do accessible bathrooms affect home value?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Accessible bathrooms, especially those thoughtfully designed by AKN Design Group, can positively affect home value by broadening buyer appeal and enhancing long-term functionality. While direct property value increases are not guaranteed, a well-executed accessible renovation demonstrates a home's adaptability and modern comfort, appealing to a wider demographic including those planning to age in place. Our focus on customized renovations that enhance functionality, beauty, and value ensures that any investment contributes to a high-quality living space, reflecting our commitment to craftsmanship and lasting impressions.",
+        "@type": "Answer",
+        "description": "Thoughtfully designed accessible bathrooms can enhance home value by improving functionality and broadening buyer appeal. AKN Design Group ensures renovations prioritize beauty and long-term value."
+      }
+    }
+  ],
+  "description": "Thoughtfully designed accessible bathrooms can enhance home value by improving functionality and broadening buyer appeal. AKN Design Group ensures renovations p"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-involved-in-converting-a-garage-into-a-guest-suite",
+  "name": "What is involved in converting a garage into a guest suite?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in converting a garage into a guest suite?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Converting a garage into a guest suite is a substantial residential design-build project that transforms an underutilized space into a fully functional living area. This process typically involves structural modifications, ensuring proper insulation, integrating plumbing for a bathroom or kitchenette, updating electrical systems, and selecting interior finishes to create a comfortable and aesthetically pleasing environment. AKN Design Group manages this entire process, from initial design and permit coordination to construction and final walkthrough, ensuring a cohesive and functional new space.",
+        "@type": "Answer",
+        "description": "Converting a garage into a guest suite involves structural modifications, plumbing, electrical updates, and interior finishes to create a functional living space. AKN Design Group manages the entire design-build process."
+      }
+    }
+  ],
+  "description": "Converting a garage into a guest suite involves structural modifications, plumbing, electrical updates, and interior finishes to create a functional living spac"
+}

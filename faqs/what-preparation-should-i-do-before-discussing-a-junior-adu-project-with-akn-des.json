@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-preparation-should-i-do-before-discussing-a-junior-adu-project-with-akn-des",
+  "name": "What preparation should I do before discussing a Junior ADU project with AKN Design Group?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What preparation should I do before discussing a Junior ADU project with AKN Design Group?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before our initial consultation, considering your primary goals for the Junior ADU (e.g., rental income, family housing, home office) is beneficial. Thinking about your desired features, potential budget range, and any existing plans or ideas for the space can also streamline the discussion. Having a clear understanding of your needs allows AKN Design Group to develop a design-build plan that accurately reflects your vision and ensures a successful outcome, aligning with our commitment to a high-touch homeowner experience.",
+        "@type": "Answer",
+        "description": "Before consulting, consider your JADU goals, desired features, budget, and any existing plans for the space."
+      }
+    }
+  ],
+  "description": "Before consulting, consider your JADU goals, desired features, budget, and any existing plans for the space."
+}

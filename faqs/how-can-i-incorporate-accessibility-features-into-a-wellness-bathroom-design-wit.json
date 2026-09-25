@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-can-i-incorporate-accessibility-features-into-a-wellness-bathroom-design-wit",
+  "name": "How can I incorporate accessibility features into a wellness bathroom design without compromising aesthetics?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I incorporate accessibility features into a wellness bathroom design without compromising aesthetics?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Incorporating accessibility into a wellness bathroom ensures comfort and safety for all users, now and in the future, without sacrificing design. Features like zero-threshold showers, integrated grab bars that blend with towel rails, comfort-height toilets, and lever-style faucets can be seamlessly integrated. Our design-build approach allows us to plan these elements from the outset, ensuring they complement the overall aesthetic rather than appearing as afterthoughts. We focus on creating a universally functional space that remains beautiful and spa-like.",
+        "@type": "Answer",
+        "description": "Accessibility features like zero-threshold showers, integrated grab bars, and comfort-height toilets can be seamlessly incorporated into wellness bathroom designs to ensure both safety and aesthetic appeal."
+      }
+    }
+  ],
+  "description": "Accessibility features like zero-threshold showers, integrated grab bars, and comfort-height toilets can be seamlessly incorporated into wellness bathroom desig"
+}

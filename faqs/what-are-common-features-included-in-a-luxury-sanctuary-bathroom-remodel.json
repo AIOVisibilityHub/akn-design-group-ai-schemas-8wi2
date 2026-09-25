@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-are-common-features-included-in-a-luxury-sanctuary-bathroom-remodel",
+  "name": "What are common features included in a luxury sanctuary bathroom remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common features included in a luxury sanctuary bathroom remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Luxury sanctuary bathrooms often incorporate features such as spacious walk-in showers with multiple spray options and integrated seating, frameless glass enclosures, and freestanding soaking tubs. Custom vanity designs with ample storage, dual sinks, heated flooring, and layered lighting schemes are also frequently included. AKN Design Group approaches each project as a customized renovation, ensuring that every feature enhances both the functionality and the serene ambiance of your new bathroom.",
+        "@type": "Answer",
+        "description": "Common features include walk-in showers, freestanding tubs, custom vanities, heated flooring, and layered lighting, all tailored to create a serene and functional space."
+      }
+    }
+  ],
+  "description": "Common features include walk-in showers, freestanding tubs, custom vanities, heated flooring, and layered lighting, all tailored to create a serene and function"
+}

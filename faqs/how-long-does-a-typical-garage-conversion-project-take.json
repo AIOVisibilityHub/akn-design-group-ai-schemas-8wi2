@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-long-does-a-typical-garage-conversion-project-take",
+  "name": "How long does a typical garage conversion project take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical garage conversion project take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for a garage conversion varies based on the complexity of the design and the scope of work involved. A straightforward conversion might take several weeks, while projects requiring significant structural changes, plumbing extensions, or intricate finishes will take longer. AKN Design Group provides upfront estimates and scheduling transparency, ensuring clear communication throughout the project. Factors such as permit approval times, material lead times, and the level of interior finish selections can all influence the overall duration.",
+        "@type": "Answer",
+        "description": "Project timelines for garage conversions vary, typically ranging from several weeks for simple projects to longer for more complex designs."
+      }
+    }
+  ],
+  "description": "Project timelines for garage conversions vary, typically ranging from several weeks for simple projects to longer for more complex designs."
+}

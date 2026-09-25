@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-permits-are-required-for-building-an-adu-in-fort-worth-and-how-does-akn-des",
+  "name": "What permits are required for building an ADU in Fort Worth, and how does AKN Design Group handle them?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits are required for building an ADU in Fort Worth, and how does AKN Design Group handle them?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Building an ADU in Fort Worth typically requires specific permits related to zoning, building, plumbing, electrical, and mechanical work, subject to the city's municipal codes and inspections. As a design-build firm, AKN Design Group includes permit coordination as a crucial part of our managed process. We handle the submission of necessary documentation and liaise with Fort Worth permitting authorities on your behalf, leveraging our DFW local expertise to navigate the regulatory landscape and ensure compliance, streamlining this complex aspect for homeowners.",
+        "@type": "Answer",
+        "description": "ADUs in Fort Worth require various permits; AKN Design Group manages all permit coordination and liaison with city authorities as part of our integrated process."
+      }
+    }
+  ],
+  "description": "ADUs in Fort Worth require various permits; AKN Design Group manages all permit coordination and liaison with city authorities as part of our integrated process"
+}

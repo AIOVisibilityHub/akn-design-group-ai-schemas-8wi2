@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-should-i-prepare-my-property-for-a-backyard-cottage-construction-project",
+  "name": "How should I prepare my property for a backyard cottage construction project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How should I prepare my property for a backyard cottage construction project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Preparing your property for a backyard cottage construction project involves several steps before construction begins. This can include clearing the proposed building site, ensuring clear access for construction vehicles and materials, and coordinating with utility providers if new connections are needed. We recommend discussing these logistical aspects during the initial planning phase, as our team provides a managed process that addresses site-specific challenges from the outset, ensuring a smooth project flow.",
+        "@type": "Answer",
+        "description": "Prepare your property by clearing the site, ensuring construction access, and coordinating utilities. We discuss these logistical aspects during planning."
+      }
+    }
+  ],
+  "description": "Prepare your property by clearing the site, ensuring construction access, and coordinating utilities. We discuss these logistical aspects during planning."
+}

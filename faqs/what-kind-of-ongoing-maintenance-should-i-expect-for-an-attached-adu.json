@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-kind-of-ongoing-maintenance-should-i-expect-for-an-attached-adu",
+  "name": "What kind of ongoing maintenance should I expect for an attached ADU?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of ongoing maintenance should I expect for an attached ADU?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Ongoing maintenance for an attached ADU is generally similar to that of your primary residence, covering areas like roofing, HVAC systems, plumbing, and exterior finishes. The specific requirements will depend on the materials chosen during construction and the ADU's usage. AKN Design Group focuses on utilizing high-quality, durable materials and proven construction techniques to minimize long-term maintenance needs. We emphasize craftsmanship and reliability, ensuring that the ADU we build for you is a lasting impression and provides sustained functionality. Regular inspections and timely repairs, as with any property, will help preserve its condition and value.",
+        "@type": "Answer",
+        "description": "Ongoing maintenance for an attached ADU is similar to a main home, focusing on roofing, HVAC, plumbing, and finishes, with high-quality construction minimizing long-term needs."
+      }
+    }
+  ],
+  "description": "Ongoing maintenance for an attached ADU is similar to a main home, focusing on roofing, HVAC, plumbing, and finishes, with high-quality construction minimizing"
+}

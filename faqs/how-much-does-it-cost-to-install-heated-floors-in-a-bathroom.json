@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-much-does-it-cost-to-install-heated-floors-in-a-bathroom",
+  "name": "How much does it cost to install heated floors in a bathroom?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to install heated floors in a bathroom?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of installing heated floors in a bathroom varies based on factors such as the system type (electric vs. hydronic), the size of the area, and the complexity of the installation. Electric systems, typically chosen for bathrooms, involve material costs for the heating elements and the labor for installation, which can be more involved than standard flooring. While we focus on value, not just cost, clients should recognize this is an investment in enhanced comfort and luxury. AKN Design Group provides upfront estimates as part of our clear communication, ensuring transparency in this process for your customized renovation.",
+        "@type": "Answer",
+        "description": "Cost varies by system type, area size, and installation complexity. Electric systems for bathrooms involve material and labor costs. We provide upfront estimates for transparency."
+      }
+    }
+  ],
+  "description": "Cost varies by system type, area size, and installation complexity. Electric systems for bathrooms involve material and labor costs. We provide upfront estimate"
+}

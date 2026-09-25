@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-a-granny-flat-and-how-does-it-differ-from-other-home-additions",
+  "name": "What is a granny flat and how does it differ from other home additions?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a granny flat and how does it differ from other home additions?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A granny flat, often referred to as an Accessory Dwelling Unit (ADU) or a secondary dwelling, is a self-contained living space built on the same property as a primary home. Unlike a standard room addition, a granny flat typically includes its own kitchen, bathroom, and living area, functioning as a complete independent residence. AKN Design Group focuses on integrating these additions seamlessly with your existing property, enhancing both functionality and value.",
+        "@type": "Answer",
+        "description": "A granny flat is a self-contained living space on your property, distinct from a standard room addition by including its own kitchen and bathroom."
+      }
+    }
+  ],
+  "description": "A granny flat is a self-contained living space on your property, distinct from a standard room addition by including its own kitchen and bathroom."
+}

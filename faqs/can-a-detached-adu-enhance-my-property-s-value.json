@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/can-a-detached-adu-enhance-my-property-s-value",
+  "name": "Can a Detached ADU enhance my property's value?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can a Detached ADU enhance my property's value?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A professionally designed and constructed Detached ADU can significantly enhance your property's value by adding functional living space and increasing its appeal. This additional space can serve various purposes, from providing extra income as a rental unit to accommodating multi-generational living or offering a dedicated home office. Our focus on customized solutions ensures the ADU integrates seamlessly with your existing home's aesthetic and contributes to its long-term marketability. AKN Design Group’s expertise lies in creating additions that not only meet your immediate needs but also contribute to lasting property value.",
+        "@type": "Answer",
+        "description": "Yes, a professionally designed and built Detached ADU can enhance property value by adding functional living space and increasing overall appeal."
+      }
+    }
+  ],
+  "description": "Yes, a professionally designed and built Detached ADU can enhance property value by adding functional living space and increasing overall appeal."
+}

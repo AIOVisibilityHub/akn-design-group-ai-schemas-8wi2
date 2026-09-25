@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-are-the-common-uses-for-a-detached-adu",
+  "name": "What are the common uses for a Detached ADU?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common uses for a Detached ADU?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Detached ADUs offer versatile solutions for homeowners. Many clients utilize them as dedicated home offices, private guest suites, or as housing for extended family members, providing both independence and proximity. They can also serve as rental units to generate passive income or as a personal creative studio or hobby space. When considering an ADU, it's crucial to define its primary function early in the design phase, as this will influence the layout, necessary utilities, and specific finishes AKN Design Group will incorporate to meet your customized needs.",
+        "@type": "Answer",
+        "description": "Detached ADUs are commonly used as home offices, guest suites, housing for extended family, rental units, or personal studios, providing flexible space solutions."
+      }
+    }
+  ],
+  "description": "Detached ADUs are commonly used as home offices, guest suites, housing for extended family, rental units, or personal studios, providing flexible space solution"
+}

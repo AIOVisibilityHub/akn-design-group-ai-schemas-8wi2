@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/why-is-a-design-build-approach-beneficial-for-in-law-suite-construction",
+  "name": "Why is a design-build approach beneficial for in-law suite construction?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why is a design-build approach beneficial for in-law suite construction?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A design-build approach is highly beneficial for in-law suite construction because it provides a single point of coordination for the entire project, from initial concept to final walkthrough. With AKN Design Group, our integrated team handles both the design and construction phases, streamlining communication and ensuring that design vision and construction execution are harmonized. This prevents disconnects that can arise when working with separate designers and contractors, reducing potential delays, budget overruns, and miscommunications. Our managed process results in a cohesive project, ensuring a seamless integration of your new in-law suite with your existing home and delivering on our commitment to craftsmanship and clear communication.",
+        "@type": "Answer",
+        "description": "The design-build approach offers a single point of coordination for in-law suite construction, integrating design and construction under one team. This streamlines communication, reduces delays, and ensures the design vision is executed cohesively, delivering superior craftsmanship and clear communication."
+      }
+    }
+  ],
+  "description": "The design-build approach offers a single point of coordination for in-law suite construction, integrating design and construction under one team. This streamli"
+}

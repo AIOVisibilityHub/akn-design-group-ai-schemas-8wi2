@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-the-typical-cost-range-for-a-sanctuary-style-bathroom-remodel",
+  "name": "What is the typical cost range for a sanctuary-style bathroom remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost range for a sanctuary-style bathroom remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a sanctuary-style bathroom remodel can vary widely based on the size of the space, the complexity of the design, and the selection of fixtures and finishes. Projects involving significant layout changes, high-end materials, and advanced features will naturally incur higher costs. We provide upfront estimates and engage in value engineering to align your vision with your investment, ensuring a high-value renovation that meets our rigorous standards for craftsmanship and quality.",
+        "@type": "Answer",
+        "description": "Costs for a sanctuary bathroom remodel vary based on size, design complexity, and material choices; we provide upfront estimates and value engineering."
+      }
+    }
+  ],
+  "description": "Costs for a sanctuary bathroom remodel vary based on size, design complexity, and material choices; we provide upfront estimates and value engineering."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-are-the-benefits-of-a-detached-guest-house-versus-an-attached-addition-for",
+  "name": "What are the benefits of a detached guest house versus an attached addition for rental income?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the benefits of a detached guest house versus an attached addition for rental income?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For rental income, a detached guest house generally offers superior benefits compared to an attached addition due to enhanced privacy and independent access. Tenants often prefer the autonomy of a separate living space, which can command higher rental rates and attract a broader pool of prospective renters. A detached unit also minimizes disturbances to your primary residence and can simplify utility metering. While an attached addition might be more cost-effective initially, a detached guest house often provides a better return on investment and greater long-term flexibility as a dedicated income-generating asset.",
+        "@type": "Answer",
+        "description": "A detached guest house typically offers more privacy and independent access, which can lead to higher rental income and better tenant attraction than an attached addition."
+      }
+    }
+  ],
+  "description": "A detached guest house typically offers more privacy and independent access, which can lead to higher rental income and better tenant attraction than an attache"
+}

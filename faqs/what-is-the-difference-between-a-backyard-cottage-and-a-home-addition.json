@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-the-difference-between-a-backyard-cottage-and-a-home-addition",
+  "name": "What is the difference between a backyard cottage and a home addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a backyard cottage and a home addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The primary difference between a backyard cottage and a home addition lies in their connection to the main structure. A backyard cottage is a detached, separate building on your property, offering independent living space. A home addition, by contrast, physically expands the existing footprint of your primary residence. Both provide additional space, but a backyard cottage offers more privacy and autonomy, which can be a key decision factor for clients seeking distinct living arrangements or rental income.",
+        "@type": "Answer",
+        "description": "A backyard cottage is a detached structure, while a home addition expands the main house. The cottage offers more privacy and autonomy."
+      }
+    }
+  ],
+  "description": "A backyard cottage is a detached structure, while a home addition expands the main house. The cottage offers more privacy and autonomy."
+}

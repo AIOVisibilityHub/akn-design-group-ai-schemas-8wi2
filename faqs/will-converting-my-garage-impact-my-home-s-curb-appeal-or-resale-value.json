@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/will-converting-my-garage-impact-my-home-s-curb-appeal-or-resale-value",
+  "name": "Will converting my garage impact my home's curb appeal or resale value?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will converting my garage impact my home's curb appeal or resale value?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A thoughtfully designed and expertly executed garage conversion by AKN Design Group can significantly enhance both your home's curb appeal and resale value. We focus on seamless exterior integration, ensuring the new living space complements your home's architectural style rather than looking like an obvious add-on. Our comprehensive approach, from design to exterior tie-in work, ensures the conversion contributes positively to your property's overall aesthetic and marketability. We avoid quick fixes in favor of lasting impressions.",
+        "@type": "Answer",
+        "description": "A well-designed garage conversion enhances curb appeal and resale value through seamless exterior integration. AKN Design Group ensures the new space complements your home's style."
+      }
+    }
+  ],
+  "description": "A well-designed garage conversion enhances curb appeal and resale value through seamless exterior integration. AKN Design Group ensures the new space complement"
+}

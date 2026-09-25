@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-does-building-a-guest-house-compare-to-a-home-addition",
+  "name": "How does building a guest house compare to a home addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does building a guest house compare to a home addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While both guest houses and home additions provide additional space, they serve different purposes and involve distinct construction approaches. A home addition physically extends your existing structure, integrating new square footage directly into the main home. A guest house, as a separate structure, offers greater privacy and flexibility, often functioning as a rental unit, home office, or multi-generational living space. The choice between them often depends on your specific needs for privacy, property layout, and long-term utility, with a guest house offering distinct advantages for independent living. Both require careful planning for structural integration and utility extensions.",
+        "@type": "Answer",
+        "description": "A guest house is a separate structure offering privacy and flexibility, while a home addition extends your existing home. The best choice depends on your needs for independence and property layout."
+      }
+    }
+  ],
+  "description": "A guest house is a separate structure offering privacy and flexibility, while a home addition extends your existing home. The best choice depends on your needs"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/can-body-spray-systems-be-added-to-an-existing-shower-or-do-i-need-a-full-renova",
+  "name": "Can body spray systems be added to an existing shower, or do I need a full renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can body spray systems be added to an existing shower, or do I need a full renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Adding body spray systems to an existing shower often requires opening up the shower walls to modify plumbing and ensure proper support, making it a more involved process than a simple fixture swap. While not always requiring a full renovation of the entire bathroom, it typically necessitates significant work within the shower enclosure. A key practical tradeoff is determining if the scope of work for integrating these systems justifies undertaking a broader bathroom remodel to achieve a more cohesive and comprehensive update. AKN Design Group can assess your current shower's structure and plumbing to advise on the most effective and aesthetically pleasing approach, prioritizing a coordinated transformation.",
+        "@type": "Answer",
+        "description": "Adding body spray systems to an existing shower usually requires significant plumbing modifications within the walls. A practical tradeoff is evaluating if this work justifies a broader bathroom remodel for a cohesive update. AKN Design Group can assess your specific situation."
+      }
+    }
+  ],
+  "description": "Adding body spray systems to an existing shower usually requires significant plumbing modifications within the walls. A practical tradeoff is evaluating if this"
+}

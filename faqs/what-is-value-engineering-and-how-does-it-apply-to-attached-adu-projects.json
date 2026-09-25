@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-value-engineering-and-how-does-it-apply-to-attached-adu-projects",
+  "name": "What is value engineering, and how does it apply to attached ADU projects?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is value engineering, and how does it apply to attached ADU projects?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Value engineering in an attached ADU project is a systematic approach to optimizing the project's overall value by carefully analyzing costs versus benefits, without compromising quality or design intent. It involves exploring alternative materials, construction methods, or design choices that can achieve the desired outcome more efficiently or cost-effectively. AKN Design Group incorporates value engineering during the design phase to ensure that your investment is maximized, providing customized solutions that enhance functionality and beauty within your budget. This managed process ensures transparency and helps homeowners make informed decisions about their significant residential remodeling investment.",
+        "@type": "Answer",
+        "description": "Value engineering optimizes attached ADU project value by analyzing costs versus benefits, suggesting efficient alternatives without compromising quality or design."
+      }
+    }
+  ],
+  "description": "Value engineering optimizes attached ADU project value by analyzing costs versus benefits, suggesting efficient alternatives without compromising quality or des"
+}

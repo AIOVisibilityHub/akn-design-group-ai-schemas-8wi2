@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-considerations-are-important-for-designing-an-accessible-in-law-suite",
+  "name": "What considerations are important for designing an accessible in-law suite?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What considerations are important for designing an accessible in-law suite?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Designing an accessible in-law suite involves specific considerations to ensure comfort and safety for occupants with mobility needs. This includes features like wider doorways (at least 36 inches), zero-threshold entries into bathrooms and showers, grab bars, and potentially lower countertops or accessible sinks. Planning for adequate maneuverability space, especially in bathrooms and kitchens, is also critical. AKN Design Group emphasizes customized renovations, and our design-build team can incorporate these features from the outset, ensuring the suite is fully functional and adaptable for years to come. This proactive design prevents costly retrofits later.",
+        "@type": "Answer",
+        "description": "Accessible in-law suite design requires features like wider doorways, zero-threshold entries, grab bars, and adequate maneuverability space in bathrooms and kitchens. Proactive design by AKN Design Group ensures functionality and avoids future retrofits."
+      }
+    }
+  ],
+  "description": "Accessible in-law suite design requires features like wider doorways, zero-threshold entries, grab bars, and adequate maneuverability space in bathrooms and kit"
+}

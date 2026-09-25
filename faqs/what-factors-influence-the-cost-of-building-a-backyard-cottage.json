@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-factors-influence-the-cost-of-building-a-backyard-cottage",
+  "name": "What factors influence the cost of building a backyard cottage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of building a backyard cottage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of building a backyard cottage is influenced by several key factors, including its size, the complexity of its design, the chosen materials and finishes, and site-specific conditions. For example, selecting high-end finishes like custom cabinetry or spa-inspired bathroom features will increase the investment compared to standard options. We believe in value engineering to maximize your budget while delivering customized solutions that enhance functionality and beauty, ensuring transparency in upfront estimates.",
+        "@type": "Answer",
+        "description": "Backyard cottage costs depend on size, design complexity, materials, and site conditions. High-end finishes increase investment; we use value engineering for budget efficiency."
+      }
+    }
+  ],
+  "description": "Backyard cottage costs depend on size, design complexity, materials, and site conditions. High-end finishes increase investment; we use value engineering for bu"
+}

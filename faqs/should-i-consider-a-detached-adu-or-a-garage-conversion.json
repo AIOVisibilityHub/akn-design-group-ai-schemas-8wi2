@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/should-i-consider-a-detached-adu-or-a-garage-conversion",
+  "name": "Should I consider a detached ADU or a garage conversion?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I consider a detached ADU or a garage conversion?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The choice between a detached ADU and a garage conversion depends on your property's layout, existing structures, and intended use for the new space. A detached ADU offers maximum privacy and design flexibility, while a garage conversion can be more cost-effective by utilizing an existing foundation and structure. We assess your site and discuss your vision to determine the most functional and valuable solution that enhances your property.",
+        "@type": "Answer",
+        "description": "Choose between a detached ADU for maximum privacy and flexibility, or a garage conversion for potential cost savings and existing structure use."
+      }
+    }
+  ],
+  "description": "Choose between a detached ADU for maximum privacy and flexibility, or a garage conversion for potential cost savings and existing structure use."
+}

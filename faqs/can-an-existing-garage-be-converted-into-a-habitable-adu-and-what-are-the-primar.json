@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/can-an-existing-garage-be-converted-into-a-habitable-adu-and-what-are-the-primar",
+  "name": "Can an existing garage be converted into a habitable ADU, and what are the primary considerations?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can an existing garage be converted into a habitable ADU, and what are the primary considerations?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Converting an existing garage into a habitable ADU is a popular option for homeowners seeking to add living space without expanding their building footprint. Key considerations include ensuring the structure meets residential building codes, insulating walls and ceilings, extending HVAC and utility lines, and adding plumbing for bathrooms and kitchens. This type of project also often requires foundation improvements and new window/door openings. Our expertise allows us to assess the structural integrity and feasibility of such conversions, enhancing functionality, beauty, and value for your property.",
+        "@type": "Answer",
+        "description": "Yes, garages can be converted into ADUs, but it requires structural, utility, insulation, and permitting upgrades to meet residential building codes."
+      }
+    }
+  ],
+  "description": "Yes, garages can be converted into ADUs, but it requires structural, utility, insulation, and permitting upgrades to meet residential building codes."
+}

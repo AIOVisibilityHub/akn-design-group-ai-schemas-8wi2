@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-does-building-an-adu-impact-property-taxes-and-insurance",
+  "name": "How does building an ADU impact property taxes and insurance?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does building an ADU impact property taxes and insurance?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Building an ADU will generally increase your property's assessed value, which can lead to higher property taxes. It's essential to understand that this added value often contributes to long-term equity and potential rental income. Additionally, you will need to update your homeowner's insurance policy to cover the new structure and any potential liabilities if you plan to rent it out. We recommend consulting with local tax assessors and insurance providers early in your planning to understand these financial implications.",
+        "@type": "Answer",
+        "description": "An ADU can increase property value, which may result in higher property taxes, and requires updates to your homeowner's insurance policy."
+      }
+    }
+  ],
+  "description": "An ADU can increase property value, which may result in higher property taxes, and requires updates to your homeowner's insurance policy."
+}

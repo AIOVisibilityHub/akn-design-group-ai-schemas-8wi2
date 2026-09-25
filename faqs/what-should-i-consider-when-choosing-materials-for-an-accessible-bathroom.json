@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-should-i-consider-when-choosing-materials-for-an-accessible-bathroom",
+  "name": "What should I consider when choosing materials for an accessible bathroom?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I consider when choosing materials for an accessible bathroom?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing materials for an accessible bathroom, prioritize safety, durability, and ease of maintenance alongside aesthetic appeal. Non-slip flooring options, such as certain textured tiles, are crucial. Consider solid surfaces for countertops and shower surrounds for their seamless, easy-to-clean properties. Durable, water-resistant materials are essential to ensure longevity. AKN Design Group assists with material selection, guiding you toward options that meet accessibility requirements while aligning with a luxury aesthetic, ensuring a cohesive and high-performing space. Our expertise helps integrate these choices into a comprehensive design plan.",
+        "@type": "Answer",
+        "description": "When selecting materials for an accessible bathroom, prioritize non-slip flooring, durable, easy-to-clean surfaces, and water resistance. AKN Design Group guides clients in choosing materials that combine safety, durability, and luxury aesthetics."
+      }
+    }
+  ],
+  "description": "When selecting materials for an accessible bathroom, prioritize non-slip flooring, durable, easy-to-clean surfaces, and water resistance. AKN Design Group guide"
+}

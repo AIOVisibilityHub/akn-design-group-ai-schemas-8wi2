@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-long-does-it-typically-take-to-complete-a-detached-adu-project",
+  "name": "How long does it typically take to complete a Detached ADU project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it typically take to complete a Detached ADU project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for a Detached ADU project can vary significantly based on factors like design complexity, permitting requirements, and material selections. Generally, the entire process, from initial design to final construction, can span several months. The permitting phase, in particular, often has variable durations depending on local municipal regulations in the Dallas–Fort Worth metroplex. AKN Design Group emphasizes transparent scheduling and clear communication from the outset, providing homeowners with realistic expectations and managing the project efficiently to minimize disruptions and ensure timely completion.",
+        "@type": "Answer",
+        "description": "Project timelines vary based on design, permitting, and materials, typically spanning several months, with permitting being a significant variable in the Dallas–Fort Worth metroplex."
+      }
+    }
+  ],
+  "description": "Project timelines vary based on design, permitting, and materials, typically spanning several months, with permitting being a significant variable in the Dallas"
+}

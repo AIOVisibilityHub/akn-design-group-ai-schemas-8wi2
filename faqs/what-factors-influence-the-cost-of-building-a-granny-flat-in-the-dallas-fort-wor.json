@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-factors-influence-the-cost-of-building-a-granny-flat-in-the-dallas-fort-wor",
+  "name": "What factors influence the cost of building a granny flat in the Dallas–Fort Worth metroplex?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of building a granny flat in the Dallas–Fort Worth metroplex?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of constructing a granny flat in the Dallas–Fort Worth metroplex is influenced by several factors, including its size, the complexity of the design, chosen materials, and site-specific conditions. For instance, foundation work on uneven terrain or the need for extensive utility extensions can impact the overall investment. AKN Design Group provides upfront estimates and engages in value engineering to align your vision with practical budget considerations.",
+        "@type": "Answer",
+        "description": "Granny flat costs vary based on size, design complexity, materials, and site conditions in the Dallas–Fort Worth metroplex, with potential impacts from foundation and utility work."
+      }
+    }
+  ],
+  "description": "Granny flat costs vary based on size, design complexity, materials, and site conditions in the Dallas–Fort Worth metroplex, with potential impacts from foundati"
+}

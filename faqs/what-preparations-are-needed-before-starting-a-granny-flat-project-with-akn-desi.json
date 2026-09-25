@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-preparations-are-needed-before-starting-a-granny-flat-project-with-akn-desi",
+  "name": "What preparations are needed before starting a granny flat project with AKN Design Group?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What preparations are needed before starting a granny flat project with AKN Design Group?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before commencing a granny flat project, homeowners should consider their specific needs for the space, including its intended use and desired amenities. Gathering any existing property surveys, understanding local zoning considerations, and having a clear vision for the aesthetic and functional requirements are helpful first steps. AKN Design Group will guide you through the detailed planning stages to ensure a customized renovation.",
+        "@type": "Answer",
+        "description": "Before starting, consider the granny flat's intended use and desired amenities, and gather property surveys to help AKN Design Group with detailed planning."
+      }
+    }
+  ],
+  "description": "Before starting, consider the granny flat's intended use and desired amenities, and gather property surveys to help AKN Design Group with detailed planning."
+}

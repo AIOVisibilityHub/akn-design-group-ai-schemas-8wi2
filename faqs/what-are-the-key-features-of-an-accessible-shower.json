@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-are-the-key-features-of-an-accessible-shower",
+  "name": "What are the key features of an accessible shower?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the key features of an accessible shower?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Key features of an accessible shower often include a zero-threshold or roll-in entry to eliminate steps, a spacious layout for maneuverability, and secure grab bars strategically placed. Other enhancements can include a built-in or fold-down bench, handheld showerheads, and easy-to-operate controls. AKN Design Group specializes in designing spa-inspired bathrooms that incorporate these elements without compromising on luxury or style. Our integrated design-build process ensures these customized solutions are functional, beautiful, and seamlessly integrated into your home.",
+        "@type": "Answer",
+        "description": "An accessible shower typically features zero-threshold entry, ample space, and grab bars. AKN Design Group integrates these elements into luxurious, functional designs."
+      }
+    }
+  ],
+  "description": "An accessible shower typically features zero-threshold entry, ample space, and grab bars. AKN Design Group integrates these elements into luxurious, functional"
+}

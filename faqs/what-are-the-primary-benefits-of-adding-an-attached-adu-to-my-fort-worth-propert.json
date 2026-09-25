@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-are-the-primary-benefits-of-adding-an-attached-adu-to-my-fort-worth-propert",
+  "name": "What are the primary benefits of adding an attached ADU to my Fort Worth property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the primary benefits of adding an attached ADU to my Fort Worth property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Adding an attached ADU can significantly enhance your property's functionality and long-term value, particularly in the Dallas–Fort Worth metroplex. Homeowners often pursue ADUs for increased living space, whether for aging parents, adult children, or as a dedicated home office or rental unit. This provides flexibility and potential passive income without the need to relocate. For Fort Worth homeowners, understanding local zoning and building codes is a critical early step. AKN Design Group manages the permit coordination process, ensuring your ADU design not only meets your needs but also complies with all local regulations from concept to completion.",
+        "@type": "Answer",
+        "description": "Attached ADUs offer increased living space, potential rental income, and enhanced property value, with local Fort Worth regulations being a key consideration during planning."
+      }
+    }
+  ],
+  "description": "Attached ADUs offer increased living space, potential rental income, and enhanced property value, with local Fort Worth regulations being a key consideration du"
+}

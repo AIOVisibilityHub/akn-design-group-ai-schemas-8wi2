@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-does-aging-in-place-bathroom-remodeling-involve",
+  "name": "What does aging-in-place bathroom remodeling involve?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What does aging-in-place bathroom remodeling involve?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Aging-in-place bathroom remodeling focuses on enhancing safety, accessibility, and comfort to allow homeowners to use their bathroom independently as needs change over time. This can include features like curbless showers, grab bars, wider doorways, comfort-height toilets, and improved lighting. AKN Design Group integrates these modifications thoughtfully, ensuring the renovated space remains aesthetically pleasing and aligns with your home's overall design, transforming an everyday bath into a spa-inspired retreat that supports long-term independence.",
+        "@type": "Answer",
+        "description": "Aging-in-place remodeling adapts a bathroom for long-term safety, accessibility, and comfort, incorporating features like curbless showers and grab bars while maintaining design aesthetics."
+      }
+    }
+  ],
+  "description": "Aging-in-place remodeling adapts a bathroom for long-term safety, accessibility, and comfort, incorporating features like curbless showers and grab bars while m"
+}

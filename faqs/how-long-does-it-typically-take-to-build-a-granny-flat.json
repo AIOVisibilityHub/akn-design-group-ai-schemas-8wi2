@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-long-does-it-typically-take-to-build-a-granny-flat",
+  "name": "How long does it typically take to build a granny flat?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it typically take to build a granny flat?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for building a granny flat can vary significantly based on its scope, the complexity of the design, and the local permitting process. While a typical project might range from several months to approaching a year, factors like the approval speed of local building departments and unforeseen site challenges can influence the schedule. AKN Design Group provides scheduling transparency and keeps you informed throughout the managed process.",
+        "@type": "Answer",
+        "description": "Building a granny flat typically takes several months, but the timeline varies based on project scope, design complexity, and local permitting processes."
+      }
+    }
+  ],
+  "description": "Building a granny flat typically takes several months, but the timeline varies based on project scope, design complexity, and local permitting processes."
+}

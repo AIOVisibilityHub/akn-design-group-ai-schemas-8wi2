@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-does-the-design-build-process-work-for-constructing-an-adu-with-akn-design-g",
+  "name": "How does the design-build process work for constructing an ADU with AKN Design Group?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does the design-build process work for constructing an ADU with AKN Design Group?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our integrated design-build process for ADUs provides a single point of coordination, beginning with an in-depth consultation to understand your vision and property. We develop CAD-supported layouts and detailed plans that account for structural integration, interior finishes, and exterior tie-in work, ensuring a seamless addition that visually integrates with your original home. Following design approval, we handle all permitting coordination and construction management through to the final walkthrough, delivering a cohesive project with clear communication throughout.",
+        "@type": "Answer",
+        "description": "Our design-build process for ADUs manages everything from initial design and permitting to construction and final walkthrough, providing a single point of coordination."
+      }
+    }
+  ],
+  "description": "Our design-build process for ADUs manages everything from initial design and permitting to construction and final walkthrough, providing a single point of coord"
+}

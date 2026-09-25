@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-does-the-design-build-process-for-a-backyard-cottage-work-with-akn-design-gr",
+  "name": "How does the design-build process for a backyard cottage work with AKN Design Group?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does the design-build process for a backyard cottage work with AKN Design Group?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our integrated design-build process for a backyard cottage begins with a comprehensive consultation to understand your vision and specific needs. We then move into detailed design planning, often utilizing CAD-supported layouts to visualize the structure and its integration with your property. Following design approval, we coordinate all necessary permitting and manage the entire construction process, from foundation to final walkthrough. This single point of coordination ensures a managed process and consistent craftsmanship.",
+        "@type": "Answer",
+        "description": "Our design-build process for a backyard cottage involves consultation, CAD-supported design, permit coordination, and full construction management, providing a single point of coordination."
+      }
+    }
+  ],
+  "description": "Our design-build process for a backyard cottage involves consultation, CAD-supported design, permit coordination, and full construction management, providing a"
+}

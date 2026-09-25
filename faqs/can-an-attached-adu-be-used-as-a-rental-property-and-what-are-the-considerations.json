@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/can-an-attached-adu-be-used-as-a-rental-property-and-what-are-the-considerations",
+  "name": "Can an attached ADU be used as a rental property, and what are the considerations?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can an attached ADU be used as a rental property, and what are the considerations?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, an attached ADU can often be used as a rental property, providing a significant source of passive income and enhancing the long-term value of your home. However, specific regulations regarding rental use can vary by city and homeowners' association. For properties in areas like Fort Worth, understanding these local ordinances is crucial. AKN Design Group focuses on designing and constructing ADUs that are not only functional and aesthetically integrated but also comply with all applicable local zoning and building codes. We assist with permit coordination, ensuring your investment is viable and compliant for rental purposes.",
+        "@type": "Answer",
+        "description": "Attached ADUs can serve as rental properties, offering income and value, but compliance with local zoning and rental regulations in areas like Fort Worth is essential."
+      }
+    }
+  ],
+  "description": "Attached ADUs can serve as rental properties, offering income and value, but compliance with local zoning and rental regulations in areas like Fort Worth is ess"
+}

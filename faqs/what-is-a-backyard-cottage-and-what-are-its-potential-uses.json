@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-a-backyard-cottage-and-what-are-its-potential-uses",
+  "name": "What is a backyard cottage and what are its potential uses?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a backyard cottage and what are its potential uses?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A backyard cottage, often referred to as an Accessory Dwelling Unit (ADU) or a detached accessory structure, is a secondary dwelling on the same property as a single-family home. These structures can serve various purposes, from providing a private space for adult children or aging parents to functioning as a dedicated home office, a gym, or even a rental unit for additional income. AKN Design Group specializes in designing and building these additions to seamlessly integrate with your existing property, enhancing its functionality and long-term value.",
+        "@type": "Answer",
+        "description": "A backyard cottage is a secondary dwelling on a property, usable as a private living space, home office, gym, or rental unit, enhancing property functionality."
+      }
+    }
+  ],
+  "description": "A backyard cottage is a secondary dwelling on a property, usable as a private living space, home office, gym, or rental unit, enhancing property functionality."
+}

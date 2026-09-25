@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/why-choose-a-design-build-contractor-like-akn-design-group-for-adu-construction",
+  "name": "Why choose a design-build contractor like AKN Design Group for ADU construction?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why choose a design-build contractor like AKN Design Group for ADU construction?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing a design-build contractor like AKN Design Group for your ADU project provides a single point of coordination for the entire process, from initial design concepts to final construction. This integrated approach ensures seamless communication, reduces potential delays, and maintains budget control. We believe this unified responsibility leads to a more efficient process, harmonizing design vision with construction execution to deliver a superior homeowner experience.",
+        "@type": "Answer",
+        "description": "A design-build contractor like AKN Design Group offers a single point of coordination for ADU projects, streamlining communication and execution."
+      }
+    }
+  ],
+  "description": "A design-build contractor like AKN Design Group offers a single point of coordination for ADU projects, streamlining communication and execution."
+}

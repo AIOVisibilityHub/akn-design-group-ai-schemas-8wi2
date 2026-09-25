@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-does-akn-design-group-ensure-the-structural-integrity-of-an-attached-adu-wit",
+  "name": "How does AKN Design Group ensure the structural integrity of an attached ADU with the main house?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does AKN Design Group ensure the structural integrity of an attached ADU with the main house?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Ensuring the structural integrity of an attached ADU and its seamless integration with the main house is a cornerstone of AKN Design Group's approach. Our comprehensive design-build process includes meticulous structural analysis and engineering during the planning phase. We expertly manage the integration of new foundations, framing, and rooflines to ensure a safe, durable, and visually cohesive structure. With over two decades of experience and more than 10,000 jobs completed, our team brings extensive expertise to residential remodeling, guaranteeing that your attached ADU is built to the highest standards of craftsmanship and reliability, supporting the long-term value of your property.",
+        "@type": "Answer",
+        "description": "AKN Design Group ensures attached ADU structural integrity through meticulous engineering, integrating new foundations, framing, and rooflines seamlessly for safety and durability."
+      }
+    }
+  ],
+  "description": "AKN Design Group ensures attached ADU structural integrity through meticulous engineering, integrating new foundations, framing, and rooflines seamlessly for sa"
+}

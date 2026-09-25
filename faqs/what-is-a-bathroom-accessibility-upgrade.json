@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-a-bathroom-accessibility-upgrade",
+  "name": "What is a bathroom accessibility upgrade?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a bathroom accessibility upgrade?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A bathroom accessibility upgrade involves modifying a bathroom to improve ease of use and safety for individuals with limited mobility or specific needs. This can include features like roll-in showers, grab bars, wider doorways, comfort-height toilets, and accessible vanity designs. AKN Design Group focuses on integrating these functional improvements seamlessly into a luxury bathroom design, ensuring the space is both practical and aesthetically pleasing. We prioritize a managed process from design to completion, harmonizing accessibility with the overall home aesthetic.",
+        "@type": "Answer",
+        "description": "A bathroom accessibility upgrade modifies the space for easier use and safety, incorporating features like roll-in showers, grab bars, and accessible vanities. AKN Design Group integrates these functional improvements into luxury designs."
+      }
+    }
+  ],
+  "description": "A bathroom accessibility upgrade modifies the space for easier use and safety, incorporating features like roll-in showers, grab bars, and accessible vanities."
+}

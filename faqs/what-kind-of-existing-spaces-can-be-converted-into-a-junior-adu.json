@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-kind-of-existing-spaces-can-be-converted-into-a-junior-adu",
+  "name": "What kind of existing spaces can be converted into a Junior ADU?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of existing spaces can be converted into a Junior ADU?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Junior ADUs are typically created from existing permitted spaces within a single-family residence. Common areas for conversion include attached garages, basements, or portions of the main dwelling that can be reconfigured. The suitability of a space depends on factors like its structural integrity, access to utilities, and potential for a separate entrance. AKN Design Group assesses these elements during the initial design phase to determine the most effective and compliant conversion approach for your property.",
+        "@type": "Answer",
+        "description": "Junior ADUs can be created from existing spaces like attached garages, basements, or reconfigured portions of the main house."
+      }
+    }
+  ],
+  "description": "Junior ADUs can be created from existing spaces like attached garages, basements, or reconfigured portions of the main house."
+}

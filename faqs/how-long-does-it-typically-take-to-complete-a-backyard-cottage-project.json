@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-long-does-it-typically-take-to-complete-a-backyard-cottage-project",
+  "name": "How long does it typically take to complete a backyard cottage project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it typically take to complete a backyard cottage project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for a backyard cottage project varies based on its size, design complexity, and the local permit approval process. A more intricate design or unique site conditions can extend the duration. Our managed process aims for efficiency, but we prioritize meticulous planning and craftsmanship over rushing. We provide scheduling transparency from the outset, outlining realistic milestones and completion estimates, ensuring clear communication throughout the project.",
+        "@type": "Answer",
+        "description": "Project timelines for backyard cottages vary by size, design complexity, and permit approvals. We prioritize meticulous planning and craftsmanship, offering transparent scheduling."
+      }
+    }
+  ],
+  "description": "Project timelines for backyard cottages vary by size, design complexity, and permit approvals. We prioritize meticulous planning and craftsmanship, offering tra"
+}

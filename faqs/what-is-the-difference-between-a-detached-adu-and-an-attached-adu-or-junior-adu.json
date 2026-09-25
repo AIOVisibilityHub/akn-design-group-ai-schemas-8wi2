@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-the-difference-between-a-detached-adu-and-an-attached-adu-or-junior-adu",
+  "name": "What is the difference between a detached ADU and an attached ADU or junior ADU?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a detached ADU and an attached ADU or junior ADU?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A detached ADU is a completely separate structure from the main house, offering maximum privacy and often more design flexibility. An attached ADU, conversely, is an addition to the main residence, sharing at least one wall. A Junior ADU (JADU) is typically a conversion of an existing room within the primary home, limited in size and often sharing facilities like a bathroom with the main house. AKN Design Group specializes in substantial renovations and additions, including detached ADUs, which provide comprehensive, self-contained living solutions designed to enhance functionality, beauty, and long-term value.",
+        "@type": "Answer",
+        "description": "A detached ADU is a separate building, an attached ADU shares a wall with the main house, and a Junior ADU is an internal conversion."
+      }
+    }
+  ],
+  "description": "A detached ADU is a separate building, an attached ADU shares a wall with the main house, and a Junior ADU is an internal conversion."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-long-does-it-take-to-install-a-heated-towel-rack",
+  "name": "How long does it take to install a heated towel rack?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to install a heated towel rack?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The installation timeline for a heated towel rack depends on whether it's a standalone addition or part of a larger bathroom renovation. For a hardwired unit integrated into a comprehensive remodel, the installation steps are coordinated within the broader electrical and finishing phases. As part of AKN Design Group's managed process, we integrate such installations efficiently, minimizing disruption. While the physical installation itself might take a few hours, the overall project timeline accounts for planning, electrical work, and finishing touches to ensure a flawless result. We provide clear scheduling transparency throughout your project.",
+        "@type": "Answer",
+        "description": "Installation time depends on whether it's a standalone or part of a larger remodel. Hardwired units are integrated into broader electrical and finishing phases within our managed process, ensuring efficient coordination."
+      }
+    }
+  ],
+  "description": "Installation time depends on whether it's a standalone or part of a larger remodel. Hardwired units are integrated into broader electrical and finishing phases"
+}

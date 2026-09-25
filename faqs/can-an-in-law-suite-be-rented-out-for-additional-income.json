@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/can-an-in-law-suite-be-rented-out-for-additional-income",
+  "name": "Can an in-law suite be rented out for additional income?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can an in-law suite be rented out for additional income?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether an in-law suite can be rented out for additional income depends heavily on local zoning ordinances and regulations in your specific Dallas–Fort Worth metroplex community. Some municipalities permit Accessory Dwelling Units (ADUs) to be rented, while others have restrictions regarding owner occupancy or rental periods. It's crucial to research the regulations applicable to your property before planning for rental income. AKN Design Group can help design your suite with future flexibility in mind, but we advise consulting with local authorities to understand all rental restrictions and permit requirements, as compliance is essential.",
+        "@type": "Answer",
+        "description": "Renting an in-law suite depends on local zoning ordinances in your Dallas–Fort Worth metroplex community. Some areas permit ADU rentals, while others have restrictions. Researching local regulations is crucial before planning for rental income."
+      }
+    }
+  ],
+  "description": "Renting an in-law suite depends on local zoning ordinances in your Dallas–Fort Worth metroplex community. Some areas permit ADU rentals, while others have restr"
+}

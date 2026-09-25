@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-factors-influence-the-cost-of-a-garage-to-home-office-conversion",
+  "name": "What factors influence the cost of a garage-to-home office conversion?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of a garage-to-home office conversion?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of converting a garage into a home office is influenced by several key factors. These include the size of the garage, the extent of structural modifications, the need for new utility connections (electrical, plumbing, HVAC), the quality of chosen finishes, and any custom design elements. AKN Design Group believes in clear communication; we provide upfront estimates and engage in value engineering discussions early in the process to align the scope with your investment expectations, without compromising craftsmanship or functionality.",
+        "@type": "Answer",
+        "description": "Cost factors include garage size, structural changes, utility needs, finish quality, and custom elements. AKN Design Group provides upfront estimates and uses value engineering to align with client budgets."
+      }
+    }
+  ],
+  "description": "Cost factors include garage size, structural changes, utility needs, finish quality, and custom elements. AKN Design Group provides upfront estimates and uses v"
+}

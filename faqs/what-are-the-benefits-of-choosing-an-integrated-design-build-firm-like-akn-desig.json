@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-are-the-benefits-of-choosing-an-integrated-design-build-firm-like-akn-desig",
+  "name": "What are the benefits of choosing an integrated design-build firm like AKN Design Group for granny flat construction?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the benefits of choosing an integrated design-build firm like AKN Design Group for granny flat construction?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing an integrated design-build firm like AKN Design Group for your granny flat construction offers the benefit of a single point of coordination for the entire project. This means the design and construction teams are unified from concept to completion, minimizing miscommunications and streamlining the process. Our approach ensures clear communication, a managed process, and reliable craftsmanship, leading to a more efficient and satisfying homeowner experience compared to managing separate designers and contractors.",
+        "@type": "Answer",
+        "description": "An integrated design-build firm like AKN Design Group provides a single point of coordination for granny flat construction, streamlining the process and ensuring clear communication and craftsmanship."
+      }
+    }
+  ],
+  "description": "An integrated design-build firm like AKN Design Group provides a single point of coordination for granny flat construction, streamlining the process and ensurin"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-the-typical-process-for-designing-and-building-a-luxury-wellness-bathroo",
+  "name": "What is the typical process for designing and building a luxury wellness bathroom with AKN Design Group?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for designing and building a luxury wellness bathroom with AKN Design Group?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our process for designing and building a luxury wellness bathroom begins with an in-depth consultation to understand your vision and specific needs. We then move into design planning, where our team creates CAD-supported layouts and helps with material selections, ensuring every detail aligns with your spa-inspired goals. Following design approval and permit coordination, our construction phase is managed with clear communication and scheduling transparency. We maintain a single point of coordination throughout, from demolition to final walkthrough, to deliver a cohesive, high-craftsmanship result.",
+        "@type": "Answer",
+        "description": "The process involves an initial consultation, CAD-supported design planning, permit coordination, and a managed construction phase, all under a single point of coordination to ensure a high-craftsmanship result."
+      }
+    }
+  ],
+  "description": "The process involves an initial consultation, CAD-supported design planning, permit coordination, and a managed construction phase, all under a single point of"
+}

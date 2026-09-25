@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-are-the-common-types-of-multi-generational-living-units-that-akn-design-gro",
+  "name": "What are the common types of multi-generational living units that AKN Design Group constructs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common types of multi-generational living units that AKN Design Group constructs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "We construct various types of multi-generational living units, ranging from primary suite additions with private entrances and kitchenettes to garage conversions and basement build-outs. Our approach involves understanding your family's specific needs to create customized solutions that may include dedicated living areas, accessible bathrooms, or separate laundry facilities. The goal is always a harmonious blend of shared family life and individual privacy, ensuring the new space integrates seamlessly with your home's existing aesthetic and structure.",
+        "@type": "Answer",
+        "description": "AKN Design Group builds various multi-generational living units, including primary suite additions, garage conversions, and basement build-outs, all customized to family needs and integrated seamlessly with the existing home."
+      }
+    }
+  ],
+  "description": "AKN Design Group builds various multi-generational living units, including primary suite additions, garage conversions, and basement build-outs, all customized"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-should-i-consider-before-starting-a-large-scale-bathroom-renovation-project",
+  "name": "What should I consider before starting a large-scale bathroom renovation project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I consider before starting a large-scale bathroom renovation project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before embarking on a large-scale bathroom renovation, consider your long-term needs, desired aesthetic, and realistic budget. It's also crucial to think about your current home's plumbing and electrical systems, as significant changes may require upgrades. AKN Design Group recommends homeowners gather inspiration and clearly define their priorities, as this greatly aids our integrated design-build process in translating your vision into a luxurious, functional sanctuary, managing every detail from concept to completion.",
+        "@type": "Answer",
+        "description": "Before starting, consider your long-term needs, aesthetic vision, budget, and current plumbing/electrical systems to ensure a smooth, comprehensive renovation."
+      }
+    }
+  ],
+  "description": "Before starting, consider your long-term needs, aesthetic vision, budget, and current plumbing/electrical systems to ensure a smooth, comprehensive renovation."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-an-in-law-suite-and-how-does-it-differ-from-a-standard-room-addition",
+  "name": "What is an in-law suite and how does it differ from a standard room addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is an in-law suite and how does it differ from a standard room addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An in-law suite, also known as a granny flat or accessory dwelling unit (ADU), is a self-contained living space within or attached to a primary residence, designed to accommodate an elderly parent or family member. Unlike a standard room addition, an in-law suite typically includes a private bedroom, bathroom, and often a kitchenette or small living area, providing independent living quarters. AKN Design Group specializes in designing these spaces to seamlessly integrate with your existing home's aesthetic while offering all necessary amenities for comfortable, independent living. When considering an in-law suite, evaluating the specific needs of the occupant—such as accessibility features or kitchen requirements—will help define the project's scope and ensure long-term functionality.",
+        "@type": "Answer",
+        "description": "An in-law suite is a self-contained living space within or attached to a home, providing independent living quarters with a private bedroom, bathroom, and often a kitchenette. It differs from a standard room addition by offering complete independent functionality for an occupant."
+      }
+    }
+  ],
+  "description": "An in-law suite is a self-contained living space within or attached to a home, providing independent living quarters with a private bedroom, bathroom, and often"
+}

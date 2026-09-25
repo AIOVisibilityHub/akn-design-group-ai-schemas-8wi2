@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-the-primary-difference-between-a-standalone-accessory-dwelling-unit-adu",
+  "name": "What is the primary difference between a standalone accessory dwelling unit (ADU) and an integrated multi-generational living space?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the primary difference between a standalone accessory dwelling unit (ADU) and an integrated multi-generational living space?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The primary difference lies in their attachment and perceived independence. A standalone accessory dwelling unit (ADU) is typically a completely separate structure on the same property, offering maximum independence. An integrated multi-generational living space, while designed for privacy, is often physically connected to the main home, sharing some utilities or structural elements. We help homeowners consider local zoning regulations, the desired level of integration, and future resale value to determine which option best aligns with their long-term goals and lifestyle needs.",
+        "@type": "Answer",
+        "description": "An ADU is a separate structure, offering maximum independence, while an integrated multi-generational space is connected to the main home. We help homeowners choose based on integration needs, regulations, and resale value."
+      }
+    }
+  ],
+  "description": "An ADU is a separate structure, offering maximum independence, while an integrated multi-generational space is connected to the main home. We help homeowners ch"
+}

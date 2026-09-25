@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-should-i-prepare-before-contacting-akn-design-group-for-a-rental-unit-renov",
+  "name": "What should I prepare before contacting AKN Design Group for a rental unit renovation project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare before contacting AKN Design Group for a rental unit renovation project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before contacting AKN Design Group for a rental unit renovation, it's helpful to have a clear understanding of your renovation goals, an approximate budget range, and any specific ideas for how you envision the space. Consider what aspects of the unit you wish to improve—be it kitchens, bathrooms, overall layout, or an addition. This initial clarity allows us to provide a more tailored and comprehensive consultation, laying the groundwork for a successful managed design-build project.",
+        "@type": "Answer",
+        "description": "Prepare your renovation goals, an approximate budget, and specific ideas for your rental unit's improvements. This helps us provide a tailored consultation and efficient project planning."
+      }
+    }
+  ],
+  "description": "Prepare your renovation goals, an approximate budget, and specific ideas for your rental unit's improvements. This helps us provide a tailored consultation and"
+}

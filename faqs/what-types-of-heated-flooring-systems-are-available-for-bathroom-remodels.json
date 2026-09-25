@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-types-of-heated-flooring-systems-are-available-for-bathroom-remodels",
+  "name": "What types of heated flooring systems are available for bathroom remodels?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of heated flooring systems are available for bathroom remodels?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For bathroom remodels, electric radiant floor heating systems are commonly used. These systems involve heating cables or mats installed directly beneath the flooring material, connecting to your home's electrical system. They are ideal for individual room applications like bathrooms because they allow for zone heating, meaning you can heat specific areas independently. Understanding your existing electrical capacity and insulation are preparation steps that influence the system choice, ensuring compatibility and efficient operation. AKN Design Group will assess these factors as part of our integrated design-build process to select the optimal system for your luxury bathroom.",
+        "@type": "Answer",
+        "description": "Electric radiant mats or cables are common for bathrooms, offering zone heating. Existing electrical capacity and insulation are key considerations for system selection."
+      }
+    }
+  ],
+  "description": "Electric radiant mats or cables are common for bathrooms, offering zone heating. Existing electrical capacity and insulation are key considerations for system s"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-permits-are-typically-required-for-rental-unit-construction-or-renovation-i",
+  "name": "What permits are typically required for rental unit construction or renovation in the Dallas–Fort Worth metroplex?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits are typically required for rental unit construction or renovation in the Dallas–Fort Worth metroplex?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Renovations in the Dallas–Fort Worth metroplex often require various permits, depending on the scope of work. Projects involving structural changes, electrical, plumbing, or significant layout modifications in a rental unit will typically need city permits. AKN Design Group manages the entire permit coordination process as part of our integrated design-build service, ensuring all necessary approvals are secured from concept to completion. This simplifies the process for property owners.",
+        "@type": "Answer",
+        "description": "Many rental unit renovations, especially those involving structural, electrical, or plumbing changes, require city permits in the Dallas–Fort Worth metroplex. AKN Design Group handles all permit coordination."
+      }
+    }
+  ],
+  "description": "Many rental unit renovations, especially those involving structural, electrical, or plumbing changes, require city permits in the Dallas–Fort Worth metroplex. A"
+}

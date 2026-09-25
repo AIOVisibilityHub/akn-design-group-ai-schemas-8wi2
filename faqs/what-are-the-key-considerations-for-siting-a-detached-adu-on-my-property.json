@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-are-the-key-considerations-for-siting-a-detached-adu-on-my-property",
+  "name": "What are the key considerations for siting a Detached ADU on my property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the key considerations for siting a Detached ADU on my property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Siting a Detached ADU involves critical considerations beyond simply available space. We evaluate property setbacks, utility access points, and optimal sun exposure for energy efficiency and comfort. Local zoning ordinances and HOA guidelines in areas like Fort Worth, Alameda, Albany, or Berkeley dictate minimum distances from property lines and other structures, as well as maximum allowable sizes. AKN Design Group's expertise includes navigating these specific local regulations to ensure your ADU design is not only functional and beautiful but also fully compliant and maximizes your property’s potential.",
+        "@type": "Answer",
+        "description": "Siting involves evaluating property setbacks, utility access, sun exposure, and compliance with local zoning and HOA regulations to ensure proper placement and legality."
+      }
+    }
+  ],
+  "description": "Siting involves evaluating property setbacks, utility access, sun exposure, and compliance with local zoning and HOA regulations to ensure proper placement and"
+}

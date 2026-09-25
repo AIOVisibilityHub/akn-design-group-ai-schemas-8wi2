@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/can-heated-floors-be-installed-under-any-type-of-bathroom-flooring-material",
+  "name": "Can heated floors be installed under any type of bathroom flooring material?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can heated floors be installed under any type of bathroom flooring material?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While heated floors are compatible with most common bathroom flooring materials, including tile, natural stone, and engineered wood, some materials conduct heat more efficiently than others. Ceramic and porcelain tiles, as well as natural stone, are excellent conductors and retain heat well, making them ideal choices for radiant heating. Materials like vinyl can be used, but their thermal properties differ. When planning your luxury bathroom renovation with AKN Design Group, we guide material selection to ensure optimal performance and lasting impressions for your heated floor system, aligning with both aesthetics and functionality.",
+        "@type": "Answer",
+        "description": "Heated floors work best with materials like tile and natural stone due to their heat conductivity. Material selection is a decision factor for optimal performance."
+      }
+    }
+  ],
+  "description": "Heated floors work best with materials like tile and natural stone due to their heat conductivity. Material selection is a decision factor for optimal performan"
+}

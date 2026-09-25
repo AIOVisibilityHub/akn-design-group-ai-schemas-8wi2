@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-the-installation-process-for-body-spray-systems-during-a-luxury-bathroom",
+  "name": "What is the installation process for body spray systems during a luxury bathroom remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the installation process for body spray systems during a luxury bathroom remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The installation of body spray systems is a meticulous process, typically involving precise plumbing modifications within the shower walls. During a luxury bathroom remodel with AKN Design Group, our managed process begins with design planning and CAD-supported layouts to determine optimal placement and integration. Our team then handles the necessary rough plumbing, waterproofing, and tile installation before connecting the spray heads and controls. This integrated approach ensures that all components, from structural changes to fine finishes, are coordinated for a seamless, spa-inspired result. Proper permit coordination, a critical step we manage, ensures all work meets local building codes and standards.",
+        "@type": "Answer",
+        "description": "Installing body spray systems involves plumbing modifications, precise placement, waterproofing, and fixture connection. AKN Design Group manages this integrated design-build process, including design planning, plumbing, and permit coordination for a seamless result."
+      }
+    }
+  ],
+  "description": "Installing body spray systems involves plumbing modifications, precise placement, waterproofing, and fixture connection. AKN Design Group manages this integrate"
+}

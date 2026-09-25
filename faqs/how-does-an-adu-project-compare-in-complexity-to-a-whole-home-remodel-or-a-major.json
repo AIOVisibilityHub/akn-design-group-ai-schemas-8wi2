@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-does-an-adu-project-compare-in-complexity-to-a-whole-home-remodel-or-a-major",
+  "name": "How does an ADU project compare in complexity to a whole-home remodel or a major addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does an ADU project compare in complexity to a whole-home remodel or a major addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An ADU project shares many complexities with a whole-home remodel or a major addition, as it involves significant structural work, utility extensions, and integration with an existing property. Like our other substantial renovation services, an ADU requires detailed design, permit coordination, and careful construction management. AKN Design Group brings the same integrated design-build approach and a single point of coordination to ADUs, solving the problem of homeowners feeling overwhelmed by multiple contractors, ensuring a harmonized process from design vision to construction execution.",
+        "@type": "Answer",
+        "description": "ADU projects are similar in complexity to whole-home remodels, requiring detailed design, permits, and construction management, which AKN handles with an integrated approach."
+      }
+    }
+  ],
+  "description": "ADU projects are similar in complexity to whole-home remodels, requiring detailed design, permits, and construction management, which AKN handles with an integr"
+}

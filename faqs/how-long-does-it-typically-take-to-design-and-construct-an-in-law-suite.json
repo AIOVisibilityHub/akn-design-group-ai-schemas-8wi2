@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-long-does-it-typically-take-to-design-and-construct-an-in-law-suite",
+  "name": "How long does it typically take to design and construct an in-law suite?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it typically take to design and construct an in-law suite?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for designing and constructing an in-law suite depends on the project's complexity, size, and the municipality's permit review process. Generally, the design phase can take several weeks to a few months, involving consultations, architectural drawings, and material selections. Construction itself can span from three to six months or more for substantial additions. Our managed process at AKN Design Group aims for clear communication and scheduling transparency. Factors like custom cabinetry, intricate plumbing setups for a new kitchen, or significant structural modifications can extend the duration, so early planning is crucial.",
+        "@type": "Answer",
+        "description": "Design and construction of an in-law suite typically take several months, varying with complexity and permit approval times. The design phase takes weeks to months, and construction can be three to six months or more, depending on project specifics."
+      }
+    }
+  ],
+  "description": "Design and construction of an in-law suite typically take several months, varying with complexity and permit approval times. The design phase takes weeks to mon"
+}

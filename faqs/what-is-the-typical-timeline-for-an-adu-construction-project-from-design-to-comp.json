@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-the-typical-timeline-for-an-adu-construction-project-from-design-to-comp",
+  "name": "What is the typical timeline for an ADU construction project, from design to completion?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical timeline for an ADU construction project, from design to completion?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for an ADU construction project varies significantly based on its size, complexity, and local permitting requirements within the Dallas–Fort Worth metroplex. Design and planning phases, including architectural drawings and permit approvals, can take several months. Construction itself might range from three to nine months or more, depending on factors like site preparation, utility connections, and the chosen finishes. Our managed process aims for efficient permit coordination and clear scheduling transparency to keep your project moving forward reliably.",
+        "@type": "Answer",
+        "description": "ADU construction timelines vary based on size, complexity, and local permitting, typically involving several months for design and permitting, followed by three to nine months for construction."
+      }
+    }
+  ],
+  "description": "ADU construction timelines vary based on size, complexity, and local permitting, typically involving several months for design and permitting, followed by three"
+}

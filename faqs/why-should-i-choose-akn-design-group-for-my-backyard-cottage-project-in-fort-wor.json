@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/why-should-i-choose-akn-design-group-for-my-backyard-cottage-project-in-fort-wor",
+  "name": "Why should I choose AKN Design Group for my backyard cottage project in Fort Worth?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why should I choose AKN Design Group for my backyard cottage project in Fort Worth?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing AKN Design Group for your backyard cottage in Fort Worth ensures a seamless, managed process from concept to completion. With over two decades of experience and more than 10,000 jobs completed, our expertise in high-value residential renovations is unparalleled. We understand the specific styles and building codes prevalent in Fort Worth homes, offering a single point of coordination for complex projects. Our commitment to honesty, reliability, and craftsmanship guarantees a high-quality outcome that enhances your property.",
+        "@type": "Answer",
+        "description": "Choose AKN Design Group for our 20+ years of experience, integrated design-build process, and local Fort Worth expertise, ensuring a managed and high-quality backyard cottage project."
+      }
+    }
+  ],
+  "description": "Choose AKN Design Group for our 20+ years of experience, integrated design-build process, and local Fort Worth expertise, ensuring a managed and high-quality ba"
+}

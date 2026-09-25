@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-long-does-it-take-to-install-heated-floors-during-a-bathroom-remodel",
+  "name": "How long does it take to install heated floors during a bathroom remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to install heated floors during a bathroom remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Integrating heated floors into a bathroom remodel adds a specific phase to the overall project timeline. While the actual installation of the heating elements and their encapsulation typically takes a few days, this step must be carefully sequenced with other trades, such as electrical work and tile setting. The drying time for mortar layers also influences the overall schedule. A managed process ensures that these stages are coordinated efficiently to maintain the project flow. AKN Design Group’s expertise in comprehensive residential design-build ensures transparent scheduling and efficient execution for your spa-inspired bathroom.",
+        "@type": "Answer",
+        "description": "Installing heated floors takes a few days for elements and encapsulation, but timing is coordinated with other trades and drying times within the overall remodel schedule."
+      }
+    }
+  ],
+  "description": "Installing heated floors takes a few days for elements and encapsulation, but timing is coordinated with other trades and drying times within the overall remode"
+}

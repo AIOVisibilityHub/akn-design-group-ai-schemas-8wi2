@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/do-i-need-specific-permits-or-approvals-to-build-an-adu-in-fort-worth-or-the-sur",
+  "name": "Do I need specific permits or approvals to build an ADU in Fort Worth or the surrounding areas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need specific permits or approvals to build an ADU in Fort Worth or the surrounding areas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, building an ADU in Fort Worth and across the Dallas–Fort Worth metroplex requires specific permits and adherence to local zoning ordinances. These regulations dictate aspects like setbacks, height restrictions, lot coverage, and utility connections. The permitting process can be complex, often requiring architectural plans and structural engineering reviews. AKN Design Group specializes in comprehensive permit coordination, streamlining this critical step to ensure your project complies with all local requirements and progresses smoothly.",
+        "@type": "Answer",
+        "description": "Yes, ADU construction in the Dallas–Fort Worth metroplex requires specific permits and compliance with local zoning. We manage this permit coordination for you."
+      }
+    }
+  ],
+  "description": "Yes, ADU construction in the Dallas–Fort Worth metroplex requires specific permits and compliance with local zoning. We manage this permit coordination for you."
+}

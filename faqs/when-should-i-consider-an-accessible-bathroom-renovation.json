@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/when-should-i-consider-an-accessible-bathroom-renovation",
+  "name": "When should I consider an accessible bathroom renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider an accessible bathroom renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider an accessible bathroom renovation if your current space presents challenges for mobility, safety, or independent use for any household member. This often becomes relevant due to aging in place, managing a temporary or permanent disability, or simply planning for future needs. AKN Design Group helps homeowners in the Dallas–Fort Worth metroplex assess their current layout and daily routines to identify areas for improvement, ensuring the renovation enhances functionality, beauty, and long-term value. We coordinate all aspects from design planning to final walkthrough.",
+        "@type": "Answer",
+        "description": "Consider an accessible bathroom renovation if your current space challenges mobility or independent use for any household member. AKN Design Group helps assess needs for aging in place or future planning."
+      }
+    }
+  ],
+  "description": "Consider an accessible bathroom renovation if your current space challenges mobility or independent use for any household member. AKN Design Group helps assess"
+}

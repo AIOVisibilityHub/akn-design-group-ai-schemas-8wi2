@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-are-the-benefits-of-choosing-a-freestanding-tub-over-a-built-in-tub-for-a-l",
+  "name": "What are the benefits of choosing a freestanding tub over a built-in tub for a luxury bathroom?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the benefits of choosing a freestanding tub over a built-in tub for a luxury bathroom?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing between a freestanding and a built-in tub involves considering both aesthetic impact and practical benefits in your luxury bathroom. Freestanding tubs often serve as a focal point, offering a more sculptural and high-end look, creating an immediate spa-like impression. They also provide flexibility in placement, potentially opening up space. Built-in tubs can offer more deck space for storage or seating, and easier integration with shower surrounds. We discuss these practical tradeoffs during the design phase, considering your space, preferences, and desired aesthetic to recommend the best fit for your customized renovation.",
+        "@type": "Answer",
+        "description": "Freestanding tubs offer a sculptural, high-end aesthetic and flexible placement, making them a focal point. Built-in tubs may provide more deck space. We help weigh these options based on your design goals."
+      }
+    }
+  ],
+  "description": "Freestanding tubs offer a sculptural, high-end aesthetic and flexible placement, making them a focal point. Built-in tubs may provide more deck space. We help w"
+}

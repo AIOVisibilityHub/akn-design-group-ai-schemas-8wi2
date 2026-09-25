@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-the-typical-process-for-an-aging-in-place-bathroom-renovation-with-akn-d",
+  "name": "What is the typical process for an aging-in-place bathroom renovation with AKN Design Group?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for an aging-in-place bathroom renovation with AKN Design Group?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our process for an aging-in-place bathroom renovation begins with an initial consultation to understand your specific needs and vision. We then move into design planning, often with CAD-supported layouts, to integrate accessibility features while achieving a spa-inspired aesthetic. Following design approval and permit coordination, our experienced team manages the construction, installation, and final walkthrough, ensuring a seamless experience. As a single point of coordination, AKN Design Group unifies design and construction, providing clear communication and accountability from concept to completion for your peace of mind.",
+        "@type": "Answer",
+        "description": "The process involves consultation, design planning with CAD layouts, permit coordination, construction, and a final walkthrough, all managed by one integrated design-build team."
+      }
+    }
+  ],
+  "description": "The process involves consultation, design planning with CAD layouts, permit coordination, construction, and a final walkthrough, all managed by one integrated d"
+}

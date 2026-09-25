@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/will-an-aging-in-place-remodel-compromise-the-bathroom-s-aesthetic",
+  "name": "Will an aging-in-place remodel compromise the bathroom's aesthetic?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will an aging-in-place remodel compromise the bathroom's aesthetic?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "No, an aging-in-place remodel does not have to compromise aesthetic appeal. AKN Design Group specializes in integrating functional accessibility features seamlessly into luxury bathroom designs. We believe that enhancing safety and comfort should also elevate beauty and style. Our design-build approach ensures that elements like grab bars, curbless showers, and improved lighting are chosen and installed to complement your desired spa-inspired aesthetic, creating a cohesive and elegant space that is both highly functional and visually appealing, without appearing clinical or institutional.",
+        "@type": "Answer",
+        "description": "No, AKN Design Group integrates accessibility features seamlessly into luxury designs, ensuring safety and comfort enhance the bathroom's overall beauty and style."
+      }
+    }
+  ],
+  "description": "No, AKN Design Group integrates accessibility features seamlessly into luxury designs, ensuring safety and comfort enhance the bathroom's overall beauty and sty"
+}

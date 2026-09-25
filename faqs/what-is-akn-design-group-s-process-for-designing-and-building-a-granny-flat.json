@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-akn-design-group-s-process-for-designing-and-building-a-granny-flat",
+  "name": "What is AKN Design Group's process for designing and building a granny flat?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is AKN Design Group's process for designing and building a granny flat?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our process for granny flat construction follows our integrated design-build approach. It begins with an initial consultation to understand your needs and vision, followed by detailed design planning, including CAD-supported layouts. After design approval, we handle all necessary permit coordination. Construction then proceeds with our experienced team, ensuring clear communication and reliable execution through to the final walkthrough. This managed process ensures a single point of coordination for your complex project.",
+        "@type": "Answer",
+        "description": "Our granny flat process involves consultation, design planning with CAD layouts, permit coordination, and expert construction, all managed under a single design-build team."
+      }
+    }
+  ],
+  "description": "Our granny flat process involves consultation, design planning with CAD layouts, permit coordination, and expert construction, all managed under a single design"
+}

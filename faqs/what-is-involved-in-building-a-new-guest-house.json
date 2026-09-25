@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-involved-in-building-a-new-guest-house",
+  "name": "What is involved in building a new guest house?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in building a new guest house?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Building a guest house, often called an Accessory Dwelling Unit (ADU), involves comprehensive planning and execution. AKN Design Group's integrated design-build process covers everything from initial design concepts and CAD-supported layouts to securing necessary permits, managing construction, and overseeing all installations. We coordinate structural work, utility extensions, interior finishes, and exterior tie-ins, ensuring the new structure seamlessly integrates with your property. This managed process provides a single point of coordination for homeowners, ensuring consistent quality and clear communication from concept to completion.",
+        "@type": "Answer",
+        "description": "Building a guest house involves design, permitting, construction, and utility integration, all managed through our integrated design-build process for a seamless experience."
+      }
+    }
+  ],
+  "description": "Building a guest house involves design, permitting, construction, and utility integration, all managed through our integrated design-build process for a seamles"
+}

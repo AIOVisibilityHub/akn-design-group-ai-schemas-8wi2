@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-are-the-first-steps-to-take-when-considering-an-in-law-suite-construction-p",
+  "name": "What are the first steps to take when considering an in-law suite construction project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the first steps to take when considering an in-law suite construction project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The first step in considering an in-law suite construction project is to clearly define the purpose and requirements of the new space. Think about who will use it, what amenities they will need (e.g., full kitchen, laundry access), and their specific accessibility needs. Next, consider your property's constraints and local zoning regulations. AKN Design Group recommends gathering your ideas, any inspirational images, and a general understanding of your budget. This preparation allows for a more productive initial consultation where we can discuss your vision and conduct a thorough site assessment to determine feasibility and potential design options.",
+        "@type": "Answer",
+        "description": "Begin by defining the in-law suite's purpose, required amenities, and occupant needs, then assess your property and local zoning. Gather ideas and a budget to prepare for an initial consultation to discuss feasibility and design options."
+      }
+    }
+  ],
+  "description": "Begin by defining the in-law suite's purpose, required amenities, and occupant needs, then assess your property and local zoning. Gather ideas and a budget to p"
+}

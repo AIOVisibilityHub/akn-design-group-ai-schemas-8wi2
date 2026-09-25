@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-the-cost-structure-for-renovating-a-rental-unit-with-akn-design-group",
+  "name": "What is the cost structure for renovating a rental unit with AKN Design Group?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the cost structure for renovating a rental unit with AKN Design Group?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "AKN Design Group provides detailed, upfront estimates for all renovation projects, including those for rental units. Our cost structure reflects our commitment to customized solutions, premium craftsmanship, and a managed design-build process. We focus on delivering value through quality materials and expert execution, rather than offering the lowest price. Factors influencing cost include the scope of work, material selections, and specific design requirements. We can also explore value engineering options where appropriate to optimize your investment.",
+        "@type": "Answer",
+        "description": "Our cost structure provides detailed, upfront estimates based on the scope, materials, and design complexity, reflecting our commitment to quality and a managed design-build process for your rental unit."
+      }
+    }
+  ],
+  "description": "Our cost structure provides detailed, upfront estimates based on the scope, materials, and design complexity, reflecting our commitment to quality and a managed"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-does-akn-design-group-integrate-the-design-of-an-attached-adu-with-the-exist",
+  "name": "How does AKN Design Group integrate the design of an attached ADU with the existing home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does AKN Design Group integrate the design of an attached ADU with the existing home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "AKN Design Group's integrated design-build process ensures that an attached ADU seamlessly blends with your existing home's architectural style and aesthetic, both inside and out. Our team of experienced designers and builders collaborates from the outset, focusing on exterior finish matching, roofline integration, and interior flow to create a cohesive whole. We use CAD-supported layouts to visualize how the ADU will connect and function with the main dwelling. This managed process ensures the new structure looks like a natural extension of your property, enhancing its overall appeal and value, rather than appearing as a disconnected addition.",
+        "@type": "Answer",
+        "description": "We integrate attached ADU designs with your existing home's architecture through cohesive exterior finishes, roofline integration, and interior flow, using CAD-supported layouts."
+      }
+    }
+  ],
+  "description": "We integrate attached ADU designs with your existing home's architecture through cohesive exterior finishes, roofline integration, and interior flow, using CAD-"
+}
