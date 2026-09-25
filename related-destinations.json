@@ -1,0 +1,43 @@
+{
+  "version": "1.0",
+  "generatedAt": "2026-09-25T22:53:20.980Z",
+  "name": "Cross-Destination Index",
+  "aliases": [
+    "Authority Network",
+    "Repository Mirror Index",
+    "Related AI Data Sources"
+  ],
+  "purpose": "Transparent source discovery, entity consistency, mirror verification, and AI crawler navigation across every published copy of this AI Data Package.",
+  "notALinkWheel": true,
+  "entity": {
+    "name": "AKN Design Group",
+    "canonicalUrl": "https://akndesigngroup.aiovisibility.net",
+    "primaryWebsiteUrl": "akndesigngroup.com",
+    "aiDataHub": "https://akndesigngroup.aiovisibility.net/ai-data.html"
+  },
+  "related": [
+    {
+      "role": "canonical",
+      "label": "AKN Design Group — canonical website",
+      "url": "https://akndesigngroup.aiovisibility.net"
+    },
+    {
+      "role": "ai-data-hub",
+      "label": "AKN Design Group — AI Data Hub",
+      "url": "https://akndesigngroup.aiovisibility.net/ai-data.html"
+    },
+    {
+      "role": "mirror-repo",
+      "platform": "github",
+      "label": "GitHub repository",
+      "url": "https://github.com/AIOVisibilityHub/akn-design-group-ai-schemas-8wi2"
+    }
+  ],
+  "destinations": {
+    "github": {
+      "url": "https://github.com/AIOVisibilityHub/akn-design-group-ai-schemas-8wi2",
+      "pagesUrl": "",
+      "repo": "AIOVisibilityHub/akn-design-group-ai-schemas-8wi2"
+    }
+  }
+}
