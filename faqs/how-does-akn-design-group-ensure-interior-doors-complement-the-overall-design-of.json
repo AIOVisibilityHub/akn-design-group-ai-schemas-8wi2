@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-does-akn-design-group-ensure-interior-doors-complement-the-overall-design-of",
+  "name": "How does AKN Design Group ensure interior doors complement the overall design of a whole-home remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does AKN Design Group ensure interior doors complement the overall design of a whole-home remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "AKN Design Group ensures interior doors complement the overall design of a whole-home remodel through our integrated design-build process. From initial concept, our designers work to select door styles, materials, and hardware that harmonize with the chosen aesthetic for flooring, trim, cabinetry, and paint colors throughout your home. We utilize CAD-supported layouts to visualize the flow and consistency. This meticulous attention to detail ensures that every element, including your interior doors, contributes to a cohesive, customized renovation that enhances functionality, beauty, and value.",
+        "@type": "Answer",
+        "description": "AKN Design Group integrates interior door selection into the overall design-build process, ensuring they complement all other renovation elements for a cohesive look."
+      }
+    }
+  ],
+  "description": "AKN Design Group integrates interior door selection into the overall design-build process, ensuring they complement all other renovation elements for a cohesive"
+}

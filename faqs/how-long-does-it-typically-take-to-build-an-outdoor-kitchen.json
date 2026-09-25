@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-long-does-it-typically-take-to-build-an-outdoor-kitchen",
+  "name": "How long does it typically take to build an outdoor kitchen?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it typically take to build an outdoor kitchen?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for building a custom outdoor kitchen varies based on its complexity and scope, including factors like utility extensions, intricate stonework, or the addition of covered structures. Our integrated design-build process is structured to manage every phase efficiently, from design finalization and permit coordination to construction and finishing touches. While smaller projects might take several weeks, more elaborate outdoor kitchens featuring extensive amenities and integrated living spaces may require a few months. AKN Design Group provides upfront estimates and scheduling transparency, ensuring clear communication throughout the project.",
+        "@type": "Answer",
+        "description": "The timeline for an outdoor kitchen varies based on complexity and scope, ranging from several weeks for simpler designs to a few months for elaborate setups. We provide transparent scheduling and manage the process efficiently."
+      }
+    }
+  ],
+  "description": "The timeline for an outdoor kitchen varies based on complexity and scope, ranging from several weeks for simpler designs to a few months for elaborate setups. W"
+}

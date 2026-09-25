@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-the-process-for-adding-a-patio-cover-with-akn-design-group",
+  "name": "What is the process for adding a patio cover with AKN Design Group?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for adding a patio cover with AKN Design Group?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our process for adding a patio cover begins with an initial consultation to understand your vision and assess your existing outdoor space. Following this, we develop CAD-supported layouts and design plans that integrate structural elements, amenities, and finishes. Once the design is approved, AKN Design Group handles all necessary permit coordination and then moves into the construction phase. This managed process, from concept to final walkthrough, provides you with a single point of coordination, ensuring clear communication and accountability throughout the project. Your involvement in design choices at the initial stages is a critical preparation step.",
+        "@type": "Answer",
+        "description": "The process involves an initial consultation, CAD design, permit coordination, and construction. AKN Design Group manages this design-build process from concept to completion, with your active design input."
+      }
+    }
+  ],
+  "description": "The process involves an initial consultation, CAD design, permit coordination, and construction. AKN Design Group manages this design-build process from concept"
+}

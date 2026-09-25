@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-maintenance-is-required-for-high-end-outdoor-dining-spaces",
+  "name": "What maintenance is required for high-end outdoor dining spaces?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What maintenance is required for high-end outdoor dining spaces?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Maintaining a high-end outdoor dining space involves routine care to preserve its beauty and functionality. This typically includes periodic cleaning of hardscaping, outdoor kitchen surfaces, and appliances. Depending on materials chosen, occasional sealing or treatment might be recommended to protect against weather elements and wear. The practical tradeoff is that selecting durable, high-quality materials during the design phase can significantly reduce long-term maintenance efforts and costs. AKN Design Group can advise on specific care instructions for your installed features, helping you keep your outdoor living area in pristine condition for years to come.",
+        "@type": "Answer",
+        "description": "High-end outdoor dining spaces require routine cleaning of hardscaping and kitchen surfaces; selecting durable materials initially minimizes long-term maintenance, a practical tradeoff for lasting beauty and functionality."
+      }
+    }
+  ],
+  "description": "High-end outdoor dining spaces require routine cleaning of hardscaping and kitchen surfaces; selecting durable materials initially minimizes long-term maintenan"
+}

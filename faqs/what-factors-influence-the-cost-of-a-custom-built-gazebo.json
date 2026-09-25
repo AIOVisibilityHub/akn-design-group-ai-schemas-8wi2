@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-factors-influence-the-cost-of-a-custom-built-gazebo",
+  "name": "What factors influence the cost of a custom-built gazebo?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of a custom-built gazebo?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a custom-built gazebo is influenced by several factors, including its size, complexity of design, choice of materials, and integrated features such as electrical wiring for lighting or ceiling fans. Premium hardwoods, intricate roofing, and extensive detailing will increase the investment compared to simpler designs. As a general contractor specializing in high-end outdoor living spaces, AKN Design Group provides upfront estimates during the design phase, emphasizing transparency. We focus on delivering exceptional value through quality craftsmanship and a managed process, rather than offering the lowest price.",
+        "@type": "Answer",
+        "description": "Factors influencing gazebo cost include size, design complexity, material selection, and integrated features like lighting, with upfront estimates provided for transparency."
+      }
+    }
+  ],
+  "description": "Factors influencing gazebo cost include size, design complexity, material selection, and integrated features like lighting, with upfront estimates provided for"
+}

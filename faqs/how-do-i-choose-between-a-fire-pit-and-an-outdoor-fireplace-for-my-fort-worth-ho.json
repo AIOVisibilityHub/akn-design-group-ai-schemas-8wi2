@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-do-i-choose-between-a-fire-pit-and-an-outdoor-fireplace-for-my-fort-worth-ho",
+  "name": "How do I choose between a fire pit and an outdoor fireplace for my Fort Worth home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose between a fire pit and an outdoor fireplace for my Fort Worth home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing between a fire pit and an outdoor fireplace depends largely on your entertaining style and the existing architecture of your Fort Worth home. A fire pit encourages more open, circular gathering and can be a central feature in a patio area. An outdoor fireplace, often integrated into a wall or structure, provides a more defined backdrop, can offer greater heat direction, and often creates a grander focal point. Consider the scale of your outdoor space and whether you prefer an intimate gathering spot or a more architectural statement; AKN Design Group can help you evaluate these options during our design consultation.",
+        "@type": "Answer",
+        "description": "The choice between a fire pit and an outdoor fireplace for your Fort Worth home depends on your entertaining style, desired ambiance, and architectural integration."
+      }
+    }
+  ],
+  "description": "The choice between a fire pit and an outdoor fireplace for your Fort Worth home depends on your entertaining style, desired ambiance, and architectural integrat"
+}

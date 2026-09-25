@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-do-i-choose-the-right-location-for-an-outdoor-fireplace-in-my-dallas-fort-wo",
+  "name": "How do I choose the right location for an outdoor fireplace in my Dallas–Fort Worth home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right location for an outdoor fireplace in my Dallas–Fort Worth home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Selecting the optimal location for an outdoor fireplace involves considering several factors, including proximity to your home, prevailing winds, and desired use. Our design-build process includes CAD-supported layouts to help visualize the best placement for aesthetics and functionality. We also consider local building codes and property lines within the Dallas–Fort Worth metroplex to ensure compliance and maximize usability. The goal is to create a natural focal point that enhances gathering and relaxation.",
+        "@type": "Answer",
+        "description": "Choosing an outdoor fireplace location requires considering proximity to your home, wind patterns, and desired use, along with DFW local building codes."
+      }
+    }
+  ],
+  "description": "Choosing an outdoor fireplace location requires considering proximity to your home, wind patterns, and desired use, along with DFW local building codes."
+}

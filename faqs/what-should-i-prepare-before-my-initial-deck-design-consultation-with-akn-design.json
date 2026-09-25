@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-should-i-prepare-before-my-initial-deck-design-consultation-with-akn-design",
+  "name": "What should I prepare before my initial deck design consultation with AKN Design Group?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare before my initial deck design consultation with AKN Design Group?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before your initial deck design consultation, it is helpful to gather any inspiration photos, understand your desired functionality for the space (e.g., entertaining, dining, relaxation), and have a general idea of your budget. Consider the existing architectural style of your home and how you envision the deck integrating with it. This preparation helps us understand your vision, lifestyle, and specific needs more effectively. Providing these details upfront allows AKN Design Group to develop customized renovation plans that truly enhance the functionality, beauty, and long-term value of your property.",
+        "@type": "Answer",
+        "description": "Before your deck consultation, gather inspiration photos, define desired functionality, and consider your budget and home's style. This helps us create a customized renovation plan."
+      }
+    }
+  ],
+  "description": "Before your deck consultation, gather inspiration photos, define desired functionality, and consider your budget and home's style. This helps us create a custom"
+}

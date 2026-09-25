@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-preparation-is-needed-before-interior-doors-can-be-installed-during-a-renov",
+  "name": "What preparation is needed before interior doors can be installed during a renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What preparation is needed before interior doors can be installed during a renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before interior doors are installed, the rough openings must be properly framed, plumb, and level, and the flooring materials often need to be in place or accounted for. Our project managers ensure that all necessary preparatory work, including any required structural adjustments or electrical rough-ins near door frames, is completed according to our meticulous standards. This coordinated approach, part of our integrated design-build process, prevents delays and ensures a flawless installation, reflecting our commitment to a seamless homeowner experience.",
+        "@type": "Answer",
+        "description": "Before interior doors are installed, rough openings must be framed correctly, and flooring needs to be in place or planned for, which AKN Design Group coordinates."
+      }
+    }
+  ],
+  "description": "Before interior doors are installed, rough openings must be framed correctly, and flooring needs to be in place or planned for, which AKN Design Group coordinat"
+}

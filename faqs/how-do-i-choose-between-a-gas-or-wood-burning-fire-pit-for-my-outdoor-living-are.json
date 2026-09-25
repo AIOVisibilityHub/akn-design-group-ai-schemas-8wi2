@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-do-i-choose-between-a-gas-or-wood-burning-fire-pit-for-my-outdoor-living-are",
+  "name": "How do I choose between a gas or wood-burning fire pit for my outdoor living area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose between a gas or wood-burning fire pit for my outdoor living area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing between a gas and wood-burning fire pit involves considering convenience, ambiance, and maintenance. Gas fire pits offer instant ignition, adjustable flames, and no ash cleanup, ideal for frequent, hassle-free use. Wood-burning fire pits provide the classic crackle, smoke, and aroma, creating a more traditional campfire feel, but require fuel storage and regular cleaning. AKN Design Group can guide you through these practical tradeoffs, helping you select the option that best aligns with your lifestyle and preferences for your high-end outdoor living space.",
+        "@type": "Answer",
+        "description": "Gas fire pits offer convenience with instant ignition and no cleanup, while wood-burning options provide a traditional ambiance but require more maintenance. Consider your lifestyle and desired experience."
+      }
+    }
+  ],
+  "description": "Gas fire pits offer convenience with instant ignition and no cleanup, while wood-burning options provide a traditional ambiance but require more maintenance. Co"
+}

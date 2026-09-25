@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-maintenance-is-involved-with-an-outdoor-fireplace",
+  "name": "What maintenance is involved with an outdoor fireplace?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What maintenance is involved with an outdoor fireplace?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Maintenance for an outdoor fireplace depends on its type. Wood-burning fireplaces require regular cleaning of ash and debris, occasional chimney sweeping, and inspection for cracks or damage. Gas fireplaces typically need less frequent cleaning but should have their burner and gas lines checked periodically. Regardless of type, protecting the fireplace from harsh weather when not in use can extend its lifespan. AKN Design Group can provide guidance on care to ensure your custom fire feature remains a reliable and beautiful addition.",
+        "@type": "Answer",
+        "description": "Maintenance varies by type: wood-burning needs ash removal and chimney sweeping, while gas requires periodic burner checks. Protection from weather extends its lifespan."
+      }
+    }
+  ],
+  "description": "Maintenance varies by type: wood-burning needs ash removal and chimney sweeping, while gas requires periodic burner checks. Protection from weather extends its"
+}

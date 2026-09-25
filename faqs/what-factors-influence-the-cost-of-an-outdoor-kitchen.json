@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-factors-influence-the-cost-of-an-outdoor-kitchen",
+  "name": "What factors influence the cost of an outdoor kitchen?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of an outdoor kitchen?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of an outdoor kitchen is influenced by several key factors, including the chosen appliances, materials, and overall size and complexity of the design. High-end built-in grills, outdoor-rated refrigeration, and specialized cooking elements will impact the investment. Similarly, selections like natural stone countertops, custom cabinetry, and integrated lighting or sound systems contribute to the final cost. AKN Design Group provides detailed, upfront estimates, and through our value engineering approach, we ensure that your design meets your budget without compromising on functionality or aesthetic quality.",
+        "@type": "Answer",
+        "description": "Outdoor kitchen costs are influenced by appliance choices, material selections, and the project's size and complexity. We provide detailed estimates and employ value engineering to align with your budget."
+      }
+    }
+  ],
+  "description": "Outdoor kitchen costs are influenced by appliance choices, material selections, and the project's size and complexity. We provide detailed estimates and employ"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/should-i-consider-a-covered-patio-or-a-pergola-for-my-backyard",
+  "name": "Should I consider a covered patio or a pergola for my backyard?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I consider a covered patio or a pergola for my backyard?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing between a covered patio and a pergola depends on your primary goals for shade, weather protection, and aesthetic. A covered patio offers full protection from sun and rain, effectively extending your indoor living space outdoors. Pergolas, while providing partial shade and an architectural element, allow more light and airflow. AKN Design Group helps homeowners in the Dallas–Fort Worth metroplex evaluate these options based on their lifestyle and property. We discuss how each structure integrates with potential outdoor kitchens, lighting, and overall backyard design to best enhance functionality and beauty.",
+        "@type": "Answer",
+        "description": "A covered patio offers full weather protection, while a pergola provides partial shade and an aesthetic feature. AKN Design Group helps homeowners choose based on their needs and backyard integration."
+      }
+    }
+  ],
+  "description": "A covered patio offers full weather protection, while a pergola provides partial shade and an aesthetic feature. AKN Design Group helps homeowners choose based"
+}

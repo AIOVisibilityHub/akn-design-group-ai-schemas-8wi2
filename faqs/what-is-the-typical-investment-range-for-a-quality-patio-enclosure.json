@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-the-typical-investment-range-for-a-quality-patio-enclosure",
+  "name": "What is the typical investment range for a quality patio enclosure?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical investment range for a quality patio enclosure?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The investment for a quality patio enclosure varies significantly based on factors such as size, chosen materials, complexity of design, and integrated features like outdoor kitchens or advanced electrical work. While AKN Design Group does not aim to be the lowest-cost option, we focus on delivering exceptional value through superior craftsmanship and a managed process. We provide upfront estimates during our consultation, detailing the scope and associated costs, ensuring transparency and alignment with your goals for enhancing functionality, beauty, and value.",
+        "@type": "Answer",
+        "description": "Investment for a patio enclosure varies by size, materials, and features. AKN Design Group provides upfront estimates, focusing on value and quality, not lowest cost."
+      }
+    }
+  ],
+  "description": "Investment for a patio enclosure varies by size, materials, and features. AKN Design Group provides upfront estimates, focusing on value and quality, not lowest"
+}

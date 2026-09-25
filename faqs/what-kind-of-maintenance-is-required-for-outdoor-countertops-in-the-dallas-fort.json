@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-kind-of-maintenance-is-required-for-outdoor-countertops-in-the-dallas-fort",
+  "name": "What kind of maintenance is required for outdoor countertops in the Dallas–Fort Worth metroplex?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of maintenance is required for outdoor countertops in the Dallas–Fort Worth metroplex?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Outdoor countertops in the Dallas–Fort Worth metroplex require regular cleaning to remove dust, pollen, and debris, especially after seasonal changes or inclement weather. For natural stone, periodic sealing is essential to protect against moisture penetration and staining, particularly given our region's humidity and temperature swings. For engineered surfaces, routine cleaning with mild soap and water is typically sufficient. AKN Design Group provides specific care instructions tailored to your chosen material to ensure its longevity and appearance.",
+        "@type": "Answer",
+        "description": "Dallas–Fort Worth outdoor countertops need regular cleaning for dust and debris. Natural stone requires periodic sealing, while engineered surfaces need only mild soap and water. AKN provides specific care guidance."
+      }
+    }
+  ],
+  "description": "Dallas–Fort Worth outdoor countertops need regular cleaning for dust and debris. Natural stone requires periodic sealing, while engineered surfaces need only mi"
+}

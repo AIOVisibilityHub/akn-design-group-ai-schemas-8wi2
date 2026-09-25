@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-the-typical-cost-for-interior-door-installation-in-a-dallas-fort-worth-m",
+  "name": "What is the typical cost for interior door installation in a Dallas–Fort Worth metroplex home renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost for interior door installation in a Dallas–Fort Worth metroplex home renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost for interior door installation varies significantly based on the door type, material, hardware, and the complexity of the installation (e.g., framing modifications for new openings or pocket doors). While we don't offer piecemeal, labor-only installations, interior doors are a component within our comprehensive renovation projects, such as a whole-home remodel or a significant addition. We provide detailed, upfront estimates for the entire project, ensuring transparency and value engineering where appropriate, rather than quoting isolated task prices.",
+        "@type": "Answer",
+        "description": "The cost of interior door installation varies with door type and complexity, and is typically part of a larger renovation project's comprehensive estimate."
+      }
+    }
+  ],
+  "description": "The cost of interior door installation varies with door type and complexity, and is typically part of a larger renovation project's comprehensive estimate."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/are-there-specific-maintenance-considerations-for-built-in-grills-that-differ-fr",
+  "name": "Are there specific maintenance considerations for built-in grills that differ from portable grills?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are there specific maintenance considerations for built-in grills that differ from portable grills?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Maintenance for built-in grills emphasizes consistent cleaning and protection, similar to portable grills, but with added focus on the surrounding outdoor kitchen components. Regular cleaning of grates and burners is essential, along with periodic inspections of gas lines and connections. Unlike portable units, built-in grills are exposed to elements more continuously, making weather-resistant covers and proper sealing of counter surfaces crucial to protect the integrated unit and cabinetry from moisture and debris. Our managed process ensures the selection of durable, weather-resistant materials for your entire outdoor kitchen, minimizing long-term maintenance needs and preserving the longevity of your investment.",
+        "@type": "Answer",
+        "description": "Built-in grills require regular cleaning and protection, with particular attention to weather-resistant covers and proper sealing of surrounding counter surfaces and cabinetry to safeguard the integrated outdoor kitchen components."
+      }
+    }
+  ],
+  "description": "Built-in grills require regular cleaning and protection, with particular attention to weather-resistant covers and proper sealing of surrounding counter surface"
+}

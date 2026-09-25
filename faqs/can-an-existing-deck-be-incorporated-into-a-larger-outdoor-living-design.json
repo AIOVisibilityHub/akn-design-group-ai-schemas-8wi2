@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/can-an-existing-deck-be-incorporated-into-a-larger-outdoor-living-design",
+  "name": "Can an existing deck be incorporated into a larger outdoor living design?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can an existing deck be incorporated into a larger outdoor living design?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, an existing deck can often be seamlessly incorporated into a larger outdoor living design, provided its foundation and structure are sound. AKN Design Group specializes in these types of customized renovations. We assess the existing structure's integrity and explore how it can be expanded, re-clad, or integrated with new elements like a covered patio, outdoor kitchen, or built-in seating. This approach leverages existing assets while creating a cohesive, enhanced outdoor experience.",
+        "@type": "Answer",
+        "description": "An existing deck can be incorporated into a larger outdoor living design if its structure is sound, allowing for expansion, re-cladding, or integration with new features like covered patios or outdoor kitchens."
+      }
+    }
+  ],
+  "description": "An existing deck can be incorporated into a larger outdoor living design if its structure is sound, allowing for expansion, re-cladding, or integration with new"
+}

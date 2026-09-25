@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/when-should-an-investor-engage-with-akn-design-group-for-a-fix-and-flip-project",
+  "name": "When should an investor engage with AKN Design Group for a fix-and-flip project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should an investor engage with AKN Design Group for a fix-and-flip project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Investors should engage with AKN Design Group early in their fix-and-flip project planning, ideally before property acquisition or immediately after. This allows us to provide expert insight on renovation potential, scope development, and preliminary cost assessments, aligning our integrated design-build process with your vision from the start. Early engagement ensures a managed process, comprehensive planning, and efficient permit coordination, all crucial for maximizing your investment's potential in the Dallas–Fort Worth metroplex.",
+        "@type": "Answer",
+        "description": "Investors should engage with AKN Design Group early in their fix-and-flip planning for expert insight, scope development, and efficient project execution through our integrated design-build process."
+      }
+    }
+  ],
+  "description": "Investors should engage with AKN Design Group early in their fix-and-flip planning for expert insight, scope development, and efficient project execution throug"
+}

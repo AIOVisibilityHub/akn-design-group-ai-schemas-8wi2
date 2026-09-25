@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-types-of-patio-covers-does-akn-design-group-offer-for-outdoor-living-spaces",
+  "name": "What types of patio covers does AKN Design Group offer for outdoor living spaces?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of patio covers does AKN Design Group offer for outdoor living spaces?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "AKN Design Group specializes in custom patio covers that enhance your outdoor living experience. We design and build structures such as covered patios, pergolas, and integrated outdoor kitchens, tailored to seamlessly blend with your home's architecture. Our approach considers factors like sun exposure, aesthetics, and functionality to create a defined outdoor destination that expands usable living space. We focus on comprehensive solutions that include structural elements, potential lighting, and amenities to ensure a coordinated transformation of your backyard.",
+        "@type": "Answer",
+        "description": "AKN Design Group offers custom patio covers, pergolas, and integrated outdoor kitchens, designed to enhance outdoor living spaces and blend with home architecture."
+      }
+    }
+  ],
+  "description": "AKN Design Group offers custom patio covers, pergolas, and integrated outdoor kitchens, designed to enhance outdoor living spaces and blend with home architectu"
+}

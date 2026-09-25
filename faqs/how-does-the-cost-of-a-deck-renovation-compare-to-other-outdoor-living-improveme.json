@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-does-the-cost-of-a-deck-renovation-compare-to-other-outdoor-living-improveme",
+  "name": "How does the cost of a deck renovation compare to other outdoor living improvements?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does the cost of a deck renovation compare to other outdoor living improvements?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a deck renovation varies significantly based on its size, materials chosen, and complexity of design, particularly when integrating with other high-end outdoor living features like outdoor kitchens or covered patios. While a standalone deck can be a substantial investment, combining it with other elements like pergolas or fire pits can offer greater value engineering. AKN Design Group provides transparent, upfront estimates as part of our managed process, ensuring you understand the investment for your comprehensive outdoor transformation.",
+        "@type": "Answer",
+        "description": "Deck renovation costs vary by size, materials, and design complexity, especially when integrated with other outdoor living features; combining elements can offer value engineering."
+      }
+    }
+  ],
+  "description": "Deck renovation costs vary by size, materials, and design complexity, especially when integrated with other outdoor living features; combining elements can offe"
+}

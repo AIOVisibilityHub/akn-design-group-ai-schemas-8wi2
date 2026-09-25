@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-preparation-is-needed-before-baseboards-can-be-installed",
+  "name": "What preparation is needed before baseboards can be installed?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What preparation is needed before baseboards can be installed?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before baseboards can be installed, several preparatory steps are essential to ensure a clean and lasting finish. Walls must be properly prepped and painted to their final color, and new flooring should be fully installed. Additionally, any existing baseboards must be carefully removed, and the wall surfaces cleaned and repaired to provide a smooth, even substrate. AKN Design Group’s managed process ensures all prerequisite tasks are completed efficiently, allowing for a precise and professional baseboard installation as a final touch to your renovation.",
+        "@type": "Answer",
+        "description": "Walls must be painted, flooring installed, and existing baseboards removed with surfaces prepped, all managed efficiently in our process."
+      }
+    }
+  ],
+  "description": "Walls must be painted, flooring installed, and existing baseboards removed with surfaces prepped, all managed efficiently in our process."
+}

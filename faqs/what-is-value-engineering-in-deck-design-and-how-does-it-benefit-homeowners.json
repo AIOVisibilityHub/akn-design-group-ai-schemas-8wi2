@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-value-engineering-in-deck-design-and-how-does-it-benefit-homeowners",
+  "name": "What is value engineering in deck design, and how does it benefit homeowners?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is value engineering in deck design, and how does it benefit homeowners?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Value engineering in deck design involves analyzing different materials, methods, and features to achieve the desired functionality and aesthetic while optimizing costs. It’s not about choosing the cheapest option, but rather finding the most efficient and effective solutions that maintain quality and performance. For example, selecting a specific type of composite decking for its durability and lower long-term maintenance can be a value-engineered choice over a more expensive natural wood that requires frequent sealing. This approach ensures that your high-end outdoor living space delivers maximum value for your investment without compromising craftsmanship.",
+        "@type": "Answer",
+        "description": "Value engineering in deck design optimizes costs by finding efficient solutions that maintain quality and desired aesthetics. It helps maximize the value of your investment without compromising craftsmanship."
+      }
+    }
+  ],
+  "description": "Value engineering in deck design optimizes costs by finding efficient solutions that maintain quality and desired aesthetics. It helps maximize the value of you"
+}

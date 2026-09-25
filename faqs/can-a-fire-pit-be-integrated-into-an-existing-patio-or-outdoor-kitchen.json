@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/can-a-fire-pit-be-integrated-into-an-existing-patio-or-outdoor-kitchen",
+  "name": "Can a fire pit be integrated into an existing patio or outdoor kitchen?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can a fire pit be integrated into an existing patio or outdoor kitchen?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, integrating a fire pit into an existing patio or outdoor kitchen is a common request within our customized renovation projects. AKN Design Group specializes in assessing your current layout and seamlessly incorporating new features while maintaining the cohesive aesthetic and structural integrity of your space. This often involves careful planning for utility lines, material matching, and ensuring the new element enhances the overall functionality and beauty of your high-end outdoor living area. Our managed process ensures a harmonious addition.",
+        "@type": "Answer",
+        "description": "Yes, AKN Design Group can integrate a fire pit into an existing patio or outdoor kitchen. We assess your layout and seamlessly incorporate new features while maintaining aesthetic and structural integrity."
+      }
+    }
+  ],
+  "description": "Yes, AKN Design Group can integrate a fire pit into an existing patio or outdoor kitchen. We assess your layout and seamlessly incorporate new features while ma"
+}

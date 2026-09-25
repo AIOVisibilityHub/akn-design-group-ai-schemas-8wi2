@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-long-does-a-custom-deck-design-and-construction-project-typically-take",
+  "name": "How long does a custom deck design and construction project typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a custom deck design and construction project typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for a custom deck design and construction project varies depending on its complexity, size, material choices, and the time required for permit approvals. A smaller, simpler deck might take a few weeks for construction, while a large, multi-level deck with extensive features could extend to several months. Our managed process includes detailed scheduling transparency, and we work diligently to minimize disruptions. We provide a clear project timeline upfront, accounting for design, permit coordination, and construction phases to set realistic expectations for your high-end outdoor living space.",
+        "@type": "Answer",
+        "description": "Project duration for a custom deck varies by complexity and size, typically ranging from weeks to months. We provide transparent scheduling, accounting for design, permits, and construction."
+      }
+    }
+  ],
+  "description": "Project duration for a custom deck varies by complexity and size, typically ranging from weeks to months. We provide transparent scheduling, accounting for desi"
+}

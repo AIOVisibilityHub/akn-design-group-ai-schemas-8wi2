@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-considerations-are-important-for-adding-an-outdoor-kitchen-to-a-large-deck",
+  "name": "What considerations are important for adding an outdoor kitchen to a large deck?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What considerations are important for adding an outdoor kitchen to a large deck?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Adding an outdoor kitchen to a large deck introduces several important considerations, including utility connections, ventilation, and weather protection. You'll need to assess the availability of gas, water, and electrical lines to the deck area. A key preparation step is to determine the scope of your outdoor cooking needs—whether it's a simple grill station or a full kitchen with a sink, refrigerator, and extensive counter space. Our design process factors in these elements early, ensuring efficient layouts and proper integration for a functional and enjoyable high-end outdoor living experience.",
+        "@type": "Answer",
+        "description": "Adding an outdoor kitchen requires considering utility connections, ventilation, and weather protection. Determine your cooking needs early to ensure efficient layout and proper integration for a functional outdoor space."
+      }
+    }
+  ],
+  "description": "Adding an outdoor kitchen requires considering utility connections, ventilation, and weather protection. Determine your cooking needs early to ensure efficient"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/can-akn-design-group-help-integrate-a-custom-patio-with-an-existing-outdoor-kitc",
+  "name": "Can AKN Design Group help integrate a custom patio with an existing outdoor kitchen or other backyard features?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can AKN Design Group help integrate a custom patio with an existing outdoor kitchen or other backyard features?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, AKN Design Group specializes in integrating new custom patios with existing outdoor kitchens, pergolas, pools, or other backyard features to create a cohesive high-end outdoor living space. Our design-build approach ensures that all elements are harmonized in style and function. We assess your current layout and work to develop a comprehensive plan that enhances the overall flow and usability of your backyard. This integrated approach, managed by a single accountable team, avoids disjointed upgrades and ensures a unified transformation.",
+        "@type": "Answer",
+        "description": "We integrate new custom patios with existing outdoor features to create cohesive, high-end outdoor living spaces, ensuring harmony in style and function."
+      }
+    }
+  ],
+  "description": "We integrate new custom patios with existing outdoor features to create cohesive, high-end outdoor living spaces, ensuring harmony in style and function."
+}

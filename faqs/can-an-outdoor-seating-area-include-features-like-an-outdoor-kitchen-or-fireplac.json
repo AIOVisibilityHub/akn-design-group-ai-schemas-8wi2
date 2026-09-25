@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/can-an-outdoor-seating-area-include-features-like-an-outdoor-kitchen-or-fireplac",
+  "name": "Can an outdoor seating area include features like an outdoor kitchen or fireplace?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can an outdoor seating area include features like an outdoor kitchen or fireplace?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Absolutely. High-end outdoor living spaces frequently integrate features such as outdoor kitchens, built-in grills, outdoor countertops, and custom fireplaces or fire pits. These additions enhance both the functionality and value of your outdoor area, creating a true extension of your home. When planning, we evaluate the optimal placement for utilities like gas and water lines, and consider proper ventilation and safety measures, ensuring these features are both beautiful and fully operational. This holistic approach ensures all elements work together cohesively.",
+        "@type": "Answer",
+        "description": "Yes, outdoor seating areas can include outdoor kitchens, built-in grills, and custom fireplaces or fire pits, which we integrate considering utilities and safety."
+      }
+    }
+  ],
+  "description": "Yes, outdoor seating areas can include outdoor kitchens, built-in grills, and custom fireplaces or fire pits, which we integrate considering utilities and safet"
+}

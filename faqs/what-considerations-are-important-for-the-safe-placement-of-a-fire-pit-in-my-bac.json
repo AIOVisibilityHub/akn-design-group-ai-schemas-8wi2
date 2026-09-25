@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-considerations-are-important-for-the-safe-placement-of-a-fire-pit-in-my-bac",
+  "name": "What considerations are important for the safe placement of a fire pit in my backyard?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What considerations are important for the safe placement of a fire pit in my backyard?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Safe placement of a fire pit is crucial for any outdoor living project. Key considerations include maintaining adequate distance from combustible structures, overhanging branches, and property lines. Proper ventilation and ensuring a stable, non-combustible surface beneath and around the fire pit are also essential. AKN Design Group incorporates these safety requirements into our design-build process, ensuring your fire feature not only enhances your outdoor space but also adheres to local safety guidelines. We focus on enhancing functionality and beauty responsibly.",
+        "@type": "Answer",
+        "description": "Safe fire pit placement requires distance from structures and branches, proper ventilation, and a non-combustible surface. AKN Design Group integrates these safety standards into our designs."
+      }
+    }
+  ],
+  "description": "Safe fire pit placement requires distance from structures and branches, proper ventilation, and a non-combustible surface. AKN Design Group integrates these saf"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-factors-influence-the-cost-of-building-a-new-deck",
+  "name": "What factors influence the cost of building a new deck?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of building a new deck?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of building a new deck is influenced by several factors, including its size, complexity of design, choice of materials, and site preparation requirements. Larger or multi-level decks with custom features like built-in seating, pergolas, or outdoor kitchens will typically incur higher costs. Material selection, such as premium hardwoods or advanced composite decking, also impacts the overall investment. As part of our managed process, we provide upfront estimates and engage in value engineering discussions to align your vision with a realistic budget, ensuring transparency from concept to completion.",
+        "@type": "Answer",
+        "description": "Deck costs depend on size, design complexity, material choice, and site prep. We provide upfront estimates and discuss value engineering to align your vision with your budget."
+      }
+    }
+  ],
+  "description": "Deck costs depend on size, design complexity, material choice, and site prep. We provide upfront estimates and discuss value engineering to align your vision wi"
+}

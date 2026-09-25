@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-the-typical-process-for-installing-a-built-in-grill-within-a-new-outdoor",
+  "name": "What is the typical process for installing a built-in grill within a new outdoor kitchen?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for installing a built-in grill within a new outdoor kitchen?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The installation of a built-in grill is part of our integrated design-build process for outdoor kitchens. It begins with comprehensive design planning, including CAD-supported layouts, to determine optimal placement and surrounding cabinetry. Once the design is finalized and permits secured, the construction phase involves building the custom island or counter structure, running necessary utility lines (gas, electric), and then carefully integrating the grill unit. Our managed process ensures seamless coordination between structural work, utility connections, and finish carpentry, resulting in a cohesive and safe high-end outdoor living space that is ready for immediate enjoyment. We handle all aspects from concept to final walkthrough.",
+        "@type": "Answer",
+        "description": "Our process involves design planning, permit coordination, custom structure building, utility installation, and seamless integration of the grill, ensuring a cohesive and safe outdoor kitchen from concept to completion."
+      }
+    }
+  ],
+  "description": "Our process involves design planning, permit coordination, custom structure building, utility installation, and seamless integration of the grill, ensuring a co"
+}

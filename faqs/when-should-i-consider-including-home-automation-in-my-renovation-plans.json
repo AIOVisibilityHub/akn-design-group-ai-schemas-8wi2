@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/when-should-i-consider-including-home-automation-in-my-renovation-plans",
+  "name": "When should I consider including home automation in my renovation plans?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider including home automation in my renovation plans?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "It is most beneficial to consider home automation early in the design phase of a major renovation, such as a whole-home remodel or addition. This allows AKN Design Group to plan for necessary wiring, power, and infrastructure during the structural phase, avoiding costly retrofits later. Discussing your desired smart home features upfront ensures they are integrated efficiently and aesthetically with your new layout and finishes, enhancing both functionality and the overall homeowner experience.",
+        "@type": "Answer",
+        "description": "Integrate home automation discussions early in major renovation planning to allow for proper infrastructure and seamless integration into the design."
+      }
+    }
+  ],
+  "description": "Integrate home automation discussions early in major renovation planning to allow for proper infrastructure and seamless integration into the design."
+}

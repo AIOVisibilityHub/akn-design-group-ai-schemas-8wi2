@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-permits-are-typically-required-for-building-a-new-deck-in-the-fort-worth-ar",
+  "name": "What permits are typically required for building a new deck in the Fort Worth area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits are typically required for building a new deck in the Fort Worth area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Building a new deck in the Fort Worth area often requires specific permits to ensure structural integrity and compliance with local building codes. Requirements can vary based on the deck's size, height, and proximity to property lines. Typically, a building permit is needed, and sometimes electrical or plumbing permits if features like outdoor lighting or sinks are included. As part of our comprehensive service, AKN Design Group manages all permit coordination, navigating the specific regulations of Fort Worth, Alameda, Albany, or Berkeley to ensure your project proceeds smoothly and legally.",
+        "@type": "Answer",
+        "description": "New deck construction in Fort Worth often requires building permits, with additional permits for features like lighting. AKN Design Group handles all necessary permit coordination for your project."
+      }
+    }
+  ],
+  "description": "New deck construction in Fort Worth often requires building permits, with additional permits for features like lighting. AKN Design Group handles all necessary"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-should-i-consider-before-starting-an-outdoor-kitchen-project",
+  "name": "What should I consider before starting an outdoor kitchen project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I consider before starting an outdoor kitchen project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before starting an outdoor kitchen project, consider your primary goals for the space, including how you plan to use it for cooking and entertaining. Evaluate the available space in your backyard, considering proximity to utilities like water, gas, and electricity, which can impact design and cost. Also, think about your preferred aesthetic and the desired level of integration with your existing home and landscape. Gathering inspiration photos and having a general understanding of your budget will help streamline the initial consultation, enabling our team to create a customized renovation plan that aligns with your vision.",
+        "@type": "Answer",
+        "description": "Before starting, consider your goals for the space, available backyard area, utility access, desired aesthetic, and budget. Gathering inspiration photos will aid the initial consultation."
+      }
+    }
+  ],
+  "description": "Before starting, consider your goals for the space, available backyard area, utility access, desired aesthetic, and budget. Gathering inspiration photos will ai"
+}

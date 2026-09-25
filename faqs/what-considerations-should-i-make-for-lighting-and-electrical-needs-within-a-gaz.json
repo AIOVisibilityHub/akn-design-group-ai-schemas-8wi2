@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-considerations-should-i-make-for-lighting-and-electrical-needs-within-a-gaz",
+  "name": "What considerations should I make for lighting and electrical needs within a gazebo?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What considerations should I make for lighting and electrical needs within a gazebo?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When planning a gazebo, considering lighting and electrical needs from the outset is crucial for enhancing its functionality and ambiance. You might consider ceiling fans for comfort, overhead lighting for evening use, or outlets for entertainment systems. This preparation involves discussing your intended use with our team so that we can incorporate these elements into the design, ensuring proper wiring and fixture placement. AKN Design Group ensures these features are integrated safely and aesthetically, creating a truly functional and spa-inspired experience within your high-end outdoor living area.",
+        "@type": "Answer",
+        "description": "Consider lighting for ambiance, ceiling fans for comfort, and outlets for entertainment; these are integrated during the design phase for functionality and aesthetics."
+      }
+    }
+  ],
+  "description": "Consider lighting for ambiance, ceiling fans for comfort, and outlets for entertainment; these are integrated during the design phase for functionality and aest"
+}

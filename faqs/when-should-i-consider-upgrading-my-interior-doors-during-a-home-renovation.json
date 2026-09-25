@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/when-should-i-consider-upgrading-my-interior-doors-during-a-home-renovation",
+  "name": "When should I consider upgrading my interior doors during a home renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider upgrading my interior doors during a home renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider upgrading your interior doors during a home renovation if your current doors are outdated, damaged, or do not align with your desired aesthetic and functional goals. This is an opportune moment to enhance noise insulation with solid core doors, improve natural light flow with glass-paneled options, or save space with pocket doors, especially during whole-home remodels or significant room additions. Integrating new doors ensures a cohesive design and enhances the functionality, beauty, and value of your customized renovation.",
+        "@type": "Answer",
+        "description": "Upgrade interior doors during a home renovation if they are outdated, damaged, or don't meet your aesthetic and functional goals, especially during whole-home remodels."
+      }
+    }
+  ],
+  "description": "Upgrade interior doors during a home renovation if they are outdated, damaged, or don't meet your aesthetic and functional goals, especially during whole-home r"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-are-the-benefits-of-a-built-in-fire-pit-versus-a-portable-fire-pit",
+  "name": "What are the benefits of a built-in fire pit versus a portable fire pit?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the benefits of a built-in fire pit versus a portable fire pit?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A built-in fire pit, as part of a high-end outdoor living space, offers permanence, custom design integration, and often greater aesthetic value compared to a portable unit. It becomes a fixed architectural feature, enhancing your property's long-term value and serving as a central gathering point. While a portable fire pit offers flexibility in placement and lower initial cost, it typically lacks the durability, custom finishes, and seamless integration that a professionally designed and installed built-in feature provides. Our clients seek customized solutions for lasting impressions.",
+        "@type": "Answer",
+        "description": "Built-in fire pits offer custom design, permanence, and enhanced property value, seamlessly integrating into your outdoor space. Portable units provide flexibility but lack the custom aesthetics and durability."
+      }
+    }
+  ],
+  "description": "Built-in fire pits offer custom design, permanence, and enhanced property value, seamlessly integrating into your outdoor space. Portable units provide flexibil"
+}

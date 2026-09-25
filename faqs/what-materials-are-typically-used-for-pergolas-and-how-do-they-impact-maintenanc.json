@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-materials-are-typically-used-for-pergolas-and-how-do-they-impact-maintenanc",
+  "name": "What materials are typically used for pergolas, and how do they impact maintenance?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What materials are typically used for pergolas, and how do they impact maintenance?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Pergolas are commonly constructed from materials such as wood (cedar, redwood, pressure-treated pine) or low-maintenance options like aluminum or vinyl. Wood pergolas offer a classic aesthetic but require periodic sealing or staining to protect against weathering and maintain their appearance. Aluminum and vinyl pergolas are known for their durability and minimal maintenance, making them excellent choices for homeowners seeking lasting value with less upkeep. AKN Design Group can guide you through the material selection, considering the Dallas–Fort Worth metroplex climate, your design preferences, and long-term maintenance expectations to ensure your pergola meets your vision and lifestyle.",
+        "@type": "Answer",
+        "description": "Common pergola materials include wood, aluminum, and vinyl. Wood requires more maintenance like sealing or staining, while aluminum and vinyl offer durability with minimal upkeep."
+      }
+    }
+  ],
+  "description": "Common pergola materials include wood, aluminum, and vinyl. Wood requires more maintenance like sealing or staining, while aluminum and vinyl offer durability w"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-long-does-it-typically-take-to-complete-a-custom-gazebo-project",
+  "name": "How long does it typically take to complete a custom gazebo project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it typically take to complete a custom gazebo project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for a custom gazebo project varies based on its design complexity, size, material availability, and the permit approval process. A straightforward design might take a few weeks for construction once permits are secured, while more elaborate structures with integrated features could take longer. AKN Design Group provides scheduling transparency and clear communication throughout the project. Our decades of experience and managed process aim to execute projects efficiently while never compromising on the craftsmanship or quality that defines our high-end outdoor living spaces.",
+        "@type": "Answer",
+        "description": "Project timelines vary based on design complexity, size, materials, and permit approvals; AKN provides transparent scheduling and efficient project execution."
+      }
+    }
+  ],
+  "description": "Project timelines vary based on design complexity, size, materials, and permit approvals; AKN provides transparent scheduling and efficient project execution."
+}

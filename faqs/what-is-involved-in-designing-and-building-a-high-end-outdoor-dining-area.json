@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-involved-in-designing-and-building-a-high-end-outdoor-dining-area",
+  "name": "What is involved in designing and building a high-end outdoor dining area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in designing and building a high-end outdoor dining area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Designing and building a high-end outdoor dining area with AKN Design Group involves a comprehensive, managed process. We start with understanding your vision and lifestyle, then develop a detailed design, often including CAD-supported layouts. This integrated design-build approach covers everything from selecting appropriate hardscaping and structural elements like covered patios or pergolas to integrating built-in grills, countertops, and ambient lighting. We coordinate all aspects, ensuring the final space is not only beautiful but also enhances your home's functionality and value. Our process emphasizes clear communication from concept to final walkthrough, providing a single point of coordination for a complex project.",
+        "@type": "Answer",
+        "description": "AKN Design Group's integrated design-build process for high-end outdoor dining areas covers design, material selection, and construction, coordinating all elements from hardscaping to built-in features and lighting."
+      }
+    }
+  ],
+  "description": "AKN Design Group's integrated design-build process for high-end outdoor dining areas covers design, material selection, and construction, coordinating all eleme"
+}

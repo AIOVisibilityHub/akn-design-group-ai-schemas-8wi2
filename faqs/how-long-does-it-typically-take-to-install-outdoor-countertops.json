@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-long-does-it-typically-take-to-install-outdoor-countertops",
+  "name": "How long does it typically take to install outdoor countertops?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it typically take to install outdoor countertops?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for outdoor countertop installation is dependent on the complexity of the design, the material chosen, and the overall scope of your outdoor living project. Fabrication times vary, especially for custom pieces or specialty materials. Once materials are ready, the on-site installation itself can often be completed within a few days, but this is part of a larger, managed process that includes design, permitting, and other construction elements. AKN Design Group provides a clear project timeline as part of our comprehensive homeowner experience.",
+        "@type": "Answer",
+        "description": "Installation time varies with design complexity, material, and project scope. Fabrication takes time, with on-site installation typically a few days. AKN provides a clear project timeline."
+      }
+    }
+  ],
+  "description": "Installation time varies with design complexity, material, and project scope. Fabrication takes time, with on-site installation typically a few days. AKN provid"
+}

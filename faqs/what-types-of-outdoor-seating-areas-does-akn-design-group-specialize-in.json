@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-types-of-outdoor-seating-areas-does-akn-design-group-specialize-in",
+  "name": "What types of outdoor seating areas does AKN Design Group specialize in?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of outdoor seating areas does AKN Design Group specialize in?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "AKN Design Group specializes in designing and building high-end outdoor living spaces that enhance your home's functionality and aesthetic. This includes comprehensive projects such as custom patios, covered patios, pergolas, and integrated outdoor kitchens. Our focus is on creating a defined outdoor destination that expands usable living space and makes your backyard more practical for everyday relaxation and entertaining. We approach these projects as substantial, coordinated residential renovations.",
+        "@type": "Answer",
+        "description": "AKN Design Group specializes in custom patios, covered patios, pergolas, and integrated outdoor kitchens, creating high-end outdoor living spaces."
+      }
+    }
+  ],
+  "description": "AKN Design Group specializes in custom patios, covered patios, pergolas, and integrated outdoor kitchens, creating high-end outdoor living spaces."
+}

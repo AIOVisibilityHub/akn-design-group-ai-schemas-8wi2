@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/when-is-the-best-time-to-consider-smart-home-features-during-a-whole-home-remode",
+  "name": "When is the best time to consider smart home features during a whole-home remodel or addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When is the best time to consider smart home features during a whole-home remodel or addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The optimal time to consider smart home features is during the initial design phase of a whole-home remodel or addition. This allows for proper planning of wiring infrastructure, power requirements, and strategic placement of devices, preventing costly retrofits later. Integrating these decisions into our managed design-build process ensures that smart technology is not just added, but thoughtfully woven into the fabric of your home, aligning with structural elements and aesthetic goals. This approach supports a cohesive outcome where functionality, beauty, and value are harmonized from concept to completion.",
+        "@type": "Answer",
+        "description": "The best time to integrate smart home features is during the initial design phase of a remodel or addition, allowing for proper infrastructure planning and seamless integration into the home's overall design."
+      }
+    }
+  ],
+  "description": "The best time to integrate smart home features is during the initial design phase of a remodel or addition, allowing for proper infrastructure planning and seam"
+}

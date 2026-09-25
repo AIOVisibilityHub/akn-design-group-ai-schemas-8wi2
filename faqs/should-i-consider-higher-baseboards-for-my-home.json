@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/should-i-consider-higher-baseboards-for-my-home",
+  "name": "Should I consider higher baseboards for my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I consider higher baseboards for my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Considering higher baseboards for your home can significantly impact the visual appeal and perceived scale of a room, especially in spaces with higher ceilings. Taller baseboards often create a more substantial and luxurious feel, drawing the eye and adding architectural interest. This is a design decision we discuss during the planning phase of your residential design-build project, helping you achieve a customized aesthetic that enhances the beauty and long-term value of your property.",
+        "@type": "Answer",
+        "description": "Higher baseboards can enhance room aesthetics and perceived scale, a design decision we discuss to achieve a luxurious feel for your home."
+      }
+    }
+  ],
+  "description": "Higher baseboards can enhance room aesthetics and perceived scale, a design decision we discuss to achieve a luxurious feel for your home."
+}

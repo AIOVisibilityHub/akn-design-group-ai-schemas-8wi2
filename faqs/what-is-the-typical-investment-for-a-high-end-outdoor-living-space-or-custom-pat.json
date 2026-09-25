@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-the-typical-investment-for-a-high-end-outdoor-living-space-or-custom-pat",
+  "name": "What is the typical investment for a high-end outdoor living space or custom patio?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical investment for a high-end outdoor living space or custom patio?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The investment for a high-end outdoor living space or custom patio is highly variable, depending on the scope, materials, and features included. Factors such as the size of the patio, inclusion of covered structures, outdoor kitchens, fire pits, custom lighting, and premium hardscaping materials all influence the overall cost. AKN Design Group specializes in customized renovations, focusing on enhancing functionality, beauty, and long-term value rather than offering budget-focused, piecemeal solutions. We provide comprehensive, upfront estimates following an in-depth design consultation, ensuring a clear understanding of the investment required for your unique vision. Our value engineering approach seeks efficiency without compromising craftsmanship.",
+        "@type": "Answer",
+        "description": "Investment for high-end patios varies based on size, features, and materials. AKN Design Group provides comprehensive, upfront estimates for customized solutions focused on long-term value."
+      }
+    }
+  ],
+  "description": "Investment for high-end patios varies based on size, features, and materials. AKN Design Group provides comprehensive, upfront estimates for customized solution"
+}

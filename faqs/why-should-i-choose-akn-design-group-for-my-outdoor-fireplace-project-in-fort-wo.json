@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/why-should-i-choose-akn-design-group-for-my-outdoor-fireplace-project-in-fort-wo",
+  "name": "Why should I choose AKN Design Group for my outdoor fireplace project in Fort Worth?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why should I choose AKN Design Group for my outdoor fireplace project in Fort Worth?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing AKN Design Group for your outdoor fireplace project means partnering with a team that offers an integrated design-build process, ensuring a single point of coordination from concept to completion. With over two decades of experience and more than 10,000 jobs completed, we bring extensive expertise in crafting high-end outdoor living spaces. We are committed to honesty, reliability, and craftsmanship, focusing on personalized service and clear communication to deliver a custom fireplace that enhances your Fort Worth home's functionality, beauty, and long-term value.",
+        "@type": "Answer",
+        "description": "AKN Design Group offers an integrated design-build process, extensive experience, and a commitment to craftsmanship for your custom outdoor fireplace in Fort Worth."
+      }
+    }
+  ],
+  "description": "AKN Design Group offers an integrated design-build process, extensive experience, and a commitment to craftsmanship for your custom outdoor fireplace in Fort Wo"
+}

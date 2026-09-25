@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-can-a-pergola-enhance-the-value-of-my-home-in-the-dallas-fort-worth-metrople",
+  "name": "How can a pergola enhance the value of my home in the Dallas–Fort Worth metroplex?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can a pergola enhance the value of my home in the Dallas–Fort Worth metroplex?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A well-designed and expertly constructed pergola can significantly enhance your home's value by expanding usable outdoor living space and improving curb appeal. In the Dallas–Fort Worth metroplex, homeowners increasingly value high-end outdoor living areas for entertaining and relaxation. A custom pergola, integrated seamlessly with your home's design, elevates the aesthetic and provides a desirable feature that differentiates your property. AKN Design Group's focus on craftsmanship and customized renovations ensures your pergola is not just an addition, but a valuable asset that contributes to the long-term enjoyment and market appeal of your home.",
+        "@type": "Answer",
+        "description": "A custom pergola enhances home value by expanding usable outdoor living space and improving curb appeal, which is highly valued in the Dallas–Fort Worth metroplex."
+      }
+    }
+  ],
+  "description": "A custom pergola enhances home value by expanding usable outdoor living space and improving curb appeal, which is highly valued in the Dallas–Fort Worth metropl"
+}

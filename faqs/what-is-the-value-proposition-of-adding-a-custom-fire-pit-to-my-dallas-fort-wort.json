@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-the-value-proposition-of-adding-a-custom-fire-pit-to-my-dallas-fort-wort",
+  "name": "What is the value proposition of adding a custom fire pit to my Dallas–Fort Worth home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the value proposition of adding a custom fire pit to my Dallas–Fort Worth home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Adding a custom fire pit to your Dallas–Fort Worth home with AKN Design Group enhances functionality, beauty, and long-term value. It transforms an underutilized backyard into a captivating gathering space, extending your usable living area for relaxation and entertaining. As part of a high-end outdoor living space, it represents a customized solution that reflects your unique lifestyle and aesthetic. This investment not only elevates your outdoor experience but also contributes to the overall appeal and marketability of your property, creating lasting impressions.",
+        "@type": "Answer",
+        "description": "A custom fire pit enhances your Dallas–Fort Worth home's functionality, beauty, and long-term value by creating a captivating outdoor gathering space that extends your living area."
+      }
+    }
+  ],
+  "description": "A custom fire pit enhances your Dallas–Fort Worth home's functionality, beauty, and long-term value by creating a captivating outdoor gathering space that exten"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-does-akn-design-group-ensure-the-safety-and-structural-integrity-of-a-new-de",
+  "name": "How does AKN Design Group ensure the safety and structural integrity of a new deck?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does AKN Design Group ensure the safety and structural integrity of a new deck?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Ensuring the safety and structural integrity of your new deck is paramount. AKN Design Group adheres to all local building codes and industry best practices. Our process includes thorough foundation preparation, proper ledger board attachment, and robust framing techniques. We meticulously plan and execute structural details, selecting appropriate fasteners and ensuring adequate support for anticipated loads. By integrating design planning with construction under one experienced team, we maintain strict quality control at every stage. This managed process ensures your high-end outdoor living space is not only aesthetically pleasing but also exceptionally safe and durable for years to come.",
+        "@type": "Answer",
+        "description": "We ensure deck safety and structural integrity by adhering to all local building codes, meticulous foundation preparation, robust framing, and strict quality control through our integrated design-build process."
+      }
+    }
+  ],
+  "description": "We ensure deck safety and structural integrity by adhering to all local building codes, meticulous foundation preparation, robust framing, and strict quality co"
+}

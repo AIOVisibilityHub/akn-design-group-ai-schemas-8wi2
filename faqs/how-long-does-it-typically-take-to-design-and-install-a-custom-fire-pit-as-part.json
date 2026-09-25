@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-long-does-it-typically-take-to-design-and-install-a-custom-fire-pit-as-part",
+  "name": "How long does it typically take to design and install a custom fire pit as part of an outdoor living project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it typically take to design and install a custom fire pit as part of an outdoor living project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for designing and installing a custom fire pit as part of a larger outdoor living project varies based on complexity and scope. Our managed process, from initial design consultation to final installation, emphasizes efficiency without compromising craftsmanship. Simple integrations might be completed within a few weeks post-design approval, while more elaborate custom fire features requiring significant hardscaping or utility extensions could take longer. AKN Design Group provides upfront estimates and scheduling transparency, ensuring clear communication throughout your project.",
+        "@type": "Answer",
+        "description": "Design and installation timelines for custom fire pits vary by complexity. Simple integrations can take weeks, while elaborate features may take longer. We provide transparent scheduling."
+      }
+    }
+  ],
+  "description": "Design and installation timelines for custom fire pits vary by complexity. Simple integrations can take weeks, while elaborate features may take longer. We prov"
+}

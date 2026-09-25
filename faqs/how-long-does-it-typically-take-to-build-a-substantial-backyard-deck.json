@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-long-does-it-typically-take-to-build-a-substantial-backyard-deck",
+  "name": "How long does it typically take to build a substantial backyard deck?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it typically take to build a substantial backyard deck?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for building a substantial backyard deck can vary significantly based on its size, complexity, and the specific features included, such as pergolas, custom railings, or built-in seating. Generally, once the design is finalized and permits are secured, construction might take several weeks to a few months. A practical tradeoff to consider is balancing the desire for extensive custom features with the overall project duration; more intricate designs often require a longer build time. AKN Design Group provides upfront estimates and scheduling transparency, aiming for efficient project management from concept to completion.",
+        "@type": "Answer",
+        "description": "Building a substantial deck typically takes several weeks to a few months, depending on size and complexity. Balancing extensive custom features with project duration is a practical tradeoff to consider."
+      }
+    }
+  ],
+  "description": "Building a substantial deck typically takes several weeks to a few months, depending on size and complexity. Balancing extensive custom features with project du"
+}

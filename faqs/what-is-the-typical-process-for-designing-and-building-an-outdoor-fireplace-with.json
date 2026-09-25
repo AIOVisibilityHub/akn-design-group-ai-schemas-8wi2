@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-the-typical-process-for-designing-and-building-an-outdoor-fireplace-with",
+  "name": "What is the typical process for designing and building an outdoor fireplace with AKN Design Group?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for designing and building an outdoor fireplace with AKN Design Group?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our process begins with an initial consultation to understand your vision and assess your outdoor space. Following this, we develop detailed design plans, often including CAD-supported layouts, to ensure the fireplace integrates with your broader outdoor living design. Once designs are approved, AKN Design Group manages all aspects of construction, including material selection, site preparation, masonry work, and utility connections. We handle permit coordination within your local DFW area, ensuring a managed process from concept to completion.",
+        "@type": "Answer",
+        "description": "Our process involves consultation, detailed design with CAD layouts, material selection, construction management, and permit coordination, ensuring a seamless build from start to finish."
+      }
+    }
+  ],
+  "description": "Our process involves consultation, detailed design with CAD layouts, material selection, construction management, and permit coordination, ensuring a seamless b"
+}

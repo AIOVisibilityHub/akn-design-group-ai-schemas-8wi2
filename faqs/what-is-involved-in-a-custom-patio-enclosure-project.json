@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-involved-in-a-custom-patio-enclosure-project",
+  "name": "What is involved in a custom patio enclosure project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in a custom patio enclosure project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A custom patio enclosure project transforms an existing outdoor space into a protected, usable area. This involves designing the structure to integrate seamlessly with your home's architecture, selecting appropriate materials for the roof, walls, and flooring, and ensuring proper ventilation and access. AKN Design Group manages the entire process, from initial design concepts and permit coordination to construction and final finishes, creating a tailored space that enhances your home's functionality and aesthetic appeal.",
+        "@type": "Answer",
+        "description": "A custom patio enclosure project involves designing and constructing a protected outdoor space, including material selection, structural integration, and managing permits."
+      }
+    }
+  ],
+  "description": "A custom patio enclosure project involves designing and constructing a protected outdoor space, including material selection, structural integration, and managi"
+}

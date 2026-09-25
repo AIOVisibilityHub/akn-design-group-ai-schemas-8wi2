@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-long-does-it-typically-take-to-design-and-build-a-custom-patio-cover",
+  "name": "How long does it typically take to design and build a custom patio cover?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it typically take to design and build a custom patio cover?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for designing and building a custom patio cover varies based on the project's complexity, size, and chosen materials. Our integrated design-build process ensures a managed timeline from initial consultation and CAD-supported layouts through construction and installation. During the design phase, we work collaboratively to finalize plans, which directly influences the overall project duration. Factors like permitting requirements in the Dallas–Fort Worth metroplex also play a role; AKN Design Group handles permit coordination to streamline this process, contributing to a more predictable schedule.",
+        "@type": "Answer",
+        "description": "The timeline for a custom patio cover depends on complexity, size, and materials. AKN Design Group manages the design-build process, including permit coordination, for a streamlined schedule."
+      }
+    }
+  ],
+  "description": "The timeline for a custom patio cover depends on complexity, size, and materials. AKN Design Group manages the design-build process, including permit coordinati"
+}

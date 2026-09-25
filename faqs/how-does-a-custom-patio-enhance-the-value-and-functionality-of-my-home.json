@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-does-a-custom-patio-enhance-the-value-and-functionality-of-my-home",
+  "name": "How does a custom patio enhance the value and functionality of my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does a custom patio enhance the value and functionality of my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A custom patio significantly enhances both the value and functionality of your home by extending your usable living space outdoors. By creating a defined outdoor destination, a well-designed patio provides a dedicated area for relaxation, entertaining, and dining, transforming an underused backyard into a valuable asset. It also contributes to your home's curb appeal and overall market desirability. AKN Design Group focuses on customized solutions that are seamlessly integrated with your home's architecture and your lifestyle, ensuring the investment not only improves your daily living experience but also provides long-term value, aligning with our belief that true value comes from functional and beautiful enhancements.",
+        "@type": "Answer",
+        "description": "A custom patio enhances home value and functionality by expanding usable living space for relaxation and entertaining, improving curb appeal, and providing long-term value."
+      }
+    }
+  ],
+  "description": "A custom patio enhances home value and functionality by expanding usable living space for relaxation and entertaining, improving curb appeal, and providing long"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-home-automation-and-how-does-akn-design-group-integrate-it-into-renovati",
+  "name": "What is home automation and how does AKN Design Group integrate it into renovations?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is home automation and how does AKN Design Group integrate it into renovations?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Home automation involves the automatic control of electronic devices in your home, allowing for centralized management of lighting, climate, security, and entertainment systems. AKN Design Group integrates home automation solutions as part of larger residential design-build projects, ensuring these systems are thoughtfully planned and seamlessly incorporated into the overall design and functionality of your renovated space. This includes pre-wiring during an addition or whole-home remodel, and ensuring compatibility with other installed systems.",
+        "@type": "Answer",
+        "description": "Home automation provides centralized control of home systems; AKN Design Group integrates these solutions into comprehensive residential renovations for seamless functionality and design."
+      }
+    }
+  ],
+  "description": "Home automation provides centralized control of home systems; AKN Design Group integrates these solutions into comprehensive residential renovations for seamles"
+}

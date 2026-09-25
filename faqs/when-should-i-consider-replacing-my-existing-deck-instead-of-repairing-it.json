@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/when-should-i-consider-replacing-my-existing-deck-instead-of-repairing-it",
+  "name": "When should I consider replacing my existing deck instead of repairing it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider replacing my existing deck instead of repairing it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider deck replacement when structural integrity is compromised due to rot, significant cracking, or widespread insect damage that goes beyond surface-level issues. While minor repairs can address isolated problems, a full replacement ensures long-term safety and enhances the overall value and aesthetics of your home. AKN Design Group focuses on comprehensive solutions that integrate seamlessly with your property, ensuring a safe and durable outdoor living space. We assess the sub-structure, ledger boards, and foundational elements, as these are critical for safety and longevity. Often, what appears to be minor surface damage can indicate deeper, more significant structural concerns that warrant a full replacement for lasting results.",
+        "@type": "Answer",
+        "description": "Consider deck replacement when there is widespread structural damage, rot, or insect infestation that compromises safety and integrity. A full replacement offers a long-term, comprehensive solution for durability and aesthetic enhancement."
+      }
+    }
+  ],
+  "description": "Consider deck replacement when there is widespread structural damage, rot, or insect infestation that compromises safety and integrity. A full replacement offer"
+}

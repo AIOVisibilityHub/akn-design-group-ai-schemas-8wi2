@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-types-of-fire-pits-does-akn-design-group-include-in-outdoor-living-projects",
+  "name": "What types of fire pits does AKN Design Group include in outdoor living projects?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of fire pits does AKN Design Group include in outdoor living projects?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "AKN Design Group integrates various fire pit styles into comprehensive outdoor living designs. We offer options ranging from built-in gas fire pits with stone surrounds to custom wood-burning fire features that complement your landscape architecture. Our focus is on crafting a durable, aesthetically pleasing feature that enhances your outdoor entertaining space. The choice depends on factors like desired fuel type, aesthetic preference, and how you envision using the space for gathering.",
+        "@type": "Answer",
+        "description": "AKN Design Group integrates various fire pit styles, from built-in gas to custom wood-burning, into outdoor living projects to enhance your entertaining space."
+      }
+    }
+  ],
+  "description": "AKN Design Group integrates various fire pit styles, from built-in gas to custom wood-burning, into outdoor living projects to enhance your entertaining space."
+}

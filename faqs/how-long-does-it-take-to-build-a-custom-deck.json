@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-long-does-it-take-to-build-a-custom-deck",
+  "name": "How long does it take to build a custom deck?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to build a custom deck?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for building a custom deck varies based on its size, design complexity, and required permitting processes. A straightforward, smaller deck might be completed in a few weeks, while a more elaborate high-end outdoor living space with integrated features like an outdoor kitchen or covered patio could take several months. Our integrated design-build approach aims to streamline this process by unifying design planning and construction under one team, which often results in greater efficiency. We prioritize clear communication throughout the project, providing scheduling transparency so you know what to expect at each stage.",
+        "@type": "Answer",
+        "description": "Deck construction timelines vary from weeks to months, depending on size and complexity. Our integrated design-build approach streamlines the process, and we provide clear scheduling transparency."
+      }
+    }
+  ],
+  "description": "Deck construction timelines vary from weeks to months, depending on size and complexity. Our integrated design-build approach streamlines the process, and we pr"
+}

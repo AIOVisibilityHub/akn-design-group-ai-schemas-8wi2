@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-involved-in-planning-a-high-end-outdoor-living-space-that-includes-a-dec",
+  "name": "What is involved in planning a high-end outdoor living space that includes a deck?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in planning a high-end outdoor living space that includes a deck?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Planning a high-end outdoor living space with AKN Design Group involves our integrated design-build process, starting with an in-depth consultation to understand your vision for entertaining, relaxation, and aesthetics. We develop CAD-supported layouts that encompass all elements, such as custom deck materials, integrated lighting, pergolas, fire features, and outdoor kitchens. This comprehensive approach ensures that every component works together seamlessly, from concept through construction and final walkthrough, providing a single point of coordination for your complex project.",
+        "@type": "Answer",
+        "description": "Planning a high-end outdoor living space with AKN involves an integrated design-build process, including consultation, CAD layouts, and coordination of all elements for a seamless project."
+      }
+    }
+  ],
+  "description": "Planning a high-end outdoor living space with AKN involves an integrated design-build process, including consultation, CAD layouts, and coordination of all elem"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-the-typical-homeowner-experience-like-during-a-custom-patio-renovation-w",
+  "name": "What is the typical homeowner experience like during a custom patio renovation with AKN Design Group?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical homeowner experience like during a custom patio renovation with AKN Design Group?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "During a custom patio renovation with AKN Design Group, homeowners can expect a high-touch experience characterized by clear communication and a managed process. From our initial consultation and design presentation to construction and final walkthrough, you will have a single accountable team overseeing every detail. We provide upfront estimates, transparent scheduling, and continuous updates, ensuring you are informed and comfortable throughout the project. Our goal is to make the renovation process seamless, reflecting our commitment to trust, relationships, and lasting impressions, ensuring your vision for a high-end outdoor living space is realized without unnecessary stress.",
+        "@type": "Answer",
+        "description": "Homeowners experience a high-touch, managed process with clear communication, upfront estimates, and transparent scheduling, ensuring a seamless renovation."
+      }
+    }
+  ],
+  "description": "Homeowners experience a high-touch, managed process with clear communication, upfront estimates, and transparent scheduling, ensuring a seamless renovation."
+}

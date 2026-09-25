@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-does-akn-design-group-integrate-a-large-deck-with-existing-outdoor-landscapi",
+  "name": "How does AKN Design Group integrate a large deck with existing outdoor landscaping and features?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does AKN Design Group integrate a large deck with existing outdoor landscaping and features?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Integrating a large deck with existing outdoor landscaping and features is central to creating a cohesive high-end outdoor living space. Our approach involves careful site analysis and design planning to ensure the new deck flows naturally from your home and complements the surrounding environment. We consider elements like existing trees, garden beds, and hardscaping, aiming to preserve desirable features while enhancing the overall aesthetic and functionality. This integrated design-build process ensures harmony, transforming your backyard into a unified space for relaxation and entertainment, rather than a standalone addition.",
+        "@type": "Answer",
+        "description": "We integrate large decks with existing landscaping through careful site analysis and design, ensuring natural flow and aesthetic harmony. This creates a cohesive outdoor living space that complements your home and environment."
+      }
+    }
+  ],
+  "description": "We integrate large decks with existing landscaping through careful site analysis and design, ensuring natural flow and aesthetic harmony. This creates a cohesiv"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-akn-design-group-s-process-for-selecting-and-installing-interior-doors",
+  "name": "What is AKN Design Group's process for selecting and installing interior doors?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is AKN Design Group's process for selecting and installing interior doors?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our process begins with understanding your vision and functional needs during the design planning phase. We guide you through material and style options that complement your overall renovation, providing CAD-supported layouts for clarity. Once selections are finalized, our skilled team manages the procurement, site preparation, and professional installation, including frame adjustments and hardware fitting. This integrated design-build approach ensures that your new interior doors are not just installed, but seamlessly integrated into your home's enhanced aesthetics and functionality.",
+        "@type": "Answer",
+        "description": "Our process involves design planning, material selection, and professional installation, ensuring seamless integration of new doors into your home's renovation."
+      }
+    }
+  ],
+  "description": "Our process involves design planning, material selection, and professional installation, ensuring seamless integration of new doors into your home's renovation."
+}

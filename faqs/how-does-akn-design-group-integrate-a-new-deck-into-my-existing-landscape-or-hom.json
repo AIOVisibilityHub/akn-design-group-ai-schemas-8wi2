@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-does-akn-design-group-integrate-a-new-deck-into-my-existing-landscape-or-hom",
+  "name": "How does AKN Design Group integrate a new deck into my existing landscape or home design?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does AKN Design Group integrate a new deck into my existing landscape or home design?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "AKN Design Group approaches deck integration as a key component of a holistic outdoor living space. Our design-build process ensures the new deck visually and functionally connects with your home's architecture, existing landscape, and overall property aesthetics. We consider factors like material continuity, traffic flow from interior spaces, and how the deck will complement other high-end outdoor features such as patios or gardens. Our comprehensive design planning, including CAD-supported layouts, allows us to create a cohesive vision where the deck enhances functionality, beauty, and value, rather than appearing as a separate addition. This single point of coordination ensures a harmonious outcome.",
+        "@type": "Answer",
+        "description": "We integrate new decks by ensuring visual and functional connection with your home's architecture and landscape. Our design-build process and CAD layouts create a cohesive, high-end outdoor living space that enhances your entire property."
+      }
+    }
+  ],
+  "description": "We integrate new decks by ensuring visual and functional connection with your home's architecture and landscape. Our design-build process and CAD layouts create"
+}

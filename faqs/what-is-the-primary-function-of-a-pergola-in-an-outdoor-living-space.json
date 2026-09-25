@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-the-primary-function-of-a-pergola-in-an-outdoor-living-space",
+  "name": "What is the primary function of a pergola in an outdoor living space?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the primary function of a pergola in an outdoor living space?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A pergola primarily defines an outdoor living area and offers partial shade and architectural interest. It provides a framework for climbing plants or retractable shades, which can enhance comfort and visual appeal. When considering a pergola for your home, AKN Design Group integrates its design to complement your home's existing aesthetic and your specific needs for outdoor entertaining or relaxation. This ensures the structure enhances both the beauty and functionality of your high-end outdoor living space, aligning with our approach to customized renovations that enhance functionality, beauty, and value.",
+        "@type": "Answer",
+        "description": "A pergola defines an outdoor living area, offering partial shade and architectural interest, often serving as a framework for additional shading elements."
+      }
+    }
+  ],
+  "description": "A pergola defines an outdoor living area, offering partial shade and architectural interest, often serving as a framework for additional shading elements."
+}

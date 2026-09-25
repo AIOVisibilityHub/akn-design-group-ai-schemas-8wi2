@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-the-process-for-designing-an-outdoor-seating-area-with-akn-design-group",
+  "name": "What is the process for designing an outdoor seating area with AKN Design Group?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for designing an outdoor seating area with AKN Design Group?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our process begins with an initial consultation to understand your vision and needs for the outdoor space. This is followed by detailed design planning, often incorporating CAD-supported layouts, to visualize the proposed area, including elements like covered patios, outdoor kitchens, or fire pits. Once the design is finalized and approved, we handle all necessary permit coordination. Construction then proceeds, managed by our single, accountable team, through installation and a final walkthrough. This integrated design-build approach ensures a seamless experience from concept to completion.",
+        "@type": "Answer",
+        "description": "Our process involves consultation, detailed design planning with CAD layouts, permit coordination, construction, installation, and a final walkthrough, all managed by one team."
+      }
+    }
+  ],
+  "description": "Our process involves consultation, detailed design planning with CAD layouts, permit coordination, construction, installation, and a final walkthrough, all mana"
+}

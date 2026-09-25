@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/do-outdoor-fireplaces-require-specific-permits-or-inspections-in-the-dallas-fort",
+  "name": "Do outdoor fireplaces require specific permits or inspections in the Dallas–Fort Worth metroplex?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do outdoor fireplaces require specific permits or inspections in the Dallas–Fort Worth metroplex?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, building an outdoor fireplace typically requires permits and adherence to local codes and ordinances within the Dallas–Fort Worth metroplex, which can vary by specific city or county. This often includes considerations for setback distances from structures, material specifications, and chimney height. As part of our integrated design-build service, AKN Design Group manages all necessary permit coordination and inspections, streamlining this essential aspect of your project and ensuring compliance with all regulations.",
+        "@type": "Answer",
+        "description": "Outdoor fireplaces usually require permits and inspections in DFW. AKN Design Group manages all permit coordination to ensure compliance."
+      }
+    }
+  ],
+  "description": "Outdoor fireplaces usually require permits and inspections in DFW. AKN Design Group manages all permit coordination to ensure compliance."
+}

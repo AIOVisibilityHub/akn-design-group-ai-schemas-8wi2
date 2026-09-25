@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-factors-should-i-consider-when-choosing-hardware-for-my-new-interior-doors",
+  "name": "What factors should I consider when choosing hardware for my new interior doors?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors should I consider when choosing hardware for my new interior doors?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing hardware for your new interior doors, consider factors such as style consistency with your home's aesthetic, desired functionality (e.g., privacy locks for bathrooms, passage knobs for common areas), and finish durability. AKN Design Group helps you navigate these choices, ensuring that the hardware not only complements your selected doors and overall design but also stands up to daily use. Our expertise in customized renovations emphasizes selecting high-quality hardware that contributes to the enduring beauty and functionality of your home.",
+        "@type": "Answer",
+        "description": "When choosing door hardware, consider style, functionality (e.g., privacy vs. passage), and finish durability to ensure it complements your home's overall design."
+      }
+    }
+  ],
+  "description": "When choosing door hardware, consider style, functionality (e.g., privacy vs. passage), and finish durability to ensure it complements your home's overall desig"
+}

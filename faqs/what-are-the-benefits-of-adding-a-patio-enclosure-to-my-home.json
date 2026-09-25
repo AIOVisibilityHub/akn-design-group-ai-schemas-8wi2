@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-are-the-benefits-of-adding-a-patio-enclosure-to-my-home",
+  "name": "What are the benefits of adding a patio enclosure to my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the benefits of adding a patio enclosure to my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Adding a patio enclosure extends your usable living space, providing a comfortable area protected from insects, adverse weather, and harsh sun. It allows you to enjoy the outdoors year-round, increases your home's curb appeal, and potentially enhances its long-term value. This customized renovation offers a dedicated space for relaxation, entertaining, or even a home office, tailored to your lifestyle without the need for a full home addition.",
+        "@type": "Answer",
+        "description": "A patio enclosure extends living space, offers protection from elements, and can enhance home value. It creates a comfortable, year-round outdoor area for various activities."
+      }
+    }
+  ],
+  "description": "A patio enclosure extends living space, offers protection from elements, and can enhance home value. It creates a comfortable, year-round outdoor area for vario"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/can-you-include-features-like-a-fire-pit-or-outdoor-television-in-an-outdoor-din",
+  "name": "Can you include features like a fire pit or outdoor television in an outdoor dining area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can you include features like a fire pit or outdoor television in an outdoor dining area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Absolutely. High-end outdoor dining areas often benefit from integrated features that enhance usability and ambiance, such as a custom fire pit or an outdoor television wall. These additions contribute to a luxurious and functional outdoor living space, perfect for entertaining or relaxation. The process of integrating these elements involves careful planning for utility connections, proper ventilation, and weatherproofing to ensure safety and longevity. AKN Design Group specializes in coordinating these complex installations, delivering a sophisticated outdoor environment that meets your specific desires and elevates your property's value.",
+        "@type": "Answer",
+        "description": "Yes, AKN Design Group can integrate features like custom fire pits or outdoor television walls into your dining area, carefully planning for utilities, ventilation, and weatherproofing to create a luxurious and functional space."
+      }
+    }
+  ],
+  "description": "Yes, AKN Design Group can integrate features like custom fire pits or outdoor television walls into your dining area, carefully planning for utilities, ventilat"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-the-difference-between-solid-core-and-hollow-core-interior-doors-and-whi",
+  "name": "What is the difference between solid core and hollow core interior doors, and which is better for a high-value renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between solid core and hollow core interior doors, and which is better for a high-value renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Solid core doors are constructed from engineered wood or composite material, offering superior sound insulation, fire resistance, and durability. Hollow core doors have a frame with a cardboard or wood core and are lighter and less expensive. For high-value renovations, AKN Design Group typically recommends solid core doors due to their enhanced functionality in noise reduction, their robust feel, and their contribution to the overall craftsmanship and perceived value of the home. This choice aligns with our focus on customized solutions that enhance long-term value.",
+        "@type": "Answer",
+        "description": "Solid core doors offer superior sound insulation and durability, making them generally preferred over hollow core doors for high-value renovations to enhance functionality and craftsmanship."
+      }
+    }
+  ],
+  "description": "Solid core doors offer superior sound insulation and durability, making them generally preferred over hollow core doors for high-value renovations to enhance fu"
+}

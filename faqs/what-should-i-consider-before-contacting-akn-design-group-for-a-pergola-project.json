@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-should-i-consider-before-contacting-akn-design-group-for-a-pergola-project",
+  "name": "What should I consider before contacting AKN Design Group for a pergola project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I consider before contacting AKN Design Group for a pergola project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before contacting AKN Design Group for a pergola project, consider how you envision using your outdoor space and any specific features you desire, such as integrated lighting, fans, or climbing plants. Thinking about the general size, location, and desired level of shade will also be helpful. While we guide you through the entire design process, having an initial understanding of your preferences allows us to tailor our solutions more effectively. Our team focuses on high-end outdoor living spaces, and your initial thoughts help us craft a customized renovation that aligns perfectly with your vision and enhances your homeowner experience.",
+        "@type": "Answer",
+        "description": "Consider how you'll use the space, desired features like lighting or plants, and the general size and location before contacting us."
+      }
+    }
+  ],
+  "description": "Consider how you'll use the space, desired features like lighting or plants, and the general size and location before contacting us."
+}

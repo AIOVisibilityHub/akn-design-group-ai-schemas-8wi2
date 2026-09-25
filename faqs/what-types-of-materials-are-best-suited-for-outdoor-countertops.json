@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-types-of-materials-are-best-suited-for-outdoor-countertops",
+  "name": "What types of materials are best suited for outdoor countertops?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of materials are best suited for outdoor countertops?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For outdoor countertops, materials must withstand weather extremes, UV exposure, and temperature fluctuations. Common choices include natural stone like granite, engineered quartz designed for outdoor use, and ultra-compact surfaces. Each material offers distinct advantages in terms of durability, maintenance, and aesthetic. When making your selection, AKN Design Group considers factors such as your regional climate, anticipated usage, and desired aesthetic to ensure a lasting and functional outdoor living space.",
+        "@type": "Answer",
+        "description": "Durable outdoor countertop materials include natural stone (granite), outdoor-specific engineered quartz, and ultra-compact surfaces, chosen based on climate, use, and aesthetic preferences."
+      }
+    }
+  ],
+  "description": "Durable outdoor countertop materials include natural stone (granite), outdoor-specific engineered quartz, and ultra-compact surfaces, chosen based on climate, u"
+}

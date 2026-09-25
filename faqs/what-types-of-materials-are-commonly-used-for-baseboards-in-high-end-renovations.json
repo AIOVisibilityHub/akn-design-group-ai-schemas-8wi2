@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-types-of-materials-are-commonly-used-for-baseboards-in-high-end-renovations",
+  "name": "What types of materials are commonly used for baseboards in high-end renovations?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of materials are commonly used for baseboards in high-end renovations?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For high-end renovations, baseboards are commonly crafted from solid wood, such as oak or poplar, offering durability and a refined aesthetic that can be stained or painted. Medium-density fiberboard (MDF) is also a popular choice due to its smooth finish, stability, and resistance to warping, often preferred for painted applications. The selection of material is crucial for enhancing the overall aesthetic and long-term value of your home, aligning with the quality and craftsmanship central to AKN Design Group's approach.",
+        "@type": "Answer",
+        "description": "High-end baseboards often use solid wood for durability or MDF for a smooth, stable finish, enhancing aesthetic and value."
+      }
+    }
+  ],
+  "description": "High-end baseboards often use solid wood for durability or MDF for a smooth, stable finish, enhancing aesthetic and value."
+}

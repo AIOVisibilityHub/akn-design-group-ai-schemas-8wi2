@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-the-benefit-of-choosing-an-integrated-design-build-firm-like-akn-design",
+  "name": "What is the benefit of choosing an integrated design-build firm like AKN Design Group for a custom patio?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the benefit of choosing an integrated design-build firm like AKN Design Group for a custom patio?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing an integrated design-build firm like AKN Design Group for your custom patio project offers the significant benefit of a single point of coordination. This means we manage the entire process from initial consultation and CAD-supported layouts through construction, installation, and final walkthrough. This approach minimizes miscommunication, streamlines project timelines, and ensures that the design vision is executed precisely. Homeowners benefit from a seamless, managed experience, eliminating the stress of coordinating multiple contractors and ensuring accountability from one experienced team.",
+        "@type": "Answer",
+        "description": "An integrated design-build firm offers a single point of coordination, managing the entire process from design to construction, streamlining timelines, and ensuring precise execution."
+      }
+    }
+  ],
+  "description": "An integrated design-build firm offers a single point of coordination, managing the entire process from design to construction, streamlining timelines, and ensu"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-the-benefit-of-choosing-an-integrated-design-build-firm-like-akn-for-a-d",
+  "name": "What is the benefit of choosing an integrated design-build firm like AKN for a deck renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the benefit of choosing an integrated design-build firm like AKN for a deck renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing AKN Design Group for your deck renovation means benefiting from our integrated design-build process, which unifies design planning and construction under one accountable team. This approach eliminates the complexities of managing multiple contractors, ensuring seamless coordination from initial concept and CAD-supported layouts through construction, installation, and final walkthrough. You gain a single point of contact, ensuring clear communication, efficient project flow, and a cohesive outcome that reflects our commitment to craftsmanship and your personalized homeowner experience.",
+        "@type": "Answer",
+        "description": "An integrated design-build firm like AKN provides a single, accountable team for your deck renovation, unifying design and construction, ensuring seamless coordination, clear communication, and a cohesive outcome."
+      }
+    }
+  ],
+  "description": "An integrated design-build firm like AKN provides a single, accountable team for your deck renovation, unifying design and construction, ensuring seamless coord"
+}

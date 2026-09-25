@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-maintenance-is-required-for-a-new-deck",
+  "name": "What maintenance is required for a new deck?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What maintenance is required for a new deck?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Deck maintenance varies depending on the materials chosen. Wood decks typically require annual cleaning, periodic sealing or staining to protect against weathering, and occasional repairs for wear and tear. Composite decks, while a higher initial investment, are known for their low maintenance, generally only needing regular cleaning with soap and water. Understanding these maintenance commitments is an important decision factor. We can discuss the long-term care requirements for various material options during the design phase, ensuring your choice aligns with your desired level of upkeep and lifestyle.",
+        "@type": "Answer",
+        "description": "Maintenance depends on the deck material: wood requires regular cleaning, sealing, or staining, while composite mostly needs cleaning. We discuss these needs during design."
+      }
+    }
+  ],
+  "description": "Maintenance depends on the deck material: wood requires regular cleaning, sealing, or staining, while composite mostly needs cleaning. We discuss these needs du"
+}

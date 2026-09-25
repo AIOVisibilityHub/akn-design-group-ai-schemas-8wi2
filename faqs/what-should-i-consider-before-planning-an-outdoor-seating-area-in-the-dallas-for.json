@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-should-i-consider-before-planning-an-outdoor-seating-area-in-the-dallas-for",
+  "name": "What should I consider before planning an outdoor seating area in the Dallas–Fort Worth metroplex?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I consider before planning an outdoor seating area in the Dallas–Fort Worth metroplex?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before planning an outdoor seating area, consider your primary usage – whether it's for dining, relaxation, entertaining, or cooking – and how it will integrate with your existing home architecture and landscape. Factors like sun exposure, wind patterns, and local building codes, especially within the Dallas–Fort Worth metroplex, will influence material choices and design. We recommend assessing your long-term vision for the space and your desired aesthetic, as these decisions will guide the entire design-build process and material selections, from stamped concrete to built-in grills.",
+        "@type": "Answer",
+        "description": "Consider your primary usage, integration with existing architecture, and local environmental factors and building codes in the Dallas–Fort Worth metroplex before planning."
+      }
+    }
+  ],
+  "description": "Consider your primary usage, integration with existing architecture, and local environmental factors and building codes in the Dallas–Fort Worth metroplex befor"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-the-typical-process-for-designing-a-new-deck-with-akn-design-group",
+  "name": "What is the typical process for designing a new deck with AKN Design Group?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for designing a new deck with AKN Design Group?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our residential design-build process for decks begins with an initial consultation to understand your vision, lifestyle, and how you intend to use the outdoor space. Following this, we develop conceptual designs, often with CAD-supported layouts, to visualize the proposed deck. Once the design is refined and approved, we handle all necessary permit coordination, ensuring compliance with local regulations in the Dallas–Fort Worth metroplex. This managed process ensures a seamless transition from design planning to construction and final walkthrough, with a single point of coordination for your entire project.",
+        "@type": "Answer",
+        "description": "Our design-build process for decks starts with understanding your vision, followed by conceptual designs, permit coordination, and managed construction through to completion."
+      }
+    }
+  ],
+  "description": "Our design-build process for decks starts with understanding your vision, followed by conceptual designs, permit coordination, and managed construction through"
+}

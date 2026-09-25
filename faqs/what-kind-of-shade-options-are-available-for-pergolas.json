@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-kind-of-shade-options-are-available-for-pergolas",
+  "name": "What kind of shade options are available for pergolas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of shade options are available for pergolas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Pergolas offer a range of shade options beyond their inherent structure, allowing for customized comfort and aesthetics. These can include natural solutions like climbing vines, which provide dappled shade and a lush, organic feel. For more immediate or adjustable shade, retractable canopies, shade sails, or louvered systems can be integrated into the pergola design. These options provide flexibility to control sun exposure based on the time of day or seasonal needs. AKN Design Group can incorporate these features into your custom pergola design, enhancing the functionality of your high-end outdoor living space and tailoring it to your lifestyle.",
+        "@type": "Answer",
+        "description": "Pergolas can feature natural shade from climbing vines, or adjustable options like retractable canopies, shade sails, or louvered systems, tailored to your comfort and aesthetic needs."
+      }
+    }
+  ],
+  "description": "Pergolas can feature natural shade from climbing vines, or adjustable options like retractable canopies, shade sails, or louvered systems, tailored to your comf"
+}

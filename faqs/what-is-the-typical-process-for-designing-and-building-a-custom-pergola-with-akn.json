@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-the-typical-process-for-designing-and-building-a-custom-pergola-with-akn",
+  "name": "What is the typical process for designing and building a custom pergola with AKN Design Group?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for designing and building a custom pergola with AKN Design Group?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our process for designing and building a custom pergola begins with an initial consultation to understand your vision, desired use for the space, and aesthetic preferences. Following this, our team develops CAD-supported layouts and material selections, integrating the pergola's design with your home's architecture. Once the design is finalized and approved, AKN Design Group manages all aspects, including permit coordination, construction, and final installation. This integrated design-build approach ensures a seamless, managed process from concept to completion, providing you with a single point of coordination and accountability.",
+        "@type": "Answer",
+        "description": "The process involves an initial consultation, CAD-supported design and material selection, permit coordination, and expert construction, managed by our integrated design-build team."
+      }
+    }
+  ],
+  "description": "The process involves an initial consultation, CAD-supported design and material selection, permit coordination, and expert construction, managed by our integrat"
+}

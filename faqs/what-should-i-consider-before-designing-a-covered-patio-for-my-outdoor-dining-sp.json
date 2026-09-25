@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-should-i-consider-before-designing-a-covered-patio-for-my-outdoor-dining-sp",
+  "name": "What should I consider before designing a covered patio for my outdoor dining space?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I consider before designing a covered patio for my outdoor dining space?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before designing a covered patio for your outdoor dining space, consider factors such as sun exposure, prevailing winds, and desired level of privacy. These elements will influence the patio's orientation, roofing material, and the potential need for features like retractable screens or integrated privacy walls. A practical tradeoff is balancing maximum sunlight during cooler months with sufficient shade during the intense DFW summers. Our design-build expertise helps you evaluate these considerations to create a functional and comfortable outdoor environment that aligns with your lifestyle and enhances your home's overall appeal.",
+        "@type": "Answer",
+        "description": "When designing a covered patio, consider sun exposure, wind, and privacy to optimize orientation and features; balancing summer shade with winter sun is a key tradeoff in the DFW climate."
+      }
+    }
+  ],
+  "description": "When designing a covered patio, consider sun exposure, wind, and privacy to optimize orientation and features; balancing summer shade with winter sun is a key t"
+}

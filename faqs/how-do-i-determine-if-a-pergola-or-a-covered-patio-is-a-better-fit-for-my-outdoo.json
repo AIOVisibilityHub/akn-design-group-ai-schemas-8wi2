@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-do-i-determine-if-a-pergola-or-a-covered-patio-is-a-better-fit-for-my-outdoo",
+  "name": "How do I determine if a pergola or a covered patio is a better fit for my outdoor living needs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I determine if a pergola or a covered patio is a better fit for my outdoor living needs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing between a pergola and a covered patio depends on your desired level of shade, weather protection, and overall aesthetic. Pergolas offer partial shade and a more open feel, ideal for areas where you want filtered sunlight and architectural definition. Covered patios, on the other hand, provide full overhead protection from sun and rain, making them suitable for year-round use or areas needing complete shelter. During our managed design-build process, AKN Design Group will discuss your lifestyle, intended use for the space, and specific climate considerations to recommend the solution that best enhances your homeowner experience and property value.",
+        "@type": "Answer",
+        "description": "Pergolas offer partial shade and an open feel, while covered patios provide full weather protection. The choice depends on your desired shade level, weather protection, and aesthetic."
+      }
+    }
+  ],
+  "description": "Pergolas offer partial shade and an open feel, while covered patios provide full weather protection. The choice depends on your desired shade level, weather pro"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-maintenance-is-required-for-fire-pits-designed-by-akn-design-group",
+  "name": "What maintenance is required for fire pits designed by AKN Design Group?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What maintenance is required for fire pits designed by AKN Design Group?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The maintenance required for your fire pit depends on its type. Gas fire pits generally require minimal upkeep, primarily involving occasional cleaning of the burner and ensuring gas lines are secure. Wood-burning fire pits will need regular ash removal and periodic cleaning of the firebox and surrounding stone. Regardless of type, ensuring the area around your fire pit is kept clear of debris and inspecting for any wear is advised. AKN Design Group prioritizes craftsmanship and durable materials, contributing to longevity and ease of care.",
+        "@type": "Answer",
+        "description": "Gas fire pits need minimal maintenance like burner cleaning. Wood-burning fire pits require ash removal and cleaning. Both need occasional inspection and debris removal."
+      }
+    }
+  ],
+  "description": "Gas fire pits need minimal maintenance like burner cleaning. Wood-burning fire pits require ash removal and cleaning. Both need occasional inspection and debris"
+}

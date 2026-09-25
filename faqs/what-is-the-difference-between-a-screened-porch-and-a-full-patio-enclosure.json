@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-the-difference-between-a-screened-porch-and-a-full-patio-enclosure",
+  "name": "What is the difference between a screened porch and a full patio enclosure?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a screened porch and a full patio enclosure?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A screened porch typically features an open structure with screen panels designed to keep insects out while allowing maximum airflow. A full patio enclosure, conversely, often incorporates glass or solid panels, providing greater protection from varying weather conditions, dust, and temperature fluctuations, allowing for year-round use. AKN Design Group can guide you in selecting the option that best suits your desired level of weather protection, climate control, and overall functionality for your high-end outdoor living space.",
+        "@type": "Answer",
+        "description": "A screened porch offers insect protection and airflow, while a full patio enclosure provides greater weather and temperature protection for year-round use."
+      }
+    }
+  ],
+  "description": "A screened porch offers insect protection and airflow, while a full patio enclosure provides greater weather and temperature protection for year-round use."
+}

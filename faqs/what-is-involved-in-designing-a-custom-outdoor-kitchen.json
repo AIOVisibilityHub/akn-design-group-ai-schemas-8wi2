@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-involved-in-designing-a-custom-outdoor-kitchen",
+  "name": "What is involved in designing a custom outdoor kitchen?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in designing a custom outdoor kitchen?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Designing a custom outdoor kitchen with AKN Design Group involves a comprehensive design-build process. We begin with a consultation to understand your lifestyle, culinary preferences, and entertainment needs. Our team then develops CAD-supported layouts that integrate elements like built-in grills, refrigeration, sinks, and storage, ensuring optimal flow and functionality. We consider factors such as sun exposure, prevailing winds, and accessibility to create a cohesive and highly functional space that extends your home's living area. This managed process ensures that your vision is realized with precision and attention to detail, from initial concept to final installation.",
+        "@type": "Answer",
+        "description": "Designing a custom outdoor kitchen involves a comprehensive design-build process, starting with a consultation and developing CAD-supported layouts tailored to your lifestyle and entertainment needs."
+      }
+    }
+  ],
+  "description": "Designing a custom outdoor kitchen involves a comprehensive design-build process, starting with a consultation and developing CAD-supported layouts tailored to"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-factors-influence-the-cost-of-an-outdoor-countertop-installation",
+  "name": "What factors influence the cost of an outdoor countertop installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of an outdoor countertop installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of an outdoor countertop installation is primarily influenced by the material selected, the size and complexity of the design, and fabrication requirements. Premium materials like certain natural stones or high-performance ultra-compact surfaces will be at a higher price point. Intricate cuts, integrated sinks, or specialized edges also add to the overall cost. AKN Design Group provides upfront estimates during our design-build process, detailing these elements to ensure transparency and align with your project's scope for your high-end outdoor living space.",
+        "@type": "Answer",
+        "description": "Cost is influenced by material choice, size, design complexity, and fabrication needs. Premium materials and intricate features increase the investment. AKN Design Group provides detailed, upfront estimates."
+      }
+    }
+  ],
+  "description": "Cost is influenced by material choice, size, design complexity, and fabrication needs. Premium materials and intricate features increase the investment. AKN Des"
+}

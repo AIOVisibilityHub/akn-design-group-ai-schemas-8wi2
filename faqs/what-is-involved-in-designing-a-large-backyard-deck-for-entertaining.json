@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-involved-in-designing-a-large-backyard-deck-for-entertaining",
+  "name": "What is involved in designing a large backyard deck for entertaining?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in designing a large backyard deck for entertaining?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Designing a large backyard deck for entertaining involves considering factors like functionality, flow, and integration with your home's architecture and landscape. We focus on creating distinct zones for dining, lounging, and cooking, ensuring seamless movement between them. A key decision factor is identifying your primary entertaining needs and preferences, such as integrating an outdoor kitchen or a dedicated seating area for large gatherings. Our design-build process utilizes CAD-supported layouts to visualize these spaces, ensuring the final design enhances both the beauty and utility of your outdoor living area in the Dallas–Fort Worth metroplex.",
+        "@type": "Answer",
+        "description": "Designing a large backyard deck involves creating distinct zones for dining, lounging, and cooking, considering functionality and seamless integration with your home. We use CAD-supported layouts to visualize spaces, enhancing both beauty and utility."
+      }
+    }
+  ],
+  "description": "Designing a large backyard deck involves creating distinct zones for dining, lounging, and cooking, considering functionality and seamless integration with your"
+}

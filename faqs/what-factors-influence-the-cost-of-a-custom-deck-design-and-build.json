@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-factors-influence-the-cost-of-a-custom-deck-design-and-build",
+  "name": "What factors influence the cost of a custom deck design and build?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of a custom deck design and build?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a custom deck design and build is influenced by several factors, including the deck's size, the complexity of its design, the chosen materials, and any added features such as built-in seating, pergolas, or outdoor kitchens. Foundation requirements and site preparation also play a significant role. AKN Design Group provides upfront estimates based on a comprehensive understanding of your project scope, ensuring transparency. Our focus on value engineering during the design phase helps optimize costs without compromising on the quality or desired functionality of your high-end outdoor living space.",
+        "@type": "Answer",
+        "description": "Deck costs are determined by size, design complexity, materials, and features. We provide upfront estimates and use value engineering to manage costs for your high-end outdoor living space."
+      }
+    }
+  ],
+  "description": "Deck costs are determined by size, design complexity, materials, and features. We provide upfront estimates and use value engineering to manage costs for your h"
+}

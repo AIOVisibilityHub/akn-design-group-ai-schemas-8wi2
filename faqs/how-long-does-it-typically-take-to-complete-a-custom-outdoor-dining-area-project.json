@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-long-does-it-typically-take-to-complete-a-custom-outdoor-dining-area-project",
+  "name": "How long does it typically take to complete a custom outdoor dining area project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it typically take to complete a custom outdoor dining area project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for completing a custom outdoor dining area project varies significantly based on its scope and complexity, encompassing elements like covered patios, outdoor kitchens, and intricate hardscaping. While minor enhancements might be quicker, a comprehensive, high-end installation typically involves a managed process that can range from several weeks to a few months. Factors such as permit approvals, material lead times, and weather conditions can influence the schedule. AKN Design Group provides upfront estimates and maintains clear communication regarding scheduling transparency throughout the project, aiming for efficient completion without compromising craftsmanship.",
+        "@type": "Answer",
+        "description": "Completion time for custom outdoor dining areas varies by scope, but high-end projects typically range from weeks to months, influenced by permits, materials, and weather; AKN provides transparent scheduling."
+      }
+    }
+  ],
+  "description": "Completion time for custom outdoor dining areas varies by scope, but high-end projects typically range from weeks to months, influenced by permits, materials, a"
+}

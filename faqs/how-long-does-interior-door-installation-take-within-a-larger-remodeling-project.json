@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-long-does-interior-door-installation-take-within-a-larger-remodeling-project",
+  "name": "How long does interior door installation take within a larger remodeling project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does interior door installation take within a larger remodeling project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for interior door installation depends on the scope of the larger remodeling project. For a few doors as part of a kitchen or bathroom remodel, it typically adds a few days to the overall carpentry phase. When we undertake a whole-home renovation involving numerous doors, this phase is carefully scheduled within the broader project plan to minimize disruption. Our managed process ensures that all carpentry, including door installation, is integrated seamlessly into the overall construction timeline, providing clear communication from concept to completion.",
+        "@type": "Answer",
+        "description": "The timeline for interior door installation is integrated into the larger remodeling project's schedule, with specific duration depending on the number of doors and project scope."
+      }
+    }
+  ],
+  "description": "The timeline for interior door installation is integrated into the larger remodeling project's schedule, with specific duration depending on the number of doors"
+}

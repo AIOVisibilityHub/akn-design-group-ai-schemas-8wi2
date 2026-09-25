@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-are-the-benefits-of-choosing-natural-gas-over-propane-for-a-built-in-grill",
+  "name": "What are the benefits of choosing natural gas over propane for a built-in grill installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the benefits of choosing natural gas over propane for a built-in grill installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing between natural gas and propane for your built-in grill depends on convenience and infrastructure. Natural gas offers the benefit of a continuous fuel supply piped directly to your home, eliminating the need for propane tank refills and ensuring uninterrupted grilling. This is often preferred for high-end outdoor living spaces as it provides a seamless, permanent solution. However, it requires a natural gas line to be professionally installed to the outdoor kitchen location, which influences the initial project scope. AKN Design Group can help assess the feasibility and cost of running a natural gas line as part of your comprehensive outdoor kitchen design and build.",
+        "@type": "Answer",
+        "description": "Natural gas provides a continuous fuel supply without tank refills, making it a convenient, permanent solution for built-in grills, though it requires professional gas line installation to your outdoor kitchen."
+      }
+    }
+  ],
+  "description": "Natural gas provides a continuous fuel supply without tank refills, making it a convenient, permanent solution for built-in grills, though it requires professio"
+}

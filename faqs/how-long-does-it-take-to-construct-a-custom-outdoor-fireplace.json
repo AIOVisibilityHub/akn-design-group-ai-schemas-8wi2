@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-long-does-it-take-to-construct-a-custom-outdoor-fireplace",
+  "name": "How long does it take to construct a custom outdoor fireplace?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to construct a custom outdoor fireplace?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for constructing a custom outdoor fireplace varies based on its complexity, size, and material choices, as well as the scope of the larger outdoor living project it is part of. Simple designs might take a few weeks, while more elaborate masonry structures integrated with extensive patios or outdoor kitchens can take longer. Throughout the project, AKN Design Group provides clear communication and scheduling transparency, ensuring you are informed of progress and milestones from initial design through final walkthrough.",
+        "@type": "Answer",
+        "description": "Construction time varies by complexity, materials, and overall project scope, but AKN Design Group ensures clear communication and scheduling transparency."
+      }
+    }
+  ],
+  "description": "Construction time varies by complexity, materials, and overall project scope, but AKN Design Group ensures clear communication and scheduling transparency."
+}

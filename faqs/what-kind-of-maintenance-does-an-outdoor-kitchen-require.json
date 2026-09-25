@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-kind-of-maintenance-does-an-outdoor-kitchen-require",
+  "name": "What kind of maintenance does an outdoor kitchen require?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of maintenance does an outdoor kitchen require?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The maintenance required for an outdoor kitchen largely depends on the materials chosen and the frequency of use. Generally, regular cleaning of appliances, particularly grills, is essential to ensure longevity and performance. Countertops and surfaces should be wiped down regularly, and a deeper cleaning may be needed seasonally. We recommend protecting your outdoor kitchen with covers during extended periods of disuse or inclement weather to prevent wear and tear. AKN Design Group provides guidance on material care and best practices to help you maintain your high-end outdoor living space for years to come.",
+        "@type": "Answer",
+        "description": "Outdoor kitchen maintenance involves regular cleaning of appliances and surfaces, with seasonal deep cleaning. Protecting the space with covers during disuse or bad weather helps ensure longevity."
+      }
+    }
+  ],
+  "description": "Outdoor kitchen maintenance involves regular cleaning of appliances and surfaces, with seasonal deep cleaning. Protecting the space with covers during disuse or"
+}

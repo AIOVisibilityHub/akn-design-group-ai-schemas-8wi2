@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-the-difference-between-a-covered-patio-and-an-open-deck",
+  "name": "What is the difference between a covered patio and an open deck?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a covered patio and an open deck?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An open deck is typically an elevated platform without a roof, providing an outdoor living area exposed to the elements. A covered patio, on the other hand, includes a roof structure, offering protection from sun and rain. This distinction significantly impacts usability, comfort, and the types of activities you can enjoy outdoors. A covered patio can facilitate features like outdoor kitchens, ceiling fans, and outdoor lighting, extending its use throughout the year. Our specialization in high-end outdoor living spaces allows us to design and build either option, or a combination, tailored to your specific lifestyle and aesthetic preferences.",
+        "@type": "Answer",
+        "description": "An open deck is roofless, while a covered patio provides overhead protection. The choice impacts usability and feature integration, and we can design either to suit your needs."
+      }
+    }
+  ],
+  "description": "An open deck is roofless, while a covered patio provides overhead protection. The choice impacts usability and feature integration, and we can design either to"
+}

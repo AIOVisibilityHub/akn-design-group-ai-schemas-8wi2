@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-long-does-it-take-to-install-crown-molding-during-a-home-renovation",
+  "name": "How long does it take to install crown molding during a home renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to install crown molding during a home renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for crown molding installation varies based on the scope of the project and the complexity of the spaces involved. For a typical room, the actual installation can often be completed within a day or two. However, as part of a larger, managed renovation process, such as a whole-home remodel or a significant addition, the carpentry phase, including molding, is carefully sequenced. AKN Design Group provides clear communication regarding project schedules and ensures this finishing detail is completed efficiently without compromising the overall quality and craftsmanship of your customized renovation.",
+        "@type": "Answer",
+        "description": "Crown molding installation typically takes 1-2 days per room. In a larger renovation, it's integrated into the carpentry phase, and AKN Design Group schedules efficiently."
+      }
+    }
+  ],
+  "description": "Crown molding installation typically takes 1-2 days per room. In a larger renovation, it's integrated into the carpentry phase, and AKN Design Group schedules e"
+}

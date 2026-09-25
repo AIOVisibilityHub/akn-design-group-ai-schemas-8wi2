@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-involved-in-designing-a-custom-patio-for-my-home-in-the-dallas-fort-wort",
+  "name": "What is involved in designing a custom patio for my home in the Dallas–Fort Worth metroplex?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in designing a custom patio for my home in the Dallas–Fort Worth metroplex?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Designing a custom patio with AKN Design Group involves a collaborative, managed process from initial concept to detailed plans. We begin by understanding your vision, lifestyle, and the specific needs for your outdoor living space. Our integrated design-build approach utilizes CAD-supported layouts to translate your ideas into a functional and aesthetically pleasing design, considering elements like shaded areas, gathering zones, and potential outdoor kitchen integration. We focus on enhancing functionality, beauty, and long-term value, ensuring the final design aligns seamlessly with your home's architecture and your personal preferences.",
+        "@type": "Answer",
+        "description": "Designing a custom patio involves a managed process from initial concept to detailed CAD-supported layouts, focusing on your vision and integrating seamlessly with your home."
+      }
+    }
+  ],
+  "description": "Designing a custom patio involves a managed process from initial concept to detailed CAD-supported layouts, focusing on your vision and integrating seamlessly w"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/can-existing-baseboards-be-replaced-with-a-different-style-during-a-remodel",
+  "name": "Can existing baseboards be replaced with a different style during a remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can existing baseboards be replaced with a different style during a remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, existing baseboards can certainly be replaced with a different style during a remodel, offering an opportunity to update your home's aesthetic. This process involves carefully removing the old baseboards, preparing the wall surfaces, and then installing the new, desired profile. When considering a whole-home remodel or a focused renovation, AKN Design Group assists with selecting new trim that complements your updated design vision, ensuring a fresh and cohesive appearance throughout your space.",
+        "@type": "Answer",
+        "description": "Existing baseboards can be replaced with a new style during a remodel; we help select trim that complements your updated design."
+      }
+    }
+  ],
+  "description": "Existing baseboards can be replaced with a new style during a remodel; we help select trim that complements your updated design."
+}

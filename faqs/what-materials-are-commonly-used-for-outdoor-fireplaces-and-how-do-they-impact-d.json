@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-materials-are-commonly-used-for-outdoor-fireplaces-and-how-do-they-impact-d",
+  "name": "What materials are commonly used for outdoor fireplaces and how do they impact durability?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What materials are commonly used for outdoor fireplaces and how do they impact durability?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common materials for outdoor fireplaces include stone, brick, concrete block with veneer, and stucco, often paired with fire-rated refractory materials for the firebox. The choice of material impacts not only the aesthetic but also the fireplace's durability and maintenance requirements in the Dallas–Fort Worth climate. We guide clients through material selection, emphasizing options that offer longevity and complement the architectural style of your home, ensuring lasting impressions and minimal future issues. Quality craftsmanship with appropriate materials is key for durability.",
+        "@type": "Answer",
+        "description": "Materials like stone, brick, and stucco, combined with refractory elements, are common. Proper material selection and craftsmanship ensure durability and complement your home's style."
+      }
+    }
+  ],
+  "description": "Materials like stone, brick, and stucco, combined with refractory elements, are common. Proper material selection and craftsmanship ensure durability and comple"
+}

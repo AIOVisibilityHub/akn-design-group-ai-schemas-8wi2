@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-long-does-a-custom-patio-design-and-installation-project-typically-take",
+  "name": "How long does a custom patio design and installation project typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a custom patio design and installation project typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for a custom patio design and installation project varies significantly based on its complexity and scope. A basic paver patio will have a shorter duration than a comprehensive outdoor living space featuring a covered structure, built-in grill, and intricate lighting. Our managed process emphasizes clear communication and scheduling transparency. Following initial design and material selection, permit coordination can also influence the project start date. We provide upfront estimates and a detailed project schedule, keeping you informed at every stage from design planning through construction to the final walkthrough, ensuring the project progresses efficiently.",
+        "@type": "Answer",
+        "description": "Project timelines vary by complexity; simpler patios take less time than elaborate outdoor living spaces. We provide detailed schedules and transparent communication throughout the process."
+      }
+    }
+  ],
+  "description": "Project timelines vary by complexity; simpler patios take less time than elaborate outdoor living spaces. We provide detailed schedules and transparent communic"
+}

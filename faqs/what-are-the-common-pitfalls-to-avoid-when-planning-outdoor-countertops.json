@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-are-the-common-pitfalls-to-avoid-when-planning-outdoor-countertops",
+  "name": "What are the common pitfalls to avoid when planning outdoor countertops?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common pitfalls to avoid when planning outdoor countertops?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common pitfalls when planning outdoor countertops include underestimating the impact of weather exposure, choosing materials not rated for outdoor use, and neglecting proper structural support. Inadequate consideration of drainage for sinks or poor sealant application can also lead to issues. It's crucial to select materials that can withstand UV, moisture, and temperature fluctuations, and to ensure professional installation. AKN Design Group addresses these concerns through our managed process, ensuring robust material selection and expert construction to prevent future problems.",
+        "@type": "Answer",
+        "description": "Avoid underestimating weather impact, using non-outdoor-rated materials, and neglecting structural support or drainage. Proper material selection and professional installation are crucial. AKN's managed process prevents these issues."
+      }
+    }
+  ],
+  "description": "Avoid underestimating weather impact, using non-outdoor-rated materials, and neglecting structural support or drainage. Proper material selection and profession"
+}

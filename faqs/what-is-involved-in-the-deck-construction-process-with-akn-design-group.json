@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-involved-in-the-deck-construction-process-with-akn-design-group",
+  "name": "What is involved in the deck construction process with AKN Design Group?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in the deck construction process with AKN Design Group?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our deck construction process begins with an initial consultation to understand your vision and assess your outdoor space. We then move into a detailed design phase, often utilizing CAD-supported layouts, to create a functional and aesthetically pleasing outdoor living area. Once the design is finalized and approved, we handle all necessary permit coordination. The construction phase follows, where our experienced team brings the design to life, ensuring craftsmanship and adherence to local building codes in the Dallas–Fort Worth metroplex. We manage the entire project from concept through installation and final walkthrough, providing a single point of coordination.",
+        "@type": "Answer",
+        "description": "The deck construction process with AKN Design Group involves consultation, detailed design, permit coordination, and expert construction, all managed as a single, integrated process."
+      }
+    }
+  ],
+  "description": "The deck construction process with AKN Design Group involves consultation, detailed design, permit coordination, and expert construction, all managed as a singl"
+}

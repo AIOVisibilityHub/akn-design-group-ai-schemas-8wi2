@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/what-is-the-typical-process-for-a-fix-and-flip-renovation-project-with-akn-desig",
+  "name": "What is the typical process for a fix-and-flip renovation project with AKN Design Group?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for a fix-and-flip renovation project with AKN Design Group?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For investor fix-and-flip renovations, our process begins with an initial consultation to understand your project goals and scope. We then develop a comprehensive design and construction plan, often including CAD-supported layouts, that aligns with enhancing functionality, beauty, and value. Our integrated design-build approach ensures a managed process from concept through construction, installation, and final walkthrough, providing a single point of coordination. We handle all aspects, including permit coordination, to streamline the project for efficiency.",
+        "@type": "Answer",
+        "description": "Our fix-and-flip renovation process involves an initial consultation, comprehensive design and construction planning, and an integrated design-build approach from concept to completion, including permit coordination."
+      }
+    }
+  ],
+  "description": "Our fix-and-flip renovation process involves an initial consultation, comprehensive design and construction planning, and an integrated design-build approach fr"
+}

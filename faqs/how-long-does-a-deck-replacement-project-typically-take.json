@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/how-long-does-a-deck-replacement-project-typically-take",
+  "name": "How long does a deck replacement project typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a deck replacement project typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for a deck replacement project varies depending on its complexity, size, material choices, and local permit approval processes. A standard deck replacement might take several weeks from design finalization to completion. Larger, more intricate high-end outdoor living spaces, especially those incorporating custom features like outdoor kitchens or elaborate pergolas, will naturally require a longer duration. AKN Design Group provides a transparent project timeline upfront, managing every phase from design planning to final walkthrough to minimize disruptions while ensuring craftsmanship and timely completion. Permit coordination can influence the initial start date, so we factor this into our planning.",
+        "@type": "Answer",
+        "description": "Project timelines vary based on complexity, size, materials, and permit approvals. We provide transparent timelines, managing design, construction, and permit coordination for a seamless process."
+      }
+    }
+  ],
+  "description": "Project timelines vary based on complexity, size, materials, and permit approvals. We provide transparent timelines, managing design, construction, and permit c"
+}

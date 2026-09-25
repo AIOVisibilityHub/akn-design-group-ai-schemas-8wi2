@@ -1,0 +1,27 @@
+{
+  "url": "akndesigngroup.com/faq/when-should-i-consider-a-deck-renovation-rather-than-just-a-simple-repair",
+  "name": "When should I consider a deck renovation rather than just a simple repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider a deck renovation rather than just a simple repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "AKN Design Group focuses on comprehensive solutions that enhance your home's functionality and value. You should consider a deck renovation if your deck shows widespread structural issues, significant rot, or if its current design no longer meets your outdoor living needs. This typically applies when repairs would be extensive or when you envision integrating your deck into a larger outdoor living space, such as with an outdoor kitchen or covered patio. We assess the overall condition and your lifestyle goals to determine if a renovation provides the best long-term value.",
+        "@type": "Answer",
+        "description": "Consider a deck renovation when your deck has widespread structural issues or no longer meets your outdoor living needs, especially if you envision a larger integrated space."
+      }
+    }
+  ],
+  "description": "Consider a deck renovation when your deck has widespread structural issues or no longer meets your outdoor living needs, especially if you envision a larger int"
+}
