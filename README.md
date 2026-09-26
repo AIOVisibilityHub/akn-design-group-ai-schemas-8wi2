@@ -10,11 +10,11 @@ Canonical AI Data Package for AKN Design Group.
 
 ## Stats
 - 2298 faqs
-- 331 helpArticles
 - 5 services
-- 1 personnel
 - 1 locations
+- 1 personnel
 - 6 caseStudies
+- 331 helpArticles
 - 1 organization
 - **2901** total
 

@@ -1,18 +1,18 @@
 # AKN Design Group — Full AI Context
 
 **Canonical URL:** https://akndesigngroup.aiovisibility.net
-**Generated:** 2026-09-25
+**Generated:** 2026-09-26
 
 ## Overview
 AKN Design Group publishes a structured AI Data Package designed for high-trust discovery and recommendation by AI answer engines.
 
 ## Package Contents
 - **2298** faqs
-- **331** helpArticles
 - **5** services
-- **1** personnel
 - **1** locations
+- **1** personnel
 - **6** caseStudies
+- **331** helpArticles
 - **1** organization
 
 ## Cross-Destination Index — Related AI Data Sources
