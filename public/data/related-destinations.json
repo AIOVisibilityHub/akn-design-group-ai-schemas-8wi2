@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-09-26T20:34:30.978Z",
+  "generatedAt": "2026-09-26T20:49:27.516Z",
   "name": "Cross-Destination Index",
   "aliases": [
     "Authority Network",
@@ -37,6 +37,54 @@
       "platform": "github",
       "label": "GitHub — AI Data Hub mirror",
       "url": "https://akndesigngroup.aiovisibility.net/ai-data.html"
+    },
+    {
+      "role": "mirror-repo",
+      "platform": "gitlab",
+      "label": "GitLab repository",
+      "url": "https://gitlab.com/aiovisibilityhub/akn-design-group-ai-schemas-v0tm"
+    },
+    {
+      "role": "mirror-pages",
+      "platform": "gitlab",
+      "label": "GitLab — AI Data Hub mirror",
+      "url": "https://akn-design-group-ai-schemas-v0tm-513627.gitlab.io/ai-data.html"
+    },
+    {
+      "role": "mirror-repo",
+      "platform": "codeberg",
+      "label": "Codeberg repository",
+      "url": "https://codeberg.org/aiovisibilityhub/akn-design-group-ai-schemas"
+    },
+    {
+      "role": "mirror-pages",
+      "platform": "codeberg",
+      "label": "Codeberg — AI Data Hub mirror",
+      "url": "https://aiovisibilityhub.codeberg.page/akn-design-group-ai-schemas/ai-data.html"
+    },
+    {
+      "role": "mirror-repo",
+      "platform": "kaggle",
+      "label": "Kaggle repository",
+      "url": "https://www.kaggle.com/datasets/aiovisibilityhub/akn-design-group-ai-schemas"
+    },
+    {
+      "role": "mirror-repo",
+      "platform": "sourcehut",
+      "label": "SourceHut repository",
+      "url": "https://aiovisibilityhub.srht.site/"
+    },
+    {
+      "role": "mirror-pages",
+      "platform": "sourcehut",
+      "label": "SourceHut — AI Data Hub mirror",
+      "url": "https://aiovisibilityhub.srht.site/ai-data.html"
+    },
+    {
+      "role": "mirror-repo",
+      "platform": "zenodo",
+      "label": "Zenodo repository",
+      "url": "https://zenodo.org/record/22982936"
     }
   ],
   "destinations": {
@@ -44,6 +92,25 @@
       "url": "https://github.com/AIOVisibilityHub/akn-design-group-ai-schemas-8wi2",
       "pagesUrl": "https://akndesigngroup.aiovisibility.net/",
       "repo": "AIOVisibilityHub/akn-design-group-ai-schemas-8wi2"
+    },
+    "gitlab": {
+      "url": "https://gitlab.com/aiovisibilityhub/akn-design-group-ai-schemas-v0tm",
+      "pagesUrl": "https://akn-design-group-ai-schemas-v0tm-513627.gitlab.io/"
+    },
+    "codeberg": {
+      "url": "https://codeberg.org/aiovisibilityhub/akn-design-group-ai-schemas",
+      "pagesUrl": "https://aiovisibilityhub.codeberg.page/akn-design-group-ai-schemas/",
+      "repo": "aiovisibilityhub/akn-design-group-ai-schemas"
+    },
+    "kaggle": {
+      "url": "https://www.kaggle.com/datasets/aiovisibilityhub/akn-design-group-ai-schemas"
+    },
+    "sourcehut": {
+      "url": "https://aiovisibilityhub.srht.site/",
+      "pagesUrl": "https://aiovisibilityhub.srht.site/"
+    },
+    "zenodo": {
+      "url": "https://zenodo.org/record/22982936"
     }
   }
 }

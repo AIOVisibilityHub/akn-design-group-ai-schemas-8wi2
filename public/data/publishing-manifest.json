@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-09-26T20:34:31.010Z",
+  "generatedAt": "2026-09-26T20:49:27.559Z",
   "client": {
     "name": "AKN Design Group",
     "canonicalUrl": "https://akndesigngroup.aiovisibility.net",
@@ -324,7 +324,7 @@
   },
   "package": {
     "totalFiles": 2673,
-    "totalBytes": 11865819,
+    "totalBytes": 11874138,
     "stats": {
       "qna": 0,
       "faqs": 2298,
@@ -13675,7 +13675,7 @@
       },
       {
         "path": "llms.txt",
-        "bytes": 8368,
+        "bytes": 9203,
         "purpose": "LLM hint"
       },
       {
@@ -13695,32 +13695,32 @@
       },
       {
         "path": "related-destinations.json",
-        "bytes": 1609,
+        "bytes": 3884,
         "purpose": "Cross-Destination Index (Related AI Data Sources)"
       },
       {
         "path": "ai-data.html",
-        "bytes": 1346629,
+        "bytes": 1348498,
         "purpose": "Master AI data index"
       },
       {
         "path": "llms-full.txt",
-        "bytes": 370166,
+        "bytes": 371001,
         "purpose": "Extended LLM context"
       },
       {
         "path": "llms-full.md",
-        "bytes": 370166,
+        "bytes": 371001,
         "purpose": "Extended LLM context (markdown)"
       },
       {
         "path": "full-context.md",
-        "bytes": 8373,
+        "bytes": 9208,
         "purpose": "Full markdown context"
       },
       {
         "path": "README.md",
-        "bytes": 489630,
+        "bytes": 490465,
         "purpose": "Repository README"
       },
       {
@@ -13740,6 +13740,25 @@
       "url": "https://github.com/AIOVisibilityHub/akn-design-group-ai-schemas-8wi2",
       "pagesUrl": "https://akndesigngroup.aiovisibility.net/",
       "repo": "AIOVisibilityHub/akn-design-group-ai-schemas-8wi2"
+    },
+    "gitlab": {
+      "url": "https://gitlab.com/aiovisibilityhub/akn-design-group-ai-schemas-v0tm",
+      "pagesUrl": "https://akn-design-group-ai-schemas-v0tm-513627.gitlab.io/"
+    },
+    "codeberg": {
+      "url": "https://codeberg.org/aiovisibilityhub/akn-design-group-ai-schemas",
+      "pagesUrl": "https://aiovisibilityhub.codeberg.page/akn-design-group-ai-schemas/",
+      "repo": "aiovisibilityhub/akn-design-group-ai-schemas"
+    },
+    "kaggle": {
+      "url": "https://www.kaggle.com/datasets/aiovisibilityhub/akn-design-group-ai-schemas"
+    },
+    "sourcehut": {
+      "url": "https://aiovisibilityhub.srht.site/",
+      "pagesUrl": "https://aiovisibilityhub.srht.site/"
+    },
+    "zenodo": {
+      "url": "https://zenodo.org/record/22982936"
     }
   }
 }
