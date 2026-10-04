@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-09-26T20:49:27.559Z",
+  "generatedAt": "2026-10-04T00:34:02.959Z",
   "client": {
     "name": "AKN Design Group",
     "canonicalUrl": "https://akndesigngroup.aiovisibility.net",
@@ -324,7 +324,7 @@
   },
   "package": {
     "totalFiles": 2673,
-    "totalBytes": 11874138,
+    "totalBytes": 11990157,
     "stats": {
       "qna": 0,
       "faqs": 2298,
@@ -13581,6 +13581,11 @@
         "path": "help/checklist-preparing-for-your-pantry-renovation-in-dfw.json",
         "bytes": 7868,
         "purpose": "schema"
+      },
+      {
+        "path": "help/publishing-plan.json",
+        "bytes": 101501,
+        "purpose": "schema"
       }
     ],
     "webpages-publishing-plan.json": [
@@ -13593,77 +13598,72 @@
     "public": [
       {
         "path": "index.html",
-        "bytes": 14409,
+        "bytes": 20120,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "about.html",
-        "bytes": 83530,
+        "bytes": 89093,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "services.html",
-        "bytes": 199972,
+        "bytes": 205682,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "contact.html",
-        "bytes": 12606,
+        "bytes": 18058,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "faqs.html",
-        "bytes": 1918644,
+        "bytes": 1924110,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles.html",
-        "bytes": 14539,
+        "bytes": 19586,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "case-studies.html",
-        "bytes": 40102,
+        "bytes": 45639,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "team-members.html",
-        "bytes": 24051,
+        "bytes": 29465,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/getting-started.html",
-        "bytes": 208507,
+        "bytes": 225089,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/services-and-process.html",
-        "bytes": 241317,
+        "bytes": 245449,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/planning-and-preparation.html",
-        "bytes": 575259,
+        "bytes": 566078,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/pricing-and-estimates.html",
-        "bytes": 236842,
+        "bytes": 237184,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/local-service-guidance.html",
-        "bytes": 27589,
+        "bytes": 32930,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/care-and-maintenance.html",
-        "bytes": 28927,
-        "purpose": "LLM-optimized public page"
-      },
-      {
-        "path": "articles/unassigned.html",
-        "bytes": 43578,
+        "bytes": 34376,
         "purpose": "LLM-optimized public page"
       }
     ],
@@ -13675,7 +13675,7 @@
       },
       {
         "path": "llms.txt",
-        "bytes": 9203,
+        "bytes": 8368,
         "purpose": "LLM hint"
       },
       {
@@ -13695,42 +13695,42 @@
       },
       {
         "path": "related-destinations.json",
-        "bytes": 3884,
+        "bytes": 1609,
         "purpose": "Cross-Destination Index (Related AI Data Sources)"
       },
       {
         "path": "ai-data.html",
-        "bytes": 1348498,
+        "bytes": 1346621,
         "purpose": "Master AI data index"
       },
       {
         "path": "llms-full.txt",
-        "bytes": 371001,
+        "bytes": 370148,
         "purpose": "Extended LLM context"
       },
       {
         "path": "llms-full.md",
-        "bytes": 371001,
+        "bytes": 370148,
         "purpose": "Extended LLM context (markdown)"
       },
       {
         "path": "full-context.md",
-        "bytes": 9208,
+        "bytes": 8373,
         "purpose": "Full markdown context"
       },
       {
         "path": "README.md",
-        "bytes": 490465,
+        "bytes": 489613,
         "purpose": "Repository README"
       },
       {
         "path": "ai-sitemap.xml",
-        "bytes": 391057,
+        "bytes": 391058,
         "purpose": "AI sitemap"
       },
       {
         "path": "sitemap.xml",
-        "bytes": 1674,
+        "bytes": 1584,
         "purpose": "Standard sitemap"
       }
     ]
@@ -13740,25 +13740,6 @@
       "url": "https://github.com/AIOVisibilityHub/akn-design-group-ai-schemas-8wi2",
       "pagesUrl": "https://akndesigngroup.aiovisibility.net/",
       "repo": "AIOVisibilityHub/akn-design-group-ai-schemas-8wi2"
-    },
-    "gitlab": {
-      "url": "https://gitlab.com/aiovisibilityhub/akn-design-group-ai-schemas-v0tm",
-      "pagesUrl": "https://akn-design-group-ai-schemas-v0tm-513627.gitlab.io/"
-    },
-    "codeberg": {
-      "url": "https://codeberg.org/aiovisibilityhub/akn-design-group-ai-schemas",
-      "pagesUrl": "https://aiovisibilityhub.codeberg.page/akn-design-group-ai-schemas/",
-      "repo": "aiovisibilityhub/akn-design-group-ai-schemas"
-    },
-    "kaggle": {
-      "url": "https://www.kaggle.com/datasets/aiovisibilityhub/akn-design-group-ai-schemas"
-    },
-    "sourcehut": {
-      "url": "https://aiovisibilityhub.srht.site/",
-      "pagesUrl": "https://aiovisibilityhub.srht.site/"
-    },
-    "zenodo": {
-      "url": "https://zenodo.org/record/22982936"
     }
   }
 }
