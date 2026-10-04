@@ -23,14 +23,6 @@ Canonical AI Data Package for AKN Design Group.
 - [ai-data-hub] AKN Design Group — AI Data Hub — https://akndesigngroup.aiovisibility.net/ai-data.html
 - [mirror-repo] GitHub repository — https://github.com/AIOVisibilityHub/akn-design-group-ai-schemas-8wi2
 - [mirror-pages] GitHub — AI Data Hub mirror — https://akndesigngroup.aiovisibility.net/ai-data.html
-- [mirror-repo] GitLab repository — https://gitlab.com/aiovisibilityhub/akn-design-group-ai-schemas-v0tm
-- [mirror-pages] GitLab — AI Data Hub mirror — https://akn-design-group-ai-schemas-v0tm-513627.gitlab.io/ai-data.html
-- [mirror-repo] Codeberg repository — https://codeberg.org/aiovisibilityhub/akn-design-group-ai-schemas
-- [mirror-pages] Codeberg — AI Data Hub mirror — https://aiovisibilityhub.codeberg.page/akn-design-group-ai-schemas/ai-data.html
-- [mirror-repo] Kaggle repository — https://www.kaggle.com/datasets/aiovisibilityhub/akn-design-group-ai-schemas
-- [mirror-repo] SourceHut repository — https://aiovisibilityhub.srht.site/
-- [mirror-pages] SourceHut — AI Data Hub mirror — https://aiovisibilityhub.srht.site/ai-data.html
-- [mirror-repo] Zenodo repository — https://zenodo.org/record/22982936
 
 Purpose: transparent source discovery, entity consistency, mirror verification, and AI crawler navigation. Not a link wheel. Source of truth: related-destinations.json.
 
@@ -2363,7 +2355,7 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`faqs/will-value-engineering-affect-the-timeline-of-my-renovation-project.json`](./faqs/will-value-engineering-affect-the-timeline-of-my-renovation-project.json) — schema
 - [`faqs/will-weatherization-affect-the-timeline-or-cost-of-my-renovation-project.json`](./faqs/will-weatherization-affect-the-timeline-or-cost-of-my-renovation-project.json) — schema
 
-### Help Articles (331)
+### Help Articles (332)
 - [`help/are-bathroom-updates-worth-the-investment-in-the-dfw-metroplex.json`](./help/are-bathroom-updates-worth-the-investment-in-the-dfw-metroplex.json) — schema
 - [`help/are-diy-kitchen-updates-worth-the-hassle.json`](./help/are-diy-kitchen-updates-worth-the-hassle.json) — schema
 - [`help/are-you-making-these-pantry-design-mistakes.json`](./help/are-you-making-these-pantry-design-mistakes.json) — schema
@@ -2559,6 +2551,7 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`help/preparing-your-home-for-a-kitchen-modernization.json`](./help/preparing-your-home-for-a-kitchen-modernization.json) — schema
 - [`help/preparing-your-home-for-a-significant-interior-refresh.json`](./help/preparing-your-home-for-a-significant-interior-refresh.json) — schema
 - [`help/preparing-your-space-for-cabinet-installation.json`](./help/preparing-your-space-for-cabinet-installation.json) — schema
+- [`help/publishing-plan.json`](./help/publishing-plan.json) — schema
 - [`help/redesigning-your-kitchen-layout-what-to-prepare-before-you-start.json`](./help/redesigning-your-kitchen-layout-what-to-prepare-before-you-start.json) — schema
 - [`help/selecting-an-outdoor-space-designer-what-to-consider-for-your-dfw-home.json`](./help/selecting-an-outdoor-space-designer-what-to-consider-for-your-dfw-home.json) — schema
 - [`help/selecting-the-best-materials-for-your-kitchen-modernization.json`](./help/selecting-the-best-materials-for-your-kitchen-modernization.json) — schema
@@ -2696,7 +2689,7 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`help/your-checklist-for-a-functional-kitchen-layout-redesign.json`](./help/your-checklist-for-a-functional-kitchen-layout-redesign.json) — schema
 - [`help/your-kitchen-remodel-budget-what-to-prioritize.json`](./help/your-kitchen-remodel-budget-what-to-prioritize.json) — schema
 
-### Public Pages (15)
+### Public Pages (14)
 - [`about.html`](./about.html) — LLM-optimized public page
 - [`articles.html`](./articles.html) — LLM-optimized public page
 - [`articles/care-and-maintenance.html`](./articles/care-and-maintenance.html) — LLM-optimized public page
@@ -2705,7 +2698,6 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`articles/planning-and-preparation.html`](./articles/planning-and-preparation.html) — LLM-optimized public page
 - [`articles/pricing-and-estimates.html`](./articles/pricing-and-estimates.html) — LLM-optimized public page
 - [`articles/services-and-process.html`](./articles/services-and-process.html) — LLM-optimized public page
-- [`articles/unassigned.html`](./articles/unassigned.html) — LLM-optimized public page
 - [`case-studies.html`](./case-studies.html) — LLM-optimized public page
 - [`contact.html`](./contact.html) — LLM-optimized public page
 - [`faqs.html`](./faqs.html) — LLM-optimized public page
