@@ -1,0 +1,2765 @@
+{
+  "publishedCategories": [
+    {
+      "slug": "getting-started",
+      "name": "Getting Started",
+      "description": "Introductory guidance for anyone contacting us for the first time.",
+      "keywords": [
+        "getting started",
+        "introduction",
+        "first",
+        "begin",
+        "basics",
+        "overview",
+        "what to expect",
+        "right choice",
+        "when to call",
+        "guide to"
+      ]
+    },
+    {
+      "slug": "services-and-process",
+      "name": "Services & Process",
+      "description": "How each service works, stage by stage, from first contact to completion.",
+      "keywords": [
+        "process",
+        "how we",
+        "step-by-step",
+        "steps",
+        "workflow",
+        "service",
+        "what happens",
+        "timeline",
+        "procedure"
+      ]
+    },
+    {
+      "slug": "planning-and-preparation",
+      "name": "Planning & Preparation",
+      "description": "What to gather, decide and arrange before work begins.",
+      "keywords": [
+        "prepare",
+        "preparation",
+        "checklist",
+        "before",
+        "plan",
+        "planning",
+        "ready",
+        "documents",
+        "paperwork"
+      ]
+    },
+    {
+      "slug": "pricing-and-estimates",
+      "name": "Pricing & Estimates",
+      "description": "How work is quoted, what affects the cost and how estimates are produced.",
+      "keywords": [
+        "cost",
+        "costs",
+        "price",
+        "pricing",
+        "estimate",
+        "quote",
+        "budget",
+        "fee",
+        "fees",
+        "payment",
+        "insurance"
+      ]
+    },
+    {
+      "slug": "local-service-guidance",
+      "name": "Local Service Guidance",
+      "description": "Guidance specific to the areas we serve.",
+      "keywords": [
+        "near me",
+        "local",
+        "area",
+        "county",
+        "city",
+        "region",
+        "neighborhood",
+        "serving"
+      ]
+    },
+    {
+      "slug": "care-and-maintenance",
+      "name": "Care & Maintenance",
+      "description": "Looking after the work once it is finished, and what to watch for over time.",
+      "keywords": [
+        "maintenance",
+        "maintain",
+        "care",
+        "upkeep",
+        "aftercare",
+        "repair",
+        "inspection",
+        "seasonal",
+        "troubleshoot",
+        "warranty",
+        "follow-up"
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "title": "What are the biggest mistakes to avoid in bathroom remodeling?",
+      "anchorSlug": "what-are-the-biggest-mistakes-to-avoid-in-bathroom-remodeling",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-are-the-biggest-mistakes-to-avoid-in-bathroom-remodeling.html"
+    },
+    {
+      "title": "How can I make my small bathroom feel luxurious?",
+      "anchorSlug": "how-can-i-make-my-small-bathroom-feel-luxurious",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-can-i-make-my-small-bathroom-feel-luxurious.html"
+    },
+    {
+      "title": "When should I consider expanding my bathroom?",
+      "anchorSlug": "when-should-i-consider-expanding-my-bathroom",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-should-i-consider-expanding-my-bathroom.html"
+    },
+    {
+      "title": "What to do when my outdoor kitchen design feels overwhelming?",
+      "anchorSlug": "what-to-do-when-my-outdoor-kitchen-design-feels-overwhelming",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-do-when-my-outdoor-kitchen-design-feels-overwhelming.html"
+    },
+    {
+      "title": "How do I choose the right contractor for my outdoor living space?",
+      "anchorSlug": "how-do-i-choose-the-right-contractor-for-my-outdoor-living-space",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-do-i-choose-the-right-contractor-for-my-outdoor-living-space.html"
+    },
+    {
+      "title": "Why does my outdoor renovation budget keep growing?",
+      "anchorSlug": "why-does-my-outdoor-renovation-budget-keep-growing",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-does-my-outdoor-renovation-budget-keep-growing.html"
+    },
+    {
+      "title": "Feeling Overwhelmed by a Big Home Remodel?",
+      "anchorSlug": "feeling-overwhelmed-by-a-big-home-remodel",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/feeling-overwhelmed-by-a-big-home-remodel.html"
+    },
+    {
+      "title": "Navigating Permits for Your Dallas–Fort Worth Remodel",
+      "anchorSlug": "navigating-permits-for-your-dallas-fort-worth-remodel",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/navigating-permits-for-your-dallas-fort-worth-remodel.html"
+    },
+    {
+      "title": "Why Your Home Addition Needs Expert Planning",
+      "anchorSlug": "why-your-home-addition-needs-expert-planning",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-your-home-addition-needs-expert-planning.html"
+    },
+    {
+      "title": "When Does Your Kitchen Really Need a Full Remodel?",
+      "anchorSlug": "when-does-your-kitchen-really-need-a-full-remodel",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-does-your-kitchen-really-need-a-full-remodel.html"
+    },
+    {
+      "title": "Avoiding Common Pitfalls in Your Kitchen Renovation",
+      "anchorSlug": "avoiding-common-pitfalls-in-your-kitchen-renovation",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/avoiding-common-pitfalls-in-your-kitchen-renovation.html"
+    },
+    {
+      "title": "Is a Design-Build Approach Right for Your Kitchen Update?",
+      "anchorSlug": "is-a-design-build-approach-right-for-your-kitchen-update",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/is-a-design-build-approach-right-for-your-kitchen-update.html"
+    },
+    {
+      "title": "Why Your Interior Paint Job Might Not Last",
+      "anchorSlug": "why-your-interior-paint-job-might-not-last",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-your-interior-paint-job-might-not-last.html"
+    },
+    {
+      "title": "How to Prepare Your Home for an Interior Refresh",
+      "anchorSlug": "how-to-prepare-your-home-for-an-interior-refresh",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-prepare-your-home-for-an-interior-refresh.html"
+    },
+    {
+      "title": "Mistakes to Avoid When Planning Your Interior Refresh",
+      "anchorSlug": "mistakes-to-avoid-when-planning-your-interior-refresh",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/mistakes-to-avoid-when-planning-your-interior-refresh.html"
+    },
+    {
+      "title": "What to Expect During Your Kitchen Remodel Process",
+      "anchorSlug": "what-to-expect-during-your-kitchen-remodel-process",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-expect-during-your-kitchen-remodel-process.html"
+    },
+    {
+      "title": "Signs Your Kitchen is Ready for a Major Remodel",
+      "anchorSlug": "signs-your-kitchen-is-ready-for-a-major-remodel",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/signs-your-kitchen-is-ready-for-a-major-remodel.html"
+    },
+    {
+      "title": "Common Mistakes to Avoid in Your Kitchen Remodel",
+      "anchorSlug": "common-mistakes-to-avoid-in-your-kitchen-remodel",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/common-mistakes-to-avoid-in-your-kitchen-remodel.html"
+    },
+    {
+      "title": "What to Consider Before Starting Your Kitchen Remodel",
+      "anchorSlug": "what-to-consider-before-starting-your-kitchen-remodel",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-consider-before-starting-your-kitchen-remodel.html"
+    },
+    {
+      "title": "Avoiding Costly Mistakes in Your Kitchen Remodel",
+      "anchorSlug": "avoiding-costly-mistakes-in-your-kitchen-remodel",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/avoiding-costly-mistakes-in-your-kitchen-remodel.html"
+    },
+    {
+      "title": "How to Plan Your Full Kitchen Renovation Project",
+      "anchorSlug": "how-to-plan-your-full-kitchen-renovation-project",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-plan-your-full-kitchen-renovation-project.html"
+    },
+    {
+      "title": "Why Professional Kitchen Design Matters for Your Renovation",
+      "anchorSlug": "why-professional-kitchen-design-matters-for-your-renovation",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-professional-kitchen-design-matters-for-your-renovation.html"
+    },
+    {
+      "title": "Mistakes to Avoid in Custom Kitchen Design",
+      "anchorSlug": "mistakes-to-avoid-in-custom-kitchen-design",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/mistakes-to-avoid-in-custom-kitchen-design.html"
+    },
+    {
+      "title": "Understanding the Custom Kitchen Design Process",
+      "anchorSlug": "understanding-the-custom-kitchen-design-process",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/understanding-the-custom-kitchen-design-process.html"
+    },
+    {
+      "title": "Why Does My Kitchen Feel So Small and Dated?",
+      "anchorSlug": "why-does-my-kitchen-feel-so-small-and-dated",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-does-my-kitchen-feel-so-small-and-dated.html"
+    },
+    {
+      "title": "How to Plan Your Ideal Kitchen Layout in the Dallas–Fort Worth Metroplex",
+      "anchorSlug": "how-to-plan-your-ideal-kitchen-layout-in-the-dallas-fort-worth-metroplex",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-plan-your-ideal-kitchen-layout-in-the-dallas-fort-worth-metroplex.html"
+    },
+    {
+      "title": "Kitchen Layout Redesign: Common Mistakes to Avoid",
+      "anchorSlug": "kitchen-layout-redesign-common-mistakes-to-avoid",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/kitchen-layout-redesign-common-mistakes-to-avoid.html"
+    },
+    {
+      "title": "Can I Really Remove That Wall in My Kitchen?",
+      "anchorSlug": "can-i-really-remove-that-wall-in-my-kitchen",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/can-i-really-remove-that-wall-in-my-kitchen.html"
+    },
+    {
+      "title": "What Happens When You Want to Remove a Load-Bearing Wall for Your Kitchen?",
+      "anchorSlug": "what-happens-when-you-want-to-remove-a-load-bearing-wall-for-your-kitche",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-happens-when-you-want-to-remove-a-load-bearing-wall-for-your-kitche.html"
+    },
+    {
+      "title": "Open-Concept Kitchen Remodeling: Common Mistakes to Avoid",
+      "anchorSlug": "open-concept-kitchen-remodeling-common-mistakes-to-avoid",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/open-concept-kitchen-remodeling-common-mistakes-to-avoid.html"
+    },
+    {
+      "title": "Why aren't my custom cabinets fitting perfectly?",
+      "anchorSlug": "why-aren-t-my-custom-cabinets-fitting-perfectly",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-aren-t-my-custom-cabinets-fitting-perfectly.html"
+    },
+    {
+      "title": "How to ensure your cabinet installation goes smoothly",
+      "anchorSlug": "how-to-ensure-your-cabinet-installation-goes-smoothly",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-ensure-your-cabinet-installation-goes-smoothly.html"
+    },
+    {
+      "title": "What makes custom cabinets a worthwhile investment?",
+      "anchorSlug": "what-makes-custom-cabinets-a-worthwhile-investment",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-makes-custom-cabinets-a-worthwhile-investment.html"
+    },
+    {
+      "title": "Is professional cabinet installation really necessary?",
+      "anchorSlug": "is-professional-cabinet-installation-really-necessary",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/is-professional-cabinet-installation-really-necessary.html"
+    },
+    {
+      "title": "What to prepare before choosing custom cabinetry",
+      "anchorSlug": "what-to-prepare-before-choosing-custom-cabinetry",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-prepare-before-choosing-custom-cabinetry.html"
+    },
+    {
+      "title": "When should I measure for new cabinet installation?",
+      "anchorSlug": "when-should-i-measure-for-new-cabinet-installation",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-should-i-measure-for-new-cabinet-installation.html"
+    },
+    {
+      "title": "My Kitchen Cabinets Look Tired – Should I Reface or Replace Them?",
+      "anchorSlug": "my-kitchen-cabinets-look-tired-should-i-reface-or-replace-them",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/my-kitchen-cabinets-look-tired-should-i-reface-or-replace-them.html"
+    },
+    {
+      "title": "What to Prepare Before You Start Cabinet Refacing",
+      "anchorSlug": "what-to-prepare-before-you-start-cabinet-refacing",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-prepare-before-you-start-cabinet-refacing.html"
+    },
+    {
+      "title": "Avoiding Common Pitfalls in Cabinet Refacing Projects",
+      "anchorSlug": "avoiding-common-pitfalls-in-cabinet-refacing-projects",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/avoiding-common-pitfalls-in-cabinet-refacing-projects.html"
+    },
+    {
+      "title": "Why Does My New Cabinet Hardware Feel Wrong?",
+      "anchorSlug": "why-does-my-new-cabinet-hardware-feel-wrong",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-does-my-new-cabinet-hardware-feel-wrong.html"
+    },
+    {
+      "title": "Where Should I Place New Knobs and Pulls on My Cabinets?",
+      "anchorSlug": "where-should-i-place-new-knobs-and-pulls-on-my-cabinets",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/where-should-i-place-new-knobs-and-pulls-on-my-cabinets.html"
+    },
+    {
+      "title": "Making Sure Your New Cabinet Hardware Lasts",
+      "anchorSlug": "making-sure-your-new-cabinet-hardware-lasts",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/making-sure-your-new-cabinet-hardware-lasts.html"
+    },
+    {
+      "title": "When Should I Get Professional Help for Cabinet Refacing?",
+      "anchorSlug": "when-should-i-get-professional-help-for-cabinet-refacing",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-should-i-get-professional-help-for-cabinet-refacing.html"
+    },
+    {
+      "title": "Is My Kitchen Big Enough for an Island?",
+      "anchorSlug": "is-my-kitchen-big-enough-for-an-island",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/is-my-kitchen-big-enough-for-an-island.html"
+    },
+    {
+      "title": "When Does a Kitchen Island Project Need a Permit?",
+      "anchorSlug": "when-does-a-kitchen-island-project-need-a-permit",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-does-a-kitchen-island-project-need-a-permit.html"
+    },
+    {
+      "title": "Avoiding Common Kitchen Island Design Mistakes",
+      "anchorSlug": "avoiding-common-kitchen-island-design-mistakes",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/avoiding-common-kitchen-island-design-mistakes.html"
+    },
+    {
+      "title": "Why Is My Pantry Always a Mess?",
+      "anchorSlug": "why-is-my-pantry-always-a-mess",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-is-my-pantry-always-a-mess.html"
+    },
+    {
+      "title": "How to Plan Your Custom Pantry Installation",
+      "anchorSlug": "how-to-plan-your-custom-pantry-installation",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-plan-your-custom-pantry-installation.html"
+    },
+    {
+      "title": "Why Does My Bathroom Feel So Small and Outdated?",
+      "anchorSlug": "why-does-my-bathroom-feel-so-small-and-outdated",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-does-my-bathroom-feel-so-small-and-outdated.html"
+    },
+    {
+      "title": "What to Do When Your Outdoor Space Isn't Functional for Entertaining",
+      "anchorSlug": "what-to-do-when-your-outdoor-space-isn-t-functional-for-entertaining",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-do-when-your-outdoor-space-isn-t-functional-for-entertaining.html"
+    },
+    {
+      "title": "How to Plan a Spa-Inspired Bathroom Retreat",
+      "anchorSlug": "how-to-plan-a-spa-inspired-bathroom-retreat",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-plan-a-spa-inspired-bathroom-retreat.html"
+    },
+    {
+      "title": "What Are the Key Steps for a Successful Outdoor Living Project?",
+      "anchorSlug": "what-are-the-key-steps-for-a-successful-outdoor-living-project",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-are-the-key-steps-for-a-successful-outdoor-living-project.html"
+    },
+    {
+      "title": "Signs Your Bathroom Needs More Than Just a Cosmetic Refresh",
+      "anchorSlug": "signs-your-bathroom-needs-more-than-just-a-cosmetic-refresh",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/signs-your-bathroom-needs-more-than-just-a-cosmetic-refresh.html"
+    },
+    {
+      "title": "What Are the Biggest Mistakes to Avoid in an Outdoor Renovation?",
+      "anchorSlug": "what-are-the-biggest-mistakes-to-avoid-in-an-outdoor-renovation",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-are-the-biggest-mistakes-to-avoid-in-an-outdoor-renovation.html"
+    },
+    {
+      "title": "Are Bathroom Updates Worth the Investment in the DFW Metroplex?",
+      "anchorSlug": "are-bathroom-updates-worth-the-investment-in-the-dfw-metroplex",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/are-bathroom-updates-worth-the-investment-in-the-dfw-metroplex.html"
+    },
+    {
+      "title": "Why Your Kitchen Remodel Feels Overwhelming to Start",
+      "anchorSlug": "why-your-kitchen-remodel-feels-overwhelming-to-start",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-your-kitchen-remodel-feels-overwhelming-to-start.html"
+    },
+    {
+      "title": "How to Plan a Kitchen Renovation That Truly Fits Your Life",
+      "anchorSlug": "how-to-plan-a-kitchen-renovation-that-truly-fits-your-life",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-plan-a-kitchen-renovation-that-truly-fits-your-life.html"
+    },
+    {
+      "title": "When Should You Call a Pro for Your Custom Home Upgrade?",
+      "anchorSlug": "when-should-you-call-a-pro-for-your-custom-home-upgrade",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-should-you-call-a-pro-for-your-custom-home-upgrade.html"
+    },
+    {
+      "title": "Understanding the Timeline for Your Kitchen Modernization Project",
+      "anchorSlug": "understanding-the-timeline-for-your-kitchen-modernization-project",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/understanding-the-timeline-for-your-kitchen-modernization-project.html"
+    },
+    {
+      "title": "Avoiding Common Pitfalls in Your Home Improvement Project",
+      "anchorSlug": "avoiding-common-pitfalls-in-your-home-improvement-project",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/avoiding-common-pitfalls-in-your-home-improvement-project.html"
+    },
+    {
+      "title": "What to Look for When Choosing a Contractor for Your Home Renovation",
+      "anchorSlug": "what-to-look-for-when-choosing-a-contractor-for-your-home-renovation",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-look-for-when-choosing-a-contractor-for-your-home-renovation.html"
+    },
+    {
+      "title": "What to Know Before Starting a Major Home Addition",
+      "anchorSlug": "what-to-know-before-starting-a-major-home-addition",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-know-before-starting-a-major-home-addition.html"
+    },
+    {
+      "title": "Why Your Kitchen Layout Feels So Wrong",
+      "anchorSlug": "why-your-kitchen-layout-feels-so-wrong",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-your-kitchen-layout-feels-so-wrong.html"
+    },
+    {
+      "title": "How to Plan for a Whole-Home Interior Refresh",
+      "anchorSlug": "how-to-plan-for-a-whole-home-interior-refresh",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-plan-for-a-whole-home-interior-refresh.html"
+    },
+    {
+      "title": "When Your Kitchen Renovation Needs a Pro",
+      "anchorSlug": "when-your-kitchen-renovation-needs-a-pro",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-your-kitchen-renovation-needs-a-pro.html"
+    },
+    {
+      "title": "What to Avoid When Updating Your Home’s Interior",
+      "anchorSlug": "what-to-avoid-when-updating-your-home-s-interior",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-avoid-when-updating-your-home-s-interior.html"
+    },
+    {
+      "title": "How to Tackle a Kitchen Remodel Without Losing Your Mind",
+      "anchorSlug": "how-to-tackle-a-kitchen-remodel-without-losing-your-mind",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-tackle-a-kitchen-remodel-without-losing-your-mind.html"
+    },
+    {
+      "title": "Is a Quick Interior Refresh Right for Your DFW Home?",
+      "anchorSlug": "is-a-quick-interior-refresh-right-for-your-dfw-home",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/is-a-quick-interior-refresh-right-for-your-dfw-home.html"
+    },
+    {
+      "title": "Why Does My Kitchen Remodel Take So Long?",
+      "anchorSlug": "why-does-my-kitchen-remodel-take-so-long",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-does-my-kitchen-remodel-take-so-long.html"
+    },
+    {
+      "title": "What to Look for in a Kitchen Renovation Quote",
+      "anchorSlug": "what-to-look-for-in-a-kitchen-renovation-quote",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-look-for-in-a-kitchen-renovation-quote.html"
+    },
+    {
+      "title": "What to Expect During a Kitchen Renovation",
+      "anchorSlug": "what-to-expect-during-a-kitchen-renovation",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-expect-during-a-kitchen-renovation.html"
+    },
+    {
+      "title": "When Should I Hire a Professional Kitchen Designer?",
+      "anchorSlug": "when-should-i-hire-a-professional-kitchen-designer",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-should-i-hire-a-professional-kitchen-designer.html"
+    },
+    {
+      "title": "Avoiding Common Pitfalls in Kitchen Design",
+      "anchorSlug": "avoiding-common-pitfalls-in-kitchen-design",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/avoiding-common-pitfalls-in-kitchen-design.html"
+    },
+    {
+      "title": "How to Ensure Your Custom Kitchen Design Fits Perfectly",
+      "anchorSlug": "how-to-ensure-your-custom-kitchen-design-fits-perfectly",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-ensure-your-custom-kitchen-design-fits-perfectly.html"
+    },
+    {
+      "title": "Why Your Kitchen Layout Might Not Be Working",
+      "anchorSlug": "why-your-kitchen-layout-might-not-be-working",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-your-kitchen-layout-might-not-be-working.html"
+    },
+    {
+      "title": "Mistakes to Avoid When Redesigning Your Kitchen Layout",
+      "anchorSlug": "mistakes-to-avoid-when-redesigning-your-kitchen-layout",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/mistakes-to-avoid-when-redesigning-your-kitchen-layout.html"
+    },
+    {
+      "title": "Getting Started with Your Kitchen Layout Redesign",
+      "anchorSlug": "getting-started-with-your-kitchen-layout-redesign",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/getting-started-with-your-kitchen-layout-redesign.html"
+    },
+    {
+      "title": "Should You Open Up Your Kitchen and Living Space?",
+      "anchorSlug": "should-you-open-up-your-kitchen-and-living-space",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/should-you-open-up-your-kitchen-and-living-space.html"
+    },
+    {
+      "title": "Is Removing a Kitchen Wall Worth the Effort?",
+      "anchorSlug": "is-removing-a-kitchen-wall-worth-the-effort",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/is-removing-a-kitchen-wall-worth-the-effort.html"
+    },
+    {
+      "title": "When Professional Guidance Helps with Your Kitchen Redesign",
+      "anchorSlug": "when-professional-guidance-helps-with-your-kitchen-redesign",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-professional-guidance-helps-with-your-kitchen-redesign.html"
+    },
+    {
+      "title": "Your Checklist for a Functional Kitchen Layout Redesign",
+      "anchorSlug": "your-checklist-for-a-functional-kitchen-layout-redesign",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/your-checklist-for-a-functional-kitchen-layout-redesign.html"
+    },
+    {
+      "title": "How to Know if Your Kitchen Remodel Needs a Structural Engineer",
+      "anchorSlug": "how-to-know-if-your-kitchen-remodel-needs-a-structural-engineer",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-know-if-your-kitchen-remodel-needs-a-structural-engineer.html"
+    },
+    {
+      "title": "Why Are My Kitchen Cabinets Not Level?",
+      "anchorSlug": "why-are-my-kitchen-cabinets-not-level",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-are-my-kitchen-cabinets-not-level.html"
+    },
+    {
+      "title": "How to Plan for New Custom Cabinetry",
+      "anchorSlug": "how-to-plan-for-new-custom-cabinetry",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-plan-for-new-custom-cabinetry.html"
+    },
+    {
+      "title": "Mistakes to Avoid When Ordering New Cabinets",
+      "anchorSlug": "mistakes-to-avoid-when-ordering-new-cabinets",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/mistakes-to-avoid-when-ordering-new-cabinets.html"
+    },
+    {
+      "title": "Is My Home Ready for Cabinet Installation?",
+      "anchorSlug": "is-my-home-ready-for-cabinet-installation",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/is-my-home-ready-for-cabinet-installation.html"
+    },
+    {
+      "title": "How Long Does Custom Cabinetry Installation Really Take?",
+      "anchorSlug": "how-long-does-custom-cabinetry-installation-really-take",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-long-does-custom-cabinetry-installation-really-take.html"
+    },
+    {
+      "title": "Custom Cabinetry vs. Stock Cabinets: Which Is Right for My DFW Home?",
+      "anchorSlug": "custom-cabinetry-vs-stock-cabinets-which-is-right-for-my-dfw-home",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/custom-cabinetry-vs-stock-cabinets-which-is-right-for-my-dfw-home.html"
+    },
+    {
+      "title": "When Is Cabinet Refacing a Smart Move?",
+      "anchorSlug": "when-is-cabinet-refacing-a-smart-move",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-is-cabinet-refacing-a-smart-move.html"
+    },
+    {
+      "title": "Avoiding Common Refacing Mistakes",
+      "anchorSlug": "avoiding-common-refacing-mistakes",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/avoiding-common-refacing-mistakes.html"
+    },
+    {
+      "title": "What to Prepare Before Your Cabinet Refacing Project",
+      "anchorSlug": "what-to-prepare-before-your-cabinet-refacing-project",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-prepare-before-your-cabinet-refacing-project.html"
+    },
+    {
+      "title": "Why Are My New Cabinet Handles Crooked?",
+      "anchorSlug": "why-are-my-new-cabinet-handles-crooked",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-are-my-new-cabinet-handles-crooked.html"
+    },
+    {
+      "title": "Choosing the Perfect Cabinet Hardware: What You Need to Know",
+      "anchorSlug": "choosing-the-perfect-cabinet-hardware-what-you-need-to-know",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/choosing-the-perfect-cabinet-hardware-what-you-need-to-know.html"
+    },
+    {
+      "title": "How to Install Cabinet Hardware Like a Pro",
+      "anchorSlug": "how-to-install-cabinet-hardware-like-a-pro",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-install-cabinet-hardware-like-a-pro.html"
+    },
+    {
+      "title": "Why Your Kitchen Island Feels All Wrong",
+      "anchorSlug": "why-your-kitchen-island-feels-all-wrong",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-your-kitchen-island-feels-all-wrong.html"
+    },
+    {
+      "title": "Should Your Pantry Be Walk-In or Reach-In?",
+      "anchorSlug": "should-your-pantry-be-walk-in-or-reach-in",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/should-your-pantry-be-walk-in-or-reach-in.html"
+    },
+    {
+      "title": "Why Does My Bathroom Remodel Take So Long?",
+      "anchorSlug": "why-does-my-bathroom-remodel-take-so-long",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-does-my-bathroom-remodel-take-so-long.html"
+    },
+    {
+      "title": "How to Plan Your Spa-Inspired Bathroom Retreat",
+      "anchorSlug": "how-to-plan-your-spa-inspired-bathroom-retreat",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-plan-your-spa-inspired-bathroom-retreat.html"
+    },
+    {
+      "title": "Mistakes Homeowners Make with Outdoor Living Projects",
+      "anchorSlug": "mistakes-homeowners-make-with-outdoor-living-projects",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/mistakes-homeowners-make-with-outdoor-living-projects.html"
+    },
+    {
+      "title": "When to Call a Professional for Your Bathroom Remodel",
+      "anchorSlug": "when-to-call-a-professional-for-your-bathroom-remodel",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-to-call-a-professional-for-your-bathroom-remodel.html"
+    },
+    {
+      "title": "How to Design an Outdoor Living Space That Flows",
+      "anchorSlug": "how-to-design-an-outdoor-living-space-that-flows",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-design-an-outdoor-living-space-that-flows.html"
+    },
+    {
+      "title": "What to Consider Before Building Your Dream Outdoor Kitchen",
+      "anchorSlug": "what-to-consider-before-building-your-dream-outdoor-kitchen",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-consider-before-building-your-dream-outdoor-kitchen.html"
+    },
+    {
+      "title": "Why Your Home Improvement Project Needs a Permit (Even Small Ones)",
+      "anchorSlug": "why-your-home-improvement-project-needs-a-permit-even-small-ones",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-your-home-improvement-project-needs-a-permit-even-small-ones.html"
+    },
+    {
+      "title": "Is Your Kitchen Layout Making Life Harder?",
+      "anchorSlug": "is-your-kitchen-layout-making-life-harder",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/is-your-kitchen-layout-making-life-harder.html"
+    },
+    {
+      "title": "When Should You Bring in a Pro for Home Improvements?",
+      "anchorSlug": "when-should-you-bring-in-a-pro-for-home-improvements",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-should-you-bring-in-a-pro-for-home-improvements.html"
+    },
+    {
+      "title": "How to Plan a Kitchen Renovation That Actually Works",
+      "anchorSlug": "how-to-plan-a-kitchen-renovation-that-actually-works",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-plan-a-kitchen-renovation-that-actually-works.html"
+    },
+    {
+      "title": "Overwhelmed by Renovation Choices? What to Look For",
+      "anchorSlug": "overwhelmed-by-renovation-choices-what-to-look-for",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/overwhelmed-by-renovation-choices-what-to-look-for.html"
+    },
+    {
+      "title": "Can Your Kitchen Handle a Modern Update?",
+      "anchorSlug": "can-your-kitchen-handle-a-modern-update",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/can-your-kitchen-handle-a-modern-update.html"
+    },
+    {
+      "title": "Why Does My Kitchen Feel So Outdated?",
+      "anchorSlug": "why-does-my-kitchen-feel-so-outdated",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-does-my-kitchen-feel-so-outdated.html"
+    },
+    {
+      "title": "How to Plan Your Dream Kitchen Renovation Successfully",
+      "anchorSlug": "how-to-plan-your-dream-kitchen-renovation-successfully",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-plan-your-dream-kitchen-renovation-successfully.html"
+    },
+    {
+      "title": "Are DIY Kitchen Updates Worth the Hassle?",
+      "anchorSlug": "are-diy-kitchen-updates-worth-the-hassle",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/are-diy-kitchen-updates-worth-the-hassle.html"
+    },
+    {
+      "title": "My Interior Feels Stale: How Can I Refresh It?",
+      "anchorSlug": "my-interior-feels-stale-how-can-i-refresh-it",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/my-interior-feels-stale-how-can-i-refresh-it.html"
+    },
+    {
+      "title": "What Are the Biggest Mistakes in Interior Refreshing?",
+      "anchorSlug": "what-are-the-biggest-mistakes-in-interior-refreshing",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-are-the-biggest-mistakes-in-interior-refreshing.html"
+    },
+    {
+      "title": "When Should I Hire a Pro for Interior Updates?",
+      "anchorSlug": "when-should-i-hire-a-pro-for-interior-updates",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-should-i-hire-a-pro-for-interior-updates.html"
+    },
+    {
+      "title": "My Kitchen Layout Feels All Wrong: How Do I Fix It?",
+      "anchorSlug": "my-kitchen-layout-feels-all-wrong-how-do-i-fix-it",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/my-kitchen-layout-feels-all-wrong-how-do-i-fix-it.html"
+    },
+    {
+      "title": "How Long Does a Full Kitchen Remodel Really Take?",
+      "anchorSlug": "how-long-does-a-full-kitchen-remodel-really-take",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-long-does-a-full-kitchen-remodel-really-take.html"
+    },
+    {
+      "title": "What to Consider Before Your Kitchen Demolition",
+      "anchorSlug": "what-to-consider-before-your-kitchen-demolition",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-consider-before-your-kitchen-demolition.html"
+    },
+    {
+      "title": "Why Is My Custom Kitchen Design So Important?",
+      "anchorSlug": "why-is-my-custom-kitchen-design-so-important",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-is-my-custom-kitchen-design-so-important.html"
+    },
+    {
+      "title": "How to Avoid Costly Kitchen Design Blunders",
+      "anchorSlug": "how-to-avoid-costly-kitchen-design-blunders",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-avoid-costly-kitchen-design-blunders.html"
+    },
+    {
+      "title": "Is a Custom Kitchen Designer Right for Your Project?",
+      "anchorSlug": "is-a-custom-kitchen-designer-right-for-your-project",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/is-a-custom-kitchen-designer-right-for-your-project.html"
+    },
+    {
+      "title": "How to Ask the Right Questions for Your Custom Kitchen Design",
+      "anchorSlug": "how-to-ask-the-right-questions-for-your-custom-kitchen-design",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-ask-the-right-questions-for-your-custom-kitchen-design.html"
+    },
+    {
+      "title": "Why Your Kitchen Layout Feels Off (and How to Fix It)",
+      "anchorSlug": "why-your-kitchen-layout-feels-off-and-how-to-fix-it",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-your-kitchen-layout-feels-off-and-how-to-fix-it.html"
+    },
+    {
+      "title": "Struggling to Visualize Your New Kitchen Flow?",
+      "anchorSlug": "struggling-to-visualize-your-new-kitchen-flow",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/struggling-to-visualize-your-new-kitchen-flow.html"
+    },
+    {
+      "title": "How to Plan Your Perfect Kitchen Layout",
+      "anchorSlug": "how-to-plan-your-perfect-kitchen-layout",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-plan-your-perfect-kitchen-layout.html"
+    },
+    {
+      "title": "Considering Open-Concept: Will it Work for Your Home?",
+      "anchorSlug": "considering-open-concept-will-it-work-for-your-home",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/considering-open-concept-will-it-work-for-your-home.html"
+    },
+    {
+      "title": "Opening Up Your Kitchen: What to Expect",
+      "anchorSlug": "opening-up-your-kitchen-what-to-expect",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/opening-up-your-kitchen-what-to-expect.html"
+    },
+    {
+      "title": "Is an Open-Concept Kitchen Right for Your Lifestyle?",
+      "anchorSlug": "is-an-open-concept-kitchen-right-for-your-lifestyle",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/is-an-open-concept-kitchen-right-for-your-lifestyle.html"
+    },
+    {
+      "title": "Why Are My New Cabinets Uneven?",
+      "anchorSlug": "why-are-my-new-cabinets-uneven",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-are-my-new-cabinets-uneven.html"
+    },
+    {
+      "title": "What's the Difference Between Custom and Stock Cabinets?",
+      "anchorSlug": "what-s-the-difference-between-custom-and-stock-cabinets",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-s-the-difference-between-custom-and-stock-cabinets.html"
+    },
+    {
+      "title": "How to Plan for Kitchen Cabinetry?",
+      "anchorSlug": "how-to-plan-for-kitchen-cabinetry",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-plan-for-kitchen-cabinetry.html"
+    },
+    {
+      "title": "What Mistakes Should I Avoid When Ordering Cabinets?",
+      "anchorSlug": "what-mistakes-should-i-avoid-when-ordering-cabinets",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-mistakes-should-i-avoid-when-ordering-cabinets.html"
+    },
+    {
+      "title": "How to Prepare for Cabinet Installation?",
+      "anchorSlug": "how-to-prepare-for-cabinet-installation",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-prepare-for-cabinet-installation.html"
+    },
+    {
+      "title": "How Long Does Custom Cabinetry Really Take?",
+      "anchorSlug": "how-long-does-custom-cabinetry-really-take",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-long-does-custom-cabinetry-really-take.html"
+    },
+    {
+      "title": "Is Cabinet Refacing Right for My Kitchen?",
+      "anchorSlug": "is-cabinet-refacing-right-for-my-kitchen",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/is-cabinet-refacing-right-for-my-kitchen.html"
+    },
+    {
+      "title": "Mistakes to Avoid When Installing Cabinet Hardware",
+      "anchorSlug": "mistakes-to-avoid-when-installing-cabinet-hardware",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/mistakes-to-avoid-when-installing-cabinet-hardware.html"
+    },
+    {
+      "title": "How Cabinet Refacing Transforms Your Kitchen",
+      "anchorSlug": "how-cabinet-refacing-transforms-your-kitchen",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-cabinet-refacing-transforms-your-kitchen.html"
+    },
+    {
+      "title": "Getting the Perfect Placement for Cabinet Pulls",
+      "anchorSlug": "getting-the-perfect-placement-for-cabinet-pulls",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/getting-the-perfect-placement-for-cabinet-pulls.html"
+    },
+    {
+      "title": "When is Professional Help Essential for Cabinet Refacing?",
+      "anchorSlug": "when-is-professional-help-essential-for-cabinet-refacing",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-is-professional-help-essential-for-cabinet-refacing.html"
+    },
+    {
+      "title": "Why Professional Hardware Installation Makes a Difference",
+      "anchorSlug": "why-professional-hardware-installation-makes-a-difference",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-professional-hardware-installation-makes-a-difference.html"
+    },
+    {
+      "title": "Is Your Kitchen Island Causing Traffic Jams?",
+      "anchorSlug": "is-your-kitchen-island-causing-traffic-jams",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/is-your-kitchen-island-causing-traffic-jams.html"
+    },
+    {
+      "title": "When Is Professional Help Essential for Your Kitchen Island Project?",
+      "anchorSlug": "when-is-professional-help-essential-for-your-kitchen-island-project",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-is-professional-help-essential-for-your-kitchen-island-project.html"
+    },
+    {
+      "title": "Kitchen Island Design: A Step-by-Step Guide for DFW Homes",
+      "anchorSlug": "kitchen-island-design-a-step-by-step-guide-for-dfw-homes",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/kitchen-island-design-a-step-by-step-guide-for-dfw-homes.html"
+    },
+    {
+      "title": "Are You Making These Pantry Design Mistakes?",
+      "anchorSlug": "are-you-making-these-pantry-design-mistakes",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/are-you-making-these-pantry-design-mistakes.html"
+    },
+    {
+      "title": "Transforming Your Pantry: A Checklist for DFW Homeowners",
+      "anchorSlug": "transforming-your-pantry-a-checklist-for-dfw-homeowners",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/transforming-your-pantry-a-checklist-for-dfw-homeowners.html"
+    },
+    {
+      "title": "Choosing a Bathroom Remodeling Contractor: Key Factors for Dallas-Fort Worth Homeowners",
+      "anchorSlug": "choosing-a-bathroom-remodeling-contractor-key-factors-for-dallas-fort-wo",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/choosing-a-bathroom-remodeling-contractor-key-factors-for-dallas-fort-wo.html"
+    },
+    {
+      "title": "Bathroom Remodel Permitting in DFW: What You Need to Know",
+      "anchorSlug": "bathroom-remodel-permitting-in-dfw-what-you-need-to-know",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/bathroom-remodel-permitting-in-dfw-what-you-need-to-know.html"
+    },
+    {
+      "title": "Avoiding Common Pitfalls in Your Bathroom Renovation Project",
+      "anchorSlug": "avoiding-common-pitfalls-in-your-bathroom-renovation-project",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/avoiding-common-pitfalls-in-your-bathroom-renovation-project.html"
+    },
+    {
+      "title": "Selecting an Outdoor Space Designer: What to Consider for Your DFW Home",
+      "anchorSlug": "selecting-an-outdoor-space-designer-what-to-consider-for-your-dfw-home",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/selecting-an-outdoor-space-designer-what-to-consider-for-your-dfw-home.html"
+    },
+    {
+      "title": "Outdoor Living Project Planning: Essential Steps for a Successful Renovation",
+      "anchorSlug": "outdoor-living-project-planning-essential-steps-for-a-successful-renovat",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/outdoor-living-project-planning-essential-steps-for-a-successful-renovat.html"
+    },
+    {
+      "title": "What to Expect During Your Outdoor Space Renovation in Dallas-Fort Worth",
+      "anchorSlug": "what-to-expect-during-your-outdoor-space-renovation-in-dallas-fort-worth",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-expect-during-your-outdoor-space-renovation-in-dallas-fort-worth.html"
+    },
+    {
+      "title": "Choosing a Contractor for Your Custom Home Renovation: What to Look For",
+      "anchorSlug": "choosing-a-contractor-for-your-custom-home-renovation-what-to-look-for",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/choosing-a-contractor-for-your-custom-home-renovation-what-to-look-for.html"
+    },
+    {
+      "title": "Navigating Permits for Your DFW Home Improvement Project",
+      "anchorSlug": "navigating-permits-for-your-dfw-home-improvement-project",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/navigating-permits-for-your-dfw-home-improvement-project.html"
+    },
+    {
+      "title": "Avoiding Common Pitfalls in Major Home Remodels",
+      "anchorSlug": "avoiding-common-pitfalls-in-major-home-remodels",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/avoiding-common-pitfalls-in-major-home-remodels.html"
+    },
+    {
+      "title": "Deciding on a Kitchen Layout Change: What to Consider First",
+      "anchorSlug": "deciding-on-a-kitchen-layout-change-what-to-consider-first",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/deciding-on-a-kitchen-layout-change-what-to-consider-first.html"
+    },
+    {
+      "title": "Kitchen Remodel Timelines: What Affects Your Project Schedule",
+      "anchorSlug": "kitchen-remodel-timelines-what-affects-your-project-schedule",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/kitchen-remodel-timelines-what-affects-your-project-schedule.html"
+    },
+    {
+      "title": "Avoiding Costly Mistakes in Your Dallas–Fort Worth Kitchen Renovation",
+      "anchorSlug": "avoiding-costly-mistakes-in-your-dallas-fort-worth-kitchen-renovation",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/avoiding-costly-mistakes-in-your-dallas-fort-worth-kitchen-renovation.html"
+    },
+    {
+      "title": "Why Your Kitchen Remodel Might Cost More Than You Think",
+      "anchorSlug": "why-your-kitchen-remodel-might-cost-more-than-you-think",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-your-kitchen-remodel-might-cost-more-than-you-think.html"
+    },
+    {
+      "title": "Preparing Your Home for a Significant Interior Refresh",
+      "anchorSlug": "preparing-your-home-for-a-significant-interior-refresh",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/preparing-your-home-for-a-significant-interior-refresh.html"
+    },
+    {
+      "title": "Choosing Between Different Kitchen Layout Options",
+      "anchorSlug": "choosing-between-different-kitchen-layout-options",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/choosing-between-different-kitchen-layout-options.html"
+    },
+    {
+      "title": "When Should You Hire a Professional for Interior Refreshing?",
+      "anchorSlug": "when-should-you-hire-a-professional-for-interior-refreshing",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-should-you-hire-a-professional-for-interior-refreshing.html"
+    },
+    {
+      "title": "Avoiding Common Pitfalls in Your Kitchen Remodel",
+      "anchorSlug": "avoiding-common-pitfalls-in-your-kitchen-remodel",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/avoiding-common-pitfalls-in-your-kitchen-remodel.html"
+    },
+    {
+      "title": "Is a Full Kitchen Renovation Right for Your Dallas–Fort Worth Home?",
+      "anchorSlug": "is-a-full-kitchen-renovation-right-for-your-dallas-fort-worth-home",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/is-a-full-kitchen-renovation-right-for-your-dallas-fort-worth-home.html"
+    },
+    {
+      "title": "Navigating Full Kitchen Renovation: What to Ask Your Contractor",
+      "anchorSlug": "navigating-full-kitchen-renovation-what-to-ask-your-contractor",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/navigating-full-kitchen-renovation-what-to-ask-your-contractor.html"
+    },
+    {
+      "title": "Planning Your Dream Kitchen: A Checklist for Success",
+      "anchorSlug": "planning-your-dream-kitchen-a-checklist-for-success",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/planning-your-dream-kitchen-a-checklist-for-success.html"
+    },
+    {
+      "title": "Why Your Kitchen Remodel Might Need a Permit",
+      "anchorSlug": "why-your-kitchen-remodel-might-need-a-permit",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-your-kitchen-remodel-might-need-a-permit.html"
+    },
+    {
+      "title": "Avoiding Pitfalls in Your Custom Kitchen Design",
+      "anchorSlug": "avoiding-pitfalls-in-your-custom-kitchen-design",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/avoiding-pitfalls-in-your-custom-kitchen-design.html"
+    },
+    {
+      "title": "Is an Open-Concept Kitchen Right for Your Home?",
+      "anchorSlug": "is-an-open-concept-kitchen-right-for-your-home",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/is-an-open-concept-kitchen-right-for-your-home.html"
+    },
+    {
+      "title": "What to Expect During Your Kitchen Design Process",
+      "anchorSlug": "what-to-expect-during-your-kitchen-design-process",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-expect-during-your-kitchen-design-process.html"
+    },
+    {
+      "title": "Is Your Kitchen Layout Making Life Harder? Signs It's Time for a Redesign",
+      "anchorSlug": "is-your-kitchen-layout-making-life-harder-signs-it-s-time-for-a-redesign",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/is-your-kitchen-layout-making-life-harder-signs-it-s-time-for-a-redesign.html"
+    },
+    {
+      "title": "What to Prepare Before Your Kitchen Layout Redesign Project",
+      "anchorSlug": "what-to-prepare-before-your-kitchen-layout-redesign-project",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-prepare-before-your-kitchen-layout-redesign-project.html"
+    },
+    {
+      "title": "Choosing the Right Kitchen Layout: A Quick Checklist",
+      "anchorSlug": "choosing-the-right-kitchen-layout-a-quick-checklist",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/choosing-the-right-kitchen-layout-a-quick-checklist.html"
+    },
+    {
+      "title": "Considering an Open-Concept Kitchen? Questions to Ask Before You Decide",
+      "anchorSlug": "considering-an-open-concept-kitchen-questions-to-ask-before-you-decide",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/considering-an-open-concept-kitchen-questions-to-ask-before-you-decide.html"
+    },
+    {
+      "title": "What to Expect During Your Open-Concept Kitchen Remodel Timeline",
+      "anchorSlug": "what-to-expect-during-your-open-concept-kitchen-remodel-timeline",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-expect-during-your-open-concept-kitchen-remodel-timeline.html"
+    },
+    {
+      "title": "Common Mistakes to Avoid in Your Open-Concept Kitchen Remodel",
+      "anchorSlug": "common-mistakes-to-avoid-in-your-open-concept-kitchen-remodel",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/common-mistakes-to-avoid-in-your-open-concept-kitchen-remodel.html"
+    },
+    {
+      "title": "When to Choose Custom Cabinetry for Your Dallas–Fort Worth Home",
+      "anchorSlug": "when-to-choose-custom-cabinetry-for-your-dallas-fort-worth-home",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-to-choose-custom-cabinetry-for-your-dallas-fort-worth-home.html"
+    },
+    {
+      "title": "What to Expect During Your Custom Cabinetry Design Process",
+      "anchorSlug": "what-to-expect-during-your-custom-cabinetry-design-process",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-expect-during-your-custom-cabinetry-design-process.html"
+    },
+    {
+      "title": "Avoiding Common Mistakes in Your Custom Cabinetry Project",
+      "anchorSlug": "avoiding-common-mistakes-in-your-custom-cabinetry-project",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/avoiding-common-mistakes-in-your-custom-cabinetry-project.html"
+    },
+    {
+      "title": "Ensuring a Flawless Cabinet Installation: Your Pre-Install Checklist",
+      "anchorSlug": "ensuring-a-flawless-cabinet-installation-your-pre-install-checklist",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/ensuring-a-flawless-cabinet-installation-your-pre-install-checklist.html"
+    },
+    {
+      "title": "Why Professional Cabinet Installation Matters for Complex Projects",
+      "anchorSlug": "why-professional-cabinet-installation-matters-for-complex-projects",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-professional-cabinet-installation-matters-for-complex-projects.html"
+    },
+    {
+      "title": "Choosing the Right Cabinet Installer: Key Questions to Ask",
+      "anchorSlug": "choosing-the-right-cabinet-installer-key-questions-to-ask",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/choosing-the-right-cabinet-installer-key-questions-to-ask.html"
+    },
+    {
+      "title": "Is Cabinet Refacing Right for Your Dallas–Fort Worth Kitchen?",
+      "anchorSlug": "is-cabinet-refacing-right-for-your-dallas-fort-worth-kitchen",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/is-cabinet-refacing-right-for-your-dallas-fort-worth-kitchen.html"
+    },
+    {
+      "title": "How to Plan Your Cabinet Hardware Installation",
+      "anchorSlug": "how-to-plan-your-cabinet-hardware-installation",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-plan-your-cabinet-hardware-installation.html"
+    },
+    {
+      "title": "When Professional Guidance Helps with Cabinet Refacing",
+      "anchorSlug": "when-professional-guidance-helps-with-cabinet-refacing",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-professional-guidance-helps-with-cabinet-refacing.html"
+    },
+    {
+      "title": "Choosing the Right Cabinet Hardware for Your Remodel",
+      "anchorSlug": "choosing-the-right-cabinet-hardware-for-your-remodel",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/choosing-the-right-cabinet-hardware-for-your-remodel.html"
+    },
+    {
+      "title": "Checklist: Preparing for Your Cabinet Refacing Project",
+      "anchorSlug": "checklist-preparing-for-your-cabinet-refacing-project",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/checklist-preparing-for-your-cabinet-refacing-project.html"
+    },
+    {
+      "title": "Choosing the Right Kitchen Island for Your Dallas–Fort Worth Home",
+      "anchorSlug": "choosing-the-right-kitchen-island-for-your-dallas-fort-worth-home",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/choosing-the-right-kitchen-island-for-your-dallas-fort-worth-home.html"
+    },
+    {
+      "title": "How to Plan Your Kitchen Island Installation",
+      "anchorSlug": "how-to-plan-your-kitchen-island-installation",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-plan-your-kitchen-island-installation.html"
+    },
+    {
+      "title": "Avoiding Common Mistakes in Kitchen Island Design",
+      "anchorSlug": "avoiding-common-mistakes-in-kitchen-island-design",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/avoiding-common-mistakes-in-kitchen-island-design.html"
+    },
+    {
+      "title": "Is a Walk-In Pantry or Cabinet Pantry Right for Your Home?",
+      "anchorSlug": "is-a-walk-in-pantry-or-cabinet-pantry-right-for-your-home",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/is-a-walk-in-pantry-or-cabinet-pantry-right-for-your-home.html"
+    },
+    {
+      "title": "What to Know Before Installing a New Pantry",
+      "anchorSlug": "what-to-know-before-installing-a-new-pantry",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-know-before-installing-a-new-pantry.html"
+    },
+    {
+      "title": "Common Pitfalls When Designing Your Pantry",
+      "anchorSlug": "common-pitfalls-when-designing-your-pantry",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/common-pitfalls-when-designing-your-pantry.html"
+    },
+    {
+      "title": "Choosing the Right Partner for Your Bathroom Remodel: What to Ask",
+      "anchorSlug": "choosing-the-right-partner-for-your-bathroom-remodel-what-to-ask",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/choosing-the-right-partner-for-your-bathroom-remodel-what-to-ask.html"
+    },
+    {
+      "title": "What to Know Before Starting Your Outdoor Space Renovation",
+      "anchorSlug": "what-to-know-before-starting-your-outdoor-space-renovation",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-know-before-starting-your-outdoor-space-renovation.html"
+    },
+    {
+      "title": "Avoiding Costly Mistakes in Your Bathroom Remodel",
+      "anchorSlug": "avoiding-costly-mistakes-in-your-bathroom-remodel",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/avoiding-costly-mistakes-in-your-bathroom-remodel.html"
+    },
+    {
+      "title": "When to Call a Pro for Your Outdoor Living Project",
+      "anchorSlug": "when-to-call-a-pro-for-your-outdoor-living-project",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-to-call-a-pro-for-your-outdoor-living-project.html"
+    },
+    {
+      "title": "Comparing Design-Build vs. Traditional Contractors for Your Bathroom Remodel",
+      "anchorSlug": "comparing-design-build-vs-traditional-contractors-for-your-bathroom-remo",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/comparing-design-build-vs-traditional-contractors-for-your-bathroom-remo.html"
+    },
+    {
+      "title": "Preparing for a Smooth Outdoor Space Transformation",
+      "anchorSlug": "preparing-for-a-smooth-outdoor-space-transformation",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/preparing-for-a-smooth-outdoor-space-transformation.html"
+    },
+    {
+      "title": "Navigating Permit Requirements for Your Home Renovation",
+      "anchorSlug": "navigating-permit-requirements-for-your-home-renovation",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/navigating-permit-requirements-for-your-home-renovation.html"
+    },
+    {
+      "title": "Mistakes to Avoid When Planning a Custom Home Improvement",
+      "anchorSlug": "mistakes-to-avoid-when-planning-a-custom-home-improvement",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/mistakes-to-avoid-when-planning-a-custom-home-improvement.html"
+    },
+    {
+      "title": "Is an Integrated Design-Build Approach Right for Your DFW Home Renovation?",
+      "anchorSlug": "is-an-integrated-design-build-approach-right-for-your-dfw-home-renovatio",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/is-an-integrated-design-build-approach-right-for-your-dfw-home-renovatio.html"
+    },
+    {
+      "title": "Optimizing Your Kitchen Layout for Better Functionality in Dallas-Fort Worth",
+      "anchorSlug": "optimizing-your-kitchen-layout-for-better-functionality-in-dallas-fort-w",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/optimizing-your-kitchen-layout-for-better-functionality-in-dallas-fort-w.html"
+    },
+    {
+      "title": "Kitchen Renovation: What to Prepare Before You Start",
+      "anchorSlug": "kitchen-renovation-what-to-prepare-before-you-start",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/kitchen-renovation-what-to-prepare-before-you-start.html"
+    },
+    {
+      "title": "Why a Managed Process Matters for Your Kitchen Modernization in DFW",
+      "anchorSlug": "why-a-managed-process-matters-for-your-kitchen-modernization-in-dfw",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-a-managed-process-matters-for-your-kitchen-modernization-in-dfw.html"
+    },
+    {
+      "title": "When Your Kitchen Layout Isn't Working: Deciding on a Remodel",
+      "anchorSlug": "when-your-kitchen-layout-isn-t-working-deciding-on-a-remodel",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-your-kitchen-layout-isn-t-working-deciding-on-a-remodel.html"
+    },
+    {
+      "title": "How to Prepare Your Home for an Interior Refresh Project",
+      "anchorSlug": "how-to-prepare-your-home-for-an-interior-refresh-project",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-prepare-your-home-for-an-interior-refresh-project.html"
+    },
+    {
+      "title": "Avoiding Common Pitfalls in Your Kitchen Renovation Project",
+      "anchorSlug": "avoiding-common-pitfalls-in-your-kitchen-renovation-project",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/avoiding-common-pitfalls-in-your-kitchen-renovation-project.html"
+    },
+    {
+      "title": "Is a Full Kitchen Remodel Right for Your DFW Home?",
+      "anchorSlug": "is-a-full-kitchen-remodel-right-for-your-dfw-home",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/is-a-full-kitchen-remodel-right-for-your-dfw-home.html"
+    },
+    {
+      "title": "Updating Your Home's Interior: What to Consider Beyond a Full Renovation",
+      "anchorSlug": "updating-your-home-s-interior-what-to-consider-beyond-a-full-renovation",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/updating-your-home-s-interior-what-to-consider-beyond-a-full-renovation.html"
+    },
+    {
+      "title": "When Professional Help Becomes Crucial for Interior Refreshing",
+      "anchorSlug": "when-professional-help-becomes-crucial-for-interior-refreshing",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-professional-help-becomes-crucial-for-interior-refreshing.html"
+    },
+    {
+      "title": "Full Kitchen Renovations: Common Mistakes That Can Derail Your Project",
+      "anchorSlug": "full-kitchen-renovations-common-mistakes-that-can-derail-your-project",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/full-kitchen-renovations-common-mistakes-that-can-derail-your-project.html"
+    },
+    {
+      "title": "Custom Kitchen Design: What to Ask Your Designer",
+      "anchorSlug": "custom-kitchen-design-what-to-ask-your-designer",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/custom-kitchen-design-what-to-ask-your-designer.html"
+    },
+    {
+      "title": "Full Kitchen Renovations: Knowing When to Hire a Professional",
+      "anchorSlug": "full-kitchen-renovations-knowing-when-to-hire-a-professional",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/full-kitchen-renovations-knowing-when-to-hire-a-professional.html"
+    },
+    {
+      "title": "Custom Kitchen Design: How to Avoid Unexpected Layout Issues",
+      "anchorSlug": "custom-kitchen-design-how-to-avoid-unexpected-layout-issues",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/custom-kitchen-design-how-to-avoid-unexpected-layout-issues.html"
+    },
+    {
+      "title": "Full Kitchen Renovations: Your Checklist for a Smooth Project",
+      "anchorSlug": "full-kitchen-renovations-your-checklist-for-a-smooth-project",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/full-kitchen-renovations-your-checklist-for-a-smooth-project.html"
+    },
+    {
+      "title": "Custom Kitchen Design: Understanding the Project Timeline",
+      "anchorSlug": "custom-kitchen-design-understanding-the-project-timeline",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/custom-kitchen-design-understanding-the-project-timeline.html"
+    },
+    {
+      "title": "Deciding on a Kitchen Layout: Should You Redesign Your Footprint?",
+      "anchorSlug": "deciding-on-a-kitchen-layout-should-you-redesign-your-footprint",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/deciding-on-a-kitchen-layout-should-you-redesign-your-footprint.html"
+    },
+    {
+      "title": "When Your Kitchen Workflow Isn't Working: Planning a Layout Redesign",
+      "anchorSlug": "when-your-kitchen-workflow-isn-t-working-planning-a-layout-redesign",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-your-kitchen-workflow-isn-t-working-planning-a-layout-redesign.html"
+    },
+    {
+      "title": "Avoiding Common Pitfalls in Kitchen Layout Redesign",
+      "anchorSlug": "avoiding-common-pitfalls-in-kitchen-layout-redesign",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/avoiding-common-pitfalls-in-kitchen-layout-redesign.html"
+    },
+    {
+      "title": "Is an Open-Concept Kitchen Right for Your DFW Home?",
+      "anchorSlug": "is-an-open-concept-kitchen-right-for-your-dfw-home",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/is-an-open-concept-kitchen-right-for-your-dfw-home.html"
+    },
+    {
+      "title": "Navigating Structural Changes for an Open-Concept Kitchen in DFW",
+      "anchorSlug": "navigating-structural-changes-for-an-open-concept-kitchen-in-dfw",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/navigating-structural-changes-for-an-open-concept-kitchen-in-dfw.html"
+    },
+    {
+      "title": "Mistakes to Avoid When Planning an Open-Concept Kitchen",
+      "anchorSlug": "mistakes-to-avoid-when-planning-an-open-concept-kitchen",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/mistakes-to-avoid-when-planning-an-open-concept-kitchen.html"
+    },
+    {
+      "title": "Choosing the Right Custom Cabinetry for Your Dallas–Fort Worth Home",
+      "anchorSlug": "choosing-the-right-custom-cabinetry-for-your-dallas-fort-worth-home",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/choosing-the-right-custom-cabinetry-for-your-dallas-fort-worth-home.html"
+    },
+    {
+      "title": "Navigating Custom Cabinetry: What Affects Your Project Timeline?",
+      "anchorSlug": "navigating-custom-cabinetry-what-affects-your-project-timeline",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/navigating-custom-cabinetry-what-affects-your-project-timeline.html"
+    },
+    {
+      "title": "Why Your Custom Cabinetry Needs Professional Planning",
+      "anchorSlug": "why-your-custom-cabinetry-needs-professional-planning",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-your-custom-cabinetry-needs-professional-planning.html"
+    },
+    {
+      "title": "What to Expect During Cabinet Installation in Your DFW Remodel",
+      "anchorSlug": "what-to-expect-during-cabinet-installation-in-your-dfw-remodel",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-expect-during-cabinet-installation-in-your-dfw-remodel.html"
+    },
+    {
+      "title": "When Is Professional Cabinet Installation a Must-Have?",
+      "anchorSlug": "when-is-professional-cabinet-installation-a-must-have",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-is-professional-cabinet-installation-a-must-have.html"
+    },
+    {
+      "title": "Avoiding Common Cabinet Installation Mistakes",
+      "anchorSlug": "avoiding-common-cabinet-installation-mistakes",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/avoiding-common-cabinet-installation-mistakes.html"
+    },
+    {
+      "title": "Why Your Cabinet Refacing Project Might Be More Complex Than It Seems",
+      "anchorSlug": "why-your-cabinet-refacing-project-might-be-more-complex-than-it-seems",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-your-cabinet-refacing-project-might-be-more-complex-than-it-seems.html"
+    },
+    {
+      "title": "When Is Cabinet Refacing the Right Choice for Your Kitchen?",
+      "anchorSlug": "when-is-cabinet-refacing-the-right-choice-for-your-kitchen",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-is-cabinet-refacing-the-right-choice-for-your-kitchen.html"
+    },
+    {
+      "title": "When Your Cabinet Hardware Installation Needs a Pro",
+      "anchorSlug": "when-your-cabinet-hardware-installation-needs-a-pro",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-your-cabinet-hardware-installation-needs-a-pro.html"
+    },
+    {
+      "title": "Selecting the Right Cabinet Hardware: A Practical Guide",
+      "anchorSlug": "selecting-the-right-cabinet-hardware-a-practical-guide",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/selecting-the-right-cabinet-hardware-a-practical-guide.html"
+    },
+    {
+      "title": "Mistakes to Avoid When Installing New Cabinet Hardware",
+      "anchorSlug": "mistakes-to-avoid-when-installing-new-cabinet-hardware",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/mistakes-to-avoid-when-installing-new-cabinet-hardware.html"
+    },
+    {
+      "title": "Why Your Kitchen Island Design Needs Professional Input",
+      "anchorSlug": "why-your-kitchen-island-design-needs-professional-input",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-your-kitchen-island-design-needs-professional-input.html"
+    },
+    {
+      "title": "Avoiding Common Mistakes When Planning Your Kitchen Island",
+      "anchorSlug": "avoiding-common-mistakes-when-planning-your-kitchen-island",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/avoiding-common-mistakes-when-planning-your-kitchen-island.html"
+    },
+    {
+      "title": "Pantry Renovation: A Timeline for Coordinated Projects",
+      "anchorSlug": "pantry-renovation-a-timeline-for-coordinated-projects",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/pantry-renovation-a-timeline-for-coordinated-projects.html"
+    },
+    {
+      "title": "What to Prepare Before You Start Your Pantry Renovation",
+      "anchorSlug": "what-to-prepare-before-you-start-your-pantry-renovation",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-prepare-before-you-start-your-pantry-renovation.html"
+    },
+    {
+      "title": "Choosing Between a Walk-In or Reach-In Pantry for Your Home",
+      "anchorSlug": "choosing-between-a-walk-in-or-reach-in-pantry-for-your-home",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/choosing-between-a-walk-in-or-reach-in-pantry-for-your-home.html"
+    },
+    {
+      "title": "What to Ask Your Remodeler About Kitchen Island Installation",
+      "anchorSlug": "what-to-ask-your-remodeler-about-kitchen-island-installation",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-ask-your-remodeler-about-kitchen-island-installation.html"
+    },
+    {
+      "title": "Why Your Bathroom Remodel Might Cost More Than Expected in Dallas–Fort Worth",
+      "anchorSlug": "why-your-bathroom-remodel-might-cost-more-than-expected-in-dallas-fort-w",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-your-bathroom-remodel-might-cost-more-than-expected-in-dallas-fort-w.html"
+    },
+    {
+      "title": "How to Avoid Common Pitfalls in Your Dallas–Fort Worth Bathroom Remodel",
+      "anchorSlug": "how-to-avoid-common-pitfalls-in-your-dallas-fort-worth-bathroom-remodel",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-avoid-common-pitfalls-in-your-dallas-fort-worth-bathroom-remodel.html"
+    },
+    {
+      "title": "When is a Professional Essential for Your DFW Outdoor Renovation?",
+      "anchorSlug": "when-is-a-professional-essential-for-your-dfw-outdoor-renovation",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-is-a-professional-essential-for-your-dfw-outdoor-renovation.html"
+    },
+    {
+      "title": "Checklist: Preparing for Your Outdoor Living Space Renovation in the DFW Metroplex",
+      "anchorSlug": "checklist-preparing-for-your-outdoor-living-space-renovation-in-the-dfw-",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/checklist-preparing-for-your-outdoor-living-space-renovation-in-the-dfw-.html"
+    },
+    {
+      "title": "Timeline: What to Expect During Your Dallas–Fort Worth Bathroom Remodel",
+      "anchorSlug": "timeline-what-to-expect-during-your-dallas-fort-worth-bathroom-remodel",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/timeline-what-to-expect-during-your-dallas-fort-worth-bathroom-remodel.html"
+    },
+    {
+      "title": "Listicle: 7 Signs You Need a Professional for Your Dallas–Fort Worth Outdoor Project",
+      "anchorSlug": "listicle-7-signs-you-need-a-professional-for-your-dallas-fort-worth-outd",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/listicle-7-signs-you-need-a-professional-for-your-dallas-fort-worth-outd.html"
+    },
+    {
+      "title": "Choosing a Contractor for Your Custom Home Renovation",
+      "anchorSlug": "choosing-a-contractor-for-your-custom-home-renovation",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/choosing-a-contractor-for-your-custom-home-renovation.html"
+    },
+    {
+      "title": "When Your Kitchen Layout Needs a Professional Redesign",
+      "anchorSlug": "when-your-kitchen-layout-needs-a-professional-redesign",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-your-kitchen-layout-needs-a-professional-redesign.html"
+    },
+    {
+      "title": "Preparing Your Home for a Kitchen Modernization",
+      "anchorSlug": "preparing-your-home-for-a-kitchen-modernization",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/preparing-your-home-for-a-kitchen-modernization.html"
+    },
+    {
+      "title": "Evaluating Bids for Your Whole-Home Remodel",
+      "anchorSlug": "evaluating-bids-for-your-whole-home-remodel",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/evaluating-bids-for-your-whole-home-remodel.html"
+    },
+    {
+      "title": "Mistakes to Avoid in Your Dallas–Fort Worth Kitchen Remodel",
+      "anchorSlug": "mistakes-to-avoid-in-your-dallas-fort-worth-kitchen-remodel",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/mistakes-to-avoid-in-your-dallas-fort-worth-kitchen-remodel.html"
+    },
+    {
+      "title": "Choosing an Interior Refreshing Contractor: What to Look For",
+      "anchorSlug": "choosing-an-interior-refreshing-contractor-what-to-look-for",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/choosing-an-interior-refreshing-contractor-what-to-look-for.html"
+    },
+    {
+      "title": "Interior Refreshing: Avoiding Common Mistakes",
+      "anchorSlug": "interior-refreshing-avoiding-common-mistakes",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/interior-refreshing-avoiding-common-mistakes.html"
+    },
+    {
+      "title": "How to Prepare for Your Interior Refreshing Project",
+      "anchorSlug": "how-to-prepare-for-your-interior-refreshing-project",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-prepare-for-your-interior-refreshing-project.html"
+    },
+    {
+      "title": "When is it Time for a Major Kitchen Remodel?",
+      "anchorSlug": "when-is-it-time-for-a-major-kitchen-remodel",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-is-it-time-for-a-major-kitchen-remodel.html"
+    },
+    {
+      "title": "Kitchen Remodeling: What Affects Project Timelines?",
+      "anchorSlug": "kitchen-remodeling-what-affects-project-timelines",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/kitchen-remodeling-what-affects-project-timelines.html"
+    },
+    {
+      "title": "Your Kitchen Remodel Budget: What to Prioritize",
+      "anchorSlug": "your-kitchen-remodel-budget-what-to-prioritize",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/your-kitchen-remodel-budget-what-to-prioritize.html"
+    },
+    {
+      "title": "When Your Kitchen Remodel Budget Feels Out of Reach",
+      "anchorSlug": "when-your-kitchen-remodel-budget-feels-out-of-reach",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-your-kitchen-remodel-budget-feels-out-of-reach.html"
+    },
+    {
+      "title": "What to Prepare Before a Full Kitchen Renovation",
+      "anchorSlug": "what-to-prepare-before-a-full-kitchen-renovation",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-prepare-before-a-full-kitchen-renovation.html"
+    },
+    {
+      "title": "Why Your Full Kitchen Renovation Isn't Moving Forward",
+      "anchorSlug": "why-your-full-kitchen-renovation-isn-t-moving-forward",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-your-full-kitchen-renovation-isn-t-moving-forward.html"
+    },
+    {
+      "title": "Mistakes to Avoid When Planning Your Custom Kitchen",
+      "anchorSlug": "mistakes-to-avoid-when-planning-your-custom-kitchen",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/mistakes-to-avoid-when-planning-your-custom-kitchen.html"
+    },
+    {
+      "title": "How Long Does a Custom Kitchen Design Process Really Take?",
+      "anchorSlug": "how-long-does-a-custom-kitchen-design-process-really-take",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-long-does-a-custom-kitchen-design-process-really-take.html"
+    },
+    {
+      "title": "Comparing Custom Kitchen Design Services: What to Look For",
+      "anchorSlug": "comparing-custom-kitchen-design-services-what-to-look-for",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/comparing-custom-kitchen-design-services-what-to-look-for.html"
+    },
+    {
+      "title": "Redesigning Your Kitchen Layout: What to Prepare Before You Start",
+      "anchorSlug": "redesigning-your-kitchen-layout-what-to-prepare-before-you-start",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/redesigning-your-kitchen-layout-what-to-prepare-before-you-start.html"
+    },
+    {
+      "title": "Considering an Open-Concept Kitchen: Common Mistakes to Avoid",
+      "anchorSlug": "considering-an-open-concept-kitchen-common-mistakes-to-avoid",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/considering-an-open-concept-kitchen-common-mistakes-to-avoid.html"
+    },
+    {
+      "title": "Evaluating Kitchen Layout Designers: Questions to Ask Before You Decide",
+      "anchorSlug": "evaluating-kitchen-layout-designers-questions-to-ask-before-you-decide",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/evaluating-kitchen-layout-designers-questions-to-ask-before-you-decide.html"
+    },
+    {
+      "title": "Should You Remove a Wall for Your Kitchen? What to Expect During the Process",
+      "anchorSlug": "should-you-remove-a-wall-for-your-kitchen-what-to-expect-during-the-proc",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/should-you-remove-a-wall-for-your-kitchen-what-to-expect-during-the-proc.html"
+    },
+    {
+      "title": "Optimizing Your Kitchen Layout: How to Compare Your Options",
+      "anchorSlug": "optimizing-your-kitchen-layout-how-to-compare-your-options",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/optimizing-your-kitchen-layout-how-to-compare-your-options.html"
+    },
+    {
+      "title": "Navigating Open-Concept Kitchen Remodels: When Professional Guidance Helps",
+      "anchorSlug": "navigating-open-concept-kitchen-remodels-when-professional-guidance-help",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/navigating-open-concept-kitchen-remodels-when-professional-guidance-help.html"
+    },
+    {
+      "title": "Choosing Custom Cabinetry: What to Consider for Your Dallas–Fort Worth Home",
+      "anchorSlug": "choosing-custom-cabinetry-what-to-consider-for-your-dallas-fort-worth-ho",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/choosing-custom-cabinetry-what-to-consider-for-your-dallas-fort-worth-ho.html"
+    },
+    {
+      "title": "Understanding the Timeline for Custom Cabinetry Projects",
+      "anchorSlug": "understanding-the-timeline-for-custom-cabinetry-projects",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/understanding-the-timeline-for-custom-cabinetry-projects.html"
+    },
+    {
+      "title": "Avoiding Common Pitfalls in Cabinetry Selection",
+      "anchorSlug": "avoiding-common-pitfalls-in-cabinetry-selection",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/avoiding-common-pitfalls-in-cabinetry-selection.html"
+    },
+    {
+      "title": "Why Your Uneven Walls Make Professional Cabinet Installation Crucial",
+      "anchorSlug": "why-your-uneven-walls-make-professional-cabinet-installation-crucial",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-your-uneven-walls-make-professional-cabinet-installation-crucial.html"
+    },
+    {
+      "title": "Preparing for Your Cabinet Installation: A Pre-Installation Checklist",
+      "anchorSlug": "preparing-for-your-cabinet-installation-a-pre-installation-checklist",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/preparing-for-your-cabinet-installation-a-pre-installation-checklist.html"
+    },
+    {
+      "title": "What to Ask Your Contractor About Cabinet Installation",
+      "anchorSlug": "what-to-ask-your-contractor-about-cabinet-installation",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-ask-your-contractor-about-cabinet-installation.html"
+    },
+    {
+      "title": "Cabinet Refacing: Is it the Right Choice for Your Kitchen Update?",
+      "anchorSlug": "cabinet-refacing-is-it-the-right-choice-for-your-kitchen-update",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/cabinet-refacing-is-it-the-right-choice-for-your-kitchen-update.html"
+    },
+    {
+      "title": "Avoiding Mistakes When Planning Your Cabinet Refacing Project",
+      "anchorSlug": "avoiding-mistakes-when-planning-your-cabinet-refacing-project",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/avoiding-mistakes-when-planning-your-cabinet-refacing-project.html"
+    },
+    {
+      "title": "Is Your Kitchen Ready for Cabinet Refacing? A Pre-Project Checklist",
+      "anchorSlug": "is-your-kitchen-ready-for-cabinet-refacing-a-pre-project-checklist",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/is-your-kitchen-ready-for-cabinet-refacing-a-pre-project-checklist.html"
+    },
+    {
+      "title": "Cabinet Hardware Installation: How to Ensure Perfect Placement",
+      "anchorSlug": "cabinet-hardware-installation-how-to-ensure-perfect-placement",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/cabinet-hardware-installation-how-to-ensure-perfect-placement.html"
+    },
+    {
+      "title": "What to Consider When Selecting New Cabinet Hardware for Your Remodel",
+      "anchorSlug": "what-to-consider-when-selecting-new-cabinet-hardware-for-your-remodel",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-consider-when-selecting-new-cabinet-hardware-for-your-remodel.html"
+    },
+    {
+      "title": "When to Hire a Professional for Cabinet Hardware Installation",
+      "anchorSlug": "when-to-hire-a-professional-for-cabinet-hardware-installation",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-to-hire-a-professional-for-cabinet-hardware-installation.html"
+    },
+    {
+      "title": "When Does Your Kitchen Need a New Island Design?",
+      "anchorSlug": "when-does-your-kitchen-need-a-new-island-design",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-does-your-kitchen-need-a-new-island-design.html"
+    },
+    {
+      "title": "Avoiding Common Mistakes in Kitchen Island Installation",
+      "anchorSlug": "avoiding-common-mistakes-in-kitchen-island-installation",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/avoiding-common-mistakes-in-kitchen-island-installation.html"
+    },
+    {
+      "title": "What to Expect During Your Kitchen Island Design and Installation Timeline",
+      "anchorSlug": "what-to-expect-during-your-kitchen-island-design-and-installation-timeli",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-expect-during-your-kitchen-island-design-and-installation-timeli.html"
+    },
+    {
+      "title": "Deciding Between a Reach-In or Walk-In Pantry for Your Home",
+      "anchorSlug": "deciding-between-a-reach-in-or-walk-in-pantry-for-your-home",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/deciding-between-a-reach-in-or-walk-in-pantry-for-your-home.html"
+    },
+    {
+      "title": "What to Consider Before Designing Your Pantry",
+      "anchorSlug": "what-to-consider-before-designing-your-pantry",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-consider-before-designing-your-pantry.html"
+    },
+    {
+      "title": "How to Plan the Perfect Pantry Layout",
+      "anchorSlug": "how-to-plan-the-perfect-pantry-layout",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-plan-the-perfect-pantry-layout.html"
+    },
+    {
+      "title": "Choosing the Right Bathroom Remodeling Contractor: What to Look For",
+      "anchorSlug": "choosing-the-right-bathroom-remodeling-contractor-what-to-look-for",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/choosing-the-right-bathroom-remodeling-contractor-what-to-look-for.html"
+    },
+    {
+      "title": "Understanding the Timeline for a Major Bathroom Remodel",
+      "anchorSlug": "understanding-the-timeline-for-a-major-bathroom-remodel",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/understanding-the-timeline-for-a-major-bathroom-remodel.html"
+    },
+    {
+      "title": "Avoiding Common Pitfalls in Your Bathroom Renovation",
+      "anchorSlug": "avoiding-common-pitfalls-in-your-bathroom-renovation",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/avoiding-common-pitfalls-in-your-bathroom-renovation.html"
+    },
+    {
+      "title": "What to Prepare Before Starting Your Outdoor Space Renovation",
+      "anchorSlug": "what-to-prepare-before-starting-your-outdoor-space-renovation",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-prepare-before-starting-your-outdoor-space-renovation.html"
+    },
+    {
+      "title": "When to Call a Professional for Your Backyard Drainage Issues",
+      "anchorSlug": "when-to-call-a-professional-for-your-backyard-drainage-issues",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-to-call-a-professional-for-your-backyard-drainage-issues.html"
+    },
+    {
+      "title": "Comparing Options for Your Outdoor Kitchen in Dallas-Fort Worth",
+      "anchorSlug": "comparing-options-for-your-outdoor-kitchen-in-dallas-fort-worth",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/comparing-options-for-your-outdoor-kitchen-in-dallas-fort-worth.html"
+    },
+    {
+      "title": "What to Ask Your Contractor Before a Major Home Renovation",
+      "anchorSlug": "what-to-ask-your-contractor-before-a-major-home-renovation",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-ask-your-contractor-before-a-major-home-renovation.html"
+    },
+    {
+      "title": "When to Seek Professional Help for Complex Home Renovations",
+      "anchorSlug": "when-to-seek-professional-help-for-complex-home-renovations",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-to-seek-professional-help-for-complex-home-renovations.html"
+    },
+    {
+      "title": "Selecting the Best Materials for Your Kitchen Modernization",
+      "anchorSlug": "selecting-the-best-materials-for-your-kitchen-modernization",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/selecting-the-best-materials-for-your-kitchen-modernization.html"
+    },
+    {
+      "title": "What to Expect During Your Kitchen Remodel Journey",
+      "anchorSlug": "what-to-expect-during-your-kitchen-remodel-journey",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-expect-during-your-kitchen-remodel-journey.html"
+    },
+    {
+      "title": "Choosing an Interior Refresher: What to Consider for Your Dallas–Fort Worth Home",
+      "anchorSlug": "choosing-an-interior-refresher-what-to-consider-for-your-dallas-fort-wor",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/choosing-an-interior-refresher-what-to-consider-for-your-dallas-fort-wor.html"
+    },
+    {
+      "title": "What to Expect When Refreshing Your Home’s Interior in the Dallas–Fort Worth Metroplex",
+      "anchorSlug": "what-to-expect-when-refreshing-your-home-s-interior-in-the-dallas-fort-w",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-expect-when-refreshing-your-home-s-interior-in-the-dallas-fort-w.html"
+    },
+    {
+      "title": "Avoiding Common Mistakes in Interior Refreshing Projects",
+      "anchorSlug": "avoiding-common-mistakes-in-interior-refreshing-projects",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/avoiding-common-mistakes-in-interior-refreshing-projects.html"
+    },
+    {
+      "title": "Deciding Between a Cosmetic Kitchen Update and a Full Remodel",
+      "anchorSlug": "deciding-between-a-cosmetic-kitchen-update-and-a-full-remodel",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/deciding-between-a-cosmetic-kitchen-update-and-a-full-remodel.html"
+    },
+    {
+      "title": "How to Plan Your Kitchen Remodel Effectively",
+      "anchorSlug": "how-to-plan-your-kitchen-remodel-effectively",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-plan-your-kitchen-remodel-effectively.html"
+    },
+    {
+      "title": "Avoiding Costly Mistakes in Your Kitchen Remodeling Project",
+      "anchorSlug": "avoiding-costly-mistakes-in-your-kitchen-remodeling-project",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/avoiding-costly-mistakes-in-your-kitchen-remodeling-project.html"
+    },
+    {
+      "title": "Why Your Full Kitchen Renovation Quote Looks So Different",
+      "anchorSlug": "why-your-full-kitchen-renovation-quote-looks-so-different",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-your-full-kitchen-renovation-quote-looks-so-different.html"
+    },
+    {
+      "title": "Preparing for a Full Kitchen Renovation: What to Do Before Demo Day",
+      "anchorSlug": "preparing-for-a-full-kitchen-renovation-what-to-do-before-demo-day",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/preparing-for-a-full-kitchen-renovation-what-to-do-before-demo-day.html"
+    },
+    {
+      "title": "Mistakes to Avoid in Your Full Kitchen Renovation",
+      "anchorSlug": "mistakes-to-avoid-in-your-full-kitchen-renovation",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/mistakes-to-avoid-in-your-full-kitchen-renovation.html"
+    },
+    {
+      "title": "Navigating Kitchen Design: How to Get the Layout You Really Want",
+      "anchorSlug": "navigating-kitchen-design-how-to-get-the-layout-you-really-want",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/navigating-kitchen-design-how-to-get-the-layout-you-really-want.html"
+    },
+    {
+      "title": "When Your Custom Kitchen Design Needs Expert Help: Recognizing Complexities",
+      "anchorSlug": "when-your-custom-kitchen-design-needs-expert-help-recognizing-complexiti",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-your-custom-kitchen-design-needs-expert-help-recognizing-complexiti.html"
+    },
+    {
+      "title": "Avoiding Costly Mistakes in Custom Kitchen Design",
+      "anchorSlug": "avoiding-costly-mistakes-in-custom-kitchen-design",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/avoiding-costly-mistakes-in-custom-kitchen-design.html"
+    },
+    {
+      "title": "Choosing a Kitchen Layout: What to Consider for Your Dallas-Fort Worth Home",
+      "anchorSlug": "choosing-a-kitchen-layout-what-to-consider-for-your-dallas-fort-worth-ho",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/choosing-a-kitchen-layout-what-to-consider-for-your-dallas-fort-worth-ho.html"
+    },
+    {
+      "title": "Open-Concept Kitchen Remodeling: Is Removing a Wall Right for Your Home?",
+      "anchorSlug": "open-concept-kitchen-remodeling-is-removing-a-wall-right-for-your-home",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/open-concept-kitchen-remodeling-is-removing-a-wall-right-for-your-home.html"
+    },
+    {
+      "title": "Kitchen Layout Redesign: Common Mistakes to Avoid in DFW",
+      "anchorSlug": "kitchen-layout-redesign-common-mistakes-to-avoid-in-dfw",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/kitchen-layout-redesign-common-mistakes-to-avoid-in-dfw.html"
+    },
+    {
+      "title": "Planning Your Kitchen Layout: What to Prepare Before You Start",
+      "anchorSlug": "planning-your-kitchen-layout-what-to-prepare-before-you-start",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/planning-your-kitchen-layout-what-to-prepare-before-you-start.html"
+    },
+    {
+      "title": "Open-Concept Kitchens in DFW: Myths vs. Facts",
+      "anchorSlug": "open-concept-kitchens-in-dfw-myths-vs-facts",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/open-concept-kitchens-in-dfw-myths-vs-facts.html"
+    },
+    {
+      "title": "Hiring for Kitchen Layout Redesign: Questions to Ask Your Contractor",
+      "anchorSlug": "hiring-for-kitchen-layout-redesign-questions-to-ask-your-contractor",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/hiring-for-kitchen-layout-redesign-questions-to-ask-your-contractor.html"
+    },
+    {
+      "title": "Why Your Custom Cabinetry Project Needs Expert Design-Build Coordination",
+      "anchorSlug": "why-your-custom-cabinetry-project-needs-expert-design-build-coordination",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-your-custom-cabinetry-project-needs-expert-design-build-coordination.html"
+    },
+    {
+      "title": "What to Expect During Your Custom Cabinetry Installation",
+      "anchorSlug": "what-to-expect-during-your-custom-cabinetry-installation",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-expect-during-your-custom-cabinetry-installation.html"
+    },
+    {
+      "title": "Choosing the Right Cabinet Installer for Your Dallas–Fort Worth Home",
+      "anchorSlug": "choosing-the-right-cabinet-installer-for-your-dallas-fort-worth-home",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/choosing-the-right-cabinet-installer-for-your-dallas-fort-worth-home.html"
+    },
+    {
+      "title": "What Affects the Timeline of Your Custom Cabinetry Project?",
+      "anchorSlug": "what-affects-the-timeline-of-your-custom-cabinetry-project",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-affects-the-timeline-of-your-custom-cabinetry-project.html"
+    },
+    {
+      "title": "Avoiding Costly Mistakes in Your Cabinetry Project",
+      "anchorSlug": "avoiding-costly-mistakes-in-your-cabinetry-project",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/avoiding-costly-mistakes-in-your-cabinetry-project.html"
+    },
+    {
+      "title": "Preparing Your Space for Cabinet Installation",
+      "anchorSlug": "preparing-your-space-for-cabinet-installation",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/preparing-your-space-for-cabinet-installation.html"
+    },
+    {
+      "title": "Choosing Cabinet Refacing: Is Your Kitchen a Good Candidate?",
+      "anchorSlug": "choosing-cabinet-refacing-is-your-kitchen-a-good-candidate",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/choosing-cabinet-refacing-is-your-kitchen-a-good-candidate.html"
+    },
+    {
+      "title": "Avoiding Mistakes in Your Cabinet Refacing Project",
+      "anchorSlug": "avoiding-mistakes-in-your-cabinet-refacing-project",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/avoiding-mistakes-in-your-cabinet-refacing-project.html"
+    },
+    {
+      "title": "What to Expect During Your Cabinet Refacing Installation",
+      "anchorSlug": "what-to-expect-during-your-cabinet-refacing-installation",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-expect-during-your-cabinet-refacing-installation.html"
+    },
+    {
+      "title": "When to Call a Pro for Cabinet Hardware Installation",
+      "anchorSlug": "when-to-call-a-pro-for-cabinet-hardware-installation",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-to-call-a-pro-for-cabinet-hardware-installation.html"
+    },
+    {
+      "title": "Common Errors When Installing New Cabinet Hardware",
+      "anchorSlug": "common-errors-when-installing-new-cabinet-hardware",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/common-errors-when-installing-new-cabinet-hardware.html"
+    },
+    {
+      "title": "Positioning Cabinet Hardware: Achieving a Consistent Look",
+      "anchorSlug": "positioning-cabinet-hardware-achieving-a-consistent-look",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/positioning-cabinet-hardware-achieving-a-consistent-look.html"
+    },
+    {
+      "title": "Choosing the Right Kitchen Island for Your DFW Home",
+      "anchorSlug": "choosing-the-right-kitchen-island-for-your-dfw-home",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/choosing-the-right-kitchen-island-for-your-dfw-home.html"
+    },
+    {
+      "title": "How to Ensure Your Kitchen Island Project Stays on Track",
+      "anchorSlug": "how-to-ensure-your-kitchen-island-project-stays-on-track",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-ensure-your-kitchen-island-project-stays-on-track.html"
+    },
+    {
+      "title": "Mistakes to Avoid When Planning Your Kitchen Island",
+      "anchorSlug": "mistakes-to-avoid-when-planning-your-kitchen-island",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/mistakes-to-avoid-when-planning-your-kitchen-island.html"
+    },
+    {
+      "title": "Understanding the Process of Custom Pantry Installation",
+      "anchorSlug": "understanding-the-process-of-custom-pantry-installation",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/understanding-the-process-of-custom-pantry-installation.html"
+    },
+    {
+      "title": "When Professional Guidance Helps for Your Pantry Project",
+      "anchorSlug": "when-professional-guidance-helps-for-your-pantry-project",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-professional-guidance-helps-for-your-pantry-project.html"
+    },
+    {
+      "title": "Checklist: Preparing for Your Pantry Renovation in DFW",
+      "anchorSlug": "checklist-preparing-for-your-pantry-renovation-in-dfw",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/checklist-preparing-for-your-pantry-renovation-in-dfw.html"
+    }
+  ],
+  "migrations": [],
+  "sitemapInclude": [
+    "https://akndesigngroup.aiovisibility.net/articles.html",
+    "https://akndesigngroup.aiovisibility.net/articles/getting-started.html",
+    "https://akndesigngroup.aiovisibility.net/articles/services-and-process.html",
+    "https://akndesigngroup.aiovisibility.net/articles/planning-and-preparation.html",
+    "https://akndesigngroup.aiovisibility.net/articles/pricing-and-estimates.html",
+    "https://akndesigngroup.aiovisibility.net/articles/local-service-guidance.html",
+    "https://akndesigngroup.aiovisibility.net/articles/care-and-maintenance.html"
+  ],
+  "sitemapRemove": []
+}
