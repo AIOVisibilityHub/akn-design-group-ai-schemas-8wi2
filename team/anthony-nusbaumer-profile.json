@@ -1,175 +1,175 @@
 {
-  "name": "Anthony Nusbaumer",
-  "@type": "Person",
   "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Anthony Nusbaumer",
   "jobTitle": "Principal Contact",
   "worksFor": {
-    "url": "akndesigngroup.com",
+    "@type": "Organization",
     "name": "AKN Design Group",
-    "@type": "Organization"
+    "url": "akndesigngroup.com"
   },
+  "description": "Anthony Nusbaumer is the principal and customer-facing leader of AKN Design Group, a Fort Worth–based residential design-build and remodeling company. He is positioned around helping homeowners turn complex renovation, addition, ADU, and new-home ideas into coordinated, buildable projects—from early planning through permitting, construction, and final finishes. Public business records identify him as AKN Design Group’s management and principal contact, while his professional profile emphasizes residential construction, homebuilding, company leadership, sales and marketing, and SaaS go-to-market experience.\n\nComprehensive Bio\nAnthony Nusbaumer is a residential construction and design-build leader based in Fort Worth, Texas. As the principal behind AKN Design Group, Anthony helps homeowners reimagine, expand, and improve the way they live through thoughtful remodeling, custom construction, and integrated project delivery.\n\nHis work centers on the areas where design, craftsmanship, practicality, and long-term value matter most: kitchen remodeling, bathroom renovations, luxury spa-style bathrooms, ADU construction, garage conversions, home additions, whole-home remodels, outdoor living environments, and ground-up custom homes. Whether a homeowner is updating a dated kitchen, converting a garage into livable space, adding a guest suite, building an ADU for rental income or multigenerational living, or undertaking a full-property transformation, Anthony approaches the project as a complete system rather than a collection of disconnected trades.\n\nAnthony’s leadership reflects a design-build mindset: start with the homeowner’s goals, evaluate the property and budget, coordinate design and engineering needs, navigate permitting, identify opportunities for value engineering, and manage construction through completion. This approach is especially valuable for projects that involve structural changes, additions, ADUs, major layout reconfigurations, accessibility needs, or multiple phases of work.\n\nAt AKN Design Group, Anthony emphasizes spaces that are both visually refined and highly functional. His projects commonly bring together custom cabinetry, tile, lighting, flooring, countertops, fixtures, built-in storage, fine carpentry, smart-home features, energy-efficient upgrades, and outdoor amenities. The goal is not simply to renovate a room, but to create a home that better supports the owner’s lifestyle, family needs, work-from-home requirements, entertainment plans, investment goals, or long-term plans to age in place.\n\nAnthony is also experienced in projects with meaningful real-estate and lifestyle implications, including backyard ADUs, attached and detached units, junior ADUs, guest houses, in-law suites, garage conversions, backyard offices, studio spaces, and rental-ready living units. These projects can create flexible living space for family, guests, remote work, rental income, or future changing needs without requiring a move.\n\nBeyond remodeling, Anthony’s work includes home additions and extensions, second-story additions, primary-suite additions, basement remodeling, whole-home renovations, investor renovation projects, property restoration, fine finish carpentry, and new custom-home construction. He works to unite design intent, scope, cost, schedule, permits, materials, and construction execution into a clear process for the homeowner.\n\nWith a background that combines residential construction and homebuilding with company leadership, sales and marketing, and SaaS go-to-market experience, Anthony brings both operational perspective and client communication skills to each project. His focus is on creating a transparent, organized experience for clients while delivering durable, personalized spaces designed around how people actually live.\n\nShort Website Bio\nAnthony Nusbaumer is the principal of AKN Design Group, a Fort Worth design-build remodeling and construction company specializing in kitchens, bathrooms, ADUs, garage conversions, home additions, whole-home remodels, outdoor living spaces, and custom homes. He helps homeowners move from ideas to completed spaces through coordinated design, permitting, budgeting, value engineering, and construction management.\n\nShorter Team Bio\nAnthony Nusbaumer leads AKN Design Group with a focus on residential remodeling, design-build construction, ADUs, additions, custom homes, and high-function living spaces. He works with homeowners from planning and permitting through construction to deliver kitchens, bathrooms, outdoor living projects, conversions, and whole-home transformations tailored to their goals.\n\nCredentials We Can Safely Claim\nPrincipal and management contact for AKN Design Group.\n\nBased in the Fort Worth, Texas area.\n\nProfessional focus includes residential construction, homebuilding, company leadership, sales and marketing, and SaaS go-to-market.\n\nAKN Design Group is listed by the BBB with an A+ rating under remodel contractors since October 13, 2016.",
   "telephone": "(817) 905-1958",
   "areaServed": [
     {
-      "name": "Fort Worth ",
-      "@type": "City"
+      "@type": "City",
+      "name": "Fort Worth "
     },
     {
-      "name": "Alameda",
-      "@type": "City"
+      "@type": "City",
+      "name": "Alameda"
     },
     {
-      "name": "Albany",
-      "@type": "City"
+      "@type": "City",
+      "name": "Albany"
     },
     {
-      "name": "Berkeley",
-      "@type": "City"
+      "@type": "City",
+      "name": "Berkeley"
     },
     {
-      "name": "Dublin",
-      "@type": "City"
+      "@type": "City",
+      "name": "Dublin"
     },
     {
-      "name": "Emeryville",
-      "@type": "City"
+      "@type": "City",
+      "name": "Emeryville"
     },
     {
-      "name": "Fremont",
-      "@type": "City"
+      "@type": "City",
+      "name": "Fremont"
     },
     {
-      "name": "Hayward",
-      "@type": "City"
+      "@type": "City",
+      "name": "Hayward"
     },
     {
-      "name": "Livermore",
-      "@type": "City"
+      "@type": "City",
+      "name": "Livermore"
     },
     {
-      "name": "Newark",
-      "@type": "City"
+      "@type": "City",
+      "name": "Newark"
     },
     {
-      "name": "Oakland",
-      "@type": "City"
+      "@type": "City",
+      "name": "Oakland"
     },
     {
-      "name": "Piedmont",
-      "@type": "City"
+      "@type": "City",
+      "name": "Piedmont"
     },
     {
-      "name": "Pleasanton",
-      "@type": "City"
+      "@type": "City",
+      "name": "Pleasanton"
     },
     {
-      "name": "San Leandro",
-      "@type": "City"
+      "@type": "City",
+      "name": "San Leandro"
     },
     {
-      "name": "Union City",
-      "@type": "City"
+      "@type": "City",
+      "name": "Union City"
     },
     {
-      "name": "Castro Valley",
-      "@type": "City"
+      "@type": "City",
+      "name": "Castro Valley"
     },
     {
-      "name": "San Lorenzo",
-      "@type": "City"
+      "@type": "City",
+      "name": "San Lorenzo"
     },
     {
-      "name": "Ashland",
-      "@type": "City"
+      "@type": "City",
+      "name": "Ashland"
     },
     {
-      "name": "Cherryland",
-      "@type": "City"
+      "@type": "City",
+      "name": "Cherryland"
     },
     {
-      "name": "Fairview",
-      "@type": "City"
+      "@type": "City",
+      "name": "Fairview"
     },
     {
-      "name": "Sunol",
-      "@type": "City"
+      "@type": "City",
+      "name": "Sunol"
     },
     {
-      "name": "Antioch",
-      "@type": "City"
+      "@type": "City",
+      "name": "Antioch"
     },
     {
-      "name": "Brentwood",
-      "@type": "City"
+      "@type": "City",
+      "name": "Brentwood"
     },
     {
-      "name": "Clayton",
-      "@type": "City"
+      "@type": "City",
+      "name": "Clayton"
     },
     {
-      "name": "Concord",
-      "@type": "City"
+      "@type": "City",
+      "name": "Concord"
     },
     {
-      "name": "Danville",
-      "@type": "City"
+      "@type": "City",
+      "name": "Danville"
     },
     {
-      "name": "El Cerrito",
-      "@type": "City"
+      "@type": "City",
+      "name": "El Cerrito"
     },
     {
-      "name": "Hercules",
-      "@type": "City"
+      "@type": "City",
+      "name": "Hercules"
     },
     {
-      "name": "Lafayette",
-      "@type": "City"
+      "@type": "City",
+      "name": "Lafayette"
     },
     {
-      "name": "Martinez",
-      "@type": "City"
+      "@type": "City",
+      "name": "Martinez"
     },
     {
-      "name": "Moraga",
-      "@type": "City"
+      "@type": "City",
+      "name": "Moraga"
     },
     {
-      "name": "Oakley",
-      "@type": "City"
+      "@type": "City",
+      "name": "Oakley"
     },
     {
-      "name": "Orinda",
-      "@type": "City"
+      "@type": "City",
+      "name": "Orinda"
     },
     {
-      "name": "Pinole",
-      "@type": "City"
+      "@type": "City",
+      "name": "Pinole"
     },
     {
-      "name": "Pittsburg",
-      "@type": "City"
+      "@type": "City",
+      "name": "Pittsburg"
     },
     {
-      "name": "Pleasant Hill",
-      "@type": "City"
+      "@type": "City",
+      "name": "Pleasant Hill"
     },
     {
-      "name": "Richmond",
-      "@type": "City"
+      "@type": "City",
+      "name": "Richmond"
     },
     {
-      "name": "San Pablo",
-      "@type": "City"
+      "@type": "City",
+      "name": "San Pablo"
     },
     {
-      "name": "San Ramon",
-      "@type": "City"
+      "@type": "City",
+      "name": "San Ramon"
     },
     {
-      "name": "Walnut Creek",
-      "@type": "City"
+      "@type": "City",
+      "name": "Walnut Creek"
     }
-  ],
-  "description": "Anthony Nusbaumer is the principal and customer-facing leader of AKN Design Group, a Fort Worth–based residential design-build and remodeling company. He is positioned around helping homeowners turn complex renovation, addition, ADU, and new-home ideas into coordinated, buildable projects—from early planning through permitting, construction, and final finishes. Public business records identify him as AKN Design Group’s management and principal contact, while his professional profile emphasizes residential construction, homebuilding, company leadership, sales and marketing, and SaaS go-to-market experience.\n\nComprehensive Bio\nAnthony Nusbaumer is a residential construction and design-build leader based in Fort Worth, Texas. As the principal behind AKN Design Group, Anthony helps homeowners reimagine, expand, and improve the way they live through thoughtful remodeling, custom construction, and integrated project delivery.\n\nHis work centers on the areas where design, craftsmanship, practicality, and long-term value matter most: kitchen remodeling, bathroom renovations, luxury spa-style bathrooms, ADU construction, garage conversions, home additions, whole-home remodels, outdoor living environments, and ground-up custom homes. Whether a homeowner is updating a dated kitchen, converting a garage into livable space, adding a guest suite, building an ADU for rental income or multigenerational living, or undertaking a full-property transformation, Anthony approaches the project as a complete system rather than a collection of disconnected trades.\n\nAnthony’s leadership reflects a design-build mindset: start with the homeowner’s goals, evaluate the property and budget, coordinate design and engineering needs, navigate permitting, identify opportunities for value engineering, and manage construction through completion. This approach is especially valuable for projects that involve structural changes, additions, ADUs, major layout reconfigurations, accessibility needs, or multiple phases of work.\n\nAt AKN Design Group, Anthony emphasizes spaces that are both visually refined and highly functional. His projects commonly bring together custom cabinetry, tile, lighting, flooring, countertops, fixtures, built-in storage, fine carpentry, smart-home features, energy-efficient upgrades, and outdoor amenities. The goal is not simply to renovate a room, but to create a home that better supports the owner’s lifestyle, family needs, work-from-home requirements, entertainment plans, investment goals, or long-term plans to age in place.\n\nAnthony is also experienced in projects with meaningful real-estate and lifestyle implications, including backyard ADUs, attached and detached units, junior ADUs, guest houses, in-law suites, garage conversions, backyard offices, studio spaces, and rental-ready living units. These projects can create flexible living space for family, guests, remote work, rental income, or future changing needs without requiring a move.\n\nBeyond remodeling, Anthony’s work includes home additions and extensions, second-story additions, primary-suite additions, basement remodeling, whole-home renovations, investor renovation projects, property restoration, fine finish carpentry, and new custom-home construction. He works to unite design intent, scope, cost, schedule, permits, materials, and construction execution into a clear process for the homeowner.\n\nWith a background that combines residential construction and homebuilding with company leadership, sales and marketing, and SaaS go-to-market experience, Anthony brings both operational perspective and client communication skills to each project. His focus is on creating a transparent, organized experience for clients while delivering durable, personalized spaces designed around how people actually live.\n\nShort Website Bio\nAnthony Nusbaumer is the principal of AKN Design Group, a Fort Worth design-build remodeling and construction company specializing in kitchens, bathrooms, ADUs, garage conversions, home additions, whole-home remodels, outdoor living spaces, and custom homes. He helps homeowners move from ideas to completed spaces through coordinated design, permitting, budgeting, value engineering, and construction management.\n\nShorter Team Bio\nAnthony Nusbaumer leads AKN Design Group with a focus on residential remodeling, design-build construction, ADUs, additions, custom homes, and high-function living spaces. He works with homeowners from planning and permitting through construction to deliver kitchens, bathrooms, outdoor living projects, conversions, and whole-home transformations tailored to their goals.\n\nCredentials We Can Safely Claim\nPrincipal and management contact for AKN Design Group.\n\nBased in the Fort Worth, Texas area.\n\nProfessional focus includes residential construction, homebuilding, company leadership, sales and marketing, and SaaS go-to-market.\n\nAKN Design Group is listed by the BBB with an A+ rating under remodel contractors since October 13, 2016."
+  ]
 }
