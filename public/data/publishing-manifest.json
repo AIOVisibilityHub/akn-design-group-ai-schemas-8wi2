@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-10-04T00:34:27.041Z",
+  "generatedAt": "2026-10-24T22:51:48.244Z",
   "client": {
     "name": "AKN Design Group",
     "canonicalUrl": "https://akndesigngroup.aiovisibility.net",
@@ -324,23 +324,23 @@
   },
   "package": {
     "totalFiles": 2673,
-    "totalBytes": 11912401,
+    "totalBytes": 12003694,
     "stats": {
-      "qna": 0,
       "faqs": 2298,
-      "press": 0,
-      "total": 2901,
-      "awards": 0,
-      "reviews": 0,
-      "products": 0,
-      "research": 0,
+      "helpArticles": 331,
       "services": 5,
       "webpages": 0,
-      "locations": 1,
       "personnel": 1,
+      "products": 0,
+      "locations": 1,
+      "awards": 0,
       "caseStudies": 6,
-      "helpArticles": 331,
-      "organization": 1
+      "organization": 1,
+      "press": 0,
+      "reviews": 0,
+      "qna": 0,
+      "research": 0,
+      "total": 2901
     }
   },
   "entrypoints": {
@@ -398,7 +398,7 @@
     "organization": [
       {
         "path": "organization/akn-design-group-organization.json",
-        "bytes": 25034,
+        "bytes": 28162,
         "purpose": "schema"
       }
     ],
@@ -13581,11 +13581,6 @@
         "path": "help/checklist-preparing-for-your-pantry-renovation-in-dfw.json",
         "bytes": 7868,
         "purpose": "schema"
-      },
-      {
-        "path": "help/publishing-plan.json",
-        "bytes": 101501,
-        "purpose": "schema"
       }
     ],
     "webpages-publishing-plan.json": [
@@ -13598,72 +13593,77 @@
     "public": [
       {
         "path": "index.html",
-        "bytes": 14409,
+        "bytes": 20120,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "about.html",
-        "bytes": 83530,
+        "bytes": 94644,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "services.html",
-        "bytes": 199972,
+        "bytes": 218218,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "contact.html",
-        "bytes": 12606,
+        "bytes": 18632,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "faqs.html",
-        "bytes": 1918644,
+        "bytes": 1924684,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles.html",
-        "bytes": 14125,
+        "bytes": 20574,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "case-studies.html",
-        "bytes": 40102,
+        "bytes": 46213,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "team-members.html",
-        "bytes": 24051,
+        "bytes": 30039,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/getting-started.html",
-        "bytes": 219555,
+        "bytes": 214615,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/services-and-process.html",
-        "bytes": 239845,
+        "bytes": 247495,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/planning-and-preparation.html",
-        "bytes": 560503,
+        "bytes": 581408,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/pricing-and-estimates.html",
-        "bytes": 231573,
+        "bytes": 243027,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/local-service-guidance.html",
-        "bytes": 27425,
+        "bytes": 33668,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/care-and-maintenance.html",
-        "bytes": 28763,
+        "bytes": 35114,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "articles/unassigned.html",
+        "bytes": 49630,
         "purpose": "LLM-optimized public page"
       }
     ],
@@ -13675,7 +13675,7 @@
       },
       {
         "path": "llms.txt",
-        "bytes": 8368,
+        "bytes": 11234,
         "purpose": "LLM hint"
       },
       {
@@ -13695,42 +13695,42 @@
       },
       {
         "path": "related-destinations.json",
-        "bytes": 1609,
+        "bytes": 7717,
         "purpose": "Cross-Destination Index (Related AI Data Sources)"
       },
       {
         "path": "ai-data.html",
-        "bytes": 1346621,
+        "bytes": 1352729,
         "purpose": "Master AI data index"
       },
       {
         "path": "llms-full.txt",
-        "bytes": 370148,
+        "bytes": 373032,
         "purpose": "Extended LLM context"
       },
       {
         "path": "llms-full.md",
-        "bytes": 370148,
+        "bytes": 373032,
         "purpose": "Extended LLM context (markdown)"
       },
       {
         "path": "full-context.md",
-        "bytes": 8373,
+        "bytes": 11239,
         "purpose": "Full markdown context"
       },
       {
         "path": "README.md",
-        "bytes": 489613,
+        "bytes": 492496,
         "purpose": "Repository README"
       },
       {
         "path": "ai-sitemap.xml",
-        "bytes": 391058,
+        "bytes": 391057,
         "purpose": "AI sitemap"
       },
       {
         "path": "sitemap.xml",
-        "bytes": 1584,
+        "bytes": 1674,
         "purpose": "Standard sitemap"
       }
     ]
